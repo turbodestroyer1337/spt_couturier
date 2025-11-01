@@ -1,0 +1,957 @@
+{
+  "item_equipment_armor_6b3_berezka": {
+    "Name": "6B3TM-01M vestă blindată (KLMK)",
+    "ShortName": "6B3TM-01 KLMK",
+    "Description": "6B3TM-01M vestă blindată."
+  },
+  "item_equipment_armor_6b3_bhutan": {
+    "Name": "6B3TM-01M vestă blindată (Granite)",
+    "ShortName": "6B3TM-01 Granite",
+    "Description": "6B3TM-01M vestă blindată."
+  },
+  "item_equipment_armor_6b3_green": {
+    "Name": "6B3TM-01M vestă blindată (Dark olive)",
+    "ShortName": "6B3TM-01 DOlive",
+    "Description": "6B3TM-01M vestă blindată."
+  },
+  "item_equipment_helmet_6b47covered_atacs": {
+    "Name": "6B47 Ratnik-BSh cască (A-TACS / Moh)",
+    "ShortName": "6B47 Moh",
+    "Description": "6B47 Ratnik-BSh cască."
+  },
+  "item_equipment_helmet_6b47covered_pig": {
+    "Name": "6B47 Ratnik-BSh cască (EMR Syria / Pig)",
+    "ShortName": "6B47 DFL Pig",
+    "Description": "6B47 Ratnik-BSh cască."
+  },
+  "item_equipment_helmet_6b47covered_spring": {
+    "Name": "6B47 Ratnik-BSh cască (EMR Spring)",
+    "ShortName": "6B47 DFL Spring",
+    "Description": "6B47 Ratnik-BSh cască."
+  },
+  "item_equipment_helmet_6b47covered_ss": {
+    "Name": "6B47 Ratnik-BSh cască (RUSS Partizan)",
+    "ShortName": "6B47 Partizan",
+    "Description": "6B47 Ratnik-BSh cască."
+  },
+  "item_equipment_helmet_6b47covered_surpat": {
+    "Name": "6B47 Ratnik-BSh cască (SURPAT Arid)",
+    "ShortName": "6B47 Arid",
+    "Description": "6B47 Ratnik-BSh cască."
+  },
+  "item_equipment_backpack_6sh118_pig": {
+    "Name": "6Sh118 rucsac raid (EMR Syria / Pig)",
+    "ShortName": "6Sh118 Pig",
+    "Description": "6Sh118 rucsac raid."
+  },
+  "item_equipment_backpack_6sh118_atacsa": {
+    "Name": "6Sh118 rucsac raid (A-TACS Arid / Moh Autumn)",
+    "ShortName": "6Sh118 Autumn",
+    "Description": "6Sh118 rucsac raid."
+  },
+  "item_equipment_backpack_6sh118_atacsg": {
+    "Name": "6Sh118 rucsac raid (A-TACS / Moh)",
+    "ShortName": "6Sh118 Moh",
+    "Description": "6Sh118 rucsac raid."
+  },
+  "item_equipment_backpack_6sh118_mc": {
+    "Name": "6Sh118 rucsac raid (Multicam)",
+    "ShortName": "6Sh118 MC",
+    "Description": "6Sh118 rucsac raid."
+  },
+  "item_equipment_backpack_6sh118_spring": {
+    "Name": "6Sh118 rucsac raid (EMR Spring)",
+    "ShortName": "6Sh118 Spring",
+    "Description": "6Sh118 rucsac raid."
+  },
+  "item_equipment_armor_korundvm_kamysh": {
+    "Name": "NPP KlASS Korund-VM vestă blindată (Kamysh)",
+    "ShortName": "Korund-VM Kamysh",
+    "Description": "NPP KlASS Korund-VM vestă blindată."
+  },
+  "item_equipment_armor_korundvm_blue": {
+    "Name": "NPP KlASS Korund-VM vestă blindată (Moh Blue)",
+    "ShortName": "Korund-VM Blue",
+    "Description": "NPP KlASS Korund-VM vestă blindată."
+  },
+  "item_equipment_armor_korundvm_emr": {
+    "Name": "NPP KlASS Korund-VM vestă blindată (EMR)",
+    "ShortName": "Korund-VM EMR",
+    "Description": "NPP KlASS Korund-VM vestă blindată."
+  },
+  "item_equipment_armor_korundvm_flora": {
+    "Name": "NPP KlASS Korund-VM vestă blindată (Flora)",
+    "ShortName": "Korund-VM Flora",
+    "Description": "NPP KlASS Korund-VM vestă blindată."
+  },
+  "item_equipment_armor_korundvm_partizan": {
+    "Name": "NPP KlASS Korund-VM vestă blindată (RUSS Partizan)",
+    "ShortName": "Korund-VM Partizan",
+    "Description": "NPP KlASS Korund-VM vestă blindată."
+  },
+  "item_equipment_helmet_mich2002_mm14": {
+    "Name": "Cască MSA ACH TC-2002 MICH Series (MM14)",
+    "ShortName": "TC-2002 MM14",
+    "Description": "Cască MSA ACH TC-2002 MICH Series."
+  },
+  "item_equipment_helmet_mich2002_vegetato": {
+    "Name": "Cască MSA ACH TC-2002 MICH Series (Vegetato)",
+    "ShortName": "TC-2002 Vegetato",
+    "Description": "Cască MSA ACH TC-2002 MICH Series."
+  },
+  "item_equipment_helmet_mich2002_fca": {
+    "Name": "Cască MSA ACH TC-2002 MICH Series (Centre-Europe)",
+    "ShortName": "TC-2002 CCE",
+    "Description": "Cască MSA ACH TC-2002 MICH Series."
+  },
+  "item_equipment_helmet_mich2001_flektarn": {
+    "Name": "Cască MSA ACH TC-2001 MICH Series (Flektarn)",
+    "ShortName": "TC-2001 Flektarn",
+    "Description": "Cască MSA ACH TC-2001 MICH Series."
+  },
+  "item_equipment_helmet_mich2001_tropentarn": {
+    "Name": "Cască MSA ACH TC-2001 MICH Series (Tropentarn)",
+    "ShortName": "TC-2001 Tropentarn",
+    "Description": "Cască MSA ACH TC-2001 MICH Series."
+  },
+  "item_equipment_helmet_mich2001_mtp": {
+    "Name": "Cască MSA ACH TC-2001 MICH Series (British MTP)",
+    "ShortName": "TC-2001 MTP",
+    "Description": "Cască MSA ACH TC-2001 MICH Series."
+  },
+  "item_equipment_backpack_sso_emr": {
+    "Name": "SSO Attack 2 rucsac raid (Emr)",
+    "ShortName": "Attack 2 Emr",
+    "Description": "SSO Attack 2 rucsac raid."
+  },
+  "item_equipment_backpack_sso_olive": {
+    "Name": "SSO Attack 2 rucsac raid (Olive)",
+    "ShortName": "Attack 2 Olive",
+    "Description": "SSO Attack 2 rucsac raid."
+  },
+  "item_equipment_backpack_sso_izlom": {
+    "Name": "SSO Attack 2 rucsac raid (Izlom)",
+    "ShortName": "Attack 2 Izlom",
+    "Description": "SSO Attack 2 rucsac raid."
+  },
+  "item_equipment_rig_cryeavs_atacsarid": {
+    "Name": "Sistem tactic cu plăci Crye Precision AVS (A-TACS Arid)",
+    "ShortName": "AVS Arid",
+    "Description": "Sistem tactic cu plăci Crye Precision AVS."
+  },
+  "item_equipment_rig_cryeavs_flektarn": {
+    "Name": "Sistem tactic cu plăci Crye Precision AVS (Flektarn)",
+    "ShortName": "AVS Flektarn",
+    "Description": "Sistem tactic cu plăci Crye Precision AVS."
+  },
+  "item_equipment_rig_cryeavs_mcblack": {
+    "Name": "Sistem tactic cu plăci Crye Precision AVS (Multicam Black)",
+    "ShortName": "AVS Black",
+    "Description": "Sistem tactic cu plăci Crye Precision AVS."
+  },
+  "item_equipment_rig_cryeavs_ucp": {
+    "Name": "Sistem tactic cu plăci Crye Precision AVS (UCP)",
+    "ShortName": "AVS UCP",
+    "Description": "Sistem tactic cu plăci Crye Precision AVS."
+  },
+  "item_equipment_rig_cryeavs_vegetato": {
+    "Name": "Sistem tactic cu plăci Crye Precision AVS (Vegetato)",
+    "ShortName": "AVS Vegetato",
+    "Description": "Sistem tactic cu plăci Crye Precision AVS."
+  },
+  "item_equipment_rig_cryeavs_mm14": {
+    "Name": "Sistem tactic cu plăci Crye Precision AVS (MM14)",
+    "ShortName": "AVS MM14",
+    "Description": "Sistem tactic cu plăci Crye Precision AVS."
+  },
+  "item_equipment_rig_triton_berezka": {
+    "Name": "Ham tactic Dynaforce Triton M43-A (KLMK)",
+    "ShortName": "Triton KLMK",
+    "Description": "Ham tactic Dynaforce Triton M43-A."
+  },
+  "item_equipment_rig_triton_dpm": {
+    "Name": "Ham tactic Dynaforce Triton M43-A (British DPM)",
+    "ShortName": "Triton DPM",
+    "Description": "Ham tactic Dynaforce Triton M43-A."
+  },
+  "item_equipment_rig_triton_flora": {
+    "Name": "Ham tactic Dynaforce Triton M43-A (Flora)",
+    "ShortName": "Triton Flora",
+    "Description": "Ham tactic Dynaforce Triton M43-A."
+  },
+  "item_equipment_rig_triton_omon": {
+    "Name": "Ham tactic Dynaforce Triton M43-A (MVD Kamysh)",
+    "ShortName": "Triton MVD",
+    "Description": "Ham tactic Dynaforce Triton M43-A."
+  },
+  "item_equipment_rig_triton_ryzh": {
+    "Name": "Ham tactic Dynaforce Triton M43-A (Ryzjuha)",
+    "ShortName": "Triton Ryzjuha",
+    "Description": "Ham tactic Dynaforce Triton M43-A."
+  },
+  "item_equipment_armor_gjel_fde": {
+    "Name": "BNTI Gzhel-K armură (FDE)",
+    "ShortName": "Gzhel-K FDE",
+    "Description": "BNTI Gzhel-K armură."
+  },
+  "item_equipment_armor_gjel_gray": {
+    "Name": "BNTI Gzhel-K armură (Dark gray)",
+    "ShortName": "Gzhel-K Gray",
+    "Description": "BNTI Gzhel-K armură."
+  },
+  "item_equipment_backpack_trooper_35_mc": {
+    "Name": "Tasmanian Tiger Trooper 35 rucsac (Multicam)",
+    "ShortName": "Trooper 35 MC",
+    "Description": "Tasmanian Tiger Trooper 35 rucsac."
+  },
+  "item_equipment_backpack_trooper_35_mm14": {
+    "Name": "Tasmanian Tiger Trooper 35 rucsac (MM14)",
+    "ShortName": "Trooper 35 MM14",
+    "Description": "Tasmanian Tiger Trooper 35 rucsac."
+  },
+  "item_equipment_backpack_trooper_35_ucp": {
+    "Name": "Tasmanian Tiger Trooper 35 rucsac (Ucp)",
+    "ShortName": "Trooper 35 Ucp",
+    "Description": "Tasmanian Tiger Trooper 35 rucsac."
+  },
+  "item_equipment_backpack_trooper_35_urban": {
+    "Name": "Tasmanian Tiger Trooper 35 rucsac (Urban)",
+    "ShortName": "Trooper 35 Urban",
+    "Description": "Tasmanian Tiger Trooper 35 rucsac."
+  },
+  "item_equipment_backpack_daypack_aor": {
+    "Name": "Rucsac LBT-8005A Day Pack (AOR 1)",
+    "ShortName": "Day Pack AOR",
+    "Description": "Rucsac LBT-8005A Day Pack."
+  },
+  "item_equipment_backpack_daypack_gray": {
+    "Name": "Rucsac LBT-8005A Day Pack (Gray)",
+    "ShortName": "Day Pack Gray",
+    "Description": "Rucsac LBT-8005A Day Pack."
+  },
+  "item_equipment_backpack_daypack_estpat": {
+    "Name": "Rucsac LBT-8005A Day Pack (ESTDCU)",
+    "ShortName": "Day Pack ESTDCU",
+    "Description": "Rucsac LBT-8005A Day Pack."
+  },
+  "item_equipment_backpack_daypack_flektarn": {
+    "Name": "Rucsac LBT-8005A Day Pack (Flektarn)",
+    "ShortName": "Day Pack Flektarn",
+    "Description": "Rucsac LBT-8005A Day Pack."
+  },
+  "item_equipment_backpack_wartech_emr": {
+    "Name": "Rucsac WARTECH Berkut BB-102 (Emr)",
+    "ShortName": "Berkut Emr",
+    "Description": "Rucsac WARTECH Berkut BB-102."
+  },
+  "item_equipment_backpack_wartech_emrd": {
+    "Name": "Rucsac WARTECH Berkut BB-102 (EMR Desert)",
+    "ShortName": "Berkut EMRD",
+    "Description": "Rucsac WARTECH Berkut BB-102."
+  },
+  "item_equipment_backpack_wartech_yagel": {
+    "Name": "Rucsac WARTECH Berkut BB-102 (Dusk)",
+    "ShortName": "Berkut Dusk",
+    "Description": "Rucsac WARTECH Berkut BB-102."
+  },
+  "item_equipment_helmet_hops_mm14": {
+    "Name": "Ops-Core FAST MT Super High Cut cască (MM14)",
+    "ShortName": "FAST MT MM14",
+    "Description": "Ops-Core FAST MT Super High Cut cască."
+  },
+  "item_equipment_helmet_hops_mc": {
+    "Name": "Ops-Core FAST MT Super High Cut cască (Multicam)",
+    "ShortName": "FAST MT MC",
+    "Description": "Ops-Core FAST MT Super High Cut cască."
+  },
+  "item_equipment_helmet_hops_mct": {
+    "Name": "Ops-Core FAST MT Super High Cut cască (Multicam Tropic)",
+    "ShortName": "FAST MT MCT",
+    "Description": "Ops-Core FAST MT Super High Cut cască."
+  },
+  "item_equipment_helmet_hops_atacs": {
+    "Name": "Ops-Core FAST MT Super High Cut cască (A-TACS FG)",
+    "ShortName": "FAST MT FG",
+    "Description": "Ops-Core FAST MT Super High Cut cască."
+  },
+  "item_equipment_helmet_hops_ucp": {
+    "Name": "Ops-Core FAST MT Super High Cut cască (UCP)",
+    "ShortName": "FAST MT UCP",
+    "Description": "Ops-Core FAST MT Super High Cut cască."
+  },
+  "item_equipment_helmet_diamond_age_bastion_m81": {
+    "Name": "Cască Diamond Age Bastion (M81)",
+    "ShortName": "Bastion M81",
+    "Description": "Cască Diamond Age Bastion."
+  },
+  "item_equipment_helmet_diamond_age_bastion_mtp": {
+    "Name": "Cască Diamond Age Bastion (British MTP)",
+    "ShortName": "Bastion MTP",
+    "Description": "Cască Diamond Age Bastion."
+  },
+  "item_equipment_rig_patrol_green": {
+    "Name": "Velocity Systems MPPV Multi-Purpose Patrol Vest (Green)",
+    "ShortName": "MPPV Green",
+    "Description": "Velocity Systems MPPV Multi-Purpose Patrol Vest."
+  },
+  "item_equipment_rig_patrol_fde": {
+    "Name": "Velocity Systems MPPV Multi-Purpose Patrol Vest (FDE)",
+    "ShortName": "MPPV FDE",
+    "Description": "Velocity Systems MPPV Multi-Purpose Patrol Vest."
+  },
+  "item_equipment_rig_mmac_ucp": {
+    "Name": "Vestă cu blindaj MMAC Eagle Industries (UCP)",
+    "ShortName": "MMAC UCP",
+    "Description": "Vestă cu blindaj MMAC Eagle Industries."
+  },
+  "item_equipment_rig_mmac_mm14": {
+    "Name": "Vestă cu blindaj MMAC Eagle Industries (MM14)",
+    "ShortName": "MMAC MM14",
+    "Description": "Vestă cu blindaj MMAC Eagle Industries."
+  },
+  "item_equipment_rig_mmac_aor": {
+    "Name": "Vestă cu blindaj MMAC Eagle Industries (AOR-1)",
+    "ShortName": "MMAC AOR",
+    "Description": "Vestă cu blindaj MMAC Eagle Industries."
+  },
+  "item_equipment_rig_1961_vegetato": {
+    "Name": "LBT-1961A Load Bearing Ham Tactic (Vegetato)",
+    "ShortName": "LBCR Vegetato",
+    "Description": "LBT-1961A Load Bearing Ham Tactic."
+  },
+  "item_equipment_rig_1961_winter": {
+    "Name": "LBT-1961A Load Bearing Ham Tactic (Winter)",
+    "ShortName": "LBCR Winter",
+    "Description": "LBT-1961A Load Bearing Ham Tactic."
+  },
+  "item_equipment_rig_1961_ucp": {
+    "Name": "LBT-1961A Load Bearing Ham Tactic (UCP)",
+    "ShortName": "LBCR UCP",
+    "Description": "LBT-1961A Load Bearing Ham Tactic."
+  },
+  "item_equipment_rig_1961_mtp": {
+    "Name": "LBT-1961A Load Bearing Ham Tactic (British MTP)",
+    "ShortName": "LBCR MTP",
+    "Description": "LBT-1961A Load Bearing Ham Tactic."
+  },
+  "item_equipment_rig_1961_estpatd": {
+    "Name": "LBT-1961A Load Bearing Ham Tactic (ESTDCU Desert)",
+    "ShortName": "LBCR ESTDCU-D",
+    "Description": "LBT-1961A Load Bearing Ham Tactic."
+  },
+  "item_equipment_rig_azimut_emra": {
+    "Name": "Azimut SS \"Zhuk\" ham tactic (EMR Arid)",
+    "ShortName": "Zhuk EMR",
+    "Description": "Azimut SS \"Zhuk\" ham tactic."
+  },
+  "item_equipment_rig_azimut_emrs": {
+    "Name": "Azimut SS \"Zhuk\" ham tactic (EMR Spring)",
+    "ShortName": "Zhuk Spring",
+    "Description": "Azimut SS \"Zhuk\" ham tactic."
+  },
+  "item_equipment_rig_azimut_atacsa": {
+    "Name": "Azimut SS \"Zhuk\" ham tactic (Moh / A-TACS Arid)",
+    "ShortName": "Zhuk Moh-A",
+    "Description": "Azimut SS \"Zhuk\" ham tactic."
+  },
+  "item_equipment_rig_azimut_emrp": {
+    "Name": "Azimut SS \"Zhuk\" ham tactic (EMR Syria / Pig)",
+    "ShortName": "Zhuk Pig",
+    "Description": "Azimut SS \"Zhuk\" ham tactic."
+  },
+  "item_equipment_rig_beltab_berezka": {
+    "Name": "Poyas-A + Poyas-B ham tactic (KLMK Yellow)",
+    "ShortName": "Poyas combo KLMK",
+    "Description": "Poyas-A + Poyas-B ham tactic."
+  },
+  "item_equipment_rig_beltab_ttsko": {
+    "Name": "Poyas-A + Poyas-B ham tactic (TTsKO)",
+    "ShortName": "Poyas combo TTsKO",
+    "Description": "Poyas-A + Poyas-B ham tactic."
+  },
+  "item_equipment_rig_tv110_moh": {
+    "Name": "WARTECH TV-110 purtător de plăci (Moh / A-TACS)",
+    "ShortName": "TV-110 Moh",
+    "Description": "WARTECH TV-110 purtător de plăci."
+  },
+  "item_equipment_armor_otv_cce": {
+    "Name": "Interceptor OTV armură (Centre-Europe)",
+    "ShortName": "OTV CCE",
+    "Description": "Interceptor OTV armură."
+  },
+  "item_equipment_armor_otv_3c": {
+    "Name": "Interceptor OTV armură (3 Color Desert)",
+    "ShortName": "OTV DCU",
+    "Description": "Interceptor OTV armură."
+  },
+  "item_equipment_armor_un_3c": {
+    "Name": "MF-UNTAR armură (3 Color Desert)",
+    "ShortName": "MF-ONU DCU",
+    "Description": "MF-UNTAR armură."
+  },
+  "item_equipment_armor_un_marpat": {
+    "Name": "MF-UNTAR armură (MARPAT)",
+    "ShortName": "MF-ONU MARPAT",
+    "Description": "MF-UNTAR armură."
+  },
+  "item_equipment_armor_un_wineleaf": {
+    "Name": "MF-UNTAR armură (Wine Leaf)",
+    "ShortName": "MF-ONU WL",
+    "Description": "MF-UNTAR armură."
+  },
+  "item_equipment_armor_6b23_emrpig": {
+    "Name": "6B23-1 vestă blindată (EMR Syria / Pig)",
+    "ShortName": "6B23-1 DFL Pig",
+    "Description": "6B23-1 vestă blindată."
+  },
+  "item_equipment_armor_6b23_klmk": {
+    "Name": "6B23-1 vestă blindată (KLMK)",
+    "ShortName": "6B23-1 KLMK",
+    "Description": "6B23-1 vestă blindată."
+  },
+  "item_equipment_armor_6b23_yagel": {
+    "Name": "6B23-1 vestă blindată (Dusk)",
+    "ShortName": "6B23-1 Dusk",
+    "Description": "6B23-1 vestă blindată."
+  },
+  "item_equipment_armor_def2_moh": {
+    "Name": "FORT Defender-2 armură (A-TACS / Moh)",
+    "ShortName": "Defender-2 Moh",
+    "Description": "FORT Defender-2 armură."
+  },
+  "item_equipment_armor_def2_moha": {
+    "Name": "FORT Defender-2 armură (A-TACS Arid / Moh Autumn)",
+    "ShortName": "Defender-2 Autumn",
+    "Description": "FORT Defender-2 armură."
+  },
+  "item_equipment_armor_slick_atacs": {
+    "Name": "LBT-6094A Slick vestă blindată (A-TACS FG)",
+    "ShortName": "Slick FG",
+    "Description": "LBT-6094A Slick vestă blindată."
+  },
+  "item_equipment_armor_slick_ixarid": {
+    "Name": "LBT-6094A Slick vestă blindată (A-TACS iX Arid)",
+    "ShortName": "Slick iX Arid",
+    "Description": "LBT-6094A Slick vestă blindată."
+  },
+  "item_equipment_armor_slick_ucp": {
+    "Name": "LBT-6094A Slick vestă blindată (UCP)",
+    "ShortName": "Slick UCP",
+    "Description": "LBT-6094A Slick vestă blindată."
+  },
+  "item_equipment_armor_slick_vegetato": {
+    "Name": "LBT-6094A Slick vestă blindată (Vegetato)",
+    "ShortName": "Slick Vegetato",
+    "Description": "LBT-6094A Slick vestă blindată."
+  },
+  "item_equipment_backpack_beta_moha": {
+    "Name": "ANA Tactical Beta 2 Battle rucsac (A-TACS Arid / Moh Autumn)",
+    "ShortName": "Beta 2 Moh-A",
+    "Description": "ANA Tactical Beta 2 Battle rucsac."
+  },
+  "item_equipment_backpack_beta_moh": {
+    "Name": "ANA Tactical Beta 2 Battle rucsac (Moh / A-TACS FG)",
+    "ShortName": "Beta 2 Moh",
+    "Description": "ANA Tactical Beta 2 Battle rucsac."
+  },
+  "item_equipment_backpack_beta_emrd": {
+    "Name": "ANA Tactical Beta 2 Battle rucsac (EMR Desert)",
+    "ShortName": "Beta 2 EMRD",
+    "Description": "ANA Tactical Beta 2 Battle rucsac."
+  },
+  "item_equipment_backpack_beta_emr": {
+    "Name": "ANA Tactical Beta 2 Battle rucsac (EMR Flora)",
+    "ShortName": "Beta 2 EMR",
+    "Description": "ANA Tactical Beta 2 Battle rucsac."
+  },
+  "item_equipment_backpack_gr99t30_moh": {
+    "Name": "Gruppa 99 T30 rucsac (Moh / A-TACS FG)",
+    "ShortName": "T30 Moh",
+    "Description": "Gruppa 99 T30 rucsac."
+  },
+  "item_equipment_backpack_gr99t30_emrd": {
+    "Name": "Gruppa 99 T30 rucsac (EMR Desert)",
+    "ShortName": "T30 EMRD",
+    "Description": "Gruppa 99 T30 rucsac."
+  },
+  "item_equipment_backpack_gr99t30_klmk": {
+    "Name": "Gruppa 99 T30 rucsac (KLMK)",
+    "ShortName": "T30 KLMK",
+    "Description": "Gruppa 99 T30 rucsac."
+  },
+  "item_equipment_backpack_gr99t30_emr": {
+    "Name": "Gruppa 99 T30 rucsac (EMR)",
+    "ShortName": "T30 EMR",
+    "Description": "Gruppa 99 T30 rucsac."
+  },
+  "item_equipment_backpack_lbt1476a_slick_aor1": {
+    "Name": "LBT-1476A 3Day Pack (AOR 1)",
+    "ShortName": "LBT-1476A AOR",
+    "Description": "LBT-1476A 3Day Pack."
+  },
+  "item_equipment_backpack_lbt1476a_slick_gray": {
+    "Name": "LBT-1476A 3Day Pack (Gray)",
+    "ShortName": "LBT-1476A Gray",
+    "Description": "LBT-1476A 3Day Pack."
+  },
+  "item_equipment_backpack_lbt1476a_slick_ucp": {
+    "Name": "LBT-1476A 3Day Pack (UCP)",
+    "ShortName": "LBT-1476A UCP",
+    "Description": "LBT-1476A 3Day Pack."
+  },
+  "item_equipment_backpack_lbt1476a_slick_tropentarn": {
+    "Name": "LBT-1476A 3Day Pack (Tropentarn)",
+    "ShortName": "LBT-1476A Tropentarn",
+    "Description": "LBT-1476A 3Day Pack."
+  },
+  "item_equipment_rig_umka_f1": {
+    "Name": "Umka M33-SET1 vestă de vânătoare (Fisherman Camo 1)",
+    "ShortName": "Umka Fisher 1",
+    "Description": "Umka M33-SET1 vestă de vânătoare."
+  },
+  "item_equipment_rig_umka_f2": {
+    "Name": "Umka M33-SET1 vestă de vânătoare (Fisherman Camo 2)",
+    "ShortName": "Umka Fisher 2",
+    "Description": "Umka M33-SET1 vestă de vânătoare."
+  },
+  "item_equipment_rig_umka_leaves": {
+    "Name": "Umka M33-SET1 vestă de vânătoare (Fallen leaves)",
+    "ShortName": "Umka Leaves",
+    "Description": "Umka M33-SET1 vestă de vânătoare."
+  },
+  "item_equipment_backpack_pilgrim_blueorange": {
+    "Name": "Pilgrim rucsac turistic (Blue Orange)",
+    "ShortName": "Pelerin Blue",
+    "Description": "Pilgrim rucsac turistic."
+  },
+  "item_equipment_backpack_pilgrim_green": {
+    "Name": "Pilgrim rucsac turistic (Green)",
+    "ShortName": "Pelerin Green",
+    "Description": "Pilgrim rucsac turistic."
+  },
+  "item_equipment_backpack_pilgrim_terra2": {
+    "Name": "Pilgrim rucsac turistic (Terra colors)",
+    "ShortName": "Pelerin Terra",
+    "Description": "Pilgrim rucsac turistic."
+  },
+  "item_equipment_backpack_pilgrim_v1": {
+    "Name": "Pilgrim rucsac turistic (Mustard)",
+    "ShortName": "Pelerin Mustard",
+    "Description": "Pilgrim rucsac turistic."
+  },
+  "item_equipment_backpack_trizip_flektarn": {
+    "Name": "Camelbak Tri-Zip rucsac tactic (Flektarn)",
+    "ShortName": "Tri-Zip Flektarn",
+    "Description": "Camelbak Tri-Zip rucsac tactic."
+  },
+  "item_equipment_backpack_trizip_vegetato": {
+    "Name": "Camelbak Tri-Zip rucsac tactic (Vegetato)",
+    "ShortName": "Tri-Zip Vegetato",
+    "Description": "Camelbak Tri-Zip rucsac tactic."
+  },
+  "item_equipment_backpack_trizip_gray": {
+    "Name": "Camelbak Tri-Zip rucsac tactic (Gray)",
+    "ShortName": "Tri-Zip Gray",
+    "Description": "Camelbak Tri-Zip rucsac tactic."
+  },
+  "item_equipment_backpack_trizip_ucp": {
+    "Name": "Camelbak Tri-Zip rucsac tactic (UCP)",
+    "ShortName": "Tri-Zip UCP",
+    "Description": "Camelbak Tri-Zip rucsac tactic."
+  },
+  "item_equipment_facecover_momex_atacs": {
+    "Name": "Momex cagulă (A-TACS FG)",
+    "ShortName": "Momex FG",
+    "Description": "Momex cagulă."
+  },
+  "item_equipment_facecover_momex_atacsa": {
+    "Name": "Momex cagulă (A-TACS Arid)",
+    "ShortName": "Momex Arid",
+    "Description": "Momex cagulă."
+  },
+  "item_equipment_facecover_momex_mc": {
+    "Name": "Momex cagulă (Multicam)",
+    "ShortName": "Momex MC",
+    "Description": "Momex cagulă."
+  },
+  "item_equipment_facecover_balaclava_emr": {
+    "Name": "Balaclava (EMR)",
+    "ShortName": "Balaclava EMR",
+    "Description": "Balaclava."
+  },
+  "item_equipment_facecover_balaclava_fde": {
+    "Name": "Balaclava (FDE)",
+    "ShortName": "Balaclava FDE",
+    "Description": "Balaclava."
+  },
+  "item_equipment_facecover_balaclava_musor": {
+    "Name": "Balaclava (Moh MVD / A-TACS)",
+    "ShortName": "Balaclava MVD",
+    "Description": "Balaclava."
+  },
+  "item_equipment_backpack_trizip_multitarn": {
+    "Name": "Camelbak Tri-Zip rucsac tactic (Multitarn)",
+    "ShortName": "Tri-Zip Multitarn",
+    "Description": "Camelbak Tri-Zip rucsac tactic."
+  },
+  "item_equipment_backpack_f5_badlands": {
+    "Name": "Eberlestock F5 Switchblade rucsac (Badlands)",
+    "ShortName": "F5 Switchblade Badlands",
+    "Description": "Eberlestock F5 Switchblade rucsac."
+  },
+  "item_equipment_backpack_f5_french": {
+    "Name": "Eberlestock F5 Switchblade rucsac (Centre-Europe)",
+    "ShortName": "F5 Switchblade CCE",
+    "Description": "Eberlestock F5 Switchblade rucsac."
+  },
+  "item_equipment_backpack_f5_lizard": {
+    "Name": "Eberlestock F5 Switchblade rucsac (Lizard)",
+    "ShortName": "F5 Switchblade Lizard",
+    "Description": "Eberlestock F5 Switchblade rucsac."
+  },
+  "item_equipment_backpack_f5_multitarn": {
+    "Name": "Eberlestock F5 Switchblade rucsac (Multitarn)",
+    "ShortName": "F5 Switchblade Multitarn",
+    "Description": "Eberlestock F5 Switchblade rucsac."
+  },
+  "item_equipment_backpack_dragon_egg_3c": {
+    "Name": "Rucsac Direct Action Dragon Egg Mark II (3 Color Desert)",
+    "ShortName": "Dragon Egg MKII DCU",
+    "Description": "Rucsac Direct Action Dragon Egg Mark II."
+  },
+  "item_equipment_backpack_dragon_egg_fde": {
+    "Name": "Rucsac Direct Action Dragon Egg Mark II (FDE)",
+    "ShortName": "Dragon Egg MKII FDE",
+    "Description": "Rucsac Direct Action Dragon Egg Mark II."
+  },
+  "item_equipment_backpack_dragon_egg_olive": {
+    "Name": "Rucsac Direct Action Dragon Egg Mark II (Olive)",
+    "ShortName": "Dragon Egg MKII Olive",
+    "Description": "Rucsac Direct Action Dragon Egg Mark II."
+  },
+  "item_equipment_backpack_dragon_egg_ix": {
+    "Name": "Rucsac Direct Action Dragon Egg Mark II (A-TACS iX Arid)",
+    "ShortName": "Dragon Egg MKII iX Arid",
+    "Description": "Rucsac Direct Action Dragon Egg Mark II."
+  },
+  "item_equipment_backpack_dragon_egg_wz93": {
+    "Name": "Rucsac Direct Action Dragon Egg Mark II (Wz93 Pantera)",
+    "ShortName": "Dragon Egg MKII Wz93",
+    "Description": "Rucsac Direct Action Dragon Egg Mark II."
+  },
+  "item_equipment_armor_kora_kulon_93": {
+    "Name": "NPP KlASS Kora-Kulon vestă blindată (VSR-93 Barvikha)",
+    "ShortName": "Kora-Kulon 93",
+    "Description": "NPP KlASS Kora-Kulon vestă blindată."
+  },
+  "item_equipment_armor_kora_kulon_ryzh": {
+    "Name": "NPP KlASS Kora-Kulon vestă blindată (VSR-98 Mountain Flora)",
+    "ShortName": "Kora-Kulon 98MF",
+    "Description": "NPP KlASS Kora-Kulon vestă blindată."
+  },
+  "item_equipment_armor_kora_kulon_flora": {
+    "Name": "NPP KlASS Kora-Kulon vestă blindată (VSR-98 Flora)",
+    "ShortName": "Kora-Kulon 98F",
+    "Description": "NPP KlASS Kora-Kulon vestă blindată."
+  },
+  "item_equipment_armor_kora_kulon_bkamysh": {
+    "Name": "NPP KlASS Kora-Kulon vestă blindată (MVD Kamysh)",
+    "ShortName": "Kora-Kulon MVD",
+    "Description": "NPP KlASS Kora-Kulon vestă blindată."
+  },
+  "item_equipment_helmet_gentex_slaap_green": {
+    "Name": "Ops-Core SLAAP placă blindată pt. cască (Green)",
+    "ShortName": "SLAAP Green",
+    "Description": "Ops-Core SLAAP placă blindată pt. cască."
+  },
+  "item_equipment_helmet_gentex_slaap_gray": {
+    "Name": "Ops-Core SLAAP placă blindată pt. cască (Gray)",
+    "ShortName": "SLAAP Gray",
+    "Description": "Ops-Core SLAAP placă blindată pt. cască."
+  },
+  "item_equipment_backpack_blackjack_ix": {
+    "Name": "Rucsac Mystery Ranch Blackjack 50 (A-TACS iX AU)",
+    "ShortName": "Blackjack 50 iX",
+    "Description": "Rucsac Mystery Ranch Blackjack 50."
+  },
+  "item_equipment_backpack_blackjack_m05": {
+    "Name": "Rucsac Mystery Ranch Blackjack 50 (M05)",
+    "ShortName": "Blackjack 50 M05",
+    "Description": "Rucsac Mystery Ranch Blackjack 50."
+  },
+  "item_equipment_backpack_blackjack_lizard": {
+    "Name": "Rucsac Mystery Ranch Blackjack 50 (Lizard)",
+    "ShortName": "Blackjack 50 Lizard",
+    "Description": "Rucsac Mystery Ranch Blackjack 50."
+  },
+  "item_equipment_backpack_blackjack_granite": {
+    "Name": "Rucsac Mystery Ranch Blackjack 50 (Granite-B)",
+    "ShortName": "Blackjack 50 Granite",
+    "Description": "Rucsac Mystery Ranch Blackjack 50."
+  },
+  "item_equipment_helmet_zsh_93": {
+    "Name": "ZSh-1-2M cască (VSR-93 Barvikha)",
+    "ShortName": "ZSh-1-2M 93",
+    "Description": "ZSh-1-2M cască."
+  },
+  "item_equipment_helmet_zsh_gray": {
+    "Name": "ZSh-1-2M cască (Kamysh Gray)",
+    "ShortName": "ZSh-1-2M Gray",
+    "Description": "ZSh-1-2M cască."
+  },
+  "item_equipment_helmet_lshz_dusk": {
+    "Name": "LShZ cască ușoară (Dusk)",
+    "ShortName": "LShZ Dusk",
+    "Description": "LShZ cască ușoară."
+  },
+  "item_equipment_helmet_lshz_emr": {
+    "Name": "LShZ cască ușoară (EMR Summer)",
+    "ShortName": "LShZ EMR",
+    "Description": "LShZ cască ușoară."
+  },
+  "item_equipment_helmet_lshz_yagel": {
+    "Name": "LShZ cască ușoară (Yagel)",
+    "ShortName": "LShZ Yagel",
+    "Description": "LShZ cască ușoară."
+  },
+  "item_equipment_helmet_lshz_surpat": {
+    "Name": "LShZ cască ușoară (SURPAT)",
+    "ShortName": "LShZ SURPAT",
+    "Description": "LShZ cască ușoară."
+  },
+  "item_equipment_backpack_mystery_ranch_coyote": {
+    "Name": "Mystery Ranch SATL Bridger Assault Pack (Coyote)",
+    "ShortName": "SATL Coyote",
+    "Description": "Mystery Ranch SATL Bridger Assault Pack."
+  },
+  "item_equipment_backpack_mystery_ranch_penncott": {
+    "Name": "Mystery Ranch SATL Bridger Assault Pack (Greenzone)",
+    "ShortName": "SATL GZ",
+    "Description": "Mystery Ranch SATL Bridger Assault Pack."
+  },
+  "item_equipment_backpack_mystery_ranch_m05w": {
+    "Name": "Mystery Ranch SATL Bridger Assault Pack (M05 Cold Weather)",
+    "ShortName": "SATL M05 CW",
+    "Description": "Mystery Ranch SATL Bridger Assault Pack."
+  },
+  "item_equipment_backpack_mystery_ranch_est": {
+    "Name": "Mystery Ranch SATL Bridger Assault Pack (ESTDCU)",
+    "ShortName": "SATL ESTDCU",
+    "Description": "Mystery Ranch SATL Bridger Assault Pack."
+  },
+  "item_equipment_rig_carriertactec_greenzone": {
+    "Name": "Ham cu plăci 5.11 Tactical TacTec (Greenzone)",
+    "ShortName": "TacTec Greenzone",
+    "Description": "Ham cu plăci 5.11 Tactical TacTec."
+  },
+  "item_equipment_rig_carriertactec_m05": {
+    "Name": "Ham cu plăci 5.11 Tactical TacTec (M05)",
+    "ShortName": "TacTec M05",
+    "Description": "Ham cu plăci 5.11 Tactical TacTec."
+  },
+  "item_equipment_rig_carriertactec_au": {
+    "Name": "Ham cu plăci 5.11 Tactical TacTec (Arid Urban)",
+    "ShortName": "TacTec AU",
+    "Description": "Ham cu plăci 5.11 Tactical TacTec."
+  },
+  "item_equipment_helmet_mich2002_aor": {
+    "Name": "Cască MSA ACH TC-2002 MICH Series (AOR 1)",
+    "ShortName": "TC-2002 AOR1",
+    "Description": "Cască MSA ACH TC-2002 MICH Series."
+  },
+  "item_equipment_helmet_mich2002_m05": {
+    "Name": "Cască MSA ACH TC-2002 MICH Series (M05)",
+    "ShortName": "TC-2002 M05",
+    "Description": "Cască MSA ACH TC-2002 MICH Series."
+  },
+  "item_equipment_rig_tv110_black": {
+    "Name": "WARTECH TV-110 purtător de plăci (Black)",
+    "ShortName": "TV-110 Black",
+    "Description": "WARTECH TV-110 purtător de plăci."
+  },
+  "item_equipment_rig_patrol_multicam": {
+    "Name": "Velocity Systems MPPV Multi-Purpose Patrol Vest (Multicam)",
+    "ShortName": "MPPV Multicam",
+    "Description": "Velocity Systems MPPV Multi-Purpose Patrol Vest."
+  },
+  "item_equipment_rig_patrol_aor2": {
+    "Name": "Velocity Systems MPPV Multi-Purpose Patrol Vest (AOR 2)",
+    "ShortName": "MPPV AOR 2",
+    "Description": "Velocity Systems MPPV Multi-Purpose Patrol Vest."
+  },
+  "item_equipment_rig_patrol_m05c": {
+    "Name": "Velocity Systems MPPV Multi-Purpose Patrol Vest (M05 Cold Weather)",
+    "ShortName": "MPPV M05 CW",
+    "Description": "Velocity Systems MPPV Multi-Purpose Patrol Vest."
+  },
+  "item_equipment_rig_m1_gray": {
+    "Name": "ANA Tactical M1 ham blindaj (Gray)",
+    "ShortName": "ANA M1 Gray",
+    "Description": "ANA Tactical M1 ham blindaj."
+  },
+  "item_equipment_rig_m1_coyote": {
+    "Name": "ANA Tactical M1 ham blindaj (Coyote)",
+    "ShortName": "ANA M1 Coyote",
+    "Description": "ANA Tactical M1 ham blindaj."
+  },
+  "item_equipment_rig_m1_rg": {
+    "Name": "ANA Tactical M1 ham blindaj (Ranger Green)",
+    "ShortName": "ANA M1 RG",
+    "Description": "ANA Tactical M1 ham blindaj."
+  },
+  "item_equipment_backpack_mech_green": {
+    "Name": "Rucsac rezistent Oakley Mechanism (Green)",
+    "ShortName": "Mechanism Green",
+    "Description": "Rucsac rezistent Oakley Mechanism."
+  },
+  "item_equipment_backpack_mech_coyote": {
+    "Name": "Rucsac rezistent Oakley Mechanism (Coyote)",
+    "ShortName": "Mechanism Coyote",
+    "Description": "Rucsac rezistent Oakley Mechanism."
+  },
+  "item_equipment_rig_shellback_tactical_banshee_fg": {
+    "Name": "Shellback Tactical Banshee vestă cu blindaj (A-TACS FG)",
+    "ShortName": "Banshee FG",
+    "Description": "Shellback Tactical Banshee vestă cu blindaj."
+  },
+  "item_equipment_rig_shellback_tactical_banshee_ghost": {
+    "Name": "Shellback Tactical Banshee vestă cu blindaj (A-TACS iX Ghost)",
+    "ShortName": "Banshee Ghost",
+    "Description": "Shellback Tactical Banshee vestă cu blindaj."
+  },
+  "item_equipment_rig_umka_winter": {
+    "Name": "Umka M33-SET1 vestă de vânătoare (Winter)",
+    "ShortName": "Umka Winter",
+    "Description": "Umka M33-SET1 vestă de vânătoare."
+  },
+  "chestrig_tarzan_dym": {
+    "Name": "Splav Tarzan M22 ham tactic (Dym / A-TACS copy)",
+    "ShortName": "Tarzan Dym",
+    "Description": "Splav Tarzan M22 ham tactic."
+  },
+  "chestrig_tarzan_emra": {
+    "Name": "Splav Tarzan M22 ham tactic (EMR Autumn)",
+    "ShortName": "Tarzan EMR-A",
+    "Description": "Splav Tarzan M22 ham tactic."
+  },
+  "item_equipment_armor_a18_dym": {
+    "Name": "Purtător plăci Ars Arma A18 Skanda (Dym / A-TACS copy)",
+    "ShortName": "A18 Skanda Dym",
+    "Description": "Purtător plăci Ars Arma A18 Skanda."
+  },
+  "item_equipment_armor_a18_emr1": {
+    "Name": "Purtător plăci Ars Arma A18 Skanda (EMR)",
+    "ShortName": "A18 Skanda EMR",
+    "Description": "Purtător plăci Ars Arma A18 Skanda."
+  },
+  "item_equipment_armor_a18_gray": {
+    "Name": "Purtător plăci Ars Arma A18 Skanda (Gray)",
+    "ShortName": "A18 Skanda Gray",
+    "Description": "Purtător plăci Ars Arma A18 Skanda."
+  },
+  "item_equipment_backpack_paratus_kr": {
+    "Name": "Rucsac tactic 3V G Paratus 3-Day Operator (Kryptek Mandrake)",
+    "ShortName": "Paratus Mandrake",
+    "Description": "Rucsac tactic 3V G Paratus 3-Day Operator."
+  },
+  "item_equipment_backpack_paratus_ts": {
+    "Name": "Rucsac tactic 3V G Paratus 3-Day Operator (USAF Digital Tigerstripe)",
+    "ShortName": "Paratus USAF",
+    "Description": "Rucsac tactic 3V G Paratus 3-Day Operator."
+  },
+  "item_equipment_backpack_paratus_wasp": {
+    "Name": "Rucsac tactic 3V G Paratus 3-Day Operator (Phantomleaf WASP II Z 1A)",
+    "ShortName": "Paratus WASP",
+    "Description": "Rucsac tactic 3V G Paratus 3-Day Operator."
+  },
+  "item_equipment_backpack_takedown_sling_1": {
+    "Name": "Hazard 4 Takedown rucsac (AOR-2)",
+    "ShortName": "Takedown AOR-2",
+    "Description": "Hazard 4 Takedown rucsac."
+  },
+  "item_equipment_backpack_takedown_sling_2": {
+    "Name": "Hazard 4 Takedown rucsac (MARPAT Urban)",
+    "ShortName": "Takedown MP-U",
+    "Description": "Hazard 4 Takedown rucsac."
+  },
+  "item_equipment_rig_6h112_arctic": {
+    "Name": "Ham tactic UMTBS 6sh112 Scout-Sniper (EMR Arctic)",
+    "ShortName": "6sh112 S-S EMR-Ar",
+    "Description": "Ham tactic UMTBS 6sh112 Scout-Sniper."
+  },
+  "item_equipment_rig_bae_rbav_aor": {
+    "Name": "ECLiPSE RBAV-AF vestă cu blindaj (AOR-2)",
+    "ShortName": "RBAV-AF AOR-2",
+    "Description": "ECLiPSE RBAV-AF vestă cu blindaj."
+  },
+  "item_equipment_rig_bae_rbav_ucon": {
+    "Name": "ECLiPSE RBAV-AF vestă cu blindaj (A-TACS U|CON)",
+    "ShortName": "RBAV-AF UCON",
+    "Description": "ECLiPSE RBAV-AF vestă cu blindaj."
+  },
+  "item_equipment_rig_d3crx_multicam": {
+    "Name": "Ham Tactic Haley Strategic D3CRX (Multicam)",
+    "ShortName": "D3CRX MC",
+    "Description": "Ham Tactic Haley Strategic D3CRX."
+  },
+  "item_equipment_rig_d3crx_multicamblack": {
+    "Name": "Ham Tactic Haley Strategic D3CRX (Multicam Black)",
+    "ShortName": "D3CRX MCB",
+    "Description": "Ham Tactic Haley Strategic D3CRX."
+  },
+  "item_equipment_rig_d3crx_multicamtropic": {
+    "Name": "Ham Tactic Haley Strategic D3CRX (Multicam Tropic)",
+    "ShortName": "D3CRX MCT",
+    "Description": "Ham Tactic Haley Strategic D3CRX."
+  },
+  "item_equipment_rig_blackrock_ral7013": {
+    "Name": "BlackRock ham tactic (RAL 7013)",
+    "ShortName": "BlackRock 7013",
+    "Description": "BlackRock ham tactic."
+  },
+  "item_equipment_armor_custom_hexgrid_c": {
+    "Name": "5.11 Tactical Hexgrid vestă cu blindaj (Coyote)",
+    "ShortName": "Hexgrid Coyote",
+    "Description": "5.11 Tactical Hexgrid vestă cu blindaj."
+  },
+  "item_equipment_armor_custom_hexgrid_g": {
+    "Name": "5.11 Tactical Hexgrid vestă cu blindaj (Green)",
+    "ShortName": "Hexgrid Green",
+    "Description": "5.11 Tactical Hexgrid vestă cu blindaj."
+  },
+  "item_equipment_facecover_strikeball_mask_leshiy": {
+    "Name": "Death Shadow mască blindată ușoară (Lešij custom paint)",
+    "ShortName": "Death Shadow Lešij",
+    "Description": "Death Shadow mască blindată ușoară."
+  },
+  "item_equipment_backpack_g2_gunslinger_gray": {
+    "Name": "Eberlestock G2 Gunslinger II rucsac (Gray)",
+    "ShortName": "G2 Gunslinger II Gray",
+    "Description": "Eberlestock G2 Gunslinger II rucsac."
+  },
+  "item_equipment_backpack_g2_gunslinger_slocam": {
+    "Name": "Eberlestock G2 Gunslinger II rucsac (SLOCAM)",
+    "ShortName": "G2 Gunslinger II SK",
+    "Description": "Eberlestock G2 Gunslinger II rucsac."
+  },
+  "item_equipment_backpack_g2_gunslinger_ucon": {
+    "Name": "Eberlestock G2 Gunslinger II rucsac (A-TACS U|CON)",
+    "ShortName": "G2 Gunslinger II UCON",
+    "Description": "Eberlestock G2 Gunslinger II rucsac."
+  },
+  "item_equipment_backpack_f4terminator_black": {
+    "Name": "Eberlestock F4 Terminator rucsac portant (Black)",
+    "ShortName": "F4 Terminator Black",
+    "Description": "Eberlestock F4 Terminator rucsac portant."
+  },
+  "item_equipment_backpack_f4terminator_h": {
+    "Name": "Eberlestock F4 Terminator rucsac portant (HUNCAM)",
+    "ShortName": "F4 Terminator HU",
+    "Description": "Eberlestock F4 Terminator rucsac portant."
+  },
+  "item_equipment_backpack_f4terminator_c": {
+    "Name": "Eberlestock F4 Terminator rucsac portant (Vz 95)",
+    "ShortName": "F4 Terminator 95",
+    "Description": "Eberlestock F4 Terminator rucsac portant."
+  }
+}

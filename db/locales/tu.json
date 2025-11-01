@@ -1,0 +1,957 @@
+{
+  "item_equipment_armor_6b3_berezka": {
+    "Name": "6B3TM-01M zırhlı yelek (KLMK)",
+    "ShortName": "6B3TM-01M KLMK",
+    "Description": "6B3TM-01M zırhlı yelek."
+  },
+  "item_equipment_armor_6b3_bhutan": {
+    "Name": "6B3TM-01M zırhlı yelek (Granite)",
+    "ShortName": "6B3TM-01M Granite",
+    "Description": "6B3TM-01M zırhlı yelek."
+  },
+  "item_equipment_armor_6b3_green": {
+    "Name": "6B3TM-01M zırhlı yelek (Dark olive)",
+    "ShortName": "6B3TM-01M DOlive",
+    "Description": "6B3TM-01M zırhlı yelek."
+  },
+  "item_equipment_helmet_6b47covered_atacs": {
+    "Name": "6B47 kılıflı Kask (A-TACS / Moh)",
+    "ShortName": "6B47 Moh",
+    "Description": "6B47 kılıflı Kask."
+  },
+  "item_equipment_helmet_6b47covered_pig": {
+    "Name": "6B47 kılıflı Kask (EMR Syria / Pig)",
+    "ShortName": "6B47 Pig",
+    "Description": "6B47 kılıflı Kask."
+  },
+  "item_equipment_helmet_6b47covered_spring": {
+    "Name": "6B47 kılıflı Kask (EMR Spring)",
+    "ShortName": "6B47 Spring",
+    "Description": "6B47 kılıflı Kask."
+  },
+  "item_equipment_helmet_6b47covered_ss": {
+    "Name": "6B47 kılıflı Kask (RUSS Partizan)",
+    "ShortName": "6B47 Partizan",
+    "Description": "6B47 kılıflı Kask."
+  },
+  "item_equipment_helmet_6b47covered_surpat": {
+    "Name": "6B47 kılıflı Kask (SURPAT Arid)",
+    "ShortName": "6B47 Arid",
+    "Description": "6B47 kılıflı Kask."
+  },
+  "item_equipment_backpack_6sh118_pig": {
+    "Name": "6SH118 baskın sırt çantası (EMR Syria / Pig)",
+    "ShortName": "6SH118 Pig",
+    "Description": "6SH118 baskın sırt çantası."
+  },
+  "item_equipment_backpack_6sh118_atacsa": {
+    "Name": "6SH118 baskın sırt çantası (A-TACS Arid / Moh Autumn)",
+    "ShortName": "6SH118 Autumn",
+    "Description": "6SH118 baskın sırt çantası."
+  },
+  "item_equipment_backpack_6sh118_atacsg": {
+    "Name": "6SH118 baskın sırt çantası (A-TACS / Moh)",
+    "ShortName": "6SH118 Moh",
+    "Description": "6SH118 baskın sırt çantası."
+  },
+  "item_equipment_backpack_6sh118_mc": {
+    "Name": "6SH118 baskın sırt çantası (Multicam)",
+    "ShortName": "6SH118 MC",
+    "Description": "6SH118 baskın sırt çantası."
+  },
+  "item_equipment_backpack_6sh118_spring": {
+    "Name": "6SH118 baskın sırt çantası (EMR Spring)",
+    "ShortName": "6SH118 Spring",
+    "Description": "6SH118 baskın sırt çantası."
+  },
+  "item_equipment_armor_korundvm_kamysh": {
+    "Name": "BNTI Korund-VM zırh (Kamysh)",
+    "ShortName": "Korund-VM Kamysh",
+    "Description": "BNTI Korund-VM zırh."
+  },
+  "item_equipment_armor_korundvm_blue": {
+    "Name": "BNTI Korund-VM zırh (Moh Blue)",
+    "ShortName": "Korund-VM Blue",
+    "Description": "BNTI Korund-VM zırh."
+  },
+  "item_equipment_armor_korundvm_emr": {
+    "Name": "BNTI Korund-VM zırh (EMR)",
+    "ShortName": "Korund-VM EMR",
+    "Description": "BNTI Korund-VM zırh."
+  },
+  "item_equipment_armor_korundvm_flora": {
+    "Name": "BNTI Korund-VM zırh (Flora)",
+    "ShortName": "Korund-VM Flora",
+    "Description": "BNTI Korund-VM zırh."
+  },
+  "item_equipment_armor_korundvm_partizan": {
+    "Name": "BNTI Korund-VM zırh (RUSS Partizan)",
+    "ShortName": "Korund-VM Partizan",
+    "Description": "BNTI Korund-VM zırh."
+  },
+  "item_equipment_helmet_mich2002_mm14": {
+    "Name": "MSA ACH TC-2002 MICH Serisi Kask (MM14)",
+    "ShortName": "TC-2002 MM14",
+    "Description": "MSA ACH TC-2002 MICH Serisi Kask."
+  },
+  "item_equipment_helmet_mich2002_vegetato": {
+    "Name": "MSA ACH TC-2002 MICH Serisi Kask (Vegetato)",
+    "ShortName": "TC-2002 Vegetato",
+    "Description": "MSA ACH TC-2002 MICH Serisi Kask."
+  },
+  "item_equipment_helmet_mich2002_fca": {
+    "Name": "MSA ACH TC-2002 MICH Serisi Kask (Centre-Europe)",
+    "ShortName": "TC-2002 CCE",
+    "Description": "MSA ACH TC-2002 MICH Serisi Kask."
+  },
+  "item_equipment_helmet_mich2001_flektarn": {
+    "Name": "MSA ACH TC-2001 MICH Serisi Kask (Flektarn)",
+    "ShortName": "TC-2001 Flektarn",
+    "Description": "MSA ACH TC-2001 MICH Serisi Kask."
+  },
+  "item_equipment_helmet_mich2001_tropentarn": {
+    "Name": "MSA ACH TC-2001 MICH Serisi Kask (Tropentarn)",
+    "ShortName": "TC-2001 Tropentarn",
+    "Description": "MSA ACH TC-2001 MICH Serisi Kask."
+  },
+  "item_equipment_helmet_mich2001_mtp": {
+    "Name": "MSA ACH TC-2001 MICH Serisi Kask (British MTP)",
+    "ShortName": "TC-2001 MTP",
+    "Description": "MSA ACH TC-2001 MICH Serisi Kask."
+  },
+  "item_equipment_backpack_sso_emr": {
+    "Name": "SSO \"Atak 2\" baskın sırt çantası (Emr)",
+    "ShortName": "Atak 2 Emr",
+    "Description": "SSO \"Atak 2\" baskın sırt çantası."
+  },
+  "item_equipment_backpack_sso_olive": {
+    "Name": "SSO \"Atak 2\" baskın sırt çantası (Olive)",
+    "ShortName": "Atak 2 Olive",
+    "Description": "SSO \"Atak 2\" baskın sırt çantası."
+  },
+  "item_equipment_backpack_sso_izlom": {
+    "Name": "SSO \"Atak 2\" baskın sırt çantası (Izlom)",
+    "ShortName": "Atak 2 Izlom",
+    "Description": "SSO \"Atak 2\" baskın sırt çantası."
+  },
+  "item_equipment_rig_cryeavs_atacsarid": {
+    "Name": "Crye Precision AVS teçhizat yeleği (A-TACS Arid)",
+    "ShortName": "AVS Arid",
+    "Description": "Crye Precision AVS teçhizat yeleği."
+  },
+  "item_equipment_rig_cryeavs_flektarn": {
+    "Name": "Crye Precision AVS teçhizat yeleği (Flektarn)",
+    "ShortName": "AVS Flektarn",
+    "Description": "Crye Precision AVS teçhizat yeleği."
+  },
+  "item_equipment_rig_cryeavs_mcblack": {
+    "Name": "Crye Precision AVS teçhizat yeleği (Multicam Black)",
+    "ShortName": "AVS Black",
+    "Description": "Crye Precision AVS teçhizat yeleği."
+  },
+  "item_equipment_rig_cryeavs_ucp": {
+    "Name": "Crye Precision AVS teçhizat yeleği (UCP)",
+    "ShortName": "AVS UCP",
+    "Description": "Crye Precision AVS teçhizat yeleği."
+  },
+  "item_equipment_rig_cryeavs_vegetato": {
+    "Name": "Crye Precision AVS teçhizat yeleği (Vegetato)",
+    "ShortName": "AVS Vegetato",
+    "Description": "Crye Precision AVS teçhizat yeleği."
+  },
+  "item_equipment_rig_cryeavs_mm14": {
+    "Name": "Crye Precision AVS teçhizat yeleği (MM14)",
+    "ShortName": "AVS MM14",
+    "Description": "Crye Precision AVS teçhizat yeleği."
+  },
+  "item_equipment_rig_triton_berezka": {
+    "Name": "Triton M43-A Hücum Yeleği (KLMK)",
+    "ShortName": "Triton KLMK",
+    "Description": "Triton M43-A Hücum Yeleği."
+  },
+  "item_equipment_rig_triton_dpm": {
+    "Name": "Triton M43-A Hücum Yeleği (British DPM)",
+    "ShortName": "Triton DPM",
+    "Description": "Triton M43-A Hücum Yeleği."
+  },
+  "item_equipment_rig_triton_flora": {
+    "Name": "Triton M43-A Hücum Yeleği (Flora)",
+    "ShortName": "Triton Flora",
+    "Description": "Triton M43-A Hücum Yeleği."
+  },
+  "item_equipment_rig_triton_omon": {
+    "Name": "Triton M43-A Hücum Yeleği (MVD Kamysh)",
+    "ShortName": "Triton MVD",
+    "Description": "Triton M43-A Hücum Yeleği."
+  },
+  "item_equipment_rig_triton_ryzh": {
+    "Name": "Triton M43-A Hücum Yeleği (Ryzjuha)",
+    "ShortName": "Triton Ryzjuha",
+    "Description": "Triton M43-A Hücum Yeleği."
+  },
+  "item_equipment_armor_gjel_fde": {
+    "Name": "BNTI Gzhel-K zırh (FDE)",
+    "ShortName": "GZHEL-K FDE",
+    "Description": "BNTI Gzhel-K zırh."
+  },
+  "item_equipment_armor_gjel_gray": {
+    "Name": "BNTI Gzhel-K zırh (Dark gray)",
+    "ShortName": "GZHEL-K Gray",
+    "Description": "BNTI Gzhel-K zırh."
+  },
+  "item_equipment_backpack_trooper_35_mc": {
+    "Name": "Tasmanian Tiger Trooper 35 sırt çantası (Multicam)",
+    "ShortName": "Trooper 35 MC",
+    "Description": "Tasmanian Tiger Trooper 35 sırt çantası."
+  },
+  "item_equipment_backpack_trooper_35_mm14": {
+    "Name": "Tasmanian Tiger Trooper 35 sırt çantası (MM14)",
+    "ShortName": "Trooper 35 MM14",
+    "Description": "Tasmanian Tiger Trooper 35 sırt çantası."
+  },
+  "item_equipment_backpack_trooper_35_ucp": {
+    "Name": "Tasmanian Tiger Trooper 35 sırt çantası (Ucp)",
+    "ShortName": "Trooper 35 Ucp",
+    "Description": "Tasmanian Tiger Trooper 35 sırt çantası."
+  },
+  "item_equipment_backpack_trooper_35_urban": {
+    "Name": "Tasmanian Tiger Trooper 35 sırt çantası (Urban)",
+    "ShortName": "Trooper 35 Urban",
+    "Description": "Tasmanian Tiger Trooper 35 sırt çantası."
+  },
+  "item_equipment_backpack_daypack_aor": {
+    "Name": "LBT-8005A Day Pack sırt çantası (AOR 1)",
+    "ShortName": "Day Pack AOR",
+    "Description": "LBT-8005A Day Pack sırt çantası."
+  },
+  "item_equipment_backpack_daypack_gray": {
+    "Name": "LBT-8005A Day Pack sırt çantası (Gray)",
+    "ShortName": "Day Pack Gray",
+    "Description": "LBT-8005A Day Pack sırt çantası."
+  },
+  "item_equipment_backpack_daypack_estpat": {
+    "Name": "LBT-8005A Day Pack sırt çantası (ESTDCU)",
+    "ShortName": "Day Pack ESTDCU",
+    "Description": "LBT-8005A Day Pack sırt çantası."
+  },
+  "item_equipment_backpack_daypack_flektarn": {
+    "Name": "LBT-8005A Day Pack sırt çantası (Flektarn)",
+    "ShortName": "Day Pack Flektarn",
+    "Description": "LBT-8005A Day Pack sırt çantası."
+  },
+  "item_equipment_backpack_wartech_emr": {
+    "Name": "Wartech Berkut VV-102 sırt çantası (Emr)",
+    "ShortName": "Berkut Emr",
+    "Description": "Wartech Berkut VV-102 sırt çantası."
+  },
+  "item_equipment_backpack_wartech_emrd": {
+    "Name": "Wartech Berkut VV-102 sırt çantası (EMR Desert)",
+    "ShortName": "Berkut EMRD",
+    "Description": "Wartech Berkut VV-102 sırt çantası."
+  },
+  "item_equipment_backpack_wartech_yagel": {
+    "Name": "Wartech Berkut VV-102 sırt çantası (Dusk)",
+    "ShortName": "Berkut Dusk",
+    "Description": "Wartech Berkut VV-102 sırt çantası."
+  },
+  "item_equipment_helmet_hops_mm14": {
+    "Name": "Ops-Core Fast MT SUPER HIGH CUT Krem Rengi Kask (MM14)",
+    "ShortName": "Krem rengi Fast MT MM14",
+    "Description": "Ops-Core Fast MT SUPER HIGH CUT Krem Rengi Kask."
+  },
+  "item_equipment_helmet_hops_mc": {
+    "Name": "Ops-Core Fast MT SUPER HIGH CUT Krem Rengi Kask (Multicam)",
+    "ShortName": "Krem rengi Fast MT MC",
+    "Description": "Ops-Core Fast MT SUPER HIGH CUT Krem Rengi Kask."
+  },
+  "item_equipment_helmet_hops_mct": {
+    "Name": "Ops-Core Fast MT SUPER HIGH CUT Krem Rengi Kask (Multicam Tropic)",
+    "ShortName": "Krem rengi Fast MT MCT",
+    "Description": "Ops-Core Fast MT SUPER HIGH CUT Krem Rengi Kask."
+  },
+  "item_equipment_helmet_hops_atacs": {
+    "Name": "Ops-Core Fast MT SUPER HIGH CUT Krem Rengi Kask (A-TACS FG)",
+    "ShortName": "Krem rengi Fast MT FG",
+    "Description": "Ops-Core Fast MT SUPER HIGH CUT Krem Rengi Kask."
+  },
+  "item_equipment_helmet_hops_ucp": {
+    "Name": "Ops-Core Fast MT SUPER HIGH CUT Krem Rengi Kask (UCP)",
+    "ShortName": "Krem rengi Fast MT UCP",
+    "Description": "Ops-Core Fast MT SUPER HIGH CUT Krem Rengi Kask."
+  },
+  "item_equipment_helmet_diamond_age_bastion_m81": {
+    "Name": "Diamond Age Tabya Kaskı (M81)",
+    "ShortName": "DA Bastion M81",
+    "Description": "Diamond Age Tabya Kaskı."
+  },
+  "item_equipment_helmet_diamond_age_bastion_mtp": {
+    "Name": "Diamond Age Tabya Kaskı (British MTP)",
+    "ShortName": "DA Bastion MTP",
+    "Description": "Diamond Age Tabya Kaskı."
+  },
+  "item_equipment_rig_patrol_green": {
+    "Name": "Sürat sistemli çok amaçlı devriye yeleği (Green)",
+    "ShortName": "MPPV Green",
+    "Description": "Sürat sistemli çok amaçlı devriye yeleği."
+  },
+  "item_equipment_rig_patrol_fde": {
+    "Name": "Sürat sistemli çok amaçlı devriye yeleği (FDE)",
+    "ShortName": "MPPV FDE",
+    "Description": "Sürat sistemli çok amaçlı devriye yeleği."
+  },
+  "item_equipment_rig_mmac_ucp": {
+    "Name": "Eagle Industries MMAC plaka taşıyıcısı (UCP)",
+    "ShortName": "MMAC UCP",
+    "Description": "Eagle Industries MMAC plaka taşıyıcısı."
+  },
+  "item_equipment_rig_mmac_mm14": {
+    "Name": "Eagle Industries MMAC plaka taşıyıcısı (MM14)",
+    "ShortName": "MMAC MM14",
+    "Description": "Eagle Industries MMAC plaka taşıyıcısı."
+  },
+  "item_equipment_rig_mmac_aor": {
+    "Name": "Eagle Industries MMAC plaka taşıyıcısı (AOR-1)",
+    "ShortName": "MMAC AOR",
+    "Description": "Eagle Industries MMAC plaka taşıyıcısı."
+  },
+  "item_equipment_rig_1961_vegetato": {
+    "Name": "LBT-1961A Ekipman taşıyan göğüs yeleği (Vegetato)",
+    "ShortName": "LBT-1961A Vegetato",
+    "Description": "LBT-1961A Ekipman taşıyan göğüs yeleği."
+  },
+  "item_equipment_rig_1961_winter": {
+    "Name": "LBT-1961A Ekipman taşıyan göğüs yeleği (Winter)",
+    "ShortName": "LBT-1961A Winter",
+    "Description": "LBT-1961A Ekipman taşıyan göğüs yeleği."
+  },
+  "item_equipment_rig_1961_ucp": {
+    "Name": "LBT-1961A Ekipman taşıyan göğüs yeleği (UCP)",
+    "ShortName": "LBT-1961A UCP",
+    "Description": "LBT-1961A Ekipman taşıyan göğüs yeleği."
+  },
+  "item_equipment_rig_1961_mtp": {
+    "Name": "LBT-1961A Ekipman taşıyan göğüs yeleği (British MTP)",
+    "ShortName": "LBT-1961A MTP",
+    "Description": "LBT-1961A Ekipman taşıyan göğüs yeleği."
+  },
+  "item_equipment_rig_1961_estpatd": {
+    "Name": "LBT-1961A Ekipman taşıyan göğüs yeleği (ESTDCU Desert)",
+    "ShortName": "LBT-1961A ESTDCU-D",
+    "Description": "LBT-1961A Ekipman taşıyan göğüs yeleği."
+  },
+  "item_equipment_rig_azimut_emra": {
+    "Name": "Azimut SS Jhuk Göğüs Kemeri (EMR Arid)",
+    "ShortName": "Azimut EMR",
+    "Description": "Azimut SS Jhuk Göğüs Kemeri."
+  },
+  "item_equipment_rig_azimut_emrs": {
+    "Name": "Azimut SS Jhuk Göğüs Kemeri (EMR Spring)",
+    "ShortName": "Azimut Spring",
+    "Description": "Azimut SS Jhuk Göğüs Kemeri."
+  },
+  "item_equipment_rig_azimut_atacsa": {
+    "Name": "Azimut SS Jhuk Göğüs Kemeri (Moh / A-TACS Arid)",
+    "ShortName": "Azimut Moh-A",
+    "Description": "Azimut SS Jhuk Göğüs Kemeri."
+  },
+  "item_equipment_rig_azimut_emrp": {
+    "Name": "Azimut SS Jhuk Göğüs Kemeri (EMR Syria / Pig)",
+    "ShortName": "Azimut Pig",
+    "Description": "Azimut SS Jhuk Göğüs Kemeri."
+  },
+  "item_equipment_rig_beltab_berezka": {
+    "Name": "Belt-A + Belt-B hücum yeleği (KLMK Yellow)",
+    "ShortName": "Belt KLMK",
+    "Description": "Belt-A + Belt-B hücum yeleği."
+  },
+  "item_equipment_rig_beltab_ttsko": {
+    "Name": "Belt-A + Belt-B hücum yeleği (TTsKO)",
+    "ShortName": "Belt TTsKO",
+    "Description": "Belt-A + Belt-B hücum yeleği."
+  },
+  "item_equipment_rig_tv110_moh": {
+    "Name": "Wartech TV-110 zırhlı hücum yeleği (Moh / A-TACS)",
+    "ShortName": "TV-110 Moh",
+    "Description": "Wartech TV-110 zırhlı hücum yeleği."
+  },
+  "item_equipment_armor_otv_cce": {
+    "Name": "Önleyici OTV vücut zırhı (Centre-Europe)",
+    "ShortName": "OTV CCE",
+    "Description": "Önleyici OTV vücut zırhı."
+  },
+  "item_equipment_armor_otv_3c": {
+    "Name": "Önleyici OTV vücut zırhı (3 Color Desert)",
+    "ShortName": "OTV DCU",
+    "Description": "Önleyici OTV vücut zırhı."
+  },
+  "item_equipment_armor_un_3c": {
+    "Name": "MF-UNTAR zırh yelek (3 Color Desert)",
+    "ShortName": "MF-UN DCU",
+    "Description": "MF-UNTAR zırh yelek."
+  },
+  "item_equipment_armor_un_marpat": {
+    "Name": "MF-UNTAR zırh yelek (MARPAT)",
+    "ShortName": "MF-UN MARPAT",
+    "Description": "MF-UNTAR zırh yelek."
+  },
+  "item_equipment_armor_un_wineleaf": {
+    "Name": "MF-UNTAR zırh yelek (Wine Leaf)",
+    "ShortName": "MF-UN WL",
+    "Description": "MF-UNTAR zırh yelek."
+  },
+  "item_equipment_armor_6b23_emrpig": {
+    "Name": "6B23-1 zırh (EMR Syria / Pig)",
+    "ShortName": "6B23-1 Pig",
+    "Description": "6B23-1 zırh."
+  },
+  "item_equipment_armor_6b23_klmk": {
+    "Name": "6B23-1 zırh (KLMK)",
+    "ShortName": "6B23-1 KLMK",
+    "Description": "6B23-1 zırh."
+  },
+  "item_equipment_armor_6b23_yagel": {
+    "Name": "6B23-1 zırh (Dusk)",
+    "ShortName": "6B23-1 Dusk",
+    "Description": "6B23-1 zırh."
+  },
+  "item_equipment_armor_def2_moh": {
+    "Name": "FORT Muhafız-2 vücut zırhı (A-TACS / Moh)",
+    "ShortName": "Muhafız-2 Moh",
+    "Description": "FORT Muhafız-2 vücut zırhı."
+  },
+  "item_equipment_armor_def2_moha": {
+    "Name": "FORT Muhafız-2 vücut zırhı (A-TACS Arid / Moh Autumn)",
+    "ShortName": "Muhafız-2 Autumn",
+    "Description": "FORT Muhafız-2 vücut zırhı."
+  },
+  "item_equipment_armor_slick_atacs": {
+    "Name": "LBT 6094A Slick Plaka Taşıyıcı (A-TACS FG)",
+    "ShortName": "Slick FG",
+    "Description": "LBT 6094A Slick Plaka Taşıyıcı."
+  },
+  "item_equipment_armor_slick_ixarid": {
+    "Name": "LBT 6094A Slick Plaka Taşıyıcı (A-TACS iX Arid)",
+    "ShortName": "Slick iX Arid",
+    "Description": "LBT 6094A Slick Plaka Taşıyıcı."
+  },
+  "item_equipment_armor_slick_ucp": {
+    "Name": "LBT 6094A Slick Plaka Taşıyıcı (UCP)",
+    "ShortName": "Slick UCP",
+    "Description": "LBT 6094A Slick Plaka Taşıyıcı."
+  },
+  "item_equipment_armor_slick_vegetato": {
+    "Name": "LBT 6094A Slick Plaka Taşıyıcı (Vegetato)",
+    "ShortName": "Slick Vegetato",
+    "Description": "LBT 6094A Slick Plaka Taşıyıcı."
+  },
+  "item_equipment_backpack_beta_moha": {
+    "Name": "Ana Tactical Beta 2 savaş çantası (A-TACS Arid / Moh Autumn)",
+    "ShortName": "Beta2 Moh-A",
+    "Description": "Ana Tactical Beta 2 savaş çantası."
+  },
+  "item_equipment_backpack_beta_moh": {
+    "Name": "Ana Tactical Beta 2 savaş çantası (Moh / A-TACS FG)",
+    "ShortName": "Beta2 Moh",
+    "Description": "Ana Tactical Beta 2 savaş çantası."
+  },
+  "item_equipment_backpack_beta_emrd": {
+    "Name": "Ana Tactical Beta 2 savaş çantası (EMR Desert)",
+    "ShortName": "Beta2 EMRD",
+    "Description": "Ana Tactical Beta 2 savaş çantası."
+  },
+  "item_equipment_backpack_beta_emr": {
+    "Name": "Ana Tactical Beta 2 savaş çantası (EMR Flora)",
+    "ShortName": "Beta2 EMR",
+    "Description": "Ana Tactical Beta 2 savaş çantası."
+  },
+  "item_equipment_backpack_gr99t30_moh": {
+    "Name": "Gruppa 99 T30 sırt çantası (Moh / A-TACS FG)",
+    "ShortName": "T30 Moh",
+    "Description": "Gruppa 99 T30 sırt çantası."
+  },
+  "item_equipment_backpack_gr99t30_emrd": {
+    "Name": "Gruppa 99 T30 sırt çantası (EMR Desert)",
+    "ShortName": "T30 EMRD",
+    "Description": "Gruppa 99 T30 sırt çantası."
+  },
+  "item_equipment_backpack_gr99t30_klmk": {
+    "Name": "Gruppa 99 T30 sırt çantası (KLMK)",
+    "ShortName": "T30 KLMK",
+    "Description": "Gruppa 99 T30 sırt çantası."
+  },
+  "item_equipment_backpack_gr99t30_emr": {
+    "Name": "Gruppa 99 T30 sırt çantası (EMR)",
+    "ShortName": "T30 EMR",
+    "Description": "Gruppa 99 T30 sırt çantası."
+  },
+  "item_equipment_backpack_lbt1476a_slick_aor1": {
+    "Name": "LBT-1476A 3 Günlük Paket (AOR 1)",
+    "ShortName": "LBT-1476A AOR",
+    "Description": "LBT-1476A 3 Günlük Paket."
+  },
+  "item_equipment_backpack_lbt1476a_slick_gray": {
+    "Name": "LBT-1476A 3 Günlük Paket (Gray)",
+    "ShortName": "LBT-1476A Gray",
+    "Description": "LBT-1476A 3 Günlük Paket."
+  },
+  "item_equipment_backpack_lbt1476a_slick_ucp": {
+    "Name": "LBT-1476A 3 Günlük Paket (UCP)",
+    "ShortName": "LBT-1476A UCP",
+    "Description": "LBT-1476A 3 Günlük Paket."
+  },
+  "item_equipment_backpack_lbt1476a_slick_tropentarn": {
+    "Name": "LBT-1476A 3 Günlük Paket (Tropentarn)",
+    "ShortName": "LBT-1476A Tropentarn",
+    "Description": "LBT-1476A 3 Günlük Paket."
+  },
+  "item_equipment_rig_umka_f1": {
+    "Name": "Umka М33-SET1 avcı yeleği (Fisherman Camo 1)",
+    "ShortName": "Umka Fisher 1",
+    "Description": "Umka М33-SET1 avcı yeleği."
+  },
+  "item_equipment_rig_umka_f2": {
+    "Name": "Umka М33-SET1 avcı yeleği (Fisherman Camo 2)",
+    "ShortName": "Umka Fisher 2",
+    "Description": "Umka М33-SET1 avcı yeleği."
+  },
+  "item_equipment_rig_umka_leaves": {
+    "Name": "Umka М33-SET1 avcı yeleği (Fallen leaves)",
+    "ShortName": "Umka Leaves",
+    "Description": "Umka М33-SET1 avcı yeleği."
+  },
+  "item_equipment_backpack_pilgrim_blueorange": {
+    "Name": "Dağcı turist sırt çantası (Blue Orange)",
+    "ShortName": "Dağcı çantası Blue",
+    "Description": "Dağcı turist sırt çantası."
+  },
+  "item_equipment_backpack_pilgrim_green": {
+    "Name": "Dağcı turist sırt çantası (Green)",
+    "ShortName": "Dağcı çantası Green",
+    "Description": "Dağcı turist sırt çantası."
+  },
+  "item_equipment_backpack_pilgrim_terra2": {
+    "Name": "Dağcı turist sırt çantası (Terra colors)",
+    "ShortName": "Dağcı çantası Terra",
+    "Description": "Dağcı turist sırt çantası."
+  },
+  "item_equipment_backpack_pilgrim_v1": {
+    "Name": "Dağcı turist sırt çantası (Mustard)",
+    "ShortName": "Dağcı çantası Mustard",
+    "Description": "Dağcı turist sırt çantası."
+  },
+  "item_equipment_backpack_trizip_flektarn": {
+    "Name": "Camelbak Tri-Zip assault backpack (Flektarn)",
+    "ShortName": "Tri-Zip Flektarn",
+    "Description": "Camelbak Tri-Zip assault backpack."
+  },
+  "item_equipment_backpack_trizip_vegetato": {
+    "Name": "Camelbak Tri-Zip assault backpack (Vegetato)",
+    "ShortName": "Tri-Zip Vegetato",
+    "Description": "Camelbak Tri-Zip assault backpack."
+  },
+  "item_equipment_backpack_trizip_gray": {
+    "Name": "Camelbak Tri-Zip assault backpack (Gray)",
+    "ShortName": "Tri-Zip Gray",
+    "Description": "Camelbak Tri-Zip assault backpack."
+  },
+  "item_equipment_backpack_trizip_ucp": {
+    "Name": "Camelbak Tri-Zip assault backpack (UCP)",
+    "ShortName": "Tri-Zip UCP",
+    "Description": "Camelbak Tri-Zip assault backpack."
+  },
+  "item_equipment_facecover_momex_atacs": {
+    "Name": "Momex balaklava (A-TACS FG)",
+    "ShortName": "Momex FG",
+    "Description": "Momex balaklava."
+  },
+  "item_equipment_facecover_momex_atacsa": {
+    "Name": "Momex balaklava (A-TACS Arid)",
+    "ShortName": "Momex Arid",
+    "Description": "Momex balaklava."
+  },
+  "item_equipment_facecover_momex_mc": {
+    "Name": "Momex balaklava (Multicam)",
+    "ShortName": "Momex MC",
+    "Description": "Momex balaklava."
+  },
+  "item_equipment_facecover_balaclava_emr": {
+    "Name": "Balaclava (EMR)",
+    "ShortName": "Balaclava EMR",
+    "Description": "Balaclava."
+  },
+  "item_equipment_facecover_balaclava_fde": {
+    "Name": "Balaclava (FDE)",
+    "ShortName": "Balaclava FDE",
+    "Description": "Balaclava."
+  },
+  "item_equipment_facecover_balaclava_musor": {
+    "Name": "Balaclava (Moh MVD / A-TACS)",
+    "ShortName": "Balaclava MVD",
+    "Description": "Balaclava."
+  },
+  "item_equipment_backpack_trizip_multitarn": {
+    "Name": "Camelbak Tri-Zip assault backpack (Multitarn)",
+    "ShortName": "Tri-Zip Multitarn",
+    "Description": "Camelbak Tri-Zip assault backpack."
+  },
+  "item_equipment_backpack_f5_badlands": {
+    "Name": "Eberlestock F5 sustalı çanta (Badlands)",
+    "ShortName": "F5 Badlands",
+    "Description": "Eberlestock F5 sustalı çanta."
+  },
+  "item_equipment_backpack_f5_french": {
+    "Name": "Eberlestock F5 sustalı çanta (Centre-Europe)",
+    "ShortName": "F5 CCE",
+    "Description": "Eberlestock F5 sustalı çanta."
+  },
+  "item_equipment_backpack_f5_lizard": {
+    "Name": "Eberlestock F5 sustalı çanta (Lizard)",
+    "ShortName": "F5 Lizard",
+    "Description": "Eberlestock F5 sustalı çanta."
+  },
+  "item_equipment_backpack_f5_multitarn": {
+    "Name": "Eberlestock F5 sustalı çanta (Multitarn)",
+    "ShortName": "F5 Multitarn",
+    "Description": "Eberlestock F5 sustalı çanta."
+  },
+  "item_equipment_backpack_dragon_egg_3c": {
+    "Name": "Direct Action Dragon Egg Mark II backpack (3 Color Desert)",
+    "ShortName": "Dragon Egg MKII DCU",
+    "Description": "Direct Action Dragon Egg Mark II backpack."
+  },
+  "item_equipment_backpack_dragon_egg_fde": {
+    "Name": "Direct Action Dragon Egg Mark II backpack (FDE)",
+    "ShortName": "Dragon Egg MKII FDE",
+    "Description": "Direct Action Dragon Egg Mark II backpack."
+  },
+  "item_equipment_backpack_dragon_egg_olive": {
+    "Name": "Direct Action Dragon Egg Mark II backpack (Olive)",
+    "ShortName": "Dragon Egg MKII Olive",
+    "Description": "Direct Action Dragon Egg Mark II backpack."
+  },
+  "item_equipment_backpack_dragon_egg_ix": {
+    "Name": "Direct Action Dragon Egg Mark II backpack (A-TACS iX Arid)",
+    "ShortName": "Dragon Egg MKII iX Arid",
+    "Description": "Direct Action Dragon Egg Mark II backpack."
+  },
+  "item_equipment_backpack_dragon_egg_wz93": {
+    "Name": "Direct Action Dragon Egg Mark II backpack (Wz93 Pantera)",
+    "ShortName": "Dragon Egg MKII Wz93",
+    "Description": "Direct Action Dragon Egg Mark II backpack."
+  },
+  "item_equipment_armor_kora_kulon_93": {
+    "Name": "NPP KlASS Kora-Kulon vücut zırhı (VSR-93 Barvikha)",
+    "ShortName": "Kora-Kulon 93",
+    "Description": "NPP KlASS Kora-Kulon vücut zırhı."
+  },
+  "item_equipment_armor_kora_kulon_ryzh": {
+    "Name": "NPP KlASS Kora-Kulon vücut zırhı (VSR-98 Mountain Flora)",
+    "ShortName": "Kora-Kulon 98MF",
+    "Description": "NPP KlASS Kora-Kulon vücut zırhı."
+  },
+  "item_equipment_armor_kora_kulon_flora": {
+    "Name": "NPP KlASS Kora-Kulon vücut zırhı (VSR-98 Flora)",
+    "ShortName": "Kora-Kulon 98F",
+    "Description": "NPP KlASS Kora-Kulon vücut zırhı."
+  },
+  "item_equipment_armor_kora_kulon_bkamysh": {
+    "Name": "NPP KlASS Kora-Kulon vücut zırhı (MVD Kamysh)",
+    "ShortName": "Kora-Kulon MVD",
+    "Description": "NPP KlASS Kora-Kulon vücut zırhı."
+  },
+  "item_equipment_helmet_gentex_slaap_green": {
+    "Name": "SLAAP Zırhlı plaka (Green)",
+    "ShortName": "SLAAP Green",
+    "Description": "SLAAP Zırhlı plaka."
+  },
+  "item_equipment_helmet_gentex_slaap_gray": {
+    "Name": "SLAAP Zırhlı plaka (Gray)",
+    "ShortName": "SLAAP Gray",
+    "Description": "SLAAP Zırhlı plaka."
+  },
+  "item_equipment_backpack_blackjack_ix": {
+    "Name": "Mystery Ranch Blackjack 50 sırt çantası (A-TACS iX AU)",
+    "ShortName": "Blackjack 50 iX",
+    "Description": "Mystery Ranch Blackjack 50 sırt çantası."
+  },
+  "item_equipment_backpack_blackjack_m05": {
+    "Name": "Mystery Ranch Blackjack 50 sırt çantası (M05)",
+    "ShortName": "Blackjack 50 M05",
+    "Description": "Mystery Ranch Blackjack 50 sırt çantası."
+  },
+  "item_equipment_backpack_blackjack_lizard": {
+    "Name": "Mystery Ranch Blackjack 50 sırt çantası (Lizard)",
+    "ShortName": "Blackjack 50 Lizard",
+    "Description": "Mystery Ranch Blackjack 50 sırt çantası."
+  },
+  "item_equipment_backpack_blackjack_granite": {
+    "Name": "Mystery Ranch Blackjack 50 sırt çantası (Granite-B)",
+    "ShortName": "Blackjack 50 Granite",
+    "Description": "Mystery Ranch Blackjack 50 sırt çantası."
+  },
+  "item_equipment_helmet_zsh_93": {
+    "Name": "ZSh-1-2M kask (VSR-93 Barvikha)",
+    "ShortName": "ZSh-1-2M 93",
+    "Description": "ZSh-1-2M kask."
+  },
+  "item_equipment_helmet_zsh_gray": {
+    "Name": "ZSh-1-2M kask (Kamysh Gray)",
+    "ShortName": "ZSh-1-2M Gray",
+    "Description": "ZSh-1-2M kask."
+  },
+  "item_equipment_helmet_lshz_dusk": {
+    "Name": "LZSh hafif kask (Dusk)",
+    "ShortName": "LZSh Dusk",
+    "Description": "LZSh hafif kask."
+  },
+  "item_equipment_helmet_lshz_emr": {
+    "Name": "LZSh hafif kask (EMR Summer)",
+    "ShortName": "LZSh EMR",
+    "Description": "LZSh hafif kask."
+  },
+  "item_equipment_helmet_lshz_yagel": {
+    "Name": "LZSh hafif kask (Yagel)",
+    "ShortName": "LZSh Yagel",
+    "Description": "LZSh hafif kask."
+  },
+  "item_equipment_helmet_lshz_surpat": {
+    "Name": "LZSh hafif kask (SURPAT)",
+    "ShortName": "LZSh SURPAT",
+    "Description": "LZSh hafif kask."
+  },
+  "item_equipment_backpack_mystery_ranch_coyote": {
+    "Name": "Mystery Ranch SATL Bridger Assault Pack (Coyote)",
+    "ShortName": "SATL Coyote",
+    "Description": "Mystery Ranch SATL Bridger Assault Pack."
+  },
+  "item_equipment_backpack_mystery_ranch_penncott": {
+    "Name": "Mystery Ranch SATL Bridger Assault Pack (Greenzone)",
+    "ShortName": "SATL GZ",
+    "Description": "Mystery Ranch SATL Bridger Assault Pack."
+  },
+  "item_equipment_backpack_mystery_ranch_m05w": {
+    "Name": "Mystery Ranch SATL Bridger Assault Pack (M05 Cold Weather)",
+    "ShortName": "SATL M05 CW",
+    "Description": "Mystery Ranch SATL Bridger Assault Pack."
+  },
+  "item_equipment_backpack_mystery_ranch_est": {
+    "Name": "Mystery Ranch SATL Bridger Assault Pack (ESTDCU)",
+    "ShortName": "SATL ESTDCU",
+    "Description": "Mystery Ranch SATL Bridger Assault Pack."
+  },
+  "item_equipment_rig_carriertactec_greenzone": {
+    "Name": "5.11 Tactec zırhlı taşıyıcı. (Greenzone)",
+    "ShortName": "Tactec Greenzone",
+    "Description": "5.11 Tactec zırhlı taşıyıcı.."
+  },
+  "item_equipment_rig_carriertactec_m05": {
+    "Name": "5.11 Tactec zırhlı taşıyıcı. (M05)",
+    "ShortName": "Tactec M05",
+    "Description": "5.11 Tactec zırhlı taşıyıcı.."
+  },
+  "item_equipment_rig_carriertactec_au": {
+    "Name": "5.11 Tactec zırhlı taşıyıcı. (Arid Urban)",
+    "ShortName": "Tactec AU",
+    "Description": "5.11 Tactec zırhlı taşıyıcı.."
+  },
+  "item_equipment_helmet_mich2002_aor": {
+    "Name": "MSA ACH TC-2002 MICH Serisi Kask (AOR 1)",
+    "ShortName": "TC-2002 AOR1",
+    "Description": "MSA ACH TC-2002 MICH Serisi Kask."
+  },
+  "item_equipment_helmet_mich2002_m05": {
+    "Name": "MSA ACH TC-2002 MICH Serisi Kask (M05)",
+    "ShortName": "TC-2002 M05",
+    "Description": "MSA ACH TC-2002 MICH Serisi Kask."
+  },
+  "item_equipment_rig_tv110_black": {
+    "Name": "Wartech TV-110 zırhlı hücum yeleği (Black)",
+    "ShortName": "TV-110 Black",
+    "Description": "Wartech TV-110 zırhlı hücum yeleği."
+  },
+  "item_equipment_rig_patrol_multicam": {
+    "Name": "Sürat sistemli çok amaçlı devriye yeleği (Multicam)",
+    "ShortName": "MPPV Multicam",
+    "Description": "Sürat sistemli çok amaçlı devriye yeleği."
+  },
+  "item_equipment_rig_patrol_aor2": {
+    "Name": "Sürat sistemli çok amaçlı devriye yeleği (AOR 2)",
+    "ShortName": "MPPV AOR 2",
+    "Description": "Sürat sistemli çok amaçlı devriye yeleği."
+  },
+  "item_equipment_rig_patrol_m05c": {
+    "Name": "Sürat sistemli çok amaçlı devriye yeleği (M05 Cold Weather)",
+    "ShortName": "MPPV M05 CW",
+    "Description": "Sürat sistemli çok amaçlı devriye yeleği."
+  },
+  "item_equipment_rig_m1_gray": {
+    "Name": "ANA Tactical M1 zırhlı hücum yeleği (Gray)",
+    "ShortName": "M1 Gray",
+    "Description": "ANA Tactical M1 zırhlı hücum yeleği."
+  },
+  "item_equipment_rig_m1_coyote": {
+    "Name": "ANA Tactical M1 zırhlı hücum yeleği (Coyote)",
+    "ShortName": "M1 Coyote",
+    "Description": "ANA Tactical M1 zırhlı hücum yeleği."
+  },
+  "item_equipment_rig_m1_rg": {
+    "Name": "ANA Tactical M1 zırhlı hücum yeleği (Ranger Green)",
+    "ShortName": "M1 RG",
+    "Description": "ANA Tactical M1 zırhlı hücum yeleği."
+  },
+  "item_equipment_backpack_mech_green": {
+    "Name": "Oakley Mechanism ağır yük taşımaya uygun sırtçantası (Green)",
+    "ShortName": "Mekanizma Green",
+    "Description": "Oakley Mechanism ağır yük taşımaya uygun sırtçantası."
+  },
+  "item_equipment_backpack_mech_coyote": {
+    "Name": "Oakley Mechanism ağır yük taşımaya uygun sırtçantası (Coyote)",
+    "ShortName": "Mekanizma Coyote",
+    "Description": "Oakley Mechanism ağır yük taşımaya uygun sırtçantası."
+  },
+  "item_equipment_rig_shellback_tactical_banshee_fg": {
+    "Name": "Shellback Taktik Banshee plakalı taşıyıcı (A-TACS FG)",
+    "ShortName": "Banshee FG",
+    "Description": "Shellback Taktik Banshee plakalı taşıyıcı."
+  },
+  "item_equipment_rig_shellback_tactical_banshee_ghost": {
+    "Name": "Shellback Taktik Banshee plakalı taşıyıcı (A-TACS iX Ghost)",
+    "ShortName": "Banshee Ghost",
+    "Description": "Shellback Taktik Banshee plakalı taşıyıcı."
+  },
+  "item_equipment_rig_umka_winter": {
+    "Name": "Umka М33-SET1 avcı yeleği (Winter)",
+    "ShortName": "Umka Winter",
+    "Description": "Umka М33-SET1 avcı yeleği."
+  },
+  "chestrig_tarzan_dym": {
+    "Name": "Splav Tarzan M22 Yelek (Dym / A-TACS copy)",
+    "ShortName": "Tarzan Dym",
+    "Description": "Splav Tarzan M22 Yelek."
+  },
+  "chestrig_tarzan_emra": {
+    "Name": "Splav Tarzan M22 Yelek (EMR Autumn)",
+    "ShortName": "Tarzan EMR-A",
+    "Description": "Splav Tarzan M22 Yelek."
+  },
+  "item_equipment_armor_a18_dym": {
+    "Name": "Ars Arma A18 Skanda zırhlı hücum yeleği (Dym / A-TACS copy)",
+    "ShortName": "A18 Dym",
+    "Description": "Ars Arma A18 Skanda zırhlı hücum yeleği."
+  },
+  "item_equipment_armor_a18_emr1": {
+    "Name": "Ars Arma A18 Skanda zırhlı hücum yeleği (EMR)",
+    "ShortName": "A18 EMR",
+    "Description": "Ars Arma A18 Skanda zırhlı hücum yeleği."
+  },
+  "item_equipment_armor_a18_gray": {
+    "Name": "Ars Arma A18 Skanda zırhlı hücum yeleği (Gray)",
+    "ShortName": "A18 Gray",
+    "Description": "Ars Arma A18 Skanda zırhlı hücum yeleği."
+  },
+  "item_equipment_backpack_paratus_kr": {
+    "Name": "3V G Paratus 3-Day Operator's Tactical Backpack (Kryptek Mandrake)",
+    "ShortName": "Paratus Mandrake",
+    "Description": "3V G Paratus 3-Day Operator's Tactical Backpack."
+  },
+  "item_equipment_backpack_paratus_ts": {
+    "Name": "3V G Paratus 3-Day Operator's Tactical Backpack (USAF Digital Tigerstripe)",
+    "ShortName": "Paratus USAF",
+    "Description": "3V G Paratus 3-Day Operator's Tactical Backpack."
+  },
+  "item_equipment_backpack_paratus_wasp": {
+    "Name": "3V G Paratus 3-Day Operator's Tactical Backpack (Phantomleaf WASP II Z 1A)",
+    "ShortName": "Paratus WASP",
+    "Description": "3V G Paratus 3-Day Operator's Tactical Backpack."
+  },
+  "item_equipment_backpack_takedown_sling_1": {
+    "Name": "Hazard4 Takedown sling sırt çantası (AOR-2)",
+    "ShortName": "Takedown AOR-2",
+    "Description": "Hazard4 Takedown sling sırt çantası."
+  },
+  "item_equipment_backpack_takedown_sling_2": {
+    "Name": "Hazard4 Takedown sling sırt çantası (MARPAT Urban)",
+    "ShortName": "Takedown MP-U",
+    "Description": "Hazard4 Takedown sling sırt çantası."
+  },
+  "item_equipment_rig_6h112_arctic": {
+    "Name": "UMTBS 6sh112 Scout-Sniper (EMR Arctic)",
+    "ShortName": "6sh112 EMR-Ar",
+    "Description": "UMTBS 6sh112 Scout-Sniper."
+  },
+  "item_equipment_rig_bae_rbav_aor": {
+    "Name": "ECLiPSE RBAV-AF plaka taşıyıcı (AOR-2)",
+    "ShortName": "RBAV-AF AOR-2",
+    "Description": "ECLiPSE RBAV-AF plaka taşıyıcı."
+  },
+  "item_equipment_rig_bae_rbav_ucon": {
+    "Name": "ECLiPSE RBAV-AF plaka taşıyıcı (A-TACS U|CON)",
+    "ShortName": "RBAV-AF UCON",
+    "Description": "ECLiPSE RBAV-AF plaka taşıyıcı."
+  },
+  "item_equipment_rig_d3crx_multicam": {
+    "Name": "Haley Strategic D3CRX hücum yeleği (Multicam)",
+    "ShortName": "D3CRX MC",
+    "Description": "Haley Strategic D3CRX hücum yeleği."
+  },
+  "item_equipment_rig_d3crx_multicamblack": {
+    "Name": "Haley Strategic D3CRX hücum yeleği (Multicam Black)",
+    "ShortName": "D3CRX MCB",
+    "Description": "Haley Strategic D3CRX hücum yeleği."
+  },
+  "item_equipment_rig_d3crx_multicamtropic": {
+    "Name": "Haley Strategic D3CRX hücum yeleği (Multicam Tropic)",
+    "ShortName": "D3CRX MCT",
+    "Description": "Haley Strategic D3CRX hücum yeleği."
+  },
+  "item_equipment_rig_blackrock_ral7013": {
+    "Name": "BlackRock göğüs yeleği (RAL 7013)",
+    "ShortName": "BlackRock 7013",
+    "Description": "BlackRock göğüs yeleği."
+  },
+  "item_equipment_armor_custom_hexgrid_c": {
+    "Name": "5.11 Hexgrid zırhlı taşıyıcı (Coyote)",
+    "ShortName": "HGrid Coyote",
+    "Description": "5.11 Hexgrid zırhlı taşıyıcı."
+  },
+  "item_equipment_armor_custom_hexgrid_g": {
+    "Name": "5.11 Hexgrid zırhlı taşıyıcı (Green)",
+    "ShortName": "HGrid Green",
+    "Description": "5.11 Hexgrid zırhlı taşıyıcı."
+  },
+  "item_equipment_facecover_strikeball_mask_leshiy": {
+    "Name": "Death Shadow lightweight armored mask (Lešij custom paint)",
+    "ShortName": "Death Shadow Lešij",
+    "Description": "Death Shadow lightweight armored mask."
+  },
+  "item_equipment_backpack_g2_gunslinger_gray": {
+    "Name": "Eberlestock G2 Gunslinger II sırt çantası (Gray)",
+    "ShortName": "Gunslinger Gray",
+    "Description": "Eberlestock G2 Gunslinger II sırt çantası."
+  },
+  "item_equipment_backpack_g2_gunslinger_slocam": {
+    "Name": "Eberlestock G2 Gunslinger II sırt çantası (SLOCAM)",
+    "ShortName": "Gunslinger SK",
+    "Description": "Eberlestock G2 Gunslinger II sırt çantası."
+  },
+  "item_equipment_backpack_g2_gunslinger_ucon": {
+    "Name": "Eberlestock G2 Gunslinger II sırt çantası (A-TACS U|CON)",
+    "ShortName": "Gunslinger UCON",
+    "Description": "Eberlestock G2 Gunslinger II sırt çantası."
+  },
+  "item_equipment_backpack_f4terminator_black": {
+    "Name": "Eberlestock F4 Terminator boy taşıma çantası (Black)",
+    "ShortName": "F4 Black",
+    "Description": "Eberlestock F4 Terminator boy taşıma çantası."
+  },
+  "item_equipment_backpack_f4terminator_h": {
+    "Name": "Eberlestock F4 Terminator boy taşıma çantası (HUNCAM)",
+    "ShortName": "F4 HU",
+    "Description": "Eberlestock F4 Terminator boy taşıma çantası."
+  },
+  "item_equipment_backpack_f4terminator_c": {
+    "Name": "Eberlestock F4 Terminator boy taşıma çantası (Vz 95)",
+    "ShortName": "F4 95",
+    "Description": "Eberlestock F4 Terminator boy taşıma çantası."
+  }
+}

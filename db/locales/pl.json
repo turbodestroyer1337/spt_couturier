@@ -1,0 +1,957 @@
+{
+  "item_equipment_armor_6b3_berezka": {
+    "Name": "Wzmocniona kamizelka taktyczna 6B3TM-01 (KLMK)",
+    "ShortName": "6B3TM-01 KLMK",
+    "Description": "Wzmocniona kamizelka taktyczna 6B3TM-01."
+  },
+  "item_equipment_armor_6b3_bhutan": {
+    "Name": "Wzmocniona kamizelka taktyczna 6B3TM-01 (Granite)",
+    "ShortName": "6B3TM-01 Granite",
+    "Description": "Wzmocniona kamizelka taktyczna 6B3TM-01."
+  },
+  "item_equipment_armor_6b3_green": {
+    "Name": "Wzmocniona kamizelka taktyczna 6B3TM-01 (Dark olive)",
+    "ShortName": "6B3TM-01 DOlive",
+    "Description": "Wzmocniona kamizelka taktyczna 6B3TM-01."
+  },
+  "item_equipment_helmet_6b47covered_atacs": {
+    "Name": "Hełm 6B47 Ratnik-BSz (A-TACS / Moh)",
+    "ShortName": "6B47 Moh",
+    "Description": "Hełm 6B47 Ratnik-BSz."
+  },
+  "item_equipment_helmet_6b47covered_pig": {
+    "Name": "Hełm 6B47 Ratnik-BSz (EMR Syria / Pig)",
+    "ShortName": "6B47 DFL Pig",
+    "Description": "Hełm 6B47 Ratnik-BSz."
+  },
+  "item_equipment_helmet_6b47covered_spring": {
+    "Name": "Hełm 6B47 Ratnik-BSz (EMR Spring)",
+    "ShortName": "6B47 DFL Spring",
+    "Description": "Hełm 6B47 Ratnik-BSz."
+  },
+  "item_equipment_helmet_6b47covered_ss": {
+    "Name": "Hełm 6B47 Ratnik-BSz (RUSS Partizan)",
+    "ShortName": "6B47 Partizan",
+    "Description": "Hełm 6B47 Ratnik-BSz."
+  },
+  "item_equipment_helmet_6b47covered_surpat": {
+    "Name": "Hełm 6B47 Ratnik-BSz (SURPAT Arid)",
+    "ShortName": "6B47 Arid",
+    "Description": "Hełm 6B47 Ratnik-BSz."
+  },
+  "item_equipment_backpack_6sh118_pig": {
+    "Name": "Plecak rajdowy 6Sz118 (EMR Syria / Pig)",
+    "ShortName": "6Sz118 Pig",
+    "Description": "Plecak rajdowy 6Sz118."
+  },
+  "item_equipment_backpack_6sh118_atacsa": {
+    "Name": "Plecak rajdowy 6Sz118 (A-TACS Arid / Moh Autumn)",
+    "ShortName": "6Sz118 Autumn",
+    "Description": "Plecak rajdowy 6Sz118."
+  },
+  "item_equipment_backpack_6sh118_atacsg": {
+    "Name": "Plecak rajdowy 6Sz118 (A-TACS / Moh)",
+    "ShortName": "6Sz118 Moh",
+    "Description": "Plecak rajdowy 6Sz118."
+  },
+  "item_equipment_backpack_6sh118_mc": {
+    "Name": "Plecak rajdowy 6Sz118 (Multicam)",
+    "ShortName": "6Sz118 MC",
+    "Description": "Plecak rajdowy 6Sz118."
+  },
+  "item_equipment_backpack_6sh118_spring": {
+    "Name": "Plecak rajdowy 6Sz118 (EMR Spring)",
+    "ShortName": "6Sz118 Spring",
+    "Description": "Plecak rajdowy 6Sz118."
+  },
+  "item_equipment_armor_korundvm_kamysh": {
+    "Name": "Pancerz NPP KIASS Korund-WM (Kamysh)",
+    "ShortName": "Korund-WM Kamysh",
+    "Description": "Pancerz NPP KIASS Korund-WM."
+  },
+  "item_equipment_armor_korundvm_blue": {
+    "Name": "Pancerz NPP KIASS Korund-WM (Moh Blue)",
+    "ShortName": "Korund-WM Blue",
+    "Description": "Pancerz NPP KIASS Korund-WM."
+  },
+  "item_equipment_armor_korundvm_emr": {
+    "Name": "Pancerz NPP KIASS Korund-WM (EMR)",
+    "ShortName": "Korund-WM EMR",
+    "Description": "Pancerz NPP KIASS Korund-WM."
+  },
+  "item_equipment_armor_korundvm_flora": {
+    "Name": "Pancerz NPP KIASS Korund-WM (Flora)",
+    "ShortName": "Korund-WM Flora",
+    "Description": "Pancerz NPP KIASS Korund-WM."
+  },
+  "item_equipment_armor_korundvm_partizan": {
+    "Name": "Pancerz NPP KIASS Korund-WM (RUSS Partizan)",
+    "ShortName": "Korund-WM Partizan",
+    "Description": "Pancerz NPP KIASS Korund-WM."
+  },
+  "item_equipment_helmet_mich2002_mm14": {
+    "Name": "Hełm MSA ACH TC-2002 MICH Series (MM14)",
+    "ShortName": "TC-2002 MM14",
+    "Description": "Hełm MSA ACH TC-2002 MICH Series."
+  },
+  "item_equipment_helmet_mich2002_vegetato": {
+    "Name": "Hełm MSA ACH TC-2002 MICH Series (Vegetato)",
+    "ShortName": "TC-2002 Vegetato",
+    "Description": "Hełm MSA ACH TC-2002 MICH Series."
+  },
+  "item_equipment_helmet_mich2002_fca": {
+    "Name": "Hełm MSA ACH TC-2002 MICH Series (Centre-Europe)",
+    "ShortName": "TC-2002 CCE",
+    "Description": "Hełm MSA ACH TC-2002 MICH Series."
+  },
+  "item_equipment_helmet_mich2001_flektarn": {
+    "Name": "Hełm MSA ACH TC-2001 MICH Series (Flektarn)",
+    "ShortName": "TC-2001 Flektarn",
+    "Description": "Hełm MSA ACH TC-2001 MICH Series."
+  },
+  "item_equipment_helmet_mich2001_tropentarn": {
+    "Name": "Hełm MSA ACH TC-2001 MICH Series (Tropentarn)",
+    "ShortName": "TC-2001 Tropentarn",
+    "Description": "Hełm MSA ACH TC-2001 MICH Series."
+  },
+  "item_equipment_helmet_mich2001_mtp": {
+    "Name": "Hełm MSA ACH TC-2001 MICH Series (British MTP)",
+    "ShortName": "TC-2001 MTP",
+    "Description": "Hełm MSA ACH TC-2001 MICH Series."
+  },
+  "item_equipment_backpack_sso_emr": {
+    "Name": "Plecak rajdowy SSO Ataka 2 (Emr)",
+    "ShortName": "Ataka 2 Emr",
+    "Description": "Plecak rajdowy SSO Ataka 2."
+  },
+  "item_equipment_backpack_sso_olive": {
+    "Name": "Plecak rajdowy SSO Ataka 2 (Olive)",
+    "ShortName": "Ataka 2 Olive",
+    "Description": "Plecak rajdowy SSO Ataka 2."
+  },
+  "item_equipment_backpack_sso_izlom": {
+    "Name": "Plecak rajdowy SSO Ataka 2 (Izlom)",
+    "ShortName": "Ataka 2 Izlom",
+    "Description": "Plecak rajdowy SSO Ataka 2."
+  },
+  "item_equipment_rig_cryeavs_atacsarid": {
+    "Name": "Plate carrier Crye Precision AVS (A-TACS Arid)",
+    "ShortName": "AVS Arid",
+    "Description": "Plate carrier Crye Precision AVS."
+  },
+  "item_equipment_rig_cryeavs_flektarn": {
+    "Name": "Plate carrier Crye Precision AVS (Flektarn)",
+    "ShortName": "AVS Flektarn",
+    "Description": "Plate carrier Crye Precision AVS."
+  },
+  "item_equipment_rig_cryeavs_mcblack": {
+    "Name": "Plate carrier Crye Precision AVS (Multicam Black)",
+    "ShortName": "AVS Black",
+    "Description": "Plate carrier Crye Precision AVS."
+  },
+  "item_equipment_rig_cryeavs_ucp": {
+    "Name": "Plate carrier Crye Precision AVS (UCP)",
+    "ShortName": "AVS UCP",
+    "Description": "Plate carrier Crye Precision AVS."
+  },
+  "item_equipment_rig_cryeavs_vegetato": {
+    "Name": "Plate carrier Crye Precision AVS (Vegetato)",
+    "ShortName": "AVS Vegetato",
+    "Description": "Plate carrier Crye Precision AVS."
+  },
+  "item_equipment_rig_cryeavs_mm14": {
+    "Name": "Plate carrier Crye Precision AVS (MM14)",
+    "ShortName": "AVS MM14",
+    "Description": "Plate carrier Crye Precision AVS."
+  },
+  "item_equipment_rig_triton_berezka": {
+    "Name": "Kamizelka taktyczna Dynaforce Triton M43-A (KLMK)",
+    "ShortName": "Triton KLMK",
+    "Description": "Kamizelka taktyczna Dynaforce Triton M43-A."
+  },
+  "item_equipment_rig_triton_dpm": {
+    "Name": "Kamizelka taktyczna Dynaforce Triton M43-A (British DPM)",
+    "ShortName": "Triton DPM",
+    "Description": "Kamizelka taktyczna Dynaforce Triton M43-A."
+  },
+  "item_equipment_rig_triton_flora": {
+    "Name": "Kamizelka taktyczna Dynaforce Triton M43-A (Flora)",
+    "ShortName": "Triton Flora",
+    "Description": "Kamizelka taktyczna Dynaforce Triton M43-A."
+  },
+  "item_equipment_rig_triton_omon": {
+    "Name": "Kamizelka taktyczna Dynaforce Triton M43-A (MVD Kamysh)",
+    "ShortName": "Triton MVD",
+    "Description": "Kamizelka taktyczna Dynaforce Triton M43-A."
+  },
+  "item_equipment_rig_triton_ryzh": {
+    "Name": "Kamizelka taktyczna Dynaforce Triton M43-A (Ryzjuha)",
+    "ShortName": "Triton Ryzjuha",
+    "Description": "Kamizelka taktyczna Dynaforce Triton M43-A."
+  },
+  "item_equipment_armor_gjel_fde": {
+    "Name": "Kamizelka kuloodporna BNTI Gżel-K (FDE)",
+    "ShortName": "Gżel-K FDE",
+    "Description": "Kamizelka kuloodporna BNTI Gżel-K."
+  },
+  "item_equipment_armor_gjel_gray": {
+    "Name": "Kamizelka kuloodporna BNTI Gżel-K (Dark gray)",
+    "ShortName": "Gżel-K Gray",
+    "Description": "Kamizelka kuloodporna BNTI Gżel-K."
+  },
+  "item_equipment_backpack_trooper_35_mc": {
+    "Name": "Plecak Tasmanian Tiger Trooper 35 (Multicam)",
+    "ShortName": "Trooper 35 MC",
+    "Description": "Plecak Tasmanian Tiger Trooper 35."
+  },
+  "item_equipment_backpack_trooper_35_mm14": {
+    "Name": "Plecak Tasmanian Tiger Trooper 35 (MM14)",
+    "ShortName": "Trooper 35 MM14",
+    "Description": "Plecak Tasmanian Tiger Trooper 35."
+  },
+  "item_equipment_backpack_trooper_35_ucp": {
+    "Name": "Plecak Tasmanian Tiger Trooper 35 (Ucp)",
+    "ShortName": "Trooper 35 Ucp",
+    "Description": "Plecak Tasmanian Tiger Trooper 35."
+  },
+  "item_equipment_backpack_trooper_35_urban": {
+    "Name": "Plecak Tasmanian Tiger Trooper 35 (Urban)",
+    "ShortName": "Trooper 35 Urban",
+    "Description": "Plecak Tasmanian Tiger Trooper 35."
+  },
+  "item_equipment_backpack_daypack_aor": {
+    "Name": "Plecak jednodniowy LBT-8005A (AOR 1)",
+    "ShortName": "Jednodniowy AOR",
+    "Description": "Plecak jednodniowy LBT-8005A."
+  },
+  "item_equipment_backpack_daypack_gray": {
+    "Name": "Plecak jednodniowy LBT-8005A (Gray)",
+    "ShortName": "Jednodniowy Gray",
+    "Description": "Plecak jednodniowy LBT-8005A."
+  },
+  "item_equipment_backpack_daypack_estpat": {
+    "Name": "Plecak jednodniowy LBT-8005A (ESTDCU)",
+    "ShortName": "Jednodniowy ESTDCU",
+    "Description": "Plecak jednodniowy LBT-8005A."
+  },
+  "item_equipment_backpack_daypack_flektarn": {
+    "Name": "Plecak jednodniowy LBT-8005A (Flektarn)",
+    "ShortName": "Jednodniowy Flektarn",
+    "Description": "Plecak jednodniowy LBT-8005A."
+  },
+  "item_equipment_backpack_wartech_emr": {
+    "Name": "Plecak WARTECH Berkut BB-102 (Emr)",
+    "ShortName": "Berkut Emr",
+    "Description": "Plecak WARTECH Berkut BB-102."
+  },
+  "item_equipment_backpack_wartech_emrd": {
+    "Name": "Plecak WARTECH Berkut BB-102 (EMR Desert)",
+    "ShortName": "Berkut EMRD",
+    "Description": "Plecak WARTECH Berkut BB-102."
+  },
+  "item_equipment_backpack_wartech_yagel": {
+    "Name": "Plecak WARTECH Berkut BB-102 (Dusk)",
+    "ShortName": "Berkut Dusk",
+    "Description": "Plecak WARTECH Berkut BB-102."
+  },
+  "item_equipment_helmet_hops_mm14": {
+    "Name": "Hełm Ops-Core FAST MT Super High Cut (MM14)",
+    "ShortName": "FAST MT MM14",
+    "Description": "Hełm Ops-Core FAST MT Super High Cut."
+  },
+  "item_equipment_helmet_hops_mc": {
+    "Name": "Hełm Ops-Core FAST MT Super High Cut (Multicam)",
+    "ShortName": "FAST MT MC",
+    "Description": "Hełm Ops-Core FAST MT Super High Cut."
+  },
+  "item_equipment_helmet_hops_mct": {
+    "Name": "Hełm Ops-Core FAST MT Super High Cut (Multicam Tropic)",
+    "ShortName": "FAST MT MCT",
+    "Description": "Hełm Ops-Core FAST MT Super High Cut."
+  },
+  "item_equipment_helmet_hops_atacs": {
+    "Name": "Hełm Ops-Core FAST MT Super High Cut (A-TACS FG)",
+    "ShortName": "FAST MT FG",
+    "Description": "Hełm Ops-Core FAST MT Super High Cut."
+  },
+  "item_equipment_helmet_hops_ucp": {
+    "Name": "Hełm Ops-Core FAST MT Super High Cut (UCP)",
+    "ShortName": "FAST MT UCP",
+    "Description": "Hełm Ops-Core FAST MT Super High Cut."
+  },
+  "item_equipment_helmet_diamond_age_bastion_m81": {
+    "Name": "Hełm Diamond Age Bastion (M81)",
+    "ShortName": "DA Bastion M81",
+    "Description": "Hełm Diamond Age Bastion."
+  },
+  "item_equipment_helmet_diamond_age_bastion_mtp": {
+    "Name": "Hełm Diamond Age Bastion (British MTP)",
+    "ShortName": "DA Bastion MTP",
+    "Description": "Hełm Diamond Age Bastion."
+  },
+  "item_equipment_rig_patrol_green": {
+    "Name": "Wielozadaniowa kamizelka patrolowa Velocity Systems MPPV (Green)",
+    "ShortName": "MPPV Green",
+    "Description": "Wielozadaniowa kamizelka patrolowa Velocity Systems MPPV."
+  },
+  "item_equipment_rig_patrol_fde": {
+    "Name": "Wielozadaniowa kamizelka patrolowa Velocity Systems MPPV (FDE)",
+    "ShortName": "MPPV FDE",
+    "Description": "Wielozadaniowa kamizelka patrolowa Velocity Systems MPPV."
+  },
+  "item_equipment_rig_mmac_ucp": {
+    "Name": "Plate carrier Eagle Industries MMAC (UCP)",
+    "ShortName": "MMAC UCP",
+    "Description": "Plate carrier Eagle Industries MMAC."
+  },
+  "item_equipment_rig_mmac_mm14": {
+    "Name": "Plate carrier Eagle Industries MMAC (MM14)",
+    "ShortName": "MMAC MM14",
+    "Description": "Plate carrier Eagle Industries MMAC."
+  },
+  "item_equipment_rig_mmac_aor": {
+    "Name": "Plate carrier Eagle Industries MMAC (AOR-1)",
+    "ShortName": "MMAC AOR",
+    "Description": "Plate carrier Eagle Industries MMAC."
+  },
+  "item_equipment_rig_1961_vegetato": {
+    "Name": "Kamizelka taktyczna do przenoszenia oporządzenia LBT-1961A (Vegetato)",
+    "ShortName": "LBT-1961A Vegetato",
+    "Description": "Kamizelka taktyczna do przenoszenia oporządzenia LBT-1961A."
+  },
+  "item_equipment_rig_1961_winter": {
+    "Name": "Kamizelka taktyczna do przenoszenia oporządzenia LBT-1961A (Winter)",
+    "ShortName": "LBT-1961A Winter",
+    "Description": "Kamizelka taktyczna do przenoszenia oporządzenia LBT-1961A."
+  },
+  "item_equipment_rig_1961_ucp": {
+    "Name": "Kamizelka taktyczna do przenoszenia oporządzenia LBT-1961A (UCP)",
+    "ShortName": "LBT-1961A UCP",
+    "Description": "Kamizelka taktyczna do przenoszenia oporządzenia LBT-1961A."
+  },
+  "item_equipment_rig_1961_mtp": {
+    "Name": "Kamizelka taktyczna do przenoszenia oporządzenia LBT-1961A (British MTP)",
+    "ShortName": "LBT-1961A MTP",
+    "Description": "Kamizelka taktyczna do przenoszenia oporządzenia LBT-1961A."
+  },
+  "item_equipment_rig_1961_estpatd": {
+    "Name": "Kamizelka taktyczna do przenoszenia oporządzenia LBT-1961A (ESTDCU Desert)",
+    "ShortName": "LBT-1961A ESTDCU-D",
+    "Description": "Kamizelka taktyczna do przenoszenia oporządzenia LBT-1961A."
+  },
+  "item_equipment_rig_azimut_emra": {
+    "Name": "Kamizelka taktyczna Azimut SS „Żuk” (EMR Arid)",
+    "ShortName": "Azimut EMR",
+    "Description": "Kamizelka taktyczna Azimut SS „Żuk”."
+  },
+  "item_equipment_rig_azimut_emrs": {
+    "Name": "Kamizelka taktyczna Azimut SS „Żuk” (EMR Spring)",
+    "ShortName": "Azimut Spring",
+    "Description": "Kamizelka taktyczna Azimut SS „Żuk”."
+  },
+  "item_equipment_rig_azimut_atacsa": {
+    "Name": "Kamizelka taktyczna Azimut SS „Żuk” (Moh / A-TACS Arid)",
+    "ShortName": "Azimut Moh-A",
+    "Description": "Kamizelka taktyczna Azimut SS „Żuk”."
+  },
+  "item_equipment_rig_azimut_emrp": {
+    "Name": "Kamizelka taktyczna Azimut SS „Żuk” (EMR Syria / Pig)",
+    "ShortName": "Azimut Pig",
+    "Description": "Kamizelka taktyczna Azimut SS „Żuk”."
+  },
+  "item_equipment_rig_beltab_berezka": {
+    "Name": "Kamizelka taktyczna Pas-A + Pas-B (KLMK Yellow)",
+    "ShortName": "Kombinacja Pas KLMK",
+    "Description": "Kamizelka taktyczna Pas-A + Pas-B."
+  },
+  "item_equipment_rig_beltab_ttsko": {
+    "Name": "Kamizelka taktyczna Pas-A + Pas-B (TTsKO)",
+    "ShortName": "Kombinacja Pas TTsKO",
+    "Description": "Kamizelka taktyczna Pas-A + Pas-B."
+  },
+  "item_equipment_rig_tv110_moh": {
+    "Name": "Plate carrier WARTECH TV-110 (Moh / A-TACS)",
+    "ShortName": "TV-110 Moh",
+    "Description": "Plate carrier WARTECH TV-110."
+  },
+  "item_equipment_armor_otv_cce": {
+    "Name": "Kamizelka kuloodporna Interceptor OTV (Centre-Europe)",
+    "ShortName": "OTV CCE",
+    "Description": "Kamizelka kuloodporna Interceptor OTV."
+  },
+  "item_equipment_armor_otv_3c": {
+    "Name": "Kamizelka kuloodporna Interceptor OTV (3 Color Desert)",
+    "ShortName": "OTV DCU",
+    "Description": "Kamizelka kuloodporna Interceptor OTV."
+  },
+  "item_equipment_armor_un_3c": {
+    "Name": "Kamizelka kuloodporna MF-UNTAR (3 Color Desert)",
+    "ShortName": "MF-UN DCU",
+    "Description": "Kamizelka kuloodporna MF-UNTAR."
+  },
+  "item_equipment_armor_un_marpat": {
+    "Name": "Kamizelka kuloodporna MF-UNTAR (MARPAT)",
+    "ShortName": "MF-UN MARPAT",
+    "Description": "Kamizelka kuloodporna MF-UNTAR."
+  },
+  "item_equipment_armor_un_wineleaf": {
+    "Name": "Kamizelka kuloodporna MF-UNTAR (Wine Leaf)",
+    "ShortName": "MF-UN WL",
+    "Description": "Kamizelka kuloodporna MF-UNTAR."
+  },
+  "item_equipment_armor_6b23_emrpig": {
+    "Name": "Pancerz 6B23-1 (EMR Syria / Pig)",
+    "ShortName": "6B23-1 DFL Pig",
+    "Description": "Pancerz 6B23-1."
+  },
+  "item_equipment_armor_6b23_klmk": {
+    "Name": "Pancerz 6B23-1 (KLMK)",
+    "ShortName": "6B23-1 KLMK",
+    "Description": "Pancerz 6B23-1."
+  },
+  "item_equipment_armor_6b23_yagel": {
+    "Name": "Pancerz 6B23-1 (Dusk)",
+    "ShortName": "6B23-1 Dusk",
+    "Description": "Pancerz 6B23-1."
+  },
+  "item_equipment_armor_def2_moh": {
+    "Name": "Kamizelka kuloodporna FORT Defender-2 (A-TACS / Moh)",
+    "ShortName": "Defender-2 Moh",
+    "Description": "Kamizelka kuloodporna FORT Defender-2."
+  },
+  "item_equipment_armor_def2_moha": {
+    "Name": "Kamizelka kuloodporna FORT Defender-2 (A-TACS Arid / Moh Autumn)",
+    "ShortName": "Defender-2 Autumn",
+    "Description": "Kamizelka kuloodporna FORT Defender-2."
+  },
+  "item_equipment_armor_slick_atacs": {
+    "Name": "Plate carrier LBT-6094A Slick (A-TACS FG)",
+    "ShortName": "Slick FG",
+    "Description": "Plate carrier LBT-6094A Slick."
+  },
+  "item_equipment_armor_slick_ixarid": {
+    "Name": "Plate carrier LBT-6094A Slick (A-TACS iX Arid)",
+    "ShortName": "Slick iX Arid",
+    "Description": "Plate carrier LBT-6094A Slick."
+  },
+  "item_equipment_armor_slick_ucp": {
+    "Name": "Plate carrier LBT-6094A Slick (UCP)",
+    "ShortName": "Slick UCP",
+    "Description": "Plate carrier LBT-6094A Slick."
+  },
+  "item_equipment_armor_slick_vegetato": {
+    "Name": "Plate carrier LBT-6094A Slick (Vegetato)",
+    "ShortName": "Slick Vegetato",
+    "Description": "Plate carrier LBT-6094A Slick."
+  },
+  "item_equipment_backpack_beta_moha": {
+    "Name": "Plecak bojowy ANA Tactical Beta 2 (A-TACS Arid / Moh Autumn)",
+    "ShortName": "Beta2 Moh-A",
+    "Description": "Plecak bojowy ANA Tactical Beta 2."
+  },
+  "item_equipment_backpack_beta_moh": {
+    "Name": "Plecak bojowy ANA Tactical Beta 2 (Moh / A-TACS FG)",
+    "ShortName": "Beta2 Moh",
+    "Description": "Plecak bojowy ANA Tactical Beta 2."
+  },
+  "item_equipment_backpack_beta_emrd": {
+    "Name": "Plecak bojowy ANA Tactical Beta 2 (EMR Desert)",
+    "ShortName": "Beta2 EMRD",
+    "Description": "Plecak bojowy ANA Tactical Beta 2."
+  },
+  "item_equipment_backpack_beta_emr": {
+    "Name": "Plecak bojowy ANA Tactical Beta 2 (EMR Flora)",
+    "ShortName": "Beta2 EMR",
+    "Description": "Plecak bojowy ANA Tactical Beta 2."
+  },
+  "item_equipment_backpack_gr99t30_moh": {
+    "Name": "Plecak Gruppa 99 T30 (Moh / A-TACS FG)",
+    "ShortName": "T30 Moh",
+    "Description": "Plecak Gruppa 99 T30."
+  },
+  "item_equipment_backpack_gr99t30_emrd": {
+    "Name": "Plecak Gruppa 99 T30 (EMR Desert)",
+    "ShortName": "T30 EMRD",
+    "Description": "Plecak Gruppa 99 T30."
+  },
+  "item_equipment_backpack_gr99t30_klmk": {
+    "Name": "Plecak Gruppa 99 T30 (KLMK)",
+    "ShortName": "T30 KLMK",
+    "Description": "Plecak Gruppa 99 T30."
+  },
+  "item_equipment_backpack_gr99t30_emr": {
+    "Name": "Plecak Gruppa 99 T30 (EMR)",
+    "ShortName": "T30 EMR",
+    "Description": "Plecak Gruppa 99 T30."
+  },
+  "item_equipment_backpack_lbt1476a_slick_aor1": {
+    "Name": "Plecak trzydniowy LBT-1476A (AOR 1)",
+    "ShortName": "LBT-1476A AOR",
+    "Description": "Plecak trzydniowy LBT-1476A."
+  },
+  "item_equipment_backpack_lbt1476a_slick_gray": {
+    "Name": "Plecak trzydniowy LBT-1476A (Gray)",
+    "ShortName": "LBT-1476A Gray",
+    "Description": "Plecak trzydniowy LBT-1476A."
+  },
+  "item_equipment_backpack_lbt1476a_slick_ucp": {
+    "Name": "Plecak trzydniowy LBT-1476A (UCP)",
+    "ShortName": "LBT-1476A UCP",
+    "Description": "Plecak trzydniowy LBT-1476A."
+  },
+  "item_equipment_backpack_lbt1476a_slick_tropentarn": {
+    "Name": "Plecak trzydniowy LBT-1476A (Tropentarn)",
+    "ShortName": "LBT-1476A Tropentarn",
+    "Description": "Plecak trzydniowy LBT-1476A."
+  },
+  "item_equipment_rig_umka_f1": {
+    "Name": "Kamizelka myśliwska Umka M33-SET1 (Fisherman Camo 1)",
+    "ShortName": "Umka Fisher 1",
+    "Description": "Kamizelka myśliwska Umka M33-SET1."
+  },
+  "item_equipment_rig_umka_f2": {
+    "Name": "Kamizelka myśliwska Umka M33-SET1 (Fisherman Camo 2)",
+    "ShortName": "Umka Fisher 2",
+    "Description": "Kamizelka myśliwska Umka M33-SET1."
+  },
+  "item_equipment_rig_umka_leaves": {
+    "Name": "Kamizelka myśliwska Umka M33-SET1 (Fallen leaves)",
+    "ShortName": "Umka Leaves",
+    "Description": "Kamizelka myśliwska Umka M33-SET1."
+  },
+  "item_equipment_backpack_pilgrim_blueorange": {
+    "Name": "Plecak turystyczny Pilgrim (Blue Orange)",
+    "ShortName": "Pilgrim Blue",
+    "Description": "Plecak turystyczny Pilgrim."
+  },
+  "item_equipment_backpack_pilgrim_green": {
+    "Name": "Plecak turystyczny Pilgrim (Green)",
+    "ShortName": "Pilgrim Green",
+    "Description": "Plecak turystyczny Pilgrim."
+  },
+  "item_equipment_backpack_pilgrim_terra2": {
+    "Name": "Plecak turystyczny Pilgrim (Terra colors)",
+    "ShortName": "Pilgrim Terra",
+    "Description": "Plecak turystyczny Pilgrim."
+  },
+  "item_equipment_backpack_pilgrim_v1": {
+    "Name": "Plecak turystyczny Pilgrim (Mustard)",
+    "ShortName": "Pilgrim Mustard",
+    "Description": "Plecak turystyczny Pilgrim."
+  },
+  "item_equipment_backpack_trizip_flektarn": {
+    "Name": "Plecak szturmowy Camelbak Tri-Zip (Flektarn)",
+    "ShortName": "Tri-Zip Flektarn",
+    "Description": "Plecak szturmowy Camelbak Tri-Zip."
+  },
+  "item_equipment_backpack_trizip_vegetato": {
+    "Name": "Plecak szturmowy Camelbak Tri-Zip (Vegetato)",
+    "ShortName": "Tri-Zip Vegetato",
+    "Description": "Plecak szturmowy Camelbak Tri-Zip."
+  },
+  "item_equipment_backpack_trizip_gray": {
+    "Name": "Plecak szturmowy Camelbak Tri-Zip (Gray)",
+    "ShortName": "Tri-Zip Gray",
+    "Description": "Plecak szturmowy Camelbak Tri-Zip."
+  },
+  "item_equipment_backpack_trizip_ucp": {
+    "Name": "Plecak szturmowy Camelbak Tri-Zip (UCP)",
+    "ShortName": "Tri-Zip UCP",
+    "Description": "Plecak szturmowy Camelbak Tri-Zip."
+  },
+  "item_equipment_facecover_momex_atacs": {
+    "Name": "Kominiarka Momex (A-TACS FG)",
+    "ShortName": "Momex FG",
+    "Description": "Kominiarka Momex."
+  },
+  "item_equipment_facecover_momex_atacsa": {
+    "Name": "Kominiarka Momex (A-TACS Arid)",
+    "ShortName": "Momex Arid",
+    "Description": "Kominiarka Momex."
+  },
+  "item_equipment_facecover_momex_mc": {
+    "Name": "Kominiarka Momex (Multicam)",
+    "ShortName": "Momex MC",
+    "Description": "Kominiarka Momex."
+  },
+  "item_equipment_facecover_balaclava_emr": {
+    "Name": "Kominiarka (EMR)",
+    "ShortName": "Kominiarka EMR",
+    "Description": "Kominiarka."
+  },
+  "item_equipment_facecover_balaclava_fde": {
+    "Name": "Kominiarka (FDE)",
+    "ShortName": "Kominiarka FDE",
+    "Description": "Kominiarka."
+  },
+  "item_equipment_facecover_balaclava_musor": {
+    "Name": "Kominiarka (Moh MVD / A-TACS)",
+    "ShortName": "Kominiarka MVD",
+    "Description": "Kominiarka."
+  },
+  "item_equipment_backpack_trizip_multitarn": {
+    "Name": "Plecak szturmowy Camelbak Tri-Zip (Multitarn)",
+    "ShortName": "Tri-Zip Multitarn",
+    "Description": "Plecak szturmowy Camelbak Tri-Zip."
+  },
+  "item_equipment_backpack_f5_badlands": {
+    "Name": "Plecak Eberlestock F5 Switchblade (Badlands)",
+    "ShortName": "F5 Switchblade Badlands",
+    "Description": "Plecak Eberlestock F5 Switchblade."
+  },
+  "item_equipment_backpack_f5_french": {
+    "Name": "Plecak Eberlestock F5 Switchblade (Centre-Europe)",
+    "ShortName": "F5 Switchblade CCE",
+    "Description": "Plecak Eberlestock F5 Switchblade."
+  },
+  "item_equipment_backpack_f5_lizard": {
+    "Name": "Plecak Eberlestock F5 Switchblade (Lizard)",
+    "ShortName": "F5 Switchblade Lizard",
+    "Description": "Plecak Eberlestock F5 Switchblade."
+  },
+  "item_equipment_backpack_f5_multitarn": {
+    "Name": "Plecak Eberlestock F5 Switchblade (Multitarn)",
+    "ShortName": "F5 Switchblade Multitarn",
+    "Description": "Plecak Eberlestock F5 Switchblade."
+  },
+  "item_equipment_backpack_dragon_egg_3c": {
+    "Name": "Plecak Direct Action Dragon Egg Mark II (3 Color Desert)",
+    "ShortName": "Dragon Egg MKII DCU",
+    "Description": "Plecak Direct Action Dragon Egg Mark II."
+  },
+  "item_equipment_backpack_dragon_egg_fde": {
+    "Name": "Plecak Direct Action Dragon Egg Mark II (FDE)",
+    "ShortName": "Dragon Egg MKII FDE",
+    "Description": "Plecak Direct Action Dragon Egg Mark II."
+  },
+  "item_equipment_backpack_dragon_egg_olive": {
+    "Name": "Plecak Direct Action Dragon Egg Mark II (Olive)",
+    "ShortName": "Dragon Egg MKII Olive",
+    "Description": "Plecak Direct Action Dragon Egg Mark II."
+  },
+  "item_equipment_backpack_dragon_egg_ix": {
+    "Name": "Plecak Direct Action Dragon Egg Mark II (A-TACS iX Arid)",
+    "ShortName": "Dragon Egg MKII iX Arid",
+    "Description": "Plecak Direct Action Dragon Egg Mark II."
+  },
+  "item_equipment_backpack_dragon_egg_wz93": {
+    "Name": "Plecak Direct Action Dragon Egg Mark II (Wz93 Pantera)",
+    "ShortName": "Dragon Egg MKII Wz93",
+    "Description": "Plecak Direct Action Dragon Egg Mark II."
+  },
+  "item_equipment_armor_kora_kulon_93": {
+    "Name": "Kamizelka kuloodporna NPP KlASS Kora-Kulon (VSR-93 Barvikha)",
+    "ShortName": "Kora-Kulon 93",
+    "Description": "Kamizelka kuloodporna NPP KlASS Kora-Kulon."
+  },
+  "item_equipment_armor_kora_kulon_ryzh": {
+    "Name": "Kamizelka kuloodporna NPP KlASS Kora-Kulon (VSR-98 Mountain Flora)",
+    "ShortName": "Kora-Kulon 98MF",
+    "Description": "Kamizelka kuloodporna NPP KlASS Kora-Kulon."
+  },
+  "item_equipment_armor_kora_kulon_flora": {
+    "Name": "Kamizelka kuloodporna NPP KlASS Kora-Kulon (VSR-98 Flora)",
+    "ShortName": "Kora-Kulon 98F",
+    "Description": "Kamizelka kuloodporna NPP KlASS Kora-Kulon."
+  },
+  "item_equipment_armor_kora_kulon_bkamysh": {
+    "Name": "Kamizelka kuloodporna NPP KlASS Kora-Kulon (MVD Kamysh)",
+    "ShortName": "Kora-Kulon MVD",
+    "Description": "Kamizelka kuloodporna NPP KlASS Kora-Kulon."
+  },
+  "item_equipment_helmet_gentex_slaap_green": {
+    "Name": "Płyta pancerna Ops-Core SLAAP (Green)",
+    "ShortName": "SLAAP Green",
+    "Description": "Płyta pancerna Ops-Core SLAAP."
+  },
+  "item_equipment_helmet_gentex_slaap_gray": {
+    "Name": "Płyta pancerna Ops-Core SLAAP (Gray)",
+    "ShortName": "SLAAP Gray",
+    "Description": "Płyta pancerna Ops-Core SLAAP."
+  },
+  "item_equipment_backpack_blackjack_ix": {
+    "Name": "Plecak Mystery Ranch Blackjack 50 (A-TACS iX AU)",
+    "ShortName": "Blackjack 50 iX",
+    "Description": "Plecak Mystery Ranch Blackjack 50."
+  },
+  "item_equipment_backpack_blackjack_m05": {
+    "Name": "Plecak Mystery Ranch Blackjack 50 (M05)",
+    "ShortName": "Blackjack 50 M05",
+    "Description": "Plecak Mystery Ranch Blackjack 50."
+  },
+  "item_equipment_backpack_blackjack_lizard": {
+    "Name": "Plecak Mystery Ranch Blackjack 50 (Lizard)",
+    "ShortName": "Blackjack 50 Lizard",
+    "Description": "Plecak Mystery Ranch Blackjack 50."
+  },
+  "item_equipment_backpack_blackjack_granite": {
+    "Name": "Plecak Mystery Ranch Blackjack 50 (Granite-B)",
+    "ShortName": "Blackjack 50 Granite",
+    "Description": "Plecak Mystery Ranch Blackjack 50."
+  },
+  "item_equipment_helmet_zsh_93": {
+    "Name": "Hełm ZSz-1-2M (VSR-93 Barvikha)",
+    "ShortName": "ZSz-1-2M 93",
+    "Description": "Hełm ZSz-1-2M."
+  },
+  "item_equipment_helmet_zsh_gray": {
+    "Name": "Hełm ZSz-1-2M (Kamysh Gray)",
+    "ShortName": "ZSz-1-2M Gray",
+    "Description": "Hełm ZSz-1-2M."
+  },
+  "item_equipment_helmet_lshz_dusk": {
+    "Name": "Lekki hełm LSzZ (Dusk)",
+    "ShortName": "LSzZ Dusk",
+    "Description": "Lekki hełm LSzZ."
+  },
+  "item_equipment_helmet_lshz_emr": {
+    "Name": "Lekki hełm LSzZ (EMR Summer)",
+    "ShortName": "LSzZ EMR",
+    "Description": "Lekki hełm LSzZ."
+  },
+  "item_equipment_helmet_lshz_yagel": {
+    "Name": "Lekki hełm LSzZ (Yagel)",
+    "ShortName": "LSzZ Yagel",
+    "Description": "Lekki hełm LSzZ."
+  },
+  "item_equipment_helmet_lshz_surpat": {
+    "Name": "Lekki hełm LSzZ (SURPAT)",
+    "ShortName": "LSzZ SURPAT",
+    "Description": "Lekki hełm LSzZ."
+  },
+  "item_equipment_backpack_mystery_ranch_coyote": {
+    "Name": "Plecak szturmowy Mystery Ranch SATL Bridger (Coyote)",
+    "ShortName": "SATL Coyote",
+    "Description": "Plecak szturmowy Mystery Ranch SATL Bridger."
+  },
+  "item_equipment_backpack_mystery_ranch_penncott": {
+    "Name": "Plecak szturmowy Mystery Ranch SATL Bridger (Greenzone)",
+    "ShortName": "SATL GZ",
+    "Description": "Plecak szturmowy Mystery Ranch SATL Bridger."
+  },
+  "item_equipment_backpack_mystery_ranch_m05w": {
+    "Name": "Plecak szturmowy Mystery Ranch SATL Bridger (M05 Cold Weather)",
+    "ShortName": "SATL M05 CW",
+    "Description": "Plecak szturmowy Mystery Ranch SATL Bridger."
+  },
+  "item_equipment_backpack_mystery_ranch_est": {
+    "Name": "Plecak szturmowy Mystery Ranch SATL Bridger (ESTDCU)",
+    "ShortName": "SATL ESTDCU",
+    "Description": "Plecak szturmowy Mystery Ranch SATL Bridger."
+  },
+  "item_equipment_rig_carriertactec_greenzone": {
+    "Name": "Plate carrier 5.11 Tactical TacTec (Greenzone)",
+    "ShortName": "TacTec Greenzone",
+    "Description": "Plate carrier 5.11 Tactical TacTec."
+  },
+  "item_equipment_rig_carriertactec_m05": {
+    "Name": "Plate carrier 5.11 Tactical TacTec (M05)",
+    "ShortName": "TacTec M05",
+    "Description": "Plate carrier 5.11 Tactical TacTec."
+  },
+  "item_equipment_rig_carriertactec_au": {
+    "Name": "Plate carrier 5.11 Tactical TacTec (Arid Urban)",
+    "ShortName": "TacTec AU",
+    "Description": "Plate carrier 5.11 Tactical TacTec."
+  },
+  "item_equipment_helmet_mich2002_aor": {
+    "Name": "Hełm MSA ACH TC-2002 MICH Series (AOR 1)",
+    "ShortName": "TC-2002 AOR1",
+    "Description": "Hełm MSA ACH TC-2002 MICH Series."
+  },
+  "item_equipment_helmet_mich2002_m05": {
+    "Name": "Hełm MSA ACH TC-2002 MICH Series (M05)",
+    "ShortName": "TC-2002 M05",
+    "Description": "Hełm MSA ACH TC-2002 MICH Series."
+  },
+  "item_equipment_rig_tv110_black": {
+    "Name": "Plate carrier WARTECH TV-110 (Black)",
+    "ShortName": "TV-110 Black",
+    "Description": "Plate carrier WARTECH TV-110."
+  },
+  "item_equipment_rig_patrol_multicam": {
+    "Name": "Wielozadaniowa kamizelka patrolowa Velocity Systems MPPV (Multicam)",
+    "ShortName": "MPPV Multicam",
+    "Description": "Wielozadaniowa kamizelka patrolowa Velocity Systems MPPV."
+  },
+  "item_equipment_rig_patrol_aor2": {
+    "Name": "Wielozadaniowa kamizelka patrolowa Velocity Systems MPPV (AOR 2)",
+    "ShortName": "MPPV AOR 2",
+    "Description": "Wielozadaniowa kamizelka patrolowa Velocity Systems MPPV."
+  },
+  "item_equipment_rig_patrol_m05c": {
+    "Name": "Wielozadaniowa kamizelka patrolowa Velocity Systems MPPV (M05 Cold Weather)",
+    "ShortName": "MPPV M05 CW",
+    "Description": "Wielozadaniowa kamizelka patrolowa Velocity Systems MPPV."
+  },
+  "item_equipment_rig_m1_gray": {
+    "Name": "Wzmocniona kamizelka taktyczna ANA Tactical M1 (Gray)",
+    "ShortName": "ANA M1 Gray",
+    "Description": "Wzmocniona kamizelka taktyczna ANA Tactical M1."
+  },
+  "item_equipment_rig_m1_coyote": {
+    "Name": "Wzmocniona kamizelka taktyczna ANA Tactical M1 (Coyote)",
+    "ShortName": "ANA M1 Coyote",
+    "Description": "Wzmocniona kamizelka taktyczna ANA Tactical M1."
+  },
+  "item_equipment_rig_m1_rg": {
+    "Name": "Wzmocniona kamizelka taktyczna ANA Tactical M1 (Ranger Green)",
+    "ShortName": "ANA M1 RG",
+    "Description": "Wzmocniona kamizelka taktyczna ANA Tactical M1."
+  },
+  "item_equipment_backpack_mech_green": {
+    "Name": "Plecak Oakley Mechanism, wytrzymały (Green)",
+    "ShortName": "Mechanism Green",
+    "Description": "Plecak Oakley Mechanism, wytrzymały."
+  },
+  "item_equipment_backpack_mech_coyote": {
+    "Name": "Plecak Oakley Mechanism, wytrzymały (Coyote)",
+    "ShortName": "Mechanism Coyote",
+    "Description": "Plecak Oakley Mechanism, wytrzymały."
+  },
+  "item_equipment_rig_shellback_tactical_banshee_fg": {
+    "Name": "Plate carrier Shellback Tactical Banshee (A-TACS FG)",
+    "ShortName": "Banshee FG",
+    "Description": "Plate carrier Shellback Tactical Banshee."
+  },
+  "item_equipment_rig_shellback_tactical_banshee_ghost": {
+    "Name": "Plate carrier Shellback Tactical Banshee (A-TACS iX Ghost)",
+    "ShortName": "Banshee Ghost",
+    "Description": "Plate carrier Shellback Tactical Banshee."
+  },
+  "item_equipment_rig_umka_winter": {
+    "Name": "Kamizelka myśliwska Umka M33-SET1 (Winter)",
+    "ShortName": "Umka Winter",
+    "Description": "Kamizelka myśliwska Umka M33-SET1."
+  },
+  "chestrig_tarzan_dym": {
+    "Name": "Kamizelka taktyczna Spław Tarzan M22 (Dym / A-TACS copy)",
+    "ShortName": "Tarzan Dym",
+    "Description": "Kamizelka taktyczna Spław Tarzan M22."
+  },
+  "chestrig_tarzan_emra": {
+    "Name": "Kamizelka taktyczna Spław Tarzan M22 (EMR Autumn)",
+    "ShortName": "Tarzan EMR-A",
+    "Description": "Kamizelka taktyczna Spław Tarzan M22."
+  },
+  "item_equipment_armor_a18_dym": {
+    "Name": "Plate carrier Ars Arma A18 Skanda (Dym / A-TACS copy)",
+    "ShortName": "A18 Skanda Dym",
+    "Description": "Plate carrier Ars Arma A18 Skanda."
+  },
+  "item_equipment_armor_a18_emr1": {
+    "Name": "Plate carrier Ars Arma A18 Skanda (EMR)",
+    "ShortName": "A18 Skanda EMR",
+    "Description": "Plate carrier Ars Arma A18 Skanda."
+  },
+  "item_equipment_armor_a18_gray": {
+    "Name": "Plate carrier Ars Arma A18 Skanda (Gray)",
+    "ShortName": "A18 Skanda Gray",
+    "Description": "Plate carrier Ars Arma A18 Skanda."
+  },
+  "item_equipment_backpack_paratus_kr": {
+    "Name": "Plecak trzydniowy taktyczny operatora 3V Gear Paratus (Kryptek Mandrake)",
+    "ShortName": "Paratus Mandrake",
+    "Description": "Plecak trzydniowy taktyczny operatora 3V Gear Paratus."
+  },
+  "item_equipment_backpack_paratus_ts": {
+    "Name": "Plecak trzydniowy taktyczny operatora 3V Gear Paratus (USAF Digital Tigerstripe)",
+    "ShortName": "Paratus USAF",
+    "Description": "Plecak trzydniowy taktyczny operatora 3V Gear Paratus."
+  },
+  "item_equipment_backpack_paratus_wasp": {
+    "Name": "Plecak trzydniowy taktyczny operatora 3V Gear Paratus (Phantomleaf WASP II Z 1A)",
+    "ShortName": "Paratus WASP",
+    "Description": "Plecak trzydniowy taktyczny operatora 3V Gear Paratus."
+  },
+  "item_equipment_backpack_takedown_sling_1": {
+    "Name": "Plecak na ramię Hazard 4 Takedown (AOR-2)",
+    "ShortName": "Takedown AOR-2",
+    "Description": "Plecak na ramię Hazard 4 Takedown."
+  },
+  "item_equipment_backpack_takedown_sling_2": {
+    "Name": "Plecak na ramię Hazard 4 Takedown (MARPAT Urban)",
+    "ShortName": "Takedown MP-U",
+    "Description": "Plecak na ramię Hazard 4 Takedown."
+  },
+  "item_equipment_rig_6h112_arctic": {
+    "Name": "Kamizelka taktyczna UMTBS 6Sz112 „Strzelec AK” (EMR Arctic)",
+    "ShortName": "6Sz112 S-AK EMR-Ar",
+    "Description": "Kamizelka taktyczna UMTBS 6Sz112 „Strzelec AK”."
+  },
+  "item_equipment_rig_bae_rbav_aor": {
+    "Name": "Plate carrier ECLiPSE RBAV-AF (AOR-2)",
+    "ShortName": "RBAV-AF AOR-2",
+    "Description": "Plate carrier ECLiPSE RBAV-AF."
+  },
+  "item_equipment_rig_bae_rbav_ucon": {
+    "Name": "Plate carrier ECLiPSE RBAV-AF (A-TACS U|CON)",
+    "ShortName": "RBAV-AF UCON",
+    "Description": "Plate carrier ECLiPSE RBAV-AF."
+  },
+  "item_equipment_rig_d3crx_multicam": {
+    "Name": "Kamizelka taktyczna Haley Strategic D3CRX (Multicam)",
+    "ShortName": "D3CRX MC",
+    "Description": "Kamizelka taktyczna Haley Strategic D3CRX."
+  },
+  "item_equipment_rig_d3crx_multicamblack": {
+    "Name": "Kamizelka taktyczna Haley Strategic D3CRX (Multicam Black)",
+    "ShortName": "D3CRX MCB",
+    "Description": "Kamizelka taktyczna Haley Strategic D3CRX."
+  },
+  "item_equipment_rig_d3crx_multicamtropic": {
+    "Name": "Kamizelka taktyczna Haley Strategic D3CRX (Multicam Tropic)",
+    "ShortName": "D3CRX MCT",
+    "Description": "Kamizelka taktyczna Haley Strategic D3CRX."
+  },
+  "item_equipment_rig_blackrock_ral7013": {
+    "Name": "Kamizelka taktyczna BlackRock (RAL 7013)",
+    "ShortName": "BlackRock 7013",
+    "Description": "Kamizelka taktyczna BlackRock."
+  },
+  "item_equipment_armor_custom_hexgrid_c": {
+    "Name": "Plate carrier 5.11 Tactical Hexgrid (Coyote)",
+    "ShortName": "Hexgrid Coyote",
+    "Description": "Plate carrier 5.11 Tactical Hexgrid."
+  },
+  "item_equipment_armor_custom_hexgrid_g": {
+    "Name": "Plate carrier 5.11 Tactical Hexgrid (Green)",
+    "ShortName": "Hexgrid Green",
+    "Description": "Plate carrier 5.11 Tactical Hexgrid."
+  },
+  "item_equipment_facecover_strikeball_mask_leshiy": {
+    "Name": "Lekka maska pancerna Death Shadow (Lešij custom paint)",
+    "ShortName": "Death Shadow Lešij",
+    "Description": "Lekka maska pancerna Death Shadow."
+  },
+  "item_equipment_backpack_g2_gunslinger_gray": {
+    "Name": "Plecak Eberlestock G2 Gunslinger II (Gray)",
+    "ShortName": "G2 Gunslinger II Gray",
+    "Description": "Plecak Eberlestock G2 Gunslinger II."
+  },
+  "item_equipment_backpack_g2_gunslinger_slocam": {
+    "Name": "Plecak Eberlestock G2 Gunslinger II (SLOCAM)",
+    "ShortName": "G2 Gunslinger II SK",
+    "Description": "Plecak Eberlestock G2 Gunslinger II."
+  },
+  "item_equipment_backpack_g2_gunslinger_ucon": {
+    "Name": "Plecak Eberlestock G2 Gunslinger II (A-TACS U|CON)",
+    "ShortName": "G2 Gunslinger II UCON",
+    "Description": "Plecak Eberlestock G2 Gunslinger II."
+  },
+  "item_equipment_backpack_f4terminator_black": {
+    "Name": "Plecak przenoszenia oporządzenia Eberlestock F4 Terminator (Black)",
+    "ShortName": "F4 Terminator Black",
+    "Description": "Plecak przenoszenia oporządzenia Eberlestock F4 Terminator."
+  },
+  "item_equipment_backpack_f4terminator_h": {
+    "Name": "Plecak przenoszenia oporządzenia Eberlestock F4 Terminator (HUNCAM)",
+    "ShortName": "F4 Terminator HU",
+    "Description": "Plecak przenoszenia oporządzenia Eberlestock F4 Terminator."
+  },
+  "item_equipment_backpack_f4terminator_c": {
+    "Name": "Plecak przenoszenia oporządzenia Eberlestock F4 Terminator (Vz 95)",
+    "ShortName": "F4 Terminator 95",
+    "Description": "Plecak przenoszenia oporządzenia Eberlestock F4 Terminator."
+  }
+}

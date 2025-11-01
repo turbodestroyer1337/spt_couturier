@@ -1,0 +1,957 @@
+{
+  "item_equipment_armor_6b3_berezka": {
+    "Name": "Giubbotto anti proiettile 6B3TM-01 (KLMK)",
+    "ShortName": "6B3TM-01 KLMK",
+    "Description": "Giubbotto anti proiettile 6B3TM-01."
+  },
+  "item_equipment_armor_6b3_bhutan": {
+    "Name": "Giubbotto anti proiettile 6B3TM-01 (Granite)",
+    "ShortName": "6B3TM-01 Granite",
+    "Description": "Giubbotto anti proiettile 6B3TM-01."
+  },
+  "item_equipment_armor_6b3_green": {
+    "Name": "Giubbotto anti proiettile 6B3TM-01 (Dark olive)",
+    "ShortName": "6B3TM-01 DOlive",
+    "Description": "Giubbotto anti proiettile 6B3TM-01."
+  },
+  "item_equipment_helmet_6b47covered_atacs": {
+    "Name": "Elmetto Ratnik-BSh 6B47 con fodera (A-TACS / Moh)",
+    "ShortName": "6B47 Moh",
+    "Description": "Elmetto Ratnik-BSh 6B47 con fodera."
+  },
+  "item_equipment_helmet_6b47covered_pig": {
+    "Name": "Elmetto Ratnik-BSh 6B47 con fodera (EMR Syria / Pig)",
+    "ShortName": "6B47 DFL Pig",
+    "Description": "Elmetto Ratnik-BSh 6B47 con fodera."
+  },
+  "item_equipment_helmet_6b47covered_spring": {
+    "Name": "Elmetto Ratnik-BSh 6B47 con fodera (EMR Spring)",
+    "ShortName": "6B47 DFL Spring",
+    "Description": "Elmetto Ratnik-BSh 6B47 con fodera."
+  },
+  "item_equipment_helmet_6b47covered_ss": {
+    "Name": "Elmetto Ratnik-BSh 6B47 con fodera (RUSS Partizan)",
+    "ShortName": "6B47 Partizan",
+    "Description": "Elmetto Ratnik-BSh 6B47 con fodera."
+  },
+  "item_equipment_helmet_6b47covered_surpat": {
+    "Name": "Elmetto Ratnik-BSh 6B47 con fodera (SURPAT Arid)",
+    "ShortName": "6B47 Arid",
+    "Description": "Elmetto Ratnik-BSh 6B47 con fodera."
+  },
+  "item_equipment_backpack_6sh118_pig": {
+    "Name": "Zaino raid 6Sh118 (EMR Syria / Pig)",
+    "ShortName": "6Sh118 Pig",
+    "Description": "Zaino raid 6Sh118."
+  },
+  "item_equipment_backpack_6sh118_atacsa": {
+    "Name": "Zaino raid 6Sh118 (A-TACS Arid / Moh Autumn)",
+    "ShortName": "6Sh118 Autumn",
+    "Description": "Zaino raid 6Sh118."
+  },
+  "item_equipment_backpack_6sh118_atacsg": {
+    "Name": "Zaino raid 6Sh118 (A-TACS / Moh)",
+    "ShortName": "6Sh118 Moh",
+    "Description": "Zaino raid 6Sh118."
+  },
+  "item_equipment_backpack_6sh118_mc": {
+    "Name": "Zaino raid 6Sh118 (Multicam)",
+    "ShortName": "6Sh118 MC",
+    "Description": "Zaino raid 6Sh118."
+  },
+  "item_equipment_backpack_6sh118_spring": {
+    "Name": "Zaino raid 6Sh118 (EMR Spring)",
+    "ShortName": "6Sh118 Spring",
+    "Description": "Zaino raid 6Sh118."
+  },
+  "item_equipment_armor_korundvm_kamysh": {
+    "Name": "Armatura NPP KlASS Korund-VM (Kamysh)",
+    "ShortName": "Korund-VM Kamysh",
+    "Description": "Armatura NPP KlASS Korund-VM."
+  },
+  "item_equipment_armor_korundvm_blue": {
+    "Name": "Armatura NPP KlASS Korund-VM (Moh Blue)",
+    "ShortName": "Korund-VM Blue",
+    "Description": "Armatura NPP KlASS Korund-VM."
+  },
+  "item_equipment_armor_korundvm_emr": {
+    "Name": "Armatura NPP KlASS Korund-VM (EMR)",
+    "ShortName": "Korund-VM EMR",
+    "Description": "Armatura NPP KlASS Korund-VM."
+  },
+  "item_equipment_armor_korundvm_flora": {
+    "Name": "Armatura NPP KlASS Korund-VM (Flora)",
+    "ShortName": "Korund-VM Flora",
+    "Description": "Armatura NPP KlASS Korund-VM."
+  },
+  "item_equipment_armor_korundvm_partizan": {
+    "Name": "Armatura NPP KlASS Korund-VM (RUSS Partizan)",
+    "ShortName": "Korund-VM Partizan",
+    "Description": "Armatura NPP KlASS Korund-VM."
+  },
+  "item_equipment_helmet_mich2002_mm14": {
+    "Name": "Elmetto MSA ACH TC-2002 MICH Series (MM14)",
+    "ShortName": "TC-2002 MM14",
+    "Description": "Elmetto MSA ACH TC-2002 MICH Series."
+  },
+  "item_equipment_helmet_mich2002_vegetato": {
+    "Name": "Elmetto MSA ACH TC-2002 MICH Series (Vegetato)",
+    "ShortName": "TC-2002 Vegetato",
+    "Description": "Elmetto MSA ACH TC-2002 MICH Series."
+  },
+  "item_equipment_helmet_mich2002_fca": {
+    "Name": "Elmetto MSA ACH TC-2002 MICH Series (Centre-Europe)",
+    "ShortName": "TC-2002 CCE",
+    "Description": "Elmetto MSA ACH TC-2002 MICH Series."
+  },
+  "item_equipment_helmet_mich2001_flektarn": {
+    "Name": "Elmetto MSA ACH TC-2001 MICH Series (Flektarn)",
+    "ShortName": "TC-2001 Flektarn",
+    "Description": "Elmetto MSA ACH TC-2001 MICH Series."
+  },
+  "item_equipment_helmet_mich2001_tropentarn": {
+    "Name": "Elmetto MSA ACH TC-2001 MICH Series (Tropentarn)",
+    "ShortName": "TC-2001 Tropentarn",
+    "Description": "Elmetto MSA ACH TC-2001 MICH Series."
+  },
+  "item_equipment_helmet_mich2001_mtp": {
+    "Name": "Elmetto MSA ACH TC-2001 MICH Series (British MTP)",
+    "ShortName": "TC-2001 MTP",
+    "Description": "Elmetto MSA ACH TC-2001 MICH Series."
+  },
+  "item_equipment_backpack_sso_emr": {
+    "Name": "Zaino da incursione SSO Attack 2 (Emr)",
+    "ShortName": "Attack 2 Emr",
+    "Description": "Zaino da incursione SSO Attack 2."
+  },
+  "item_equipment_backpack_sso_olive": {
+    "Name": "Zaino da incursione SSO Attack 2 (Olive)",
+    "ShortName": "Attack 2 Olive",
+    "Description": "Zaino da incursione SSO Attack 2."
+  },
+  "item_equipment_backpack_sso_izlom": {
+    "Name": "Zaino da incursione SSO Attack 2 (Izlom)",
+    "ShortName": "Attack 2 Izlom",
+    "Description": "Zaino da incursione SSO Attack 2."
+  },
+  "item_equipment_rig_cryeavs_atacsarid": {
+    "Name": "Porta piastre Crye Precision AVS (A-TACS Arid)",
+    "ShortName": "AVS Arid",
+    "Description": "Porta piastre Crye Precision AVS."
+  },
+  "item_equipment_rig_cryeavs_flektarn": {
+    "Name": "Porta piastre Crye Precision AVS (Flektarn)",
+    "ShortName": "AVS Flektarn",
+    "Description": "Porta piastre Crye Precision AVS."
+  },
+  "item_equipment_rig_cryeavs_mcblack": {
+    "Name": "Porta piastre Crye Precision AVS (Multicam Black)",
+    "ShortName": "AVS Black",
+    "Description": "Porta piastre Crye Precision AVS."
+  },
+  "item_equipment_rig_cryeavs_ucp": {
+    "Name": "Porta piastre Crye Precision AVS (UCP)",
+    "ShortName": "AVS UCP",
+    "Description": "Porta piastre Crye Precision AVS."
+  },
+  "item_equipment_rig_cryeavs_vegetato": {
+    "Name": "Porta piastre Crye Precision AVS (Vegetato)",
+    "ShortName": "AVS Vegetato",
+    "Description": "Porta piastre Crye Precision AVS."
+  },
+  "item_equipment_rig_cryeavs_mm14": {
+    "Name": "Porta piastre Crye Precision AVS (MM14)",
+    "ShortName": "AVS MM14",
+    "Description": "Porta piastre Crye Precision AVS."
+  },
+  "item_equipment_rig_triton_berezka": {
+    "Name": "Imbracatura toracica Dynaforce Triton M43-A (KLMK)",
+    "ShortName": "Triton KLMK",
+    "Description": "Imbracatura toracica Dynaforce Triton M43-A."
+  },
+  "item_equipment_rig_triton_dpm": {
+    "Name": "Imbracatura toracica Dynaforce Triton M43-A (British DPM)",
+    "ShortName": "Triton DPM",
+    "Description": "Imbracatura toracica Dynaforce Triton M43-A."
+  },
+  "item_equipment_rig_triton_flora": {
+    "Name": "Imbracatura toracica Dynaforce Triton M43-A (Flora)",
+    "ShortName": "Triton Flora",
+    "Description": "Imbracatura toracica Dynaforce Triton M43-A."
+  },
+  "item_equipment_rig_triton_omon": {
+    "Name": "Imbracatura toracica Dynaforce Triton M43-A (MVD Kamysh)",
+    "ShortName": "Triton MVD",
+    "Description": "Imbracatura toracica Dynaforce Triton M43-A."
+  },
+  "item_equipment_rig_triton_ryzh": {
+    "Name": "Imbracatura toracica Dynaforce Triton M43-A (Ryzjuha)",
+    "ShortName": "Triton Ryzjuha",
+    "Description": "Imbracatura toracica Dynaforce Triton M43-A."
+  },
+  "item_equipment_armor_gjel_fde": {
+    "Name": "Armatura BNTI Gzhel-K (FDE)",
+    "ShortName": "GZHEL-K FDE",
+    "Description": "Armatura BNTI Gzhel-K."
+  },
+  "item_equipment_armor_gjel_gray": {
+    "Name": "Armatura BNTI Gzhel-K (Dark gray)",
+    "ShortName": "GZHEL-K Gray",
+    "Description": "Armatura BNTI Gzhel-K."
+  },
+  "item_equipment_backpack_trooper_35_mc": {
+    "Name": "Zaino Tasmanian Tiger Trooper 35 (Multicam)",
+    "ShortName": "Trooper 35 MC",
+    "Description": "Zaino Tasmanian Tiger Trooper 35."
+  },
+  "item_equipment_backpack_trooper_35_mm14": {
+    "Name": "Zaino Tasmanian Tiger Trooper 35 (MM14)",
+    "ShortName": "Trooper 35 MM14",
+    "Description": "Zaino Tasmanian Tiger Trooper 35."
+  },
+  "item_equipment_backpack_trooper_35_ucp": {
+    "Name": "Zaino Tasmanian Tiger Trooper 35 (Ucp)",
+    "ShortName": "Trooper 35 Ucp",
+    "Description": "Zaino Tasmanian Tiger Trooper 35."
+  },
+  "item_equipment_backpack_trooper_35_urban": {
+    "Name": "Zaino Tasmanian Tiger Trooper 35 (Urban)",
+    "ShortName": "Trooper 35 Urban",
+    "Description": "Zaino Tasmanian Tiger Trooper 35."
+  },
+  "item_equipment_backpack_daypack_aor": {
+    "Name": "Zaino LBT-8005A Day Pack (AOR 1)",
+    "ShortName": "Day Pack AOR",
+    "Description": "Zaino LBT-8005A Day Pack."
+  },
+  "item_equipment_backpack_daypack_gray": {
+    "Name": "Zaino LBT-8005A Day Pack (Gray)",
+    "ShortName": "Day Pack Gray",
+    "Description": "Zaino LBT-8005A Day Pack."
+  },
+  "item_equipment_backpack_daypack_estpat": {
+    "Name": "Zaino LBT-8005A Day Pack (ESTDCU)",
+    "ShortName": "Day Pack ESTDCU",
+    "Description": "Zaino LBT-8005A Day Pack."
+  },
+  "item_equipment_backpack_daypack_flektarn": {
+    "Name": "Zaino LBT-8005A Day Pack (Flektarn)",
+    "ShortName": "Day Pack Flektarn",
+    "Description": "Zaino LBT-8005A Day Pack."
+  },
+  "item_equipment_backpack_wartech_emr": {
+    "Name": "Zaino WARTECH Berkut BB-102 (Emr)",
+    "ShortName": "Berkut Emr",
+    "Description": "Zaino WARTECH Berkut BB-102."
+  },
+  "item_equipment_backpack_wartech_emrd": {
+    "Name": "Zaino WARTECH Berkut BB-102 (EMR Desert)",
+    "ShortName": "Berkut EMRD",
+    "Description": "Zaino WARTECH Berkut BB-102."
+  },
+  "item_equipment_backpack_wartech_yagel": {
+    "Name": "Zaino WARTECH Berkut BB-102 (Dusk)",
+    "ShortName": "Berkut Dusk",
+    "Description": "Zaino WARTECH Berkut BB-102."
+  },
+  "item_equipment_helmet_hops_mm14": {
+    "Name": "Elmetto Ops-Core FAST MT Super High Cut (MM14)",
+    "ShortName": "FAST MT MM14",
+    "Description": "Elmetto Ops-Core FAST MT Super High Cut."
+  },
+  "item_equipment_helmet_hops_mc": {
+    "Name": "Elmetto Ops-Core FAST MT Super High Cut (Multicam)",
+    "ShortName": "FAST MT MC",
+    "Description": "Elmetto Ops-Core FAST MT Super High Cut."
+  },
+  "item_equipment_helmet_hops_mct": {
+    "Name": "Elmetto Ops-Core FAST MT Super High Cut (Multicam Tropic)",
+    "ShortName": "FAST MT MCT",
+    "Description": "Elmetto Ops-Core FAST MT Super High Cut."
+  },
+  "item_equipment_helmet_hops_atacs": {
+    "Name": "Elmetto Ops-Core FAST MT Super High Cut (A-TACS FG)",
+    "ShortName": "FAST MT FG",
+    "Description": "Elmetto Ops-Core FAST MT Super High Cut."
+  },
+  "item_equipment_helmet_hops_ucp": {
+    "Name": "Elmetto Ops-Core FAST MT Super High Cut (UCP)",
+    "ShortName": "FAST MT UCP",
+    "Description": "Elmetto Ops-Core FAST MT Super High Cut."
+  },
+  "item_equipment_helmet_diamond_age_bastion_m81": {
+    "Name": "Elmetto Diamond Age Bastion (M81)",
+    "ShortName": "DA Bastion M81",
+    "Description": "Elmetto Diamond Age Bastion."
+  },
+  "item_equipment_helmet_diamond_age_bastion_mtp": {
+    "Name": "Elmetto Diamond Age Bastion (British MTP)",
+    "ShortName": "DA Bastion MTP",
+    "Description": "Elmetto Diamond Age Bastion."
+  },
+  "item_equipment_rig_patrol_green": {
+    "Name": "Gilet di pattuglia multiuso Velocity Systems (Green)",
+    "ShortName": "MPPV Green",
+    "Description": "Gilet di pattuglia multiuso Velocity Systems."
+  },
+  "item_equipment_rig_patrol_fde": {
+    "Name": "Gilet di pattuglia multiuso Velocity Systems (FDE)",
+    "ShortName": "MPPV FDE",
+    "Description": "Gilet di pattuglia multiuso Velocity Systems."
+  },
+  "item_equipment_rig_mmac_ucp": {
+    "Name": "Portapiastre MMAC Eagle Industries (UCP)",
+    "ShortName": "MMAC UCP",
+    "Description": "Portapiastre MMAC Eagle Industries."
+  },
+  "item_equipment_rig_mmac_mm14": {
+    "Name": "Portapiastre MMAC Eagle Industries (MM14)",
+    "ShortName": "MMAC MM14",
+    "Description": "Portapiastre MMAC Eagle Industries."
+  },
+  "item_equipment_rig_mmac_aor": {
+    "Name": "Portapiastre MMAC Eagle Industries (AOR-1)",
+    "ShortName": "MMAC AOR",
+    "Description": "Portapiastre MMAC Eagle Industries."
+  },
+  "item_equipment_rig_1961_vegetato": {
+    "Name": "Gilet tattico LBT-1961A Load Bearing (Vegetato)",
+    "ShortName": "LBCR Vegetato",
+    "Description": "Gilet tattico LBT-1961A Load Bearing."
+  },
+  "item_equipment_rig_1961_winter": {
+    "Name": "Gilet tattico LBT-1961A Load Bearing (Winter)",
+    "ShortName": "LBCR Winter",
+    "Description": "Gilet tattico LBT-1961A Load Bearing."
+  },
+  "item_equipment_rig_1961_ucp": {
+    "Name": "Gilet tattico LBT-1961A Load Bearing (UCP)",
+    "ShortName": "LBCR UCP",
+    "Description": "Gilet tattico LBT-1961A Load Bearing."
+  },
+  "item_equipment_rig_1961_mtp": {
+    "Name": "Gilet tattico LBT-1961A Load Bearing (British MTP)",
+    "ShortName": "LBCR MTP",
+    "Description": "Gilet tattico LBT-1961A Load Bearing."
+  },
+  "item_equipment_rig_1961_estpatd": {
+    "Name": "Gilet tattico LBT-1961A Load Bearing (ESTDCU Desert)",
+    "ShortName": "LBCR ESTDCU-D",
+    "Description": "Gilet tattico LBT-1961A Load Bearing."
+  },
+  "item_equipment_rig_azimut_emra": {
+    "Name": "Imbracatura toracica Azimut SS \"Zhuk\" (EMR Arid)",
+    "ShortName": "Azimut EMR",
+    "Description": "Imbracatura toracica Azimut SS \"Zhuk\"."
+  },
+  "item_equipment_rig_azimut_emrs": {
+    "Name": "Imbracatura toracica Azimut SS \"Zhuk\" (EMR Spring)",
+    "ShortName": "Azimut Spring",
+    "Description": "Imbracatura toracica Azimut SS \"Zhuk\"."
+  },
+  "item_equipment_rig_azimut_atacsa": {
+    "Name": "Imbracatura toracica Azimut SS \"Zhuk\" (Moh / A-TACS Arid)",
+    "ShortName": "Azimut Moh-A",
+    "Description": "Imbracatura toracica Azimut SS \"Zhuk\"."
+  },
+  "item_equipment_rig_azimut_emrp": {
+    "Name": "Imbracatura toracica Azimut SS \"Zhuk\" (EMR Syria / Pig)",
+    "ShortName": "Azimut Pig",
+    "Description": "Imbracatura toracica Azimut SS \"Zhuk\"."
+  },
+  "item_equipment_rig_beltab_berezka": {
+    "Name": "Gilet tattico Poyas-A + Poyas-B (KLMK Yellow)",
+    "ShortName": "Poyas combo KLMK",
+    "Description": "Gilet tattico Poyas-A + Poyas-B."
+  },
+  "item_equipment_rig_beltab_ttsko": {
+    "Name": "Gilet tattico Poyas-A + Poyas-B (TTsKO)",
+    "ShortName": "Poyas combo TTsKO",
+    "Description": "Gilet tattico Poyas-A + Poyas-B."
+  },
+  "item_equipment_rig_tv110_moh": {
+    "Name": "Porta piastre WARTECH TV-110 (Moh / A-TACS)",
+    "ShortName": "TV-110 Moh",
+    "Description": "Porta piastre WARTECH TV-110."
+  },
+  "item_equipment_armor_otv_cce": {
+    "Name": "Giubbotto antiproiettile Interceptor OTV (Centre-Europe)",
+    "ShortName": "OTV CCE",
+    "Description": "Giubbotto antiproiettile Interceptor OTV."
+  },
+  "item_equipment_armor_otv_3c": {
+    "Name": "Giubbotto antiproiettile Interceptor OTV (3 Color Desert)",
+    "ShortName": "OTV DCU",
+    "Description": "Giubbotto antiproiettile Interceptor OTV."
+  },
+  "item_equipment_armor_un_3c": {
+    "Name": "Armatura MF-UNTAR (3 Color Desert)",
+    "ShortName": "MF-ONU DCU",
+    "Description": "Armatura MF-UNTAR."
+  },
+  "item_equipment_armor_un_marpat": {
+    "Name": "Armatura MF-UNTAR (MARPAT)",
+    "ShortName": "MF-ONU MARPAT",
+    "Description": "Armatura MF-UNTAR."
+  },
+  "item_equipment_armor_un_wineleaf": {
+    "Name": "Armatura MF-UNTAR (Wine Leaf)",
+    "ShortName": "MF-ONU WL",
+    "Description": "Armatura MF-UNTAR."
+  },
+  "item_equipment_armor_6b23_emrpig": {
+    "Name": "Armatura 6B23-1 (EMR Syria / Pig)",
+    "ShortName": "6B23-1 DFL Pig",
+    "Description": "Armatura 6B23-1."
+  },
+  "item_equipment_armor_6b23_klmk": {
+    "Name": "Armatura 6B23-1 (KLMK)",
+    "ShortName": "6B23-1 KLMK",
+    "Description": "Armatura 6B23-1."
+  },
+  "item_equipment_armor_6b23_yagel": {
+    "Name": "Armatura 6B23-1 (Dusk)",
+    "ShortName": "6B23-1 Dusk",
+    "Description": "Armatura 6B23-1."
+  },
+  "item_equipment_armor_def2_moh": {
+    "Name": "Armatura FORT Defender 2 (A-TACS / Moh)",
+    "ShortName": "Defender-2 Moh",
+    "Description": "Armatura FORT Defender 2."
+  },
+  "item_equipment_armor_def2_moha": {
+    "Name": "Armatura FORT Defender 2 (A-TACS Arid / Moh Autumn)",
+    "ShortName": "Defender-2 Autumn",
+    "Description": "Armatura FORT Defender 2."
+  },
+  "item_equipment_armor_slick_atacs": {
+    "Name": "Porta piastre LBT-6094A Slick (A-TACS FG)",
+    "ShortName": "Slick FG",
+    "Description": "Porta piastre LBT-6094A Slick."
+  },
+  "item_equipment_armor_slick_ixarid": {
+    "Name": "Porta piastre LBT-6094A Slick (A-TACS iX Arid)",
+    "ShortName": "Slick iX Arid",
+    "Description": "Porta piastre LBT-6094A Slick."
+  },
+  "item_equipment_armor_slick_ucp": {
+    "Name": "Porta piastre LBT-6094A Slick (UCP)",
+    "ShortName": "Slick UCP",
+    "Description": "Porta piastre LBT-6094A Slick."
+  },
+  "item_equipment_armor_slick_vegetato": {
+    "Name": "Porta piastre LBT-6094A Slick (Vegetato)",
+    "ShortName": "Slick Vegetato",
+    "Description": "Porta piastre LBT-6094A Slick."
+  },
+  "item_equipment_backpack_beta_moha": {
+    "Name": "Zaino ANA Tactical Beta 2 Battle (A-TACS Arid / Moh Autumn)",
+    "ShortName": "Beta2 Moh-A",
+    "Description": "Zaino ANA Tactical Beta 2 Battle."
+  },
+  "item_equipment_backpack_beta_moh": {
+    "Name": "Zaino ANA Tactical Beta 2 Battle (Moh / A-TACS FG)",
+    "ShortName": "Beta2 Moh",
+    "Description": "Zaino ANA Tactical Beta 2 Battle."
+  },
+  "item_equipment_backpack_beta_emrd": {
+    "Name": "Zaino ANA Tactical Beta 2 Battle (EMR Desert)",
+    "ShortName": "Beta2 EMRD",
+    "Description": "Zaino ANA Tactical Beta 2 Battle."
+  },
+  "item_equipment_backpack_beta_emr": {
+    "Name": "Zaino ANA Tactical Beta 2 Battle (EMR Flora)",
+    "ShortName": "Beta2 EMR",
+    "Description": "Zaino ANA Tactical Beta 2 Battle."
+  },
+  "item_equipment_backpack_gr99t30_moh": {
+    "Name": "Zaino Gruppa 99 T30 (Moh / A-TACS FG)",
+    "ShortName": "T30 Moh",
+    "Description": "Zaino Gruppa 99 T30."
+  },
+  "item_equipment_backpack_gr99t30_emrd": {
+    "Name": "Zaino Gruppa 99 T30 (EMR Desert)",
+    "ShortName": "T30 EMRD",
+    "Description": "Zaino Gruppa 99 T30."
+  },
+  "item_equipment_backpack_gr99t30_klmk": {
+    "Name": "Zaino Gruppa 99 T30 (KLMK)",
+    "ShortName": "T30 KLMK",
+    "Description": "Zaino Gruppa 99 T30."
+  },
+  "item_equipment_backpack_gr99t30_emr": {
+    "Name": "Zaino Gruppa 99 T30 (EMR)",
+    "ShortName": "T30 EMR",
+    "Description": "Zaino Gruppa 99 T30."
+  },
+  "item_equipment_backpack_lbt1476a_slick_aor1": {
+    "Name": "Zaino LBT-1476A 3Day Pack (AOR 1)",
+    "ShortName": "LBT-1476A AOR",
+    "Description": "Zaino LBT-1476A 3Day Pack."
+  },
+  "item_equipment_backpack_lbt1476a_slick_gray": {
+    "Name": "Zaino LBT-1476A 3Day Pack (Gray)",
+    "ShortName": "LBT-1476A Gray",
+    "Description": "Zaino LBT-1476A 3Day Pack."
+  },
+  "item_equipment_backpack_lbt1476a_slick_ucp": {
+    "Name": "Zaino LBT-1476A 3Day Pack (UCP)",
+    "ShortName": "LBT-1476A UCP",
+    "Description": "Zaino LBT-1476A 3Day Pack."
+  },
+  "item_equipment_backpack_lbt1476a_slick_tropentarn": {
+    "Name": "Zaino LBT-1476A 3Day Pack (Tropentarn)",
+    "ShortName": "LBT-1476A Tropentarn",
+    "Description": "Zaino LBT-1476A 3Day Pack."
+  },
+  "item_equipment_rig_umka_f1": {
+    "Name": "Gilet da cacciatore Umka M33-SET1 (Fisherman Camo 1)",
+    "ShortName": "Umka Fisher 1",
+    "Description": "Gilet da cacciatore Umka M33-SET1."
+  },
+  "item_equipment_rig_umka_f2": {
+    "Name": "Gilet da cacciatore Umka M33-SET1 (Fisherman Camo 2)",
+    "ShortName": "Umka Fisher 2",
+    "Description": "Gilet da cacciatore Umka M33-SET1."
+  },
+  "item_equipment_rig_umka_leaves": {
+    "Name": "Gilet da cacciatore Umka M33-SET1 (Fallen leaves)",
+    "ShortName": "Umka Leaves",
+    "Description": "Gilet da cacciatore Umka M33-SET1."
+  },
+  "item_equipment_backpack_pilgrim_blueorange": {
+    "Name": "Zaino turistico Pilgrim (Blue Orange)",
+    "ShortName": "Pilgrim Blue",
+    "Description": "Zaino turistico Pilgrim."
+  },
+  "item_equipment_backpack_pilgrim_green": {
+    "Name": "Zaino turistico Pilgrim (Green)",
+    "ShortName": "Pilgrim Green",
+    "Description": "Zaino turistico Pilgrim."
+  },
+  "item_equipment_backpack_pilgrim_terra2": {
+    "Name": "Zaino turistico Pilgrim (Terra colors)",
+    "ShortName": "Pilgrim Terra",
+    "Description": "Zaino turistico Pilgrim."
+  },
+  "item_equipment_backpack_pilgrim_v1": {
+    "Name": "Zaino turistico Pilgrim (Mustard)",
+    "ShortName": "Pilgrim Mustard",
+    "Description": "Zaino turistico Pilgrim."
+  },
+  "item_equipment_backpack_trizip_flektarn": {
+    "Name": "Zaino d'assalto Camelbak Tri-Zip (Flektarn)",
+    "ShortName": "Tri-Zip Flektarn",
+    "Description": "Zaino d'assalto Camelbak Tri-Zip."
+  },
+  "item_equipment_backpack_trizip_vegetato": {
+    "Name": "Zaino d'assalto Camelbak Tri-Zip (Vegetato)",
+    "ShortName": "Tri-Zip Vegetato",
+    "Description": "Zaino d'assalto Camelbak Tri-Zip."
+  },
+  "item_equipment_backpack_trizip_gray": {
+    "Name": "Zaino d'assalto Camelbak Tri-Zip (Gray)",
+    "ShortName": "Tri-Zip Gray",
+    "Description": "Zaino d'assalto Camelbak Tri-Zip."
+  },
+  "item_equipment_backpack_trizip_ucp": {
+    "Name": "Zaino d'assalto Camelbak Tri-Zip (UCP)",
+    "ShortName": "Tri-Zip UCP",
+    "Description": "Zaino d'assalto Camelbak Tri-Zip."
+  },
+  "item_equipment_facecover_momex_atacs": {
+    "Name": "Passamontagna Momex (A-TACS FG)",
+    "ShortName": "Momex FG",
+    "Description": "Passamontagna Momex."
+  },
+  "item_equipment_facecover_momex_atacsa": {
+    "Name": "Passamontagna Momex (A-TACS Arid)",
+    "ShortName": "Momex Arid",
+    "Description": "Passamontagna Momex."
+  },
+  "item_equipment_facecover_momex_mc": {
+    "Name": "Passamontagna Momex (Multicam)",
+    "ShortName": "Momex MC",
+    "Description": "Passamontagna Momex."
+  },
+  "item_equipment_facecover_balaclava_emr": {
+    "Name": "Balaclava (EMR)",
+    "ShortName": "Balaclava EMR",
+    "Description": "Balaclava."
+  },
+  "item_equipment_facecover_balaclava_fde": {
+    "Name": "Balaclava (FDE)",
+    "ShortName": "Balaclava FDE",
+    "Description": "Balaclava."
+  },
+  "item_equipment_facecover_balaclava_musor": {
+    "Name": "Balaclava (Moh MVD / A-TACS)",
+    "ShortName": "Balaclava MVD",
+    "Description": "Balaclava."
+  },
+  "item_equipment_backpack_trizip_multitarn": {
+    "Name": "Zaino d'assalto Camelbak Tri-Zip (Multitarn)",
+    "ShortName": "Tri-Zip Multitarn",
+    "Description": "Zaino d'assalto Camelbak Tri-Zip."
+  },
+  "item_equipment_backpack_f5_badlands": {
+    "Name": "Zaino Eberlestock F5 Switchblade (Badlands)",
+    "ShortName": "F5 Switchblade Badlands",
+    "Description": "Zaino Eberlestock F5 Switchblade."
+  },
+  "item_equipment_backpack_f5_french": {
+    "Name": "Zaino Eberlestock F5 Switchblade (Centre-Europe)",
+    "ShortName": "F5 Switchblade CCE",
+    "Description": "Zaino Eberlestock F5 Switchblade."
+  },
+  "item_equipment_backpack_f5_lizard": {
+    "Name": "Zaino Eberlestock F5 Switchblade (Lizard)",
+    "ShortName": "F5 Switchblade Lizard",
+    "Description": "Zaino Eberlestock F5 Switchblade."
+  },
+  "item_equipment_backpack_f5_multitarn": {
+    "Name": "Zaino Eberlestock F5 Switchblade (Multitarn)",
+    "ShortName": "F5 Switchblade Multitarn",
+    "Description": "Zaino Eberlestock F5 Switchblade."
+  },
+  "item_equipment_backpack_dragon_egg_3c": {
+    "Name": "Zaino Direct Action Dragon Egg Mark II (3 Color Desert)",
+    "ShortName": "Dragon Egg MKII DCU",
+    "Description": "Zaino Direct Action Dragon Egg Mark II."
+  },
+  "item_equipment_backpack_dragon_egg_fde": {
+    "Name": "Zaino Direct Action Dragon Egg Mark II (FDE)",
+    "ShortName": "Dragon Egg MKII FDE",
+    "Description": "Zaino Direct Action Dragon Egg Mark II."
+  },
+  "item_equipment_backpack_dragon_egg_olive": {
+    "Name": "Zaino Direct Action Dragon Egg Mark II (Olive)",
+    "ShortName": "Dragon Egg MKII Olive",
+    "Description": "Zaino Direct Action Dragon Egg Mark II."
+  },
+  "item_equipment_backpack_dragon_egg_ix": {
+    "Name": "Zaino Direct Action Dragon Egg Mark II (A-TACS iX Arid)",
+    "ShortName": "Dragon Egg MKII iX Arid",
+    "Description": "Zaino Direct Action Dragon Egg Mark II."
+  },
+  "item_equipment_backpack_dragon_egg_wz93": {
+    "Name": "Zaino Direct Action Dragon Egg Mark II (Wz93 Pantera)",
+    "ShortName": "Dragon Egg MKII Wz93",
+    "Description": "Zaino Direct Action Dragon Egg Mark II."
+  },
+  "item_equipment_armor_kora_kulon_93": {
+    "Name": "Giubbotto antiproiettile NPP KlASS Kora-Kulon (VSR-93 Barvikha)",
+    "ShortName": "Kora-Kulon 93",
+    "Description": "Giubbotto antiproiettile NPP KlASS Kora-Kulon."
+  },
+  "item_equipment_armor_kora_kulon_ryzh": {
+    "Name": "Giubbotto antiproiettile NPP KlASS Kora-Kulon (VSR-98 Mountain Flora)",
+    "ShortName": "Kora-Kulon 98MF",
+    "Description": "Giubbotto antiproiettile NPP KlASS Kora-Kulon."
+  },
+  "item_equipment_armor_kora_kulon_flora": {
+    "Name": "Giubbotto antiproiettile NPP KlASS Kora-Kulon (VSR-98 Flora)",
+    "ShortName": "Kora-Kulon 98F",
+    "Description": "Giubbotto antiproiettile NPP KlASS Kora-Kulon."
+  },
+  "item_equipment_armor_kora_kulon_bkamysh": {
+    "Name": "Giubbotto antiproiettile NPP KlASS Kora-Kulon (MVD Kamysh)",
+    "ShortName": "Kora-Kulon MVD",
+    "Description": "Giubbotto antiproiettile NPP KlASS Kora-Kulon."
+  },
+  "item_equipment_helmet_gentex_slaap_green": {
+    "Name": "Piastra di armatura per elmetto Ops-Core SLEEP (Green)",
+    "ShortName": "SLAAP Green",
+    "Description": "Piastra di armatura per elmetto Ops-Core SLEEP."
+  },
+  "item_equipment_helmet_gentex_slaap_gray": {
+    "Name": "Piastra di armatura per elmetto Ops-Core SLEEP (Gray)",
+    "ShortName": "SLAAP Gray",
+    "Description": "Piastra di armatura per elmetto Ops-Core SLEEP."
+  },
+  "item_equipment_backpack_blackjack_ix": {
+    "Name": "Zaino Mystery Ranch Blackjack 50 (A-TACS iX AU)",
+    "ShortName": "Blackjack 50 iX",
+    "Description": "Zaino Mystery Ranch Blackjack 50."
+  },
+  "item_equipment_backpack_blackjack_m05": {
+    "Name": "Zaino Mystery Ranch Blackjack 50 (M05)",
+    "ShortName": "Blackjack 50 M05",
+    "Description": "Zaino Mystery Ranch Blackjack 50."
+  },
+  "item_equipment_backpack_blackjack_lizard": {
+    "Name": "Zaino Mystery Ranch Blackjack 50 (Lizard)",
+    "ShortName": "Blackjack 50 Lizard",
+    "Description": "Zaino Mystery Ranch Blackjack 50."
+  },
+  "item_equipment_backpack_blackjack_granite": {
+    "Name": "Zaino Mystery Ranch Blackjack 50 (Granite-B)",
+    "ShortName": "Blackjack 50 Granite",
+    "Description": "Zaino Mystery Ranch Blackjack 50."
+  },
+  "item_equipment_helmet_zsh_93": {
+    "Name": "Elmetto ZSh-1-2M (VSR-93 Barvikha)",
+    "ShortName": "ZSh-1-2M 93",
+    "Description": "Elmetto ZSh-1-2M."
+  },
+  "item_equipment_helmet_zsh_gray": {
+    "Name": "Elmetto ZSh-1-2M (Kamysh Gray)",
+    "ShortName": "ZSh-1-2M Gray",
+    "Description": "Elmetto ZSh-1-2M."
+  },
+  "item_equipment_helmet_lshz_dusk": {
+    "Name": "Elmetto leggero LZSh (Dusk)",
+    "ShortName": "LZSh Dusk",
+    "Description": "Elmetto leggero LZSh."
+  },
+  "item_equipment_helmet_lshz_emr": {
+    "Name": "Elmetto leggero LZSh (EMR Summer)",
+    "ShortName": "LZSh EMR",
+    "Description": "Elmetto leggero LZSh."
+  },
+  "item_equipment_helmet_lshz_yagel": {
+    "Name": "Elmetto leggero LZSh (Yagel)",
+    "ShortName": "LZSh Yagel",
+    "Description": "Elmetto leggero LZSh."
+  },
+  "item_equipment_helmet_lshz_surpat": {
+    "Name": "Elmetto leggero LZSh (SURPAT)",
+    "ShortName": "LZSh SURPAT",
+    "Description": "Elmetto leggero LZSh."
+  },
+  "item_equipment_backpack_mystery_ranch_coyote": {
+    "Name": "Zaino d'assalto Mystery Ranch SATL Bridger (Coyote)",
+    "ShortName": "SATL Coyote",
+    "Description": "Zaino d'assalto Mystery Ranch SATL Bridger."
+  },
+  "item_equipment_backpack_mystery_ranch_penncott": {
+    "Name": "Zaino d'assalto Mystery Ranch SATL Bridger (Greenzone)",
+    "ShortName": "SATL GZ",
+    "Description": "Zaino d'assalto Mystery Ranch SATL Bridger."
+  },
+  "item_equipment_backpack_mystery_ranch_m05w": {
+    "Name": "Zaino d'assalto Mystery Ranch SATL Bridger (M05 Cold Weather)",
+    "ShortName": "SATL M05 CW",
+    "Description": "Zaino d'assalto Mystery Ranch SATL Bridger."
+  },
+  "item_equipment_backpack_mystery_ranch_est": {
+    "Name": "Zaino d'assalto Mystery Ranch SATL Bridger (ESTDCU)",
+    "ShortName": "SATL ESTDCU",
+    "Description": "Zaino d'assalto Mystery Ranch SATL Bridger."
+  },
+  "item_equipment_rig_carriertactec_greenzone": {
+    "Name": "Porta piastre 5.11 Tactical TacTec (Greenzone)",
+    "ShortName": "TacTec Greenzone",
+    "Description": "Porta piastre 5.11 Tactical TacTec."
+  },
+  "item_equipment_rig_carriertactec_m05": {
+    "Name": "Porta piastre 5.11 Tactical TacTec (M05)",
+    "ShortName": "TacTec M05",
+    "Description": "Porta piastre 5.11 Tactical TacTec."
+  },
+  "item_equipment_rig_carriertactec_au": {
+    "Name": "Porta piastre 5.11 Tactical TacTec (Arid Urban)",
+    "ShortName": "TacTec AU",
+    "Description": "Porta piastre 5.11 Tactical TacTec."
+  },
+  "item_equipment_helmet_mich2002_aor": {
+    "Name": "Elmetto MSA ACH TC-2002 MICH Series (AOR 1)",
+    "ShortName": "TC-2002 AOR1",
+    "Description": "Elmetto MSA ACH TC-2002 MICH Series."
+  },
+  "item_equipment_helmet_mich2002_m05": {
+    "Name": "Elmetto MSA ACH TC-2002 MICH Series (M05)",
+    "ShortName": "TC-2002 M05",
+    "Description": "Elmetto MSA ACH TC-2002 MICH Series."
+  },
+  "item_equipment_rig_tv110_black": {
+    "Name": "Porta piastre WARTECH TV-110 (Black)",
+    "ShortName": "TV-110 Black",
+    "Description": "Porta piastre WARTECH TV-110."
+  },
+  "item_equipment_rig_patrol_multicam": {
+    "Name": "Gilet di pattuglia multiuso Velocity Systems (Multicam)",
+    "ShortName": "MPPV Multicam",
+    "Description": "Gilet di pattuglia multiuso Velocity Systems."
+  },
+  "item_equipment_rig_patrol_aor2": {
+    "Name": "Gilet di pattuglia multiuso Velocity Systems (AOR 2)",
+    "ShortName": "MPPV AOR 2",
+    "Description": "Gilet di pattuglia multiuso Velocity Systems."
+  },
+  "item_equipment_rig_patrol_m05c": {
+    "Name": "Gilet di pattuglia multiuso Velocity Systems (M05 Cold Weather)",
+    "ShortName": "MPPV M05 CW",
+    "Description": "Gilet di pattuglia multiuso Velocity Systems."
+  },
+  "item_equipment_rig_m1_gray": {
+    "Name": "Porta piastre ANA Tactical M1 (Gray)",
+    "ShortName": "ANA M1 Gray",
+    "Description": "Porta piastre ANA Tactical M1."
+  },
+  "item_equipment_rig_m1_coyote": {
+    "Name": "Porta piastre ANA Tactical M1 (Coyote)",
+    "ShortName": "ANA M1 Coyote",
+    "Description": "Porta piastre ANA Tactical M1."
+  },
+  "item_equipment_rig_m1_rg": {
+    "Name": "Porta piastre ANA Tactical M1 (Ranger Green)",
+    "ShortName": "ANA M1 RG",
+    "Description": "Porta piastre ANA Tactical M1."
+  },
+  "item_equipment_backpack_mech_green": {
+    "Name": "Zaino resistente Oakley Mechanism (Green)",
+    "ShortName": "Mechanism Green",
+    "Description": "Zaino resistente Oakley Mechanism."
+  },
+  "item_equipment_backpack_mech_coyote": {
+    "Name": "Zaino resistente Oakley Mechanism (Coyote)",
+    "ShortName": "Mechanism Coyote",
+    "Description": "Zaino resistente Oakley Mechanism."
+  },
+  "item_equipment_rig_shellback_tactical_banshee_fg": {
+    "Name": "Porta piastre Shellback Tactical Banshee (A-TACS FG)",
+    "ShortName": "Banshee FG",
+    "Description": "Porta piastre Shellback Tactical Banshee."
+  },
+  "item_equipment_rig_shellback_tactical_banshee_ghost": {
+    "Name": "Porta piastre Shellback Tactical Banshee (A-TACS iX Ghost)",
+    "ShortName": "Banshee Ghost",
+    "Description": "Porta piastre Shellback Tactical Banshee."
+  },
+  "item_equipment_rig_umka_winter": {
+    "Name": "Gilet da cacciatore Umka M33-SET1 (Winter)",
+    "ShortName": "Umka Winter",
+    "Description": "Gilet da cacciatore Umka M33-SET1."
+  },
+  "chestrig_tarzan_dym": {
+    "Name": "Gillet tattico Splav Tarzan M22 (Dym / A-TACS copy)",
+    "ShortName": "Tarzan Dym",
+    "Description": "Gillet tattico Splav Tarzan M22."
+  },
+  "chestrig_tarzan_emra": {
+    "Name": "Gillet tattico Splav Tarzan M22 (EMR Autumn)",
+    "ShortName": "Tarzan EMR-A",
+    "Description": "Gillet tattico Splav Tarzan M22."
+  },
+  "item_equipment_armor_a18_dym": {
+    "Name": "Porta piastre Ars Arma A18 Skanda (Dym / A-TACS copy)",
+    "ShortName": "A18 Skanda Dym",
+    "Description": "Porta piastre Ars Arma A18 Skanda."
+  },
+  "item_equipment_armor_a18_emr1": {
+    "Name": "Porta piastre Ars Arma A18 Skanda (EMR)",
+    "ShortName": "A18 Skanda EMR",
+    "Description": "Porta piastre Ars Arma A18 Skanda."
+  },
+  "item_equipment_armor_a18_gray": {
+    "Name": "Porta piastre Ars Arma A18 Skanda (Gray)",
+    "ShortName": "A18 Skanda Gray",
+    "Description": "Porta piastre Ars Arma A18 Skanda."
+  },
+  "item_equipment_backpack_paratus_kr": {
+    "Name": "Zaino 3V Gear Paratus 3-Day Operator's Tactical (Kryptek Mandrake)",
+    "ShortName": "Paratus Mandrake",
+    "Description": "Zaino 3V Gear Paratus 3-Day Operator's Tactical."
+  },
+  "item_equipment_backpack_paratus_ts": {
+    "Name": "Zaino 3V Gear Paratus 3-Day Operator's Tactical (USAF Digital Tigerstripe)",
+    "ShortName": "Paratus USAF",
+    "Description": "Zaino 3V Gear Paratus 3-Day Operator's Tactical."
+  },
+  "item_equipment_backpack_paratus_wasp": {
+    "Name": "Zaino 3V Gear Paratus 3-Day Operator's Tactical (Phantomleaf WASP II Z 1A)",
+    "ShortName": "Paratus WASP",
+    "Description": "Zaino 3V Gear Paratus 3-Day Operator's Tactical."
+  },
+  "item_equipment_backpack_takedown_sling_1": {
+    "Name": "Zaino monospalla Hazard 4 Takedown (AOR-2)",
+    "ShortName": "Takedown AOR-2",
+    "Description": "Zaino monospalla Hazard 4 Takedown."
+  },
+  "item_equipment_backpack_takedown_sling_2": {
+    "Name": "Zaino monospalla Hazard 4 Takedown (MARPAT Urban)",
+    "ShortName": "Takedown MP-U",
+    "Description": "Zaino monospalla Hazard 4 Takedown."
+  },
+  "item_equipment_rig_6h112_arctic": {
+    "Name": "Gilet tattico UMTBS 6Sh112 Scout-Sniper (EMR Arctic)",
+    "ShortName": "6sh112 EMR-Ar",
+    "Description": "Gilet tattico UMTBS 6Sh112 Scout-Sniper."
+  },
+  "item_equipment_rig_bae_rbav_aor": {
+    "Name": "Portapiastre ECLiPSE RBAV-AF (AOR-2)",
+    "ShortName": "RBAV-AF AOR-2",
+    "Description": "Portapiastre ECLiPSE RBAV-AF."
+  },
+  "item_equipment_rig_bae_rbav_ucon": {
+    "Name": "Portapiastre ECLiPSE RBAV-AF (A-TACS U|CON)",
+    "ShortName": "RBAV-AF UCON",
+    "Description": "Portapiastre ECLiPSE RBAV-AF."
+  },
+  "item_equipment_rig_d3crx_multicam": {
+    "Name": "Imbracatura toracica Haley Strategic D3CRX (Multicam)",
+    "ShortName": "D3CRX MC",
+    "Description": "Imbracatura toracica Haley Strategic D3CRX."
+  },
+  "item_equipment_rig_d3crx_multicamblack": {
+    "Name": "Imbracatura toracica Haley Strategic D3CRX (Multicam Black)",
+    "ShortName": "D3CRX MCB",
+    "Description": "Imbracatura toracica Haley Strategic D3CRX."
+  },
+  "item_equipment_rig_d3crx_multicamtropic": {
+    "Name": "Imbracatura toracica Haley Strategic D3CRX (Multicam Tropic)",
+    "ShortName": "D3CRX MCT",
+    "Description": "Imbracatura toracica Haley Strategic D3CRX."
+  },
+  "item_equipment_rig_blackrock_ral7013": {
+    "Name": "Gilet tattico BlackRock (RAL 7013)",
+    "ShortName": "BlackRock 7013",
+    "Description": "Gilet tattico BlackRock."
+  },
+  "item_equipment_armor_custom_hexgrid_c": {
+    "Name": "Porta piastre 5.11 Tactical Hexgrid (Coyote)",
+    "ShortName": "Hexgrid Coyote",
+    "Description": "Porta piastre 5.11 Tactical Hexgrid."
+  },
+  "item_equipment_armor_custom_hexgrid_g": {
+    "Name": "Porta piastre 5.11 Tactical Hexgrid (Green)",
+    "ShortName": "Hexgrid Green",
+    "Description": "Porta piastre 5.11 Tactical Hexgrid."
+  },
+  "item_equipment_facecover_strikeball_mask_leshiy": {
+    "Name": "Maschera corazzata leggera Death Shadow (Lešij custom paint)",
+    "ShortName": "Death Shadow Lešij",
+    "Description": "Maschera corazzata leggera Death Shadow."
+  },
+  "item_equipment_backpack_g2_gunslinger_gray": {
+    "Name": "Zaino Eberlestock G2 Gunslinger II (Gray)",
+    "ShortName": "G2 Gunslinger II Gray",
+    "Description": "Zaino Eberlestock G2 Gunslinger II."
+  },
+  "item_equipment_backpack_g2_gunslinger_slocam": {
+    "Name": "Zaino Eberlestock G2 Gunslinger II (SLOCAM)",
+    "ShortName": "G2 Gunslinger II SK",
+    "Description": "Zaino Eberlestock G2 Gunslinger II."
+  },
+  "item_equipment_backpack_g2_gunslinger_ucon": {
+    "Name": "Zaino Eberlestock G2 Gunslinger II (A-TACS U|CON)",
+    "ShortName": "G2 Gunslinger II UCON",
+    "Description": "Zaino Eberlestock G2 Gunslinger II."
+  },
+  "item_equipment_backpack_f4terminator_black": {
+    "Name": "Zaino portante Eberlestock F4 Terminator (Black)",
+    "ShortName": "F4 Terminator Black",
+    "Description": "Zaino portante Eberlestock F4 Terminator."
+  },
+  "item_equipment_backpack_f4terminator_h": {
+    "Name": "Zaino portante Eberlestock F4 Terminator (HUNCAM)",
+    "ShortName": "F4 Terminator HU",
+    "Description": "Zaino portante Eberlestock F4 Terminator."
+  },
+  "item_equipment_backpack_f4terminator_c": {
+    "Name": "Zaino portante Eberlestock F4 Terminator (Vz 95)",
+    "ShortName": "F4 Terminator 95",
+    "Description": "Zaino portante Eberlestock F4 Terminator."
+  }
+}

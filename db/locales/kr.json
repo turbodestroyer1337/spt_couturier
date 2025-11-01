@@ -1,0 +1,957 @@
+{
+  "item_equipment_armor_6b3_berezka": {
+    "Name": "6B3TM-01 방탄 리그 (KLMK)",
+    "ShortName": "6B3TM-01 KLMK",
+    "Description": "6B3TM-01 방탄 리그."
+  },
+  "item_equipment_armor_6b3_bhutan": {
+    "Name": "6B3TM-01 방탄 리그 (Granite)",
+    "ShortName": "6B3TM-01 Granite",
+    "Description": "6B3TM-01 방탄 리그."
+  },
+  "item_equipment_armor_6b3_green": {
+    "Name": "6B3TM-01 방탄 리그 (Dark olive)",
+    "ShortName": "6B3TM-01 DOlive",
+    "Description": "6B3TM-01 방탄 리그."
+  },
+  "item_equipment_helmet_6b47covered_atacs": {
+    "Name": "6B47 \"Ratnik-BSh\" 헬멧 (A-TACS / Moh)",
+    "ShortName": "6B47 Moh",
+    "Description": "6B47 \"Ratnik-BSh\" 헬멧."
+  },
+  "item_equipment_helmet_6b47covered_pig": {
+    "Name": "6B47 \"Ratnik-BSh\" 헬멧 (EMR Syria / Pig)",
+    "ShortName": "6B47 DFL Pig",
+    "Description": "6B47 \"Ratnik-BSh\" 헬멧."
+  },
+  "item_equipment_helmet_6b47covered_spring": {
+    "Name": "6B47 \"Ratnik-BSh\" 헬멧 (EMR Spring)",
+    "ShortName": "6B47 DFL Spring",
+    "Description": "6B47 \"Ratnik-BSh\" 헬멧."
+  },
+  "item_equipment_helmet_6b47covered_ss": {
+    "Name": "6B47 \"Ratnik-BSh\" 헬멧 (RUSS Partizan)",
+    "ShortName": "6B47 Partizan",
+    "Description": "6B47 \"Ratnik-BSh\" 헬멧."
+  },
+  "item_equipment_helmet_6b47covered_surpat": {
+    "Name": "6B47 \"Ratnik-BSh\" 헬멧 (SURPAT Arid)",
+    "ShortName": "6B47 Arid",
+    "Description": "6B47 \"Ratnik-BSh\" 헬멧."
+  },
+  "item_equipment_backpack_6sh118_pig": {
+    "Name": "6Sh118 급습 배낭 (EMR Syria / Pig)",
+    "ShortName": "6Sh118 Pig",
+    "Description": "6Sh118 급습 배낭."
+  },
+  "item_equipment_backpack_6sh118_atacsa": {
+    "Name": "6Sh118 급습 배낭 (A-TACS Arid / Moh Autumn)",
+    "ShortName": "6Sh118 Autumn",
+    "Description": "6Sh118 급습 배낭."
+  },
+  "item_equipment_backpack_6sh118_atacsg": {
+    "Name": "6Sh118 급습 배낭 (A-TACS / Moh)",
+    "ShortName": "6Sh118 Moh",
+    "Description": "6Sh118 급습 배낭."
+  },
+  "item_equipment_backpack_6sh118_mc": {
+    "Name": "6Sh118 급습 배낭 (Multicam)",
+    "ShortName": "6Sh118 MC",
+    "Description": "6Sh118 급습 배낭."
+  },
+  "item_equipment_backpack_6sh118_spring": {
+    "Name": "6Sh118 급습 배낭 (EMR Spring)",
+    "ShortName": "6Sh118 Spring",
+    "Description": "6Sh118 급습 배낭."
+  },
+  "item_equipment_armor_korundvm_kamysh": {
+    "Name": "NPP KlASS Korund-VM 방탄복 (Kamysh)",
+    "ShortName": "Korund-VM Kamysh",
+    "Description": "NPP KlASS Korund-VM 방탄복."
+  },
+  "item_equipment_armor_korundvm_blue": {
+    "Name": "NPP KlASS Korund-VM 방탄복 (Moh Blue)",
+    "ShortName": "Korund-VM Blue",
+    "Description": "NPP KlASS Korund-VM 방탄복."
+  },
+  "item_equipment_armor_korundvm_emr": {
+    "Name": "NPP KlASS Korund-VM 방탄복 (EMR)",
+    "ShortName": "Korund-VM EMR",
+    "Description": "NPP KlASS Korund-VM 방탄복."
+  },
+  "item_equipment_armor_korundvm_flora": {
+    "Name": "NPP KlASS Korund-VM 방탄복 (Flora)",
+    "ShortName": "Korund-VM Flora",
+    "Description": "NPP KlASS Korund-VM 방탄복."
+  },
+  "item_equipment_armor_korundvm_partizan": {
+    "Name": "NPP KlASS Korund-VM 방탄복 (RUSS Partizan)",
+    "ShortName": "Korund-VM Partizan",
+    "Description": "NPP KlASS Korund-VM 방탄복."
+  },
+  "item_equipment_helmet_mich2002_mm14": {
+    "Name": "MSA ACH TC-2002 MICH 시리즈 헬멧 (MM14)",
+    "ShortName": "TC-2002 MM14",
+    "Description": "MSA ACH TC-2002 MICH 시리즈 헬멧."
+  },
+  "item_equipment_helmet_mich2002_vegetato": {
+    "Name": "MSA ACH TC-2002 MICH 시리즈 헬멧 (Vegetato)",
+    "ShortName": "TC-2002 Vegetato",
+    "Description": "MSA ACH TC-2002 MICH 시리즈 헬멧."
+  },
+  "item_equipment_helmet_mich2002_fca": {
+    "Name": "MSA ACH TC-2002 MICH 시리즈 헬멧 (Centre-Europe)",
+    "ShortName": "TC-2002 CCE",
+    "Description": "MSA ACH TC-2002 MICH 시리즈 헬멧."
+  },
+  "item_equipment_helmet_mich2001_flektarn": {
+    "Name": "MSA ACH TC-2001 MICH 시리즈 헬멧 (Flektarn)",
+    "ShortName": "TC-2001 Flektarn",
+    "Description": "MSA ACH TC-2001 MICH 시리즈 헬멧."
+  },
+  "item_equipment_helmet_mich2001_tropentarn": {
+    "Name": "MSA ACH TC-2001 MICH 시리즈 헬멧 (Tropentarn)",
+    "ShortName": "TC-2001 Tropentarn",
+    "Description": "MSA ACH TC-2001 MICH 시리즈 헬멧."
+  },
+  "item_equipment_helmet_mich2001_mtp": {
+    "Name": "MSA ACH TC-2001 MICH 시리즈 헬멧 (British MTP)",
+    "ShortName": "TC-2001 MTP",
+    "Description": "MSA ACH TC-2001 MICH 시리즈 헬멧."
+  },
+  "item_equipment_backpack_sso_emr": {
+    "Name": "SSO Attack 2 급습 배낭 (Emr)",
+    "ShortName": "Attack 2 Emr",
+    "Description": "SSO Attack 2 급습 배낭."
+  },
+  "item_equipment_backpack_sso_olive": {
+    "Name": "SSO Attack 2 급습 배낭 (Olive)",
+    "ShortName": "Attack 2 Olive",
+    "Description": "SSO Attack 2 급습 배낭."
+  },
+  "item_equipment_backpack_sso_izlom": {
+    "Name": "SSO Attack 2 급습 배낭 (Izlom)",
+    "ShortName": "Attack 2 Izlom",
+    "Description": "SSO Attack 2 급습 배낭."
+  },
+  "item_equipment_rig_cryeavs_atacsarid": {
+    "Name": "Crye Precision AVS 플레이트 캐리어 (A-TACS Arid)",
+    "ShortName": "AVS Arid",
+    "Description": "Crye Precision AVS 플레이트 캐리어."
+  },
+  "item_equipment_rig_cryeavs_flektarn": {
+    "Name": "Crye Precision AVS 플레이트 캐리어 (Flektarn)",
+    "ShortName": "AVS Flektarn",
+    "Description": "Crye Precision AVS 플레이트 캐리어."
+  },
+  "item_equipment_rig_cryeavs_mcblack": {
+    "Name": "Crye Precision AVS 플레이트 캐리어 (Multicam Black)",
+    "ShortName": "AVS Black",
+    "Description": "Crye Precision AVS 플레이트 캐리어."
+  },
+  "item_equipment_rig_cryeavs_ucp": {
+    "Name": "Crye Precision AVS 플레이트 캐리어 (UCP)",
+    "ShortName": "AVS UCP",
+    "Description": "Crye Precision AVS 플레이트 캐리어."
+  },
+  "item_equipment_rig_cryeavs_vegetato": {
+    "Name": "Crye Precision AVS 플레이트 캐리어 (Vegetato)",
+    "ShortName": "AVS Vegetato",
+    "Description": "Crye Precision AVS 플레이트 캐리어."
+  },
+  "item_equipment_rig_cryeavs_mm14": {
+    "Name": "Crye Precision AVS 플레이트 캐리어 (MM14)",
+    "ShortName": "AVS MM14",
+    "Description": "Crye Precision AVS 플레이트 캐리어."
+  },
+  "item_equipment_rig_triton_berezka": {
+    "Name": "Dynaforce Triton M43-A 체스트 하네스 (KLMK)",
+    "ShortName": "Triton KLMK",
+    "Description": "Dynaforce Triton M43-A 체스트 하네스."
+  },
+  "item_equipment_rig_triton_dpm": {
+    "Name": "Dynaforce Triton M43-A 체스트 하네스 (British DPM)",
+    "ShortName": "Triton DPM",
+    "Description": "Dynaforce Triton M43-A 체스트 하네스."
+  },
+  "item_equipment_rig_triton_flora": {
+    "Name": "Dynaforce Triton M43-A 체스트 하네스 (Flora)",
+    "ShortName": "Triton Flora",
+    "Description": "Dynaforce Triton M43-A 체스트 하네스."
+  },
+  "item_equipment_rig_triton_omon": {
+    "Name": "Dynaforce Triton M43-A 체스트 하네스 (MVD Kamysh)",
+    "ShortName": "Triton MVD",
+    "Description": "Dynaforce Triton M43-A 체스트 하네스."
+  },
+  "item_equipment_rig_triton_ryzh": {
+    "Name": "Dynaforce Triton M43-A 체스트 하네스 (Ryzjuha)",
+    "ShortName": "Triton Ryzjuha",
+    "Description": "Dynaforce Triton M43-A 체스트 하네스."
+  },
+  "item_equipment_armor_gjel_fde": {
+    "Name": "BNTI \"Gzhel-K\" 방탄복 (FDE)",
+    "ShortName": "Gzhel-K FDE",
+    "Description": "BNTI \"Gzhel-K\" 방탄복."
+  },
+  "item_equipment_armor_gjel_gray": {
+    "Name": "BNTI \"Gzhel-K\" 방탄복 (Dark gray)",
+    "ShortName": "Gzhel-K Gray",
+    "Description": "BNTI \"Gzhel-K\" 방탄복."
+  },
+  "item_equipment_backpack_trooper_35_mc": {
+    "Name": "Tasmanian Tiger Trooper 35 backpack (Multicam)",
+    "ShortName": "Trooper 35 MC",
+    "Description": "Tasmanian Tiger Trooper 35 backpack."
+  },
+  "item_equipment_backpack_trooper_35_mm14": {
+    "Name": "Tasmanian Tiger Trooper 35 backpack (MM14)",
+    "ShortName": "Trooper 35 MM14",
+    "Description": "Tasmanian Tiger Trooper 35 backpack."
+  },
+  "item_equipment_backpack_trooper_35_ucp": {
+    "Name": "Tasmanian Tiger Trooper 35 backpack (Ucp)",
+    "ShortName": "Trooper 35 Ucp",
+    "Description": "Tasmanian Tiger Trooper 35 backpack."
+  },
+  "item_equipment_backpack_trooper_35_urban": {
+    "Name": "Tasmanian Tiger Trooper 35 backpack (Urban)",
+    "ShortName": "Trooper 35 Urban",
+    "Description": "Tasmanian Tiger Trooper 35 backpack."
+  },
+  "item_equipment_backpack_daypack_aor": {
+    "Name": "LBT-8005A 1일 배낭 (AOR 1)",
+    "ShortName": "1일 배낭 AOR",
+    "Description": "LBT-8005A 1일 배낭."
+  },
+  "item_equipment_backpack_daypack_gray": {
+    "Name": "LBT-8005A 1일 배낭 (Gray)",
+    "ShortName": "1일 배낭 Gray",
+    "Description": "LBT-8005A 1일 배낭."
+  },
+  "item_equipment_backpack_daypack_estpat": {
+    "Name": "LBT-8005A 1일 배낭 (ESTDCU)",
+    "ShortName": "1일 배낭 ESTDCU",
+    "Description": "LBT-8005A 1일 배낭."
+  },
+  "item_equipment_backpack_daypack_flektarn": {
+    "Name": "LBT-8005A 1일 배낭 (Flektarn)",
+    "ShortName": "1일 배낭 Flektarn",
+    "Description": "LBT-8005A 1일 배낭."
+  },
+  "item_equipment_backpack_wartech_emr": {
+    "Name": "WARTECH Berkut BB-102 배낭 (Emr)",
+    "ShortName": "Berkut Emr",
+    "Description": "WARTECH Berkut BB-102 배낭."
+  },
+  "item_equipment_backpack_wartech_emrd": {
+    "Name": "WARTECH Berkut BB-102 배낭 (EMR Desert)",
+    "ShortName": "Berkut EMRD",
+    "Description": "WARTECH Berkut BB-102 배낭."
+  },
+  "item_equipment_backpack_wartech_yagel": {
+    "Name": "WARTECH Berkut BB-102 배낭 (Dusk)",
+    "ShortName": "Berkut Dusk",
+    "Description": "WARTECH Berkut BB-102 배낭."
+  },
+  "item_equipment_helmet_hops_mm14": {
+    "Name": "Ops-Core FAST MT Super High Cut 헬멧 (MM14)",
+    "ShortName": "FAST MT Tan MM14",
+    "Description": "Ops-Core FAST MT Super High Cut 헬멧."
+  },
+  "item_equipment_helmet_hops_mc": {
+    "Name": "Ops-Core FAST MT Super High Cut 헬멧 (Multicam)",
+    "ShortName": "FAST MT Tan MC",
+    "Description": "Ops-Core FAST MT Super High Cut 헬멧."
+  },
+  "item_equipment_helmet_hops_mct": {
+    "Name": "Ops-Core FAST MT Super High Cut 헬멧 (Multicam Tropic)",
+    "ShortName": "FAST MT Tan MCT",
+    "Description": "Ops-Core FAST MT Super High Cut 헬멧."
+  },
+  "item_equipment_helmet_hops_atacs": {
+    "Name": "Ops-Core FAST MT Super High Cut 헬멧 (A-TACS FG)",
+    "ShortName": "FAST MT Tan FG",
+    "Description": "Ops-Core FAST MT Super High Cut 헬멧."
+  },
+  "item_equipment_helmet_hops_ucp": {
+    "Name": "Ops-Core FAST MT Super High Cut 헬멧 (UCP)",
+    "ShortName": "FAST MT Tan UCP",
+    "Description": "Ops-Core FAST MT Super High Cut 헬멧."
+  },
+  "item_equipment_helmet_diamond_age_bastion_m81": {
+    "Name": "Diamond Age Bastion 헬멧 (M81)",
+    "ShortName": "DA Bastion M81",
+    "Description": "Diamond Age Bastion 헬멧."
+  },
+  "item_equipment_helmet_diamond_age_bastion_mtp": {
+    "Name": "Diamond Age Bastion 헬멧 (British MTP)",
+    "ShortName": "DA Bastion MTP",
+    "Description": "Diamond Age Bastion 헬멧."
+  },
+  "item_equipment_rig_patrol_green": {
+    "Name": "Velocity Systems MPPV 다용도 순찰용 조끼 (Green)",
+    "ShortName": "MPPV Green",
+    "Description": "Velocity Systems MPPV 다용도 순찰용 조끼."
+  },
+  "item_equipment_rig_patrol_fde": {
+    "Name": "Velocity Systems MPPV 다용도 순찰용 조끼 (FDE)",
+    "ShortName": "MPPV FDE",
+    "Description": "Velocity Systems MPPV 다용도 순찰용 조끼."
+  },
+  "item_equipment_rig_mmac_ucp": {
+    "Name": "Eagle Industries \"MMAC\" 플레이트 캐리어 (UCP)",
+    "ShortName": "MMAC UCP",
+    "Description": "Eagle Industries \"MMAC\" 플레이트 캐리어."
+  },
+  "item_equipment_rig_mmac_mm14": {
+    "Name": "Eagle Industries \"MMAC\" 플레이트 캐리어 (MM14)",
+    "ShortName": "MMAC MM14",
+    "Description": "Eagle Industries \"MMAC\" 플레이트 캐리어."
+  },
+  "item_equipment_rig_mmac_aor": {
+    "Name": "Eagle Industries \"MMAC\" 플레이트 캐리어 (AOR-1)",
+    "ShortName": "MMAC AOR",
+    "Description": "Eagle Industries \"MMAC\" 플레이트 캐리어."
+  },
+  "item_equipment_rig_1961_vegetato": {
+    "Name": "LBT-1961A Load Bearing 체스트 리그 (Vegetato)",
+    "ShortName": "LBCR Vegetato",
+    "Description": "LBT-1961A Load Bearing 체스트 리그."
+  },
+  "item_equipment_rig_1961_winter": {
+    "Name": "LBT-1961A Load Bearing 체스트 리그 (Winter)",
+    "ShortName": "LBCR Winter",
+    "Description": "LBT-1961A Load Bearing 체스트 리그."
+  },
+  "item_equipment_rig_1961_ucp": {
+    "Name": "LBT-1961A Load Bearing 체스트 리그 (UCP)",
+    "ShortName": "LBCR UCP",
+    "Description": "LBT-1961A Load Bearing 체스트 리그."
+  },
+  "item_equipment_rig_1961_mtp": {
+    "Name": "LBT-1961A Load Bearing 체스트 리그 (British MTP)",
+    "ShortName": "LBCR MTP",
+    "Description": "LBT-1961A Load Bearing 체스트 리그."
+  },
+  "item_equipment_rig_1961_estpatd": {
+    "Name": "LBT-1961A Load Bearing 체스트 리그 (ESTDCU Desert)",
+    "ShortName": "LBCR ESTDCU-D",
+    "Description": "LBT-1961A Load Bearing 체스트 리그."
+  },
+  "item_equipment_rig_azimut_emra": {
+    "Name": "Azimut SS \"Zhuk\" 체스트 하네스 (EMR Arid)",
+    "ShortName": "Azimut EMR",
+    "Description": "Azimut SS \"Zhuk\" 체스트 하네스."
+  },
+  "item_equipment_rig_azimut_emrs": {
+    "Name": "Azimut SS \"Zhuk\" 체스트 하네스 (EMR Spring)",
+    "ShortName": "Azimut Spring",
+    "Description": "Azimut SS \"Zhuk\" 체스트 하네스."
+  },
+  "item_equipment_rig_azimut_atacsa": {
+    "Name": "Azimut SS \"Zhuk\" 체스트 하네스 (Moh / A-TACS Arid)",
+    "ShortName": "Azimut Moh-A",
+    "Description": "Azimut SS \"Zhuk\" 체스트 하네스."
+  },
+  "item_equipment_rig_azimut_emrp": {
+    "Name": "Azimut SS \"Zhuk\" 체스트 하네스 (EMR Syria / Pig)",
+    "ShortName": "Azimut Pig",
+    "Description": "Azimut SS \"Zhuk\" 체스트 하네스."
+  },
+  "item_equipment_rig_beltab_berezka": {
+    "Name": "Poyas-A + Poyas-B 기어 리그 (KLMK Yellow)",
+    "ShortName": "Poyas 콤보 KLMK",
+    "Description": "Poyas-A + Poyas-B 기어 리그."
+  },
+  "item_equipment_rig_beltab_ttsko": {
+    "Name": "Poyas-A + Poyas-B 기어 리그 (TTsKO)",
+    "ShortName": "Poyas 콤보 TTsKO",
+    "Description": "Poyas-A + Poyas-B 기어 리그."
+  },
+  "item_equipment_rig_tv110_moh": {
+    "Name": "WARTECH TV-110 플레이트 캐리어 (Moh / A-TACS)",
+    "ShortName": "TV-110 Moh",
+    "Description": "WARTECH TV-110 플레이트 캐리어."
+  },
+  "item_equipment_armor_otv_cce": {
+    "Name": "Interceptor OTV body armor (Centre-Europe)",
+    "ShortName": "OTV CCE",
+    "Description": "Interceptor OTV body armor."
+  },
+  "item_equipment_armor_otv_3c": {
+    "Name": "Interceptor OTV body armor (3 Color Desert)",
+    "ShortName": "OTV DCU",
+    "Description": "Interceptor OTV body armor."
+  },
+  "item_equipment_armor_un_3c": {
+    "Name": "MF-UNTAR 방탄복 (3 Color Desert)",
+    "ShortName": "MF-UN DCU",
+    "Description": "MF-UNTAR 방탄복."
+  },
+  "item_equipment_armor_un_marpat": {
+    "Name": "MF-UNTAR 방탄복 (MARPAT)",
+    "ShortName": "MF-UN MARPAT",
+    "Description": "MF-UNTAR 방탄복."
+  },
+  "item_equipment_armor_un_wineleaf": {
+    "Name": "MF-UNTAR 방탄복 (Wine Leaf)",
+    "ShortName": "MF-UN WL",
+    "Description": "MF-UNTAR 방탄복."
+  },
+  "item_equipment_armor_6b23_emrpig": {
+    "Name": "6B23-1 방탄복 (EMR Syria / Pig)",
+    "ShortName": "6B23-1 DFL Pig",
+    "Description": "6B23-1 방탄복."
+  },
+  "item_equipment_armor_6b23_klmk": {
+    "Name": "6B23-1 방탄복 (KLMK)",
+    "ShortName": "6B23-1 KLMK",
+    "Description": "6B23-1 방탄복."
+  },
+  "item_equipment_armor_6b23_yagel": {
+    "Name": "6B23-1 방탄복 (Dusk)",
+    "ShortName": "6B23-1 Dusk",
+    "Description": "6B23-1 방탄복."
+  },
+  "item_equipment_armor_def2_moh": {
+    "Name": "FORT Defender-2 방탄복 (A-TACS / Moh)",
+    "ShortName": "Defender-2 Moh",
+    "Description": "FORT Defender-2 방탄복."
+  },
+  "item_equipment_armor_def2_moha": {
+    "Name": "FORT Defender-2 방탄복 (A-TACS Arid / Moh Autumn)",
+    "ShortName": "Defender-2 Autumn",
+    "Description": "FORT Defender-2 방탄복."
+  },
+  "item_equipment_armor_slick_atacs": {
+    "Name": "LBT-6094A Slick 플레이트 캐리어 (A-TACS FG)",
+    "ShortName": "Slick FG",
+    "Description": "LBT-6094A Slick 플레이트 캐리어."
+  },
+  "item_equipment_armor_slick_ixarid": {
+    "Name": "LBT-6094A Slick 플레이트 캐리어 (A-TACS iX Arid)",
+    "ShortName": "Slick iX Arid",
+    "Description": "LBT-6094A Slick 플레이트 캐리어."
+  },
+  "item_equipment_armor_slick_ucp": {
+    "Name": "LBT-6094A Slick 플레이트 캐리어 (UCP)",
+    "ShortName": "Slick UCP",
+    "Description": "LBT-6094A Slick 플레이트 캐리어."
+  },
+  "item_equipment_armor_slick_vegetato": {
+    "Name": "LBT-6094A Slick 플레이트 캐리어 (Vegetato)",
+    "ShortName": "Slick Vegetato",
+    "Description": "LBT-6094A Slick 플레이트 캐리어."
+  },
+  "item_equipment_backpack_beta_moha": {
+    "Name": "ANA Tactical Beta 2 전투 배낭 (A-TACS Arid / Moh Autumn)",
+    "ShortName": "Beta2 Moh-A",
+    "Description": "ANA Tactical Beta 2 전투 배낭."
+  },
+  "item_equipment_backpack_beta_moh": {
+    "Name": "ANA Tactical Beta 2 전투 배낭 (Moh / A-TACS FG)",
+    "ShortName": "Beta2 Moh",
+    "Description": "ANA Tactical Beta 2 전투 배낭."
+  },
+  "item_equipment_backpack_beta_emrd": {
+    "Name": "ANA Tactical Beta 2 전투 배낭 (EMR Desert)",
+    "ShortName": "Beta2 EMRD",
+    "Description": "ANA Tactical Beta 2 전투 배낭."
+  },
+  "item_equipment_backpack_beta_emr": {
+    "Name": "ANA Tactical Beta 2 전투 배낭 (EMR Flora)",
+    "ShortName": "Beta2 EMR",
+    "Description": "ANA Tactical Beta 2 전투 배낭."
+  },
+  "item_equipment_backpack_gr99t30_moh": {
+    "Name": "Gruppa 99 T30 backpack (Moh / A-TACS FG)",
+    "ShortName": "T30 Moh",
+    "Description": "Gruppa 99 T30 backpack."
+  },
+  "item_equipment_backpack_gr99t30_emrd": {
+    "Name": "Gruppa 99 T30 backpack (EMR Desert)",
+    "ShortName": "T30 EMRD",
+    "Description": "Gruppa 99 T30 backpack."
+  },
+  "item_equipment_backpack_gr99t30_klmk": {
+    "Name": "Gruppa 99 T30 backpack (KLMK)",
+    "ShortName": "T30 KLMK",
+    "Description": "Gruppa 99 T30 backpack."
+  },
+  "item_equipment_backpack_gr99t30_emr": {
+    "Name": "Gruppa 99 T30 backpack (EMR)",
+    "ShortName": "T30 EMR",
+    "Description": "Gruppa 99 T30 backpack."
+  },
+  "item_equipment_backpack_lbt1476a_slick_aor1": {
+    "Name": "LBT-1476A 3일 배낭 (AOR 1)",
+    "ShortName": "LBT-1476A AOR",
+    "Description": "LBT-1476A 3일 배낭."
+  },
+  "item_equipment_backpack_lbt1476a_slick_gray": {
+    "Name": "LBT-1476A 3일 배낭 (Gray)",
+    "ShortName": "LBT-1476A Gray",
+    "Description": "LBT-1476A 3일 배낭."
+  },
+  "item_equipment_backpack_lbt1476a_slick_ucp": {
+    "Name": "LBT-1476A 3일 배낭 (UCP)",
+    "ShortName": "LBT-1476A UCP",
+    "Description": "LBT-1476A 3일 배낭."
+  },
+  "item_equipment_backpack_lbt1476a_slick_tropentarn": {
+    "Name": "LBT-1476A 3일 배낭 (Tropentarn)",
+    "ShortName": "LBT-1476A Tropentarn",
+    "Description": "LBT-1476A 3일 배낭."
+  },
+  "item_equipment_rig_umka_f1": {
+    "Name": "Umka M33-SET1 사냥꾼 조끼 (Fisherman Camo 1)",
+    "ShortName": "Umka Fisher 1",
+    "Description": "Umka M33-SET1 사냥꾼 조끼."
+  },
+  "item_equipment_rig_umka_f2": {
+    "Name": "Umka M33-SET1 사냥꾼 조끼 (Fisherman Camo 2)",
+    "ShortName": "Umka Fisher 2",
+    "Description": "Umka M33-SET1 사냥꾼 조끼."
+  },
+  "item_equipment_rig_umka_leaves": {
+    "Name": "Umka M33-SET1 사냥꾼 조끼 (Fallen leaves)",
+    "ShortName": "Umka Leaves",
+    "Description": "Umka M33-SET1 사냥꾼 조끼."
+  },
+  "item_equipment_backpack_pilgrim_blueorange": {
+    "Name": "Pilgrim 필그림 여행자 배낭 (Blue Orange)",
+    "ShortName": "필그림 Blue",
+    "Description": "Pilgrim 필그림 여행자 배낭."
+  },
+  "item_equipment_backpack_pilgrim_green": {
+    "Name": "Pilgrim 필그림 여행자 배낭 (Green)",
+    "ShortName": "필그림 Green",
+    "Description": "Pilgrim 필그림 여행자 배낭."
+  },
+  "item_equipment_backpack_pilgrim_terra2": {
+    "Name": "Pilgrim 필그림 여행자 배낭 (Terra colors)",
+    "ShortName": "필그림 Terra",
+    "Description": "Pilgrim 필그림 여행자 배낭."
+  },
+  "item_equipment_backpack_pilgrim_v1": {
+    "Name": "Pilgrim 필그림 여행자 배낭 (Mustard)",
+    "ShortName": "필그림 Mustard",
+    "Description": "Pilgrim 필그림 여행자 배낭."
+  },
+  "item_equipment_backpack_trizip_flektarn": {
+    "Name": "Camelbak Tri-Zip assault backpack (Flektarn)",
+    "ShortName": "Tri-Zip Flektarn",
+    "Description": "Camelbak Tri-Zip assault backpack."
+  },
+  "item_equipment_backpack_trizip_vegetato": {
+    "Name": "Camelbak Tri-Zip assault backpack (Vegetato)",
+    "ShortName": "Tri-Zip Vegetato",
+    "Description": "Camelbak Tri-Zip assault backpack."
+  },
+  "item_equipment_backpack_trizip_gray": {
+    "Name": "Camelbak Tri-Zip assault backpack (Gray)",
+    "ShortName": "Tri-Zip Gray",
+    "Description": "Camelbak Tri-Zip assault backpack."
+  },
+  "item_equipment_backpack_trizip_ucp": {
+    "Name": "Camelbak Tri-Zip assault backpack (UCP)",
+    "ShortName": "Tri-Zip UCP",
+    "Description": "Camelbak Tri-Zip assault backpack."
+  },
+  "item_equipment_facecover_momex_atacs": {
+    "Name": "Momex 모멕스 발라클라바 (A-TACS FG)",
+    "ShortName": "모멕스 FG",
+    "Description": "Momex 모멕스 발라클라바."
+  },
+  "item_equipment_facecover_momex_atacsa": {
+    "Name": "Momex 모멕스 발라클라바 (A-TACS Arid)",
+    "ShortName": "모멕스 Arid",
+    "Description": "Momex 모멕스 발라클라바."
+  },
+  "item_equipment_facecover_momex_mc": {
+    "Name": "Momex 모멕스 발라클라바 (Multicam)",
+    "ShortName": "모멕스 MC",
+    "Description": "Momex 모멕스 발라클라바."
+  },
+  "item_equipment_facecover_balaclava_emr": {
+    "Name": "Balaclava (EMR)",
+    "ShortName": "Balaclava EMR",
+    "Description": "Balaclava."
+  },
+  "item_equipment_facecover_balaclava_fde": {
+    "Name": "Balaclava (FDE)",
+    "ShortName": "Balaclava FDE",
+    "Description": "Balaclava."
+  },
+  "item_equipment_facecover_balaclava_musor": {
+    "Name": "Balaclava (Moh MVD / A-TACS)",
+    "ShortName": "Balaclava MVD",
+    "Description": "Balaclava."
+  },
+  "item_equipment_backpack_trizip_multitarn": {
+    "Name": "Camelbak Tri-Zip assault backpack (Multitarn)",
+    "ShortName": "Tri-Zip Multitarn",
+    "Description": "Camelbak Tri-Zip assault backpack."
+  },
+  "item_equipment_backpack_f5_badlands": {
+    "Name": "Eberlestock F5 Switchblade 배낭 (Badlands)",
+    "ShortName": "F5 Switchblade Badlands",
+    "Description": "Eberlestock F5 Switchblade 배낭."
+  },
+  "item_equipment_backpack_f5_french": {
+    "Name": "Eberlestock F5 Switchblade 배낭 (Centre-Europe)",
+    "ShortName": "F5 Switchblade CCE",
+    "Description": "Eberlestock F5 Switchblade 배낭."
+  },
+  "item_equipment_backpack_f5_lizard": {
+    "Name": "Eberlestock F5 Switchblade 배낭 (Lizard)",
+    "ShortName": "F5 Switchblade Lizard",
+    "Description": "Eberlestock F5 Switchblade 배낭."
+  },
+  "item_equipment_backpack_f5_multitarn": {
+    "Name": "Eberlestock F5 Switchblade 배낭 (Multitarn)",
+    "ShortName": "F5 Switchblade Multitarn",
+    "Description": "Eberlestock F5 Switchblade 배낭."
+  },
+  "item_equipment_backpack_dragon_egg_3c": {
+    "Name": "Direct Action Dragon Egg Mark II backpack (3 Color Desert)",
+    "ShortName": "Dragon Egg MKII DCU",
+    "Description": "Direct Action Dragon Egg Mark II backpack."
+  },
+  "item_equipment_backpack_dragon_egg_fde": {
+    "Name": "Direct Action Dragon Egg Mark II backpack (FDE)",
+    "ShortName": "Dragon Egg MKII FDE",
+    "Description": "Direct Action Dragon Egg Mark II backpack."
+  },
+  "item_equipment_backpack_dragon_egg_olive": {
+    "Name": "Direct Action Dragon Egg Mark II backpack (Olive)",
+    "ShortName": "Dragon Egg MKII Olive",
+    "Description": "Direct Action Dragon Egg Mark II backpack."
+  },
+  "item_equipment_backpack_dragon_egg_ix": {
+    "Name": "Direct Action Dragon Egg Mark II backpack (A-TACS iX Arid)",
+    "ShortName": "Dragon Egg MKII iX Arid",
+    "Description": "Direct Action Dragon Egg Mark II backpack."
+  },
+  "item_equipment_backpack_dragon_egg_wz93": {
+    "Name": "Direct Action Dragon Egg Mark II backpack (Wz93 Pantera)",
+    "ShortName": "Dragon Egg MKII Wz93",
+    "Description": "Direct Action Dragon Egg Mark II backpack."
+  },
+  "item_equipment_armor_kora_kulon_93": {
+    "Name": "NPP KlASS Kora-Kulon body armor (VSR-93 Barvikha)",
+    "ShortName": "Kora-Kulon 93",
+    "Description": "NPP KlASS Kora-Kulon body armor."
+  },
+  "item_equipment_armor_kora_kulon_ryzh": {
+    "Name": "NPP KlASS Kora-Kulon body armor (VSR-98 Mountain Flora)",
+    "ShortName": "Kora-Kulon 98MF",
+    "Description": "NPP KlASS Kora-Kulon body armor."
+  },
+  "item_equipment_armor_kora_kulon_flora": {
+    "Name": "NPP KlASS Kora-Kulon body armor (VSR-98 Flora)",
+    "ShortName": "Kora-Kulon 98F",
+    "Description": "NPP KlASS Kora-Kulon body armor."
+  },
+  "item_equipment_armor_kora_kulon_bkamysh": {
+    "Name": "NPP KlASS Kora-Kulon body armor (MVD Kamysh)",
+    "ShortName": "Kora-Kulon MVD",
+    "Description": "NPP KlASS Kora-Kulon body armor."
+  },
+  "item_equipment_helmet_gentex_slaap_green": {
+    "Name": "Ops-Core SLAAP 헬멧용 방탄판 (Green)",
+    "ShortName": "SLAAP Green",
+    "Description": "Ops-Core SLAAP 헬멧용 방탄판."
+  },
+  "item_equipment_helmet_gentex_slaap_gray": {
+    "Name": "Ops-Core SLAAP 헬멧용 방탄판 (Gray)",
+    "ShortName": "SLAAP Gray",
+    "Description": "Ops-Core SLAAP 헬멧용 방탄판."
+  },
+  "item_equipment_backpack_blackjack_ix": {
+    "Name": "Mystery Ranch Blackjack 50 배낭 (A-TACS iX AU)",
+    "ShortName": "Blackjack 50 iX",
+    "Description": "Mystery Ranch Blackjack 50 배낭."
+  },
+  "item_equipment_backpack_blackjack_m05": {
+    "Name": "Mystery Ranch Blackjack 50 배낭 (M05)",
+    "ShortName": "Blackjack 50 M05",
+    "Description": "Mystery Ranch Blackjack 50 배낭."
+  },
+  "item_equipment_backpack_blackjack_lizard": {
+    "Name": "Mystery Ranch Blackjack 50 배낭 (Lizard)",
+    "ShortName": "Blackjack 50 Lizard",
+    "Description": "Mystery Ranch Blackjack 50 배낭."
+  },
+  "item_equipment_backpack_blackjack_granite": {
+    "Name": "Mystery Ranch Blackjack 50 배낭 (Granite-B)",
+    "ShortName": "Blackjack 50 Granite",
+    "Description": "Mystery Ranch Blackjack 50 배낭."
+  },
+  "item_equipment_helmet_zsh_93": {
+    "Name": "ZSh-1-2M 헬멧 (VSR-93 Barvikha)",
+    "ShortName": "ZSh-1-2M 93",
+    "Description": "ZSh-1-2M 헬멧."
+  },
+  "item_equipment_helmet_zsh_gray": {
+    "Name": "ZSh-1-2M 헬멧 (Kamysh Gray)",
+    "ShortName": "ZSh-1-2M Gray",
+    "Description": "ZSh-1-2M 헬멧."
+  },
+  "item_equipment_helmet_lshz_dusk": {
+    "Name": "LShZ 경량 헬멧 (Dusk)",
+    "ShortName": "LShZ Dusk",
+    "Description": "LShZ 경량 헬멧."
+  },
+  "item_equipment_helmet_lshz_emr": {
+    "Name": "LShZ 경량 헬멧 (EMR Summer)",
+    "ShortName": "LShZ EMR",
+    "Description": "LShZ 경량 헬멧."
+  },
+  "item_equipment_helmet_lshz_yagel": {
+    "Name": "LShZ 경량 헬멧 (Yagel)",
+    "ShortName": "LShZ Yagel",
+    "Description": "LShZ 경량 헬멧."
+  },
+  "item_equipment_helmet_lshz_surpat": {
+    "Name": "LShZ 경량 헬멧 (SURPAT)",
+    "ShortName": "LShZ SURPAT",
+    "Description": "LShZ 경량 헬멧."
+  },
+  "item_equipment_backpack_mystery_ranch_coyote": {
+    "Name": "Mystery Ranch SATL Bridger Assault Pack (Coyote)",
+    "ShortName": "SATL Coyote",
+    "Description": "Mystery Ranch SATL Bridger Assault Pack."
+  },
+  "item_equipment_backpack_mystery_ranch_penncott": {
+    "Name": "Mystery Ranch SATL Bridger Assault Pack (Greenzone)",
+    "ShortName": "SATL GZ",
+    "Description": "Mystery Ranch SATL Bridger Assault Pack."
+  },
+  "item_equipment_backpack_mystery_ranch_m05w": {
+    "Name": "Mystery Ranch SATL Bridger Assault Pack (M05 Cold Weather)",
+    "ShortName": "SATL M05 CW",
+    "Description": "Mystery Ranch SATL Bridger Assault Pack."
+  },
+  "item_equipment_backpack_mystery_ranch_est": {
+    "Name": "Mystery Ranch SATL Bridger Assault Pack (ESTDCU)",
+    "ShortName": "SATL ESTDCU",
+    "Description": "Mystery Ranch SATL Bridger Assault Pack."
+  },
+  "item_equipment_rig_carriertactec_greenzone": {
+    "Name": "5.11 Tactical TacTec 플레이트 캐리어 (Greenzone)",
+    "ShortName": "TacTec Greenzone",
+    "Description": "5.11 Tactical TacTec 플레이트 캐리어."
+  },
+  "item_equipment_rig_carriertactec_m05": {
+    "Name": "5.11 Tactical TacTec 플레이트 캐리어 (M05)",
+    "ShortName": "TacTec M05",
+    "Description": "5.11 Tactical TacTec 플레이트 캐리어."
+  },
+  "item_equipment_rig_carriertactec_au": {
+    "Name": "5.11 Tactical TacTec 플레이트 캐리어 (Arid Urban)",
+    "ShortName": "TacTec AU",
+    "Description": "5.11 Tactical TacTec 플레이트 캐리어."
+  },
+  "item_equipment_helmet_mich2002_aor": {
+    "Name": "MSA ACH TC-2002 MICH 시리즈 헬멧 (AOR 1)",
+    "ShortName": "TC-2002 AOR1",
+    "Description": "MSA ACH TC-2002 MICH 시리즈 헬멧."
+  },
+  "item_equipment_helmet_mich2002_m05": {
+    "Name": "MSA ACH TC-2002 MICH 시리즈 헬멧 (M05)",
+    "ShortName": "TC-2002 M05",
+    "Description": "MSA ACH TC-2002 MICH 시리즈 헬멧."
+  },
+  "item_equipment_rig_tv110_black": {
+    "Name": "WARTECH TV-110 플레이트 캐리어 (Black)",
+    "ShortName": "TV-110 Black",
+    "Description": "WARTECH TV-110 플레이트 캐리어."
+  },
+  "item_equipment_rig_patrol_multicam": {
+    "Name": "Velocity Systems MPPV 다용도 순찰용 조끼 (Multicam)",
+    "ShortName": "MPPV Multicam",
+    "Description": "Velocity Systems MPPV 다용도 순찰용 조끼."
+  },
+  "item_equipment_rig_patrol_aor2": {
+    "Name": "Velocity Systems MPPV 다용도 순찰용 조끼 (AOR 2)",
+    "ShortName": "MPPV AOR 2",
+    "Description": "Velocity Systems MPPV 다용도 순찰용 조끼."
+  },
+  "item_equipment_rig_patrol_m05c": {
+    "Name": "Velocity Systems MPPV 다용도 순찰용 조끼 (M05 Cold Weather)",
+    "ShortName": "MPPV M05 CW",
+    "Description": "Velocity Systems MPPV 다용도 순찰용 조끼."
+  },
+  "item_equipment_rig_m1_gray": {
+    "Name": "ANA Tactical M1 플레이트 캐리어 (Gray)",
+    "ShortName": "ANA M1 Gray",
+    "Description": "ANA Tactical M1 플레이트 캐리어."
+  },
+  "item_equipment_rig_m1_coyote": {
+    "Name": "ANA Tactical M1 플레이트 캐리어 (Coyote)",
+    "ShortName": "ANA M1 Coyote",
+    "Description": "ANA Tactical M1 플레이트 캐리어."
+  },
+  "item_equipment_rig_m1_rg": {
+    "Name": "ANA Tactical M1 플레이트 캐리어 (Ranger Green)",
+    "ShortName": "ANA M1 RG",
+    "Description": "ANA Tactical M1 플레이트 캐리어."
+  },
+  "item_equipment_backpack_mech_green": {
+    "Name": "Oakley Mechanism heavy duty 배낭 (Green)",
+    "ShortName": "Mechanism Green",
+    "Description": "Oakley Mechanism heavy duty 배낭."
+  },
+  "item_equipment_backpack_mech_coyote": {
+    "Name": "Oakley Mechanism heavy duty 배낭 (Coyote)",
+    "ShortName": "Mechanism Coyote",
+    "Description": "Oakley Mechanism heavy duty 배낭."
+  },
+  "item_equipment_rig_shellback_tactical_banshee_fg": {
+    "Name": "Shellback Tactical Banshee plate carrier (A-TACS FG)",
+    "ShortName": "Banshee FG",
+    "Description": "Shellback Tactical Banshee plate carrier."
+  },
+  "item_equipment_rig_shellback_tactical_banshee_ghost": {
+    "Name": "Shellback Tactical Banshee plate carrier (A-TACS iX Ghost)",
+    "ShortName": "Banshee Ghost",
+    "Description": "Shellback Tactical Banshee plate carrier."
+  },
+  "item_equipment_rig_umka_winter": {
+    "Name": "Umka M33-SET1 사냥꾼 조끼 (Winter)",
+    "ShortName": "Umka Winter",
+    "Description": "Umka M33-SET1 사냥꾼 조끼."
+  },
+  "chestrig_tarzan_dym": {
+    "Name": "Splav Tarzan M22 체스트 리그 (Dym / A-TACS copy)",
+    "ShortName": "Tarzan Dym",
+    "Description": "Splav Tarzan M22 체스트 리그."
+  },
+  "chestrig_tarzan_emra": {
+    "Name": "Splav Tarzan M22 체스트 리그 (EMR Autumn)",
+    "ShortName": "Tarzan EMR-A",
+    "Description": "Splav Tarzan M22 체스트 리그."
+  },
+  "item_equipment_armor_a18_dym": {
+    "Name": "Ars Arma A18 Skanda 플레이트 캐리어 (Dym / A-TACS copy)",
+    "ShortName": "A18 Skanda Dym",
+    "Description": "Ars Arma A18 Skanda 플레이트 캐리어."
+  },
+  "item_equipment_armor_a18_emr1": {
+    "Name": "Ars Arma A18 Skanda 플레이트 캐리어 (EMR)",
+    "ShortName": "A18 Skanda EMR",
+    "Description": "Ars Arma A18 Skanda 플레이트 캐리어."
+  },
+  "item_equipment_armor_a18_gray": {
+    "Name": "Ars Arma A18 Skanda 플레이트 캐리어 (Gray)",
+    "ShortName": "A18 Skanda Gray",
+    "Description": "Ars Arma A18 Skanda 플레이트 캐리어."
+  },
+  "item_equipment_backpack_paratus_kr": {
+    "Name": "3V Gear Paratus 3일 오퍼레이터 전술 배낭 (Kryptek Mandrake)",
+    "ShortName": "Paratus Mandrake",
+    "Description": "3V Gear Paratus 3일 오퍼레이터 전술 배낭."
+  },
+  "item_equipment_backpack_paratus_ts": {
+    "Name": "3V Gear Paratus 3일 오퍼레이터 전술 배낭 (USAF Digital Tigerstripe)",
+    "ShortName": "Paratus USAF",
+    "Description": "3V Gear Paratus 3일 오퍼레이터 전술 배낭."
+  },
+  "item_equipment_backpack_paratus_wasp": {
+    "Name": "3V Gear Paratus 3일 오퍼레이터 전술 배낭 (Phantomleaf WASP II Z 1A)",
+    "ShortName": "Paratus WASP",
+    "Description": "3V Gear Paratus 3일 오퍼레이터 전술 배낭."
+  },
+  "item_equipment_backpack_takedown_sling_1": {
+    "Name": "Hazard 4 Takedown 슬링백 (AOR-2)",
+    "ShortName": "Takedown AOR-2",
+    "Description": "Hazard 4 Takedown 슬링백."
+  },
+  "item_equipment_backpack_takedown_sling_2": {
+    "Name": "Hazard 4 Takedown 슬링백 (MARPAT Urban)",
+    "ShortName": "Takedown MP-U",
+    "Description": "Hazard 4 Takedown 슬링백."
+  },
+  "item_equipment_rig_6h112_arctic": {
+    "Name": "UMTBS 6sh112 스카우트-스나이퍼 (EMR Arctic)",
+    "ShortName": "6sh112 S-S EMR-Ar",
+    "Description": "UMTBS 6sh112 스카우트-스나이퍼."
+  },
+  "item_equipment_rig_bae_rbav_aor": {
+    "Name": "ECLiPSE RBAV-AF plate carrier (AOR-2)",
+    "ShortName": "RBAV-AF AOR-2",
+    "Description": "ECLiPSE RBAV-AF plate carrier."
+  },
+  "item_equipment_rig_bae_rbav_ucon": {
+    "Name": "ECLiPSE RBAV-AF plate carrier (A-TACS U|CON)",
+    "ShortName": "RBAV-AF UCON",
+    "Description": "ECLiPSE RBAV-AF plate carrier."
+  },
+  "item_equipment_rig_d3crx_multicam": {
+    "Name": "Haley Strategic D3CRX 체스트 하네스 (Multicam)",
+    "ShortName": "D3CRX MC",
+    "Description": "Haley Strategic D3CRX 체스트 하네스."
+  },
+  "item_equipment_rig_d3crx_multicamblack": {
+    "Name": "Haley Strategic D3CRX 체스트 하네스 (Multicam Black)",
+    "ShortName": "D3CRX MCB",
+    "Description": "Haley Strategic D3CRX 체스트 하네스."
+  },
+  "item_equipment_rig_d3crx_multicamtropic": {
+    "Name": "Haley Strategic D3CRX 체스트 하네스 (Multicam Tropic)",
+    "ShortName": "D3CRX MCT",
+    "Description": "Haley Strategic D3CRX 체스트 하네스."
+  },
+  "item_equipment_rig_blackrock_ral7013": {
+    "Name": "BlackRock 체스트 리그 (RAL 7013)",
+    "ShortName": "BlackRock 7013",
+    "Description": "BlackRock 체스트 리그."
+  },
+  "item_equipment_armor_custom_hexgrid_c": {
+    "Name": "5.11 Tactical Hexgrid 플레이트 캐리어 (Coyote)",
+    "ShortName": "Hexgrid Coyote",
+    "Description": "5.11 Tactical Hexgrid 플레이트 캐리어."
+  },
+  "item_equipment_armor_custom_hexgrid_g": {
+    "Name": "5.11 Tactical Hexgrid 플레이트 캐리어 (Green)",
+    "ShortName": "Hexgrid Green",
+    "Description": "5.11 Tactical Hexgrid 플레이트 캐리어."
+  },
+  "item_equipment_facecover_strikeball_mask_leshiy": {
+    "Name": "Death Shadow lightweight armored mask (Lešij custom paint)",
+    "ShortName": "Death Shadow Lešij",
+    "Description": "Death Shadow lightweight armored mask."
+  },
+  "item_equipment_backpack_g2_gunslinger_gray": {
+    "Name": "Eberlestock G2 Gunslinger II 배낭 (Gray)",
+    "ShortName": "G2 Gunslinger II Gray",
+    "Description": "Eberlestock G2 Gunslinger II 배낭."
+  },
+  "item_equipment_backpack_g2_gunslinger_slocam": {
+    "Name": "Eberlestock G2 Gunslinger II 배낭 (SLOCAM)",
+    "ShortName": "G2 Gunslinger II SK",
+    "Description": "Eberlestock G2 Gunslinger II 배낭."
+  },
+  "item_equipment_backpack_g2_gunslinger_ucon": {
+    "Name": "Eberlestock G2 Gunslinger II 배낭 (A-TACS U|CON)",
+    "ShortName": "G2 Gunslinger II UCON",
+    "Description": "Eberlestock G2 Gunslinger II 배낭."
+  },
+  "item_equipment_backpack_f4terminator_black": {
+    "Name": "Eberlestock F4 Terminator 로드 베어링 배낭 (Black)",
+    "ShortName": "F4 Terminator Black",
+    "Description": "Eberlestock F4 Terminator 로드 베어링 배낭."
+  },
+  "item_equipment_backpack_f4terminator_h": {
+    "Name": "Eberlestock F4 Terminator 로드 베어링 배낭 (HUNCAM)",
+    "ShortName": "F4 Terminator HU",
+    "Description": "Eberlestock F4 Terminator 로드 베어링 배낭."
+  },
+  "item_equipment_backpack_f4terminator_c": {
+    "Name": "Eberlestock F4 Terminator 로드 베어링 배낭 (Vz 95)",
+    "ShortName": "F4 Terminator 95",
+    "Description": "Eberlestock F4 Terminator 로드 베어링 배낭."
+  }
+}

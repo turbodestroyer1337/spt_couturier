@@ -1,0 +1,3244 @@
+{
+  "688bdf140c10f10000000000": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "687cfc390c10f10000000000",
+    "_id": "688bdf140c10f10000000000",
+    "_items": [
+      {
+        "_id": "688bdf140c10f10000000001",
+        "_tpl": "687cfc390c10f10000000000"
+      },
+      {
+        "_id": "688bdf140c10f10000000002",
+        "_tpl": "65764e1e2bc38ef78e076489",
+        "parentId": "688bdf140c10f10000000001",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f10000000003",
+        "_tpl": "65764fae2bc38ef78e07648d",
+        "parentId": "688bdf140c10f10000000001",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f10000000004",
+        "_tpl": "6576504b526e320fbe035783",
+        "parentId": "688bdf140c10f10000000001",
+        "slotId": "Groin"
+      },
+      {
+        "_id": "688bdf140c10f10000000005",
+        "_tpl": "6576500f526e320fbe03577f",
+        "parentId": "688bdf140c10f10000000001",
+        "slotId": "Groin_back"
+      }
+    ],
+    "_name": "Vest 6B3TM 01 Standard",
+    "_parent": "688bdf140c10f10000000001",
+    "_type": "Preset"
+  },
+  "688bdf140c10f10000000006": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "687cfc390c10f10000000007",
+    "_id": "688bdf140c10f10000000006",
+    "_items": [
+      {
+        "_id": "688bdf140c10f10000000007",
+        "_tpl": "687cfc390c10f10000000007"
+      },
+      {
+        "_id": "688bdf140c10f10000000008",
+        "_tpl": "65764e1e2bc38ef78e076489",
+        "parentId": "688bdf140c10f10000000007",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f10000000009",
+        "_tpl": "65764fae2bc38ef78e07648d",
+        "parentId": "688bdf140c10f10000000007",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f1000000000a",
+        "_tpl": "6576504b526e320fbe035783",
+        "parentId": "688bdf140c10f10000000007",
+        "slotId": "Groin"
+      },
+      {
+        "_id": "688bdf140c10f1000000000b",
+        "_tpl": "6576500f526e320fbe03577f",
+        "parentId": "688bdf140c10f10000000007",
+        "slotId": "Groin_back"
+      }
+    ],
+    "_name": "Vest 6B3TM 01 Standard",
+    "_parent": "688bdf140c10f10000000007",
+    "_type": "Preset"
+  },
+  "688bdf140c10f1000000000c": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "687cfc390c10f1000000000e",
+    "_id": "688bdf140c10f1000000000c",
+    "_items": [
+      {
+        "_id": "688bdf140c10f1000000000d",
+        "_tpl": "687cfc390c10f1000000000e"
+      },
+      {
+        "_id": "688bdf140c10f1000000000e",
+        "_tpl": "65764e1e2bc38ef78e076489",
+        "parentId": "688bdf140c10f1000000000d",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f1000000000f",
+        "_tpl": "65764fae2bc38ef78e07648d",
+        "parentId": "688bdf140c10f1000000000d",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f10000000010",
+        "_tpl": "6576504b526e320fbe035783",
+        "parentId": "688bdf140c10f1000000000d",
+        "slotId": "Groin"
+      },
+      {
+        "_id": "688bdf140c10f10000000011",
+        "_tpl": "6576500f526e320fbe03577f",
+        "parentId": "688bdf140c10f1000000000d",
+        "slotId": "Groin_back"
+      }
+    ],
+    "_name": "Vest 6B3TM 01 Standard",
+    "_parent": "688bdf140c10f1000000000d",
+    "_type": "Preset"
+  },
+  "688bdf140c10f10000000012": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "687cfc390c10f10000000015",
+    "_id": "688bdf140c10f10000000012",
+    "_items": [
+      {
+        "_id": "688bdf140c10f10000000013",
+        "_tpl": "687cfc390c10f10000000015"
+      },
+      {
+        "_id": "688bdf140c10f10000000014",
+        "_tpl": "657baaf0b7e9ca9a02045c02",
+        "parentId": "688bdf140c10f10000000013",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "688bdf140c10f10000000015",
+        "_tpl": "657bab6ec6f689d3a205b85f",
+        "parentId": "688bdf140c10f10000000013",
+        "slotId": "Helmet_back"
+      },
+      {
+        "_id": "688bdf140c10f10000000016",
+        "_tpl": "657babc6f58ba5a6250107a2",
+        "parentId": "688bdf140c10f10000000013",
+        "slotId": "Helmet_ears"
+      }
+    ],
+    "_name": "Helmet Ratnik BSh 6b47 Flora digital Standart",
+    "_parent": "688bdf140c10f10000000013",
+    "_type": "Preset"
+  },
+  "688bdf140c10f10000000017": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "687cfc390c10f1000000001b",
+    "_id": "688bdf140c10f10000000017",
+    "_items": [
+      {
+        "_id": "688bdf140c10f10000000018",
+        "_tpl": "687cfc390c10f1000000001b"
+      },
+      {
+        "_id": "688bdf140c10f10000000019",
+        "_tpl": "657baaf0b7e9ca9a02045c02",
+        "parentId": "688bdf140c10f10000000018",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "688bdf140c10f1000000001a",
+        "_tpl": "657bab6ec6f689d3a205b85f",
+        "parentId": "688bdf140c10f10000000018",
+        "slotId": "Helmet_back"
+      },
+      {
+        "_id": "688bdf140c10f1000000001b",
+        "_tpl": "657babc6f58ba5a6250107a2",
+        "parentId": "688bdf140c10f10000000018",
+        "slotId": "Helmet_ears"
+      }
+    ],
+    "_name": "Helmet Ratnik BSh 6b47 Flora digital Standart",
+    "_parent": "688bdf140c10f10000000018",
+    "_type": "Preset"
+  },
+  "688bdf140c10f1000000001c": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "687cfc390c10f10000000021",
+    "_id": "688bdf140c10f1000000001c",
+    "_items": [
+      {
+        "_id": "688bdf140c10f1000000001d",
+        "_tpl": "687cfc390c10f10000000021"
+      },
+      {
+        "_id": "688bdf140c10f1000000001e",
+        "_tpl": "657baaf0b7e9ca9a02045c02",
+        "parentId": "688bdf140c10f1000000001d",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "688bdf140c10f1000000001f",
+        "_tpl": "657bab6ec6f689d3a205b85f",
+        "parentId": "688bdf140c10f1000000001d",
+        "slotId": "Helmet_back"
+      },
+      {
+        "_id": "688bdf140c10f10000000020",
+        "_tpl": "657babc6f58ba5a6250107a2",
+        "parentId": "688bdf140c10f1000000001d",
+        "slotId": "Helmet_ears"
+      }
+    ],
+    "_name": "Helmet Ratnik BSh 6b47 Flora digital Standart",
+    "_parent": "688bdf140c10f1000000001d",
+    "_type": "Preset"
+  },
+  "688bdf140c10f10000000021": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "687cfc390c10f10000000027",
+    "_id": "688bdf140c10f10000000021",
+    "_items": [
+      {
+        "_id": "688bdf140c10f10000000022",
+        "_tpl": "687cfc390c10f10000000027"
+      },
+      {
+        "_id": "688bdf140c10f10000000023",
+        "_tpl": "657baaf0b7e9ca9a02045c02",
+        "parentId": "688bdf140c10f10000000022",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "688bdf140c10f10000000024",
+        "_tpl": "657bab6ec6f689d3a205b85f",
+        "parentId": "688bdf140c10f10000000022",
+        "slotId": "Helmet_back"
+      },
+      {
+        "_id": "688bdf140c10f10000000025",
+        "_tpl": "657babc6f58ba5a6250107a2",
+        "parentId": "688bdf140c10f10000000022",
+        "slotId": "Helmet_ears"
+      }
+    ],
+    "_name": "Helmet Ratnik BSh 6b47 Flora digital Standart",
+    "_parent": "688bdf140c10f10000000022",
+    "_type": "Preset"
+  },
+  "688bdf140c10f10000000026": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "687cfc390c10f1000000002d",
+    "_id": "688bdf140c10f10000000026",
+    "_items": [
+      {
+        "_id": "688bdf140c10f10000000027",
+        "_tpl": "687cfc390c10f1000000002d"
+      },
+      {
+        "_id": "688bdf140c10f10000000028",
+        "_tpl": "657baaf0b7e9ca9a02045c02",
+        "parentId": "688bdf140c10f10000000027",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "688bdf140c10f10000000029",
+        "_tpl": "657bab6ec6f689d3a205b85f",
+        "parentId": "688bdf140c10f10000000027",
+        "slotId": "Helmet_back"
+      },
+      {
+        "_id": "688bdf140c10f1000000002a",
+        "_tpl": "657babc6f58ba5a6250107a2",
+        "parentId": "688bdf140c10f10000000027",
+        "slotId": "Helmet_ears"
+      }
+    ],
+    "_name": "Helmet Ratnik BSh 6b47 Flora digital Standart",
+    "_parent": "688bdf140c10f10000000027",
+    "_type": "Preset"
+  },
+  "688bdf140c10f1000000002b": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "687d3cef0c10f1000000002b",
+    "_id": "688bdf140c10f1000000002b",
+    "_items": [
+      {
+        "_id": "688bdf140c10f1000000002c",
+        "_tpl": "687d3cef0c10f1000000002b"
+      },
+      {
+        "_id": "688bdf140c10f1000000002d",
+        "_tpl": "65731b46cea9255e2102360a",
+        "parentId": "688bdf140c10f1000000002c",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f1000000002e",
+        "_tpl": "65731b4fcea9255e2102360e",
+        "parentId": "688bdf140c10f1000000002c",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f1000000002f",
+        "_tpl": "65731b576e709cddd001ec3f",
+        "parentId": "688bdf140c10f1000000002c",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "688bdf140c10f10000000030",
+        "_tpl": "65731b60ff6dc44a7d068c4a",
+        "parentId": "688bdf140c10f1000000002c",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "688bdf140c10f10000000031",
+        "_tpl": "65731b666e709cddd001ec43",
+        "parentId": "688bdf140c10f1000000002c",
+        "slotId": "Collar"
+      },
+      {
+        "_id": "688bdf140c10f10000000032",
+        "_tpl": "65731b716e709cddd001ec47",
+        "parentId": "688bdf140c10f1000000002c",
+        "slotId": "Groin"
+      },
+      {
+        "_id": "688bdf140c10f10000000033",
+        "_tpl": "65731b6b6042b0f210020ef6",
+        "parentId": "688bdf140c10f1000000002c",
+        "slotId": "Groin_back"
+      },
+      {
+        "_id": "688bdf140c10f10000000034",
+        "_tpl": "656f664200d62bcd2e024077",
+        "parentId": "688bdf140c10f1000000002c",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "688bdf140c10f10000000035",
+        "_tpl": "654a4f8bc721968a4404ef18",
+        "parentId": "688bdf140c10f1000000002c",
+        "slotId": "Left_side_plate"
+      },
+      {
+        "_id": "688bdf140c10f10000000036",
+        "_tpl": "654a4f8bc721968a4404ef18",
+        "parentId": "688bdf140c10f1000000002c",
+        "slotId": "Right_side_plate"
+      },
+      {
+        "_id": "688bdf140c10f10000000037",
+        "_tpl": "657b2797c3dbcb01d60c35ea",
+        "parentId": "688bdf140c10f1000000002c",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Body armor Korund VM Standard",
+    "_parent": "688bdf140c10f1000000002c",
+    "_type": "Preset"
+  },
+  "688bdf140c10f10000000038": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "687d3cef0c10f10000000039",
+    "_id": "688bdf140c10f10000000038",
+    "_items": [
+      {
+        "_id": "688bdf140c10f10000000039",
+        "_tpl": "687d3cef0c10f10000000039"
+      },
+      {
+        "_id": "688bdf140c10f1000000003a",
+        "_tpl": "65731b46cea9255e2102360a",
+        "parentId": "688bdf140c10f10000000039",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f1000000003b",
+        "_tpl": "65731b4fcea9255e2102360e",
+        "parentId": "688bdf140c10f10000000039",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f1000000003c",
+        "_tpl": "65731b576e709cddd001ec3f",
+        "parentId": "688bdf140c10f10000000039",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "688bdf140c10f1000000003d",
+        "_tpl": "65731b60ff6dc44a7d068c4a",
+        "parentId": "688bdf140c10f10000000039",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "688bdf140c10f1000000003e",
+        "_tpl": "65731b666e709cddd001ec43",
+        "parentId": "688bdf140c10f10000000039",
+        "slotId": "Collar"
+      },
+      {
+        "_id": "688bdf140c10f1000000003f",
+        "_tpl": "65731b716e709cddd001ec47",
+        "parentId": "688bdf140c10f10000000039",
+        "slotId": "Groin"
+      },
+      {
+        "_id": "688bdf140c10f10000000040",
+        "_tpl": "65731b6b6042b0f210020ef6",
+        "parentId": "688bdf140c10f10000000039",
+        "slotId": "Groin_back"
+      },
+      {
+        "_id": "688bdf140c10f10000000041",
+        "_tpl": "656f664200d62bcd2e024077",
+        "parentId": "688bdf140c10f10000000039",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "688bdf140c10f10000000042",
+        "_tpl": "654a4f8bc721968a4404ef18",
+        "parentId": "688bdf140c10f10000000039",
+        "slotId": "Left_side_plate"
+      },
+      {
+        "_id": "688bdf140c10f10000000043",
+        "_tpl": "654a4f8bc721968a4404ef18",
+        "parentId": "688bdf140c10f10000000039",
+        "slotId": "Right_side_plate"
+      },
+      {
+        "_id": "688bdf140c10f10000000044",
+        "_tpl": "657b2797c3dbcb01d60c35ea",
+        "parentId": "688bdf140c10f10000000039",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Body armor Korund VM Standard",
+    "_parent": "688bdf140c10f10000000039",
+    "_type": "Preset"
+  },
+  "688bdf140c10f10000000045": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "687d3cef0c10f10000000047",
+    "_id": "688bdf140c10f10000000045",
+    "_items": [
+      {
+        "_id": "688bdf140c10f10000000046",
+        "_tpl": "687d3cef0c10f10000000047"
+      },
+      {
+        "_id": "688bdf140c10f10000000047",
+        "_tpl": "65731b46cea9255e2102360a",
+        "parentId": "688bdf140c10f10000000046",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f10000000048",
+        "_tpl": "65731b4fcea9255e2102360e",
+        "parentId": "688bdf140c10f10000000046",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f10000000049",
+        "_tpl": "65731b576e709cddd001ec3f",
+        "parentId": "688bdf140c10f10000000046",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "688bdf140c10f1000000004a",
+        "_tpl": "65731b60ff6dc44a7d068c4a",
+        "parentId": "688bdf140c10f10000000046",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "688bdf140c10f1000000004b",
+        "_tpl": "65731b666e709cddd001ec43",
+        "parentId": "688bdf140c10f10000000046",
+        "slotId": "Collar"
+      },
+      {
+        "_id": "688bdf140c10f1000000004c",
+        "_tpl": "65731b716e709cddd001ec47",
+        "parentId": "688bdf140c10f10000000046",
+        "slotId": "Groin"
+      },
+      {
+        "_id": "688bdf140c10f1000000004d",
+        "_tpl": "65731b6b6042b0f210020ef6",
+        "parentId": "688bdf140c10f10000000046",
+        "slotId": "Groin_back"
+      },
+      {
+        "_id": "688bdf140c10f1000000004e",
+        "_tpl": "656f664200d62bcd2e024077",
+        "parentId": "688bdf140c10f10000000046",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "688bdf140c10f1000000004f",
+        "_tpl": "654a4f8bc721968a4404ef18",
+        "parentId": "688bdf140c10f10000000046",
+        "slotId": "Left_side_plate"
+      },
+      {
+        "_id": "688bdf140c10f10000000050",
+        "_tpl": "654a4f8bc721968a4404ef18",
+        "parentId": "688bdf140c10f10000000046",
+        "slotId": "Right_side_plate"
+      },
+      {
+        "_id": "688bdf140c10f10000000051",
+        "_tpl": "657b2797c3dbcb01d60c35ea",
+        "parentId": "688bdf140c10f10000000046",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Body armor Korund VM Standard",
+    "_parent": "688bdf140c10f10000000046",
+    "_type": "Preset"
+  },
+  "688bdf140c10f10000000052": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "687d3cef0c10f10000000055",
+    "_id": "688bdf140c10f10000000052",
+    "_items": [
+      {
+        "_id": "688bdf140c10f10000000053",
+        "_tpl": "687d3cef0c10f10000000055"
+      },
+      {
+        "_id": "688bdf140c10f10000000054",
+        "_tpl": "65731b46cea9255e2102360a",
+        "parentId": "688bdf140c10f10000000053",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f10000000055",
+        "_tpl": "65731b4fcea9255e2102360e",
+        "parentId": "688bdf140c10f10000000053",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f10000000056",
+        "_tpl": "65731b576e709cddd001ec3f",
+        "parentId": "688bdf140c10f10000000053",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "688bdf140c10f10000000057",
+        "_tpl": "65731b60ff6dc44a7d068c4a",
+        "parentId": "688bdf140c10f10000000053",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "688bdf140c10f10000000058",
+        "_tpl": "65731b666e709cddd001ec43",
+        "parentId": "688bdf140c10f10000000053",
+        "slotId": "Collar"
+      },
+      {
+        "_id": "688bdf140c10f10000000059",
+        "_tpl": "65731b716e709cddd001ec47",
+        "parentId": "688bdf140c10f10000000053",
+        "slotId": "Groin"
+      },
+      {
+        "_id": "688bdf140c10f1000000005a",
+        "_tpl": "65731b6b6042b0f210020ef6",
+        "parentId": "688bdf140c10f10000000053",
+        "slotId": "Groin_back"
+      },
+      {
+        "_id": "688bdf140c10f1000000005b",
+        "_tpl": "656f664200d62bcd2e024077",
+        "parentId": "688bdf140c10f10000000053",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "688bdf140c10f1000000005c",
+        "_tpl": "654a4f8bc721968a4404ef18",
+        "parentId": "688bdf140c10f10000000053",
+        "slotId": "Left_side_plate"
+      },
+      {
+        "_id": "688bdf140c10f1000000005d",
+        "_tpl": "654a4f8bc721968a4404ef18",
+        "parentId": "688bdf140c10f10000000053",
+        "slotId": "Right_side_plate"
+      },
+      {
+        "_id": "688bdf140c10f1000000005e",
+        "_tpl": "657b2797c3dbcb01d60c35ea",
+        "parentId": "688bdf140c10f10000000053",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Body armor Korund VM Standard",
+    "_parent": "688bdf140c10f10000000053",
+    "_type": "Preset"
+  },
+  "688bdf140c10f1000000005f": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "687d3cef0c10f10000000063",
+    "_id": "688bdf140c10f1000000005f",
+    "_items": [
+      {
+        "_id": "688bdf140c10f10000000060",
+        "_tpl": "687d3cef0c10f10000000063"
+      },
+      {
+        "_id": "688bdf140c10f10000000061",
+        "_tpl": "65731b46cea9255e2102360a",
+        "parentId": "688bdf140c10f10000000060",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f10000000062",
+        "_tpl": "65731b4fcea9255e2102360e",
+        "parentId": "688bdf140c10f10000000060",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f10000000063",
+        "_tpl": "65731b576e709cddd001ec3f",
+        "parentId": "688bdf140c10f10000000060",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "688bdf140c10f10000000064",
+        "_tpl": "65731b60ff6dc44a7d068c4a",
+        "parentId": "688bdf140c10f10000000060",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "688bdf140c10f10000000065",
+        "_tpl": "65731b666e709cddd001ec43",
+        "parentId": "688bdf140c10f10000000060",
+        "slotId": "Collar"
+      },
+      {
+        "_id": "688bdf140c10f10000000066",
+        "_tpl": "65731b716e709cddd001ec47",
+        "parentId": "688bdf140c10f10000000060",
+        "slotId": "Groin"
+      },
+      {
+        "_id": "688bdf140c10f10000000067",
+        "_tpl": "65731b6b6042b0f210020ef6",
+        "parentId": "688bdf140c10f10000000060",
+        "slotId": "Groin_back"
+      },
+      {
+        "_id": "688bdf140c10f10000000068",
+        "_tpl": "656f664200d62bcd2e024077",
+        "parentId": "688bdf140c10f10000000060",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "688bdf140c10f10000000069",
+        "_tpl": "654a4f8bc721968a4404ef18",
+        "parentId": "688bdf140c10f10000000060",
+        "slotId": "Left_side_plate"
+      },
+      {
+        "_id": "688bdf140c10f1000000006a",
+        "_tpl": "654a4f8bc721968a4404ef18",
+        "parentId": "688bdf140c10f10000000060",
+        "slotId": "Right_side_plate"
+      },
+      {
+        "_id": "688bdf140c10f1000000006b",
+        "_tpl": "657b2797c3dbcb01d60c35ea",
+        "parentId": "688bdf140c10f10000000060",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Body armor Korund VM Standard",
+    "_parent": "688bdf140c10f10000000060",
+    "_type": "Preset"
+  },
+  "688bdf140c10f1000000006c": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "687cfc390c10f1000000007e",
+    "_id": "688bdf140c10f1000000006c",
+    "_items": [
+      {
+        "_id": "688bdf140c10f1000000006d",
+        "_tpl": "687cfc390c10f1000000007e"
+      },
+      {
+        "_id": "688bdf140c10f1000000006e",
+        "_tpl": "657f8b94f92cd718b70154ff",
+        "parentId": "688bdf140c10f1000000006d",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "688bdf140c10f1000000006f",
+        "_tpl": "657f8b43f92cd718b70154fb",
+        "parentId": "688bdf140c10f1000000006d",
+        "slotId": "Helmet_back"
+      }
+    ],
+    "_name": "Helmet MSA ACH TC 2002 Standart",
+    "_parent": "688bdf140c10f1000000006d",
+    "_type": "Preset"
+  },
+  "688bdf140c10f10000000070": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "687cfc390c10f10000000083",
+    "_id": "688bdf140c10f10000000070",
+    "_items": [
+      {
+        "_id": "688bdf140c10f10000000071",
+        "_tpl": "687cfc390c10f10000000083"
+      },
+      {
+        "_id": "688bdf140c10f10000000072",
+        "_tpl": "657f8b94f92cd718b70154ff",
+        "parentId": "688bdf140c10f10000000071",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "688bdf140c10f10000000073",
+        "_tpl": "657f8b43f92cd718b70154fb",
+        "parentId": "688bdf140c10f10000000071",
+        "slotId": "Helmet_back"
+      }
+    ],
+    "_name": "Helmet MSA ACH TC 2002 Standart",
+    "_parent": "688bdf140c10f10000000071",
+    "_type": "Preset"
+  },
+  "688bdf140c10f10000000074": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "6883fc8f0c10f10000000078",
+    "_id": "688bdf140c10f10000000074",
+    "_items": [
+      {
+        "_id": "688bdf140c10f10000000075",
+        "_tpl": "6883fc8f0c10f10000000078"
+      },
+      {
+        "_id": "688bdf140c10f10000000076",
+        "_tpl": "657f8b94f92cd718b70154ff",
+        "parentId": "688bdf140c10f10000000075",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "688bdf140c10f10000000077",
+        "_tpl": "657f8b43f92cd718b70154fb",
+        "parentId": "688bdf140c10f10000000075",
+        "slotId": "Helmet_back"
+      }
+    ],
+    "_name": "Helmet MSA ACH TC 2002 Standart",
+    "_parent": "688bdf140c10f10000000075",
+    "_type": "Preset"
+  },
+  "688bdf140c10f10000000078": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "688406740c10f10000000078",
+    "_id": "688bdf140c10f10000000078",
+    "_items": [
+      {
+        "_id": "688bdf140c10f10000000079",
+        "_tpl": "688406740c10f10000000078"
+      },
+      {
+        "_id": "688bdf140c10f1000000007a",
+        "_tpl": "657f8a8d7db258e5600fe33d",
+        "parentId": "688bdf140c10f10000000079",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "688bdf140c10f1000000007b",
+        "_tpl": "657f8b05f4c82973640b2348",
+        "parentId": "688bdf140c10f10000000079",
+        "slotId": "Helmet_back"
+      }
+    ],
+    "_name": "Helmet MSA ACH TC 2001 Standart",
+    "_parent": "688bdf140c10f10000000079",
+    "_type": "Preset"
+  },
+  "688bdf140c10f1000000007c": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "688406740c10f1000000007d",
+    "_id": "688bdf140c10f1000000007c",
+    "_items": [
+      {
+        "_id": "688bdf140c10f1000000007d",
+        "_tpl": "688406740c10f1000000007d"
+      },
+      {
+        "_id": "688bdf140c10f1000000007e",
+        "_tpl": "657f8a8d7db258e5600fe33d",
+        "parentId": "688bdf140c10f1000000007d",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "688bdf140c10f1000000007f",
+        "_tpl": "657f8b05f4c82973640b2348",
+        "parentId": "688bdf140c10f1000000007d",
+        "slotId": "Helmet_back"
+      }
+    ],
+    "_name": "Helmet MSA ACH TC 2001 Standart",
+    "_parent": "688bdf140c10f1000000007d",
+    "_type": "Preset"
+  },
+  "688bdf140c10f10000000080": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "688406740c10f10000000082",
+    "_id": "688bdf140c10f10000000080",
+    "_items": [
+      {
+        "_id": "688bdf140c10f10000000081",
+        "_tpl": "688406740c10f10000000082"
+      },
+      {
+        "_id": "688bdf140c10f10000000082",
+        "_tpl": "657f8a8d7db258e5600fe33d",
+        "parentId": "688bdf140c10f10000000081",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "688bdf140c10f10000000083",
+        "_tpl": "657f8b05f4c82973640b2348",
+        "parentId": "688bdf140c10f10000000081",
+        "slotId": "Helmet_back"
+      }
+    ],
+    "_name": "Helmet MSA ACH TC 2001 Standart",
+    "_parent": "688bdf140c10f10000000081",
+    "_type": "Preset"
+  },
+  "688bdf140c10f10000000084": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "687cfc390c10f1000000008b",
+    "_id": "688bdf140c10f10000000084",
+    "_items": [
+      {
+        "_id": "688bdf140c10f10000000085",
+        "_tpl": "687cfc390c10f1000000008b"
+      },
+      {
+        "_id": "688bdf140c10f10000000086",
+        "_tpl": "6570e83223c1f638ef0b0ede",
+        "parentId": "688bdf140c10f10000000085",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f10000000087",
+        "_tpl": "6570e87c23c1f638ef0b0ee2",
+        "parentId": "688bdf140c10f10000000085",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f10000000088",
+        "_tpl": "6570e90b3a5689d85f08db97",
+        "parentId": "688bdf140c10f10000000085",
+        "slotId": "Groin"
+      },
+      {
+        "_id": "688bdf140c10f10000000089",
+        "_tpl": "656f9fa0498d1b7e3e071d98",
+        "parentId": "688bdf140c10f10000000085",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "688bdf140c10f1000000008a",
+        "_tpl": "656f9fa0498d1b7e3e071d98",
+        "parentId": "688bdf140c10f10000000085",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Vest Crye Precision AVS Standard",
+    "_parent": "688bdf140c10f10000000085",
+    "_type": "Preset"
+  },
+  "688bdf140c10f1000000008b": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "687cfc390c10f10000000093",
+    "_id": "688bdf140c10f1000000008b",
+    "_items": [
+      {
+        "_id": "688bdf140c10f1000000008c",
+        "_tpl": "687cfc390c10f10000000093"
+      },
+      {
+        "_id": "688bdf140c10f1000000008d",
+        "_tpl": "6570e83223c1f638ef0b0ede",
+        "parentId": "688bdf140c10f1000000008c",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f1000000008e",
+        "_tpl": "6570e87c23c1f638ef0b0ee2",
+        "parentId": "688bdf140c10f1000000008c",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f1000000008f",
+        "_tpl": "6570e90b3a5689d85f08db97",
+        "parentId": "688bdf140c10f1000000008c",
+        "slotId": "Groin"
+      },
+      {
+        "_id": "688bdf140c10f10000000090",
+        "_tpl": "656f9fa0498d1b7e3e071d98",
+        "parentId": "688bdf140c10f1000000008c",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "688bdf140c10f10000000091",
+        "_tpl": "656f9fa0498d1b7e3e071d98",
+        "parentId": "688bdf140c10f1000000008c",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Vest Crye Precision AVS Standard",
+    "_parent": "688bdf140c10f1000000008c",
+    "_type": "Preset"
+  },
+  "688bdf140c10f10000000092": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "687cfc390c10f1000000009b",
+    "_id": "688bdf140c10f10000000092",
+    "_items": [
+      {
+        "_id": "688bdf140c10f10000000093",
+        "_tpl": "687cfc390c10f1000000009b"
+      },
+      {
+        "_id": "688bdf140c10f10000000094",
+        "_tpl": "6570e83223c1f638ef0b0ede",
+        "parentId": "688bdf140c10f10000000093",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f10000000095",
+        "_tpl": "6570e87c23c1f638ef0b0ee2",
+        "parentId": "688bdf140c10f10000000093",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f10000000096",
+        "_tpl": "6570e90b3a5689d85f08db97",
+        "parentId": "688bdf140c10f10000000093",
+        "slotId": "Groin"
+      },
+      {
+        "_id": "688bdf140c10f10000000097",
+        "_tpl": "656f9fa0498d1b7e3e071d98",
+        "parentId": "688bdf140c10f10000000093",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "688bdf140c10f10000000098",
+        "_tpl": "656f9fa0498d1b7e3e071d98",
+        "parentId": "688bdf140c10f10000000093",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Vest Crye Precision AVS Standard",
+    "_parent": "688bdf140c10f10000000093",
+    "_type": "Preset"
+  },
+  "688bdf140c10f10000000099": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "687cfc390c10f100000000a3",
+    "_id": "688bdf140c10f10000000099",
+    "_items": [
+      {
+        "_id": "688bdf140c10f1000000009a",
+        "_tpl": "687cfc390c10f100000000a3"
+      },
+      {
+        "_id": "688bdf140c10f1000000009b",
+        "_tpl": "6570e83223c1f638ef0b0ede",
+        "parentId": "688bdf140c10f1000000009a",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f1000000009c",
+        "_tpl": "6570e87c23c1f638ef0b0ee2",
+        "parentId": "688bdf140c10f1000000009a",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f1000000009d",
+        "_tpl": "6570e90b3a5689d85f08db97",
+        "parentId": "688bdf140c10f1000000009a",
+        "slotId": "Groin"
+      },
+      {
+        "_id": "688bdf140c10f1000000009e",
+        "_tpl": "656f9fa0498d1b7e3e071d98",
+        "parentId": "688bdf140c10f1000000009a",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "688bdf140c10f1000000009f",
+        "_tpl": "656f9fa0498d1b7e3e071d98",
+        "parentId": "688bdf140c10f1000000009a",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Vest Crye Precision AVS Standard",
+    "_parent": "688bdf140c10f1000000009a",
+    "_type": "Preset"
+  },
+  "688bdf140c10f100000000a0": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "687cfc390c10f100000000ab",
+    "_id": "688bdf140c10f100000000a0",
+    "_items": [
+      {
+        "_id": "688bdf140c10f100000000a1",
+        "_tpl": "687cfc390c10f100000000ab"
+      },
+      {
+        "_id": "688bdf140c10f100000000a2",
+        "_tpl": "6570e83223c1f638ef0b0ede",
+        "parentId": "688bdf140c10f100000000a1",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f100000000a3",
+        "_tpl": "6570e87c23c1f638ef0b0ee2",
+        "parentId": "688bdf140c10f100000000a1",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f100000000a4",
+        "_tpl": "6570e90b3a5689d85f08db97",
+        "parentId": "688bdf140c10f100000000a1",
+        "slotId": "Groin"
+      },
+      {
+        "_id": "688bdf140c10f100000000a5",
+        "_tpl": "656f9fa0498d1b7e3e071d98",
+        "parentId": "688bdf140c10f100000000a1",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "688bdf140c10f100000000a6",
+        "_tpl": "656f9fa0498d1b7e3e071d98",
+        "parentId": "688bdf140c10f100000000a1",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Vest Crye Precision AVS Standard",
+    "_parent": "688bdf140c10f100000000a1",
+    "_type": "Preset"
+  },
+  "688bdf140c10f100000000a7": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "687cfc390c10f100000000b3",
+    "_id": "688bdf140c10f100000000a7",
+    "_items": [
+      {
+        "_id": "688bdf140c10f100000000a8",
+        "_tpl": "687cfc390c10f100000000b3"
+      },
+      {
+        "_id": "688bdf140c10f100000000a9",
+        "_tpl": "6570e83223c1f638ef0b0ede",
+        "parentId": "688bdf140c10f100000000a8",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f100000000aa",
+        "_tpl": "6570e87c23c1f638ef0b0ee2",
+        "parentId": "688bdf140c10f100000000a8",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f100000000ab",
+        "_tpl": "6570e90b3a5689d85f08db97",
+        "parentId": "688bdf140c10f100000000a8",
+        "slotId": "Groin"
+      },
+      {
+        "_id": "688bdf140c10f100000000ac",
+        "_tpl": "656f9fa0498d1b7e3e071d98",
+        "parentId": "688bdf140c10f100000000a8",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "688bdf140c10f100000000ad",
+        "_tpl": "656f9fa0498d1b7e3e071d98",
+        "parentId": "688bdf140c10f100000000a8",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Vest Crye Precision AVS Standard",
+    "_parent": "688bdf140c10f100000000a8",
+    "_type": "Preset"
+  },
+  "688bdf140c10f100000000ae": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "687d3d800c10f1000000009e",
+    "_id": "688bdf140c10f100000000ae",
+    "_items": [
+      {
+        "_id": "688bdf140c10f100000000af",
+        "_tpl": "687d3d800c10f1000000009e"
+      },
+      {
+        "_id": "688bdf140c10f100000000b0",
+        "_tpl": "65732688d9d89ff7ac0d9c4c",
+        "parentId": "688bdf140c10f100000000af",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f100000000b1",
+        "_tpl": "657326978c1cc6dcd9098b56",
+        "parentId": "688bdf140c10f100000000af",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f100000000b2",
+        "_tpl": "657326a28c1cc6dcd9098b5a",
+        "parentId": "688bdf140c10f100000000af",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "688bdf140c10f100000000b3",
+        "_tpl": "657326b08c1cc6dcd9098b5e",
+        "parentId": "688bdf140c10f100000000af",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "688bdf140c10f100000000b4",
+        "_tpl": "657326bc5d3a3129fb05f36b",
+        "parentId": "688bdf140c10f100000000af",
+        "slotId": "Collar"
+      },
+      {
+        "_id": "688bdf140c10f100000000b5",
+        "_tpl": "656f611f94b480b8a500c0db",
+        "parentId": "688bdf140c10f100000000af",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "688bdf140c10f100000000b6",
+        "_tpl": "65573fa5655447403702a816",
+        "parentId": "688bdf140c10f100000000af",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Body armor Gzhel K Standard",
+    "_parent": "688bdf140c10f100000000af",
+    "_type": "Preset"
+  },
+  "688bdf140c10f100000000b7": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "687d3d800c10f100000000a8",
+    "_id": "688bdf140c10f100000000b7",
+    "_items": [
+      {
+        "_id": "688bdf140c10f100000000b8",
+        "_tpl": "687d3d800c10f100000000a8"
+      },
+      {
+        "_id": "688bdf140c10f100000000b9",
+        "_tpl": "65732688d9d89ff7ac0d9c4c",
+        "parentId": "688bdf140c10f100000000b8",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f100000000ba",
+        "_tpl": "657326978c1cc6dcd9098b56",
+        "parentId": "688bdf140c10f100000000b8",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f100000000bb",
+        "_tpl": "657326a28c1cc6dcd9098b5a",
+        "parentId": "688bdf140c10f100000000b8",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "688bdf140c10f100000000bc",
+        "_tpl": "657326b08c1cc6dcd9098b5e",
+        "parentId": "688bdf140c10f100000000b8",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "688bdf140c10f100000000bd",
+        "_tpl": "657326bc5d3a3129fb05f36b",
+        "parentId": "688bdf140c10f100000000b8",
+        "slotId": "Collar"
+      },
+      {
+        "_id": "688bdf140c10f100000000be",
+        "_tpl": "656f611f94b480b8a500c0db",
+        "parentId": "688bdf140c10f100000000b8",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "688bdf140c10f100000000bf",
+        "_tpl": "65573fa5655447403702a816",
+        "parentId": "688bdf140c10f100000000b8",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Body armor Gzhel K Standard",
+    "_parent": "688bdf140c10f100000000b8",
+    "_type": "Preset"
+  },
+  "688bdf140c10f100000000c0": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "68835fc00c10f100000000b0",
+    "_id": "688bdf140c10f100000000c0",
+    "_items": [
+      {
+        "_id": "688bdf140c10f100000000c1",
+        "_tpl": "68835fc00c10f100000000b0"
+      },
+      {
+        "_id": "688bdf140c10f100000000c2",
+        "_tpl": "657f8ec5f4c82973640b234c",
+        "parentId": "688bdf140c10f100000000c1",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "688bdf140c10f100000000c3",
+        "_tpl": "657f8f10f4c82973640b2350",
+        "parentId": "688bdf140c10f100000000c1",
+        "slotId": "Helmet_back"
+      }
+    ],
+    "_name": "Helmet Ops Core Fast MT Sand Standart",
+    "_parent": "688bdf140c10f100000000c1",
+    "_type": "Preset"
+  },
+  "688bdf140c10f100000000c4": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "68835fc00c10f100000000b5",
+    "_id": "688bdf140c10f100000000c4",
+    "_items": [
+      {
+        "_id": "688bdf140c10f100000000c5",
+        "_tpl": "68835fc00c10f100000000b5"
+      },
+      {
+        "_id": "688bdf140c10f100000000c6",
+        "_tpl": "657f8ec5f4c82973640b234c",
+        "parentId": "688bdf140c10f100000000c5",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "688bdf140c10f100000000c7",
+        "_tpl": "657f8f10f4c82973640b2350",
+        "parentId": "688bdf140c10f100000000c5",
+        "slotId": "Helmet_back"
+      }
+    ],
+    "_name": "Helmet Ops Core Fast MT Sand Standart",
+    "_parent": "688bdf140c10f100000000c5",
+    "_type": "Preset"
+  },
+  "688bdf140c10f100000000c8": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "6883724d0c10f100000000b8",
+    "_id": "688bdf140c10f100000000c8",
+    "_items": [
+      {
+        "_id": "688bdf140c10f100000000c9",
+        "_tpl": "6883724d0c10f100000000b8"
+      },
+      {
+        "_id": "688bdf140c10f100000000ca",
+        "_tpl": "657f8ec5f4c82973640b234c",
+        "parentId": "688bdf140c10f100000000c9",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "688bdf140c10f100000000cb",
+        "_tpl": "657f8f10f4c82973640b2350",
+        "parentId": "688bdf140c10f100000000c9",
+        "slotId": "Helmet_back"
+      }
+    ],
+    "_name": "Helmet Ops Core Fast MT Sand Standart",
+    "_parent": "688bdf140c10f100000000c9",
+    "_type": "Preset"
+  },
+  "688bdf140c10f100000000cc": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "68835fc00c10f100000000ba",
+    "_id": "688bdf140c10f100000000cc",
+    "_items": [
+      {
+        "_id": "688bdf140c10f100000000cd",
+        "_tpl": "68835fc00c10f100000000ba"
+      },
+      {
+        "_id": "688bdf140c10f100000000ce",
+        "_tpl": "657f8ec5f4c82973640b234c",
+        "parentId": "688bdf140c10f100000000cd",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "688bdf140c10f100000000cf",
+        "_tpl": "657f8f10f4c82973640b2350",
+        "parentId": "688bdf140c10f100000000cd",
+        "slotId": "Helmet_back"
+      }
+    ],
+    "_name": "Helmet Ops Core Fast MT Sand Standart",
+    "_parent": "688bdf140c10f100000000cd",
+    "_type": "Preset"
+  },
+  "688bdf140c10f100000000d0": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "68835fc00c10f100000000bf",
+    "_id": "688bdf140c10f100000000d0",
+    "_items": [
+      {
+        "_id": "688bdf140c10f100000000d1",
+        "_tpl": "68835fc00c10f100000000bf"
+      },
+      {
+        "_id": "688bdf140c10f100000000d2",
+        "_tpl": "657f8ec5f4c82973640b234c",
+        "parentId": "688bdf140c10f100000000d1",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "688bdf140c10f100000000d3",
+        "_tpl": "657f8f10f4c82973640b2350",
+        "parentId": "688bdf140c10f100000000d1",
+        "slotId": "Helmet_back"
+      }
+    ],
+    "_name": "Helmet Ops Core Fast MT Sand Standart",
+    "_parent": "688bdf140c10f100000000d1",
+    "_type": "Preset"
+  },
+  "688bdf140c10f100000000d4": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "68840c550c10f100000000d9",
+    "_id": "688bdf140c10f100000000d4",
+    "_items": [
+      {
+        "_id": "688bdf140c10f100000000d5",
+        "_tpl": "68840c550c10f100000000d9"
+      },
+      {
+        "_id": "688bdf140c10f100000000d6",
+        "_tpl": "657f9a55c6679fefb3051e19",
+        "parentId": "688bdf140c10f100000000d5",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "688bdf140c10f100000000d7",
+        "_tpl": "657f9a94ada5fadd1f07a589",
+        "parentId": "688bdf140c10f100000000d5",
+        "slotId": "Helmet_back"
+      }
+    ],
+    "_name": "Helmet Diamond Age Bastion Standart",
+    "_parent": "688bdf140c10f100000000d5",
+    "_type": "Preset"
+  },
+  "688bdf140c10f100000000d8": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "68840c550c10f100000000de",
+    "_id": "688bdf140c10f100000000d8",
+    "_items": [
+      {
+        "_id": "688bdf140c10f100000000d9",
+        "_tpl": "68840c550c10f100000000de"
+      },
+      {
+        "_id": "688bdf140c10f100000000da",
+        "_tpl": "657f9a55c6679fefb3051e19",
+        "parentId": "688bdf140c10f100000000d9",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "688bdf140c10f100000000db",
+        "_tpl": "657f9a94ada5fadd1f07a589",
+        "parentId": "688bdf140c10f100000000d9",
+        "slotId": "Helmet_back"
+      }
+    ],
+    "_name": "Helmet Diamond Age Bastion Standart",
+    "_parent": "688bdf140c10f100000000d9",
+    "_type": "Preset"
+  },
+  "688bdf140c10f100000000dc": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "688648a00c10f100000000dc",
+    "_id": "688bdf140c10f100000000dc",
+    "_items": [
+      {
+        "_id": "688bdf140c10f100000000dd",
+        "_tpl": "688648a00c10f100000000dc"
+      },
+      {
+        "_id": "688bdf140c10f100000000de",
+        "_tpl": "6572fc809a866b80ab07eb59",
+        "parentId": "688bdf140c10f100000000dd",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f100000000df",
+        "_tpl": "6572fc8c9a866b80ab07eb5d",
+        "parentId": "688bdf140c10f100000000dd",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f100000000e0",
+        "_tpl": "6572fc989a866b80ab07eb61",
+        "parentId": "688bdf140c10f100000000dd",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "688bdf140c10f100000000e1",
+        "_tpl": "6572fca39a866b80ab07eb65",
+        "parentId": "688bdf140c10f100000000dd",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "688bdf140c10f100000000e2",
+        "_tpl": "656fad8c498d1b7e3e071da0",
+        "parentId": "688bdf140c10f100000000dd",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "688bdf140c10f100000000e3",
+        "_tpl": "656fad8c498d1b7e3e071da0",
+        "parentId": "688bdf140c10f100000000dd",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Vest Eagle Industries MMAC Standard",
+    "_parent": "688bdf140c10f100000000dd",
+    "_type": "Preset"
+  },
+  "688bdf140c10f100000000e4": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "688648a00c10f100000000e5",
+    "_id": "688bdf140c10f100000000e4",
+    "_items": [
+      {
+        "_id": "688bdf140c10f100000000e5",
+        "_tpl": "688648a00c10f100000000e5"
+      },
+      {
+        "_id": "688bdf140c10f100000000e6",
+        "_tpl": "6572fc809a866b80ab07eb59",
+        "parentId": "688bdf140c10f100000000e5",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f100000000e7",
+        "_tpl": "6572fc8c9a866b80ab07eb5d",
+        "parentId": "688bdf140c10f100000000e5",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f100000000e8",
+        "_tpl": "6572fc989a866b80ab07eb61",
+        "parentId": "688bdf140c10f100000000e5",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "688bdf140c10f100000000e9",
+        "_tpl": "6572fca39a866b80ab07eb65",
+        "parentId": "688bdf140c10f100000000e5",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "688bdf140c10f100000000ea",
+        "_tpl": "656fad8c498d1b7e3e071da0",
+        "parentId": "688bdf140c10f100000000e5",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "688bdf140c10f100000000eb",
+        "_tpl": "656fad8c498d1b7e3e071da0",
+        "parentId": "688bdf140c10f100000000e5",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Vest Eagle Industries MMAC Standard",
+    "_parent": "688bdf140c10f100000000e5",
+    "_type": "Preset"
+  },
+  "688bdf140c10f100000000ec": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "688648a00c10f100000000ee",
+    "_id": "688bdf140c10f100000000ec",
+    "_items": [
+      {
+        "_id": "688bdf140c10f100000000ed",
+        "_tpl": "688648a00c10f100000000ee"
+      },
+      {
+        "_id": "688bdf140c10f100000000ee",
+        "_tpl": "6572fc809a866b80ab07eb59",
+        "parentId": "688bdf140c10f100000000ed",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f100000000ef",
+        "_tpl": "6572fc8c9a866b80ab07eb5d",
+        "parentId": "688bdf140c10f100000000ed",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f100000000f0",
+        "_tpl": "6572fc989a866b80ab07eb61",
+        "parentId": "688bdf140c10f100000000ed",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "688bdf140c10f100000000f1",
+        "_tpl": "6572fca39a866b80ab07eb65",
+        "parentId": "688bdf140c10f100000000ed",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "688bdf140c10f100000000f2",
+        "_tpl": "656fad8c498d1b7e3e071da0",
+        "parentId": "688bdf140c10f100000000ed",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "688bdf140c10f100000000f3",
+        "_tpl": "656fad8c498d1b7e3e071da0",
+        "parentId": "688bdf140c10f100000000ed",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Vest Eagle Industries MMAC Standard",
+    "_parent": "688bdf140c10f100000000ed",
+    "_type": "Preset"
+  },
+  "688bdf140c10f100000000f4": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "688a35880c10f100000000fb",
+    "_id": "688bdf140c10f100000000f4",
+    "_items": [
+      {
+        "_id": "688bdf140c10f100000000f5",
+        "_tpl": "688a35880c10f100000000fb"
+      },
+      {
+        "_id": "688bdf140c10f100000000f6",
+        "_tpl": "6570df294cc0d2ab1e05ed74",
+        "parentId": "688bdf140c10f100000000f5",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f100000000f7",
+        "_tpl": "6570df9c615f54368b04fca9",
+        "parentId": "688bdf140c10f100000000f5",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f100000000f8",
+        "_tpl": "656fa0fb498d1b7e3e071d9c",
+        "parentId": "688bdf140c10f100000000f5",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "688bdf140c10f100000000f9",
+        "_tpl": "656fa0fb498d1b7e3e071d9c",
+        "parentId": "688bdf140c10f100000000f5",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Vest WARTECH TV110 Standard",
+    "_parent": "688bdf140c10f100000000f5",
+    "_type": "Preset"
+  },
+  "68b871660c10f100000001aa": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "68b870e80c10f100000001ab",
+    "_id": "68b871660c10f100000001aa",
+    "_items": [
+      {
+        "_id": "68b871660c10f100000001ab",
+        "_tpl": "68b870e80c10f100000001ab"
+      },
+      {
+        "_id": "68b871660c10f100000001ac",
+        "_tpl": "6570df294cc0d2ab1e05ed74",
+        "parentId": "68b871660c10f100000001ab",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "68b871660c10f100000001ad",
+        "_tpl": "6570df9c615f54368b04fca9",
+        "parentId": "68b871660c10f100000001ab",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "68b871660c10f100000001ae",
+        "_tpl": "656fa0fb498d1b7e3e071d9c",
+        "parentId": "68b871660c10f100000001ab",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "68b871660c10f100000001af",
+        "_tpl": "656fa0fb498d1b7e3e071d9c",
+        "parentId": "68b871660c10f100000001ab",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Vest WARTECH TV110 black",
+    "_parent": "68b871660c10f100000001ab",
+    "_type": "Preset"
+  },
+  "688bdf140c10f100000000fa": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "688a35880c10f10000000110",
+    "_id": "688bdf140c10f100000000fa",
+    "_items": [
+      {
+        "_id": "688bdf140c10f100000000fb",
+        "_tpl": "688a35880c10f10000000110"
+      },
+      {
+        "_id": "688bdf140c10f100000000fc",
+        "_tpl": "6570f30b0921c914bf07964c",
+        "parentId": "688bdf140c10f100000000fb",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f100000000fd",
+        "_tpl": "6570f35cd67d0309980a7acb",
+        "parentId": "688bdf140c10f100000000fb",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f100000000fe",
+        "_tpl": "6570f3890b4ae5847f060dad",
+        "parentId": "688bdf140c10f100000000fb",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "688bdf140c10f100000000ff",
+        "_tpl": "6570f3bb0b4ae5847f060db2",
+        "parentId": "688bdf140c10f100000000fb",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "688bdf140c10f10000000100",
+        "_tpl": "656fb0bd7c2d57afe200c0dc",
+        "parentId": "688bdf140c10f100000000fb",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "688bdf140c10f10000000101",
+        "_tpl": "656fb0bd7c2d57afe200c0dc",
+        "parentId": "688bdf140c10f100000000fb",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Body armor Interceptor OTV Standard",
+    "_parent": "688bdf140c10f100000000fb",
+    "_type": "Preset"
+  },
+  "688bdf140c10f10000000102": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "688a35880c10f10000000119",
+    "_id": "688bdf140c10f10000000102",
+    "_items": [
+      {
+        "_id": "688bdf140c10f10000000103",
+        "_tpl": "688a35880c10f10000000119"
+      },
+      {
+        "_id": "688bdf140c10f10000000104",
+        "_tpl": "6570f30b0921c914bf07964c",
+        "parentId": "688bdf140c10f10000000103",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f10000000105",
+        "_tpl": "6570f35cd67d0309980a7acb",
+        "parentId": "688bdf140c10f10000000103",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f10000000106",
+        "_tpl": "6570f3890b4ae5847f060dad",
+        "parentId": "688bdf140c10f10000000103",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "688bdf140c10f10000000107",
+        "_tpl": "6570f3bb0b4ae5847f060db2",
+        "parentId": "688bdf140c10f10000000103",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "688bdf140c10f10000000108",
+        "_tpl": "656fb0bd7c2d57afe200c0dc",
+        "parentId": "688bdf140c10f10000000103",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "688bdf140c10f10000000109",
+        "_tpl": "656fb0bd7c2d57afe200c0dc",
+        "parentId": "688bdf140c10f10000000103",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Body armor Interceptor OTV Standard",
+    "_parent": "688bdf140c10f10000000103",
+    "_type": "Preset"
+  },
+  "688bdf140c10f1000000010a": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "688a35880c10f10000000122",
+    "_id": "688bdf140c10f1000000010a",
+    "_items": [
+      {
+        "_id": "688bdf140c10f1000000010b",
+        "_tpl": "688a35880c10f10000000122"
+      },
+      {
+        "_id": "688bdf140c10f1000000010c",
+        "_tpl": "657044e971369562b300ce9b",
+        "parentId": "688bdf140c10f1000000010b",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f1000000010d",
+        "_tpl": "657045741bd9beedc40b7299",
+        "parentId": "688bdf140c10f1000000010b",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f1000000010e",
+        "_tpl": "657045b97e80617cee095bda",
+        "parentId": "688bdf140c10f1000000010b",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "688bdf140c10f1000000010f",
+        "_tpl": "6570460471369562b300ce9f",
+        "parentId": "688bdf140c10f1000000010b",
+        "slotId": "soft_armor_right"
+      }
+    ],
+    "_name": "Body armor MF UNTAR Standard",
+    "_parent": "688bdf140c10f1000000010b",
+    "_type": "Preset"
+  },
+  "688bdf140c10f10000000110": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "688a35880c10f10000000129",
+    "_id": "688bdf140c10f10000000110",
+    "_items": [
+      {
+        "_id": "688bdf140c10f10000000111",
+        "_tpl": "688a35880c10f10000000129"
+      },
+      {
+        "_id": "688bdf140c10f10000000112",
+        "_tpl": "657044e971369562b300ce9b",
+        "parentId": "688bdf140c10f10000000111",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f10000000113",
+        "_tpl": "657045741bd9beedc40b7299",
+        "parentId": "688bdf140c10f10000000111",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f10000000114",
+        "_tpl": "657045b97e80617cee095bda",
+        "parentId": "688bdf140c10f10000000111",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "688bdf140c10f10000000115",
+        "_tpl": "6570460471369562b300ce9f",
+        "parentId": "688bdf140c10f10000000111",
+        "slotId": "soft_armor_right"
+      }
+    ],
+    "_name": "Body armor MF UNTAR Standard",
+    "_parent": "688bdf140c10f10000000111",
+    "_type": "Preset"
+  },
+  "688bdf140c10f10000000116": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "688a35880c10f10000000130",
+    "_id": "688bdf140c10f10000000116",
+    "_items": [
+      {
+        "_id": "688bdf140c10f10000000117",
+        "_tpl": "688a35880c10f10000000130"
+      },
+      {
+        "_id": "688bdf140c10f10000000118",
+        "_tpl": "657044e971369562b300ce9b",
+        "parentId": "688bdf140c10f10000000117",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f10000000119",
+        "_tpl": "657045741bd9beedc40b7299",
+        "parentId": "688bdf140c10f10000000117",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f1000000011a",
+        "_tpl": "657045b97e80617cee095bda",
+        "parentId": "688bdf140c10f10000000117",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "688bdf140c10f1000000011b",
+        "_tpl": "6570460471369562b300ce9f",
+        "parentId": "688bdf140c10f10000000117",
+        "slotId": "soft_armor_right"
+      }
+    ],
+    "_name": "Body armor MF UNTAR Standard",
+    "_parent": "688bdf140c10f10000000117",
+    "_type": "Preset"
+  },
+  "688bdf140c10f1000000011c": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "688bba6a0c10f1000000011c",
+    "_id": "688bdf140c10f1000000011c",
+    "_items": [
+      {
+        "_id": "688bdf140c10f1000000011d",
+        "_tpl": "688bba6a0c10f1000000011c"
+      },
+      {
+        "_id": "688bdf140c10f1000000011e",
+        "_tpl": "6571b27a6d84a2b8b6007f92",
+        "parentId": "688bdf140c10f1000000011d",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f1000000011f",
+        "_tpl": "6571baa74cb80d995d0a1490",
+        "parentId": "688bdf140c10f1000000011d",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f10000000120",
+        "_tpl": "6571baac6d84a2b8b6007fa3",
+        "parentId": "688bdf140c10f1000000011d",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "688bdf140c10f10000000121",
+        "_tpl": "6571bab0f41985531a038091",
+        "parentId": "688bdf140c10f1000000011d",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "688bdf140c10f10000000122",
+        "_tpl": "6571babb4076795e5e07383f",
+        "parentId": "688bdf140c10f1000000011d",
+        "slotId": "Collar"
+      },
+      {
+        "_id": "688bdf140c10f10000000123",
+        "_tpl": "6571bac34076795e5e073843",
+        "parentId": "688bdf140c10f1000000011d",
+        "slotId": "Groin"
+      },
+      {
+        "_id": "688bdf140c10f10000000124",
+        "_tpl": "6571babf4cb80d995d0a1494",
+        "parentId": "688bdf140c10f1000000011d",
+        "slotId": "Groin_back"
+      },
+      {
+        "_id": "688bdf140c10f10000000125",
+        "_tpl": "654a4dea7c17dec2f50cc86a",
+        "parentId": "688bdf140c10f1000000011d",
+        "slotId": "Front_plate"
+      }
+    ],
+    "_name": "Body armor 6B23 1 Flora digital Standard",
+    "_parent": "688bdf140c10f1000000011d",
+    "_type": "Preset"
+  },
+  "688bdf140c10f10000000126": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "688bba6a0c10f10000000127",
+    "_id": "688bdf140c10f10000000126",
+    "_items": [
+      {
+        "_id": "688bdf140c10f10000000127",
+        "_tpl": "688bba6a0c10f10000000127"
+      },
+      {
+        "_id": "688bdf140c10f10000000128",
+        "_tpl": "6571b27a6d84a2b8b6007f92",
+        "parentId": "688bdf140c10f10000000127",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f10000000129",
+        "_tpl": "6571baa74cb80d995d0a1490",
+        "parentId": "688bdf140c10f10000000127",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f1000000012a",
+        "_tpl": "6571baac6d84a2b8b6007fa3",
+        "parentId": "688bdf140c10f10000000127",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "688bdf140c10f1000000012b",
+        "_tpl": "6571bab0f41985531a038091",
+        "parentId": "688bdf140c10f10000000127",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "688bdf140c10f1000000012c",
+        "_tpl": "6571babb4076795e5e07383f",
+        "parentId": "688bdf140c10f10000000127",
+        "slotId": "Collar"
+      },
+      {
+        "_id": "688bdf140c10f1000000012d",
+        "_tpl": "6571bac34076795e5e073843",
+        "parentId": "688bdf140c10f10000000127",
+        "slotId": "Groin"
+      },
+      {
+        "_id": "688bdf140c10f1000000012e",
+        "_tpl": "6571babf4cb80d995d0a1494",
+        "parentId": "688bdf140c10f10000000127",
+        "slotId": "Groin_back"
+      },
+      {
+        "_id": "688bdf140c10f1000000012f",
+        "_tpl": "654a4dea7c17dec2f50cc86a",
+        "parentId": "688bdf140c10f10000000127",
+        "slotId": "Front_plate"
+      }
+    ],
+    "_name": "Body armor 6B23 1 Flora digital Standard",
+    "_parent": "688bdf140c10f10000000127",
+    "_type": "Preset"
+  },
+  "688bdf140c10f10000000130": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "688bba6a0c10f10000000132",
+    "_id": "688bdf140c10f10000000130",
+    "_items": [
+      {
+        "_id": "688bdf140c10f10000000131",
+        "_tpl": "688bba6a0c10f10000000132"
+      },
+      {
+        "_id": "688bdf140c10f10000000132",
+        "_tpl": "6571b27a6d84a2b8b6007f92",
+        "parentId": "688bdf140c10f10000000131",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f10000000133",
+        "_tpl": "6571baa74cb80d995d0a1490",
+        "parentId": "688bdf140c10f10000000131",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f10000000134",
+        "_tpl": "6571baac6d84a2b8b6007fa3",
+        "parentId": "688bdf140c10f10000000131",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "688bdf140c10f10000000135",
+        "_tpl": "6571bab0f41985531a038091",
+        "parentId": "688bdf140c10f10000000131",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "688bdf140c10f10000000136",
+        "_tpl": "6571babb4076795e5e07383f",
+        "parentId": "688bdf140c10f10000000131",
+        "slotId": "Collar"
+      },
+      {
+        "_id": "688bdf140c10f10000000137",
+        "_tpl": "6571bac34076795e5e073843",
+        "parentId": "688bdf140c10f10000000131",
+        "slotId": "Groin"
+      },
+      {
+        "_id": "688bdf140c10f10000000138",
+        "_tpl": "6571babf4cb80d995d0a1494",
+        "parentId": "688bdf140c10f10000000131",
+        "slotId": "Groin_back"
+      },
+      {
+        "_id": "688bdf140c10f10000000139",
+        "_tpl": "654a4dea7c17dec2f50cc86a",
+        "parentId": "688bdf140c10f10000000131",
+        "slotId": "Front_plate"
+      }
+    ],
+    "_name": "Body armor 6B23 1 Flora digital Standard",
+    "_parent": "688bdf140c10f10000000131",
+    "_type": "Preset"
+  },
+  "688bdf140c10f1000000013a": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "688bba6a0c10f1000000013d",
+    "_id": "688bdf140c10f1000000013a",
+    "_items": [
+      {
+        "_id": "688bdf140c10f1000000013b",
+        "_tpl": "688bba6a0c10f1000000013d"
+      },
+      {
+        "_id": "688bdf140c10f1000000013c",
+        "_tpl": "65732de75d3a3129fb05f3dd",
+        "parentId": "688bdf140c10f1000000013b",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f1000000013d",
+        "_tpl": "65732df4d0acf75aea06c87b",
+        "parentId": "688bdf140c10f1000000013b",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f1000000013e",
+        "_tpl": "65732e05d0acf75aea06c87f",
+        "parentId": "688bdf140c10f1000000013b",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "688bdf140c10f1000000013f",
+        "_tpl": "65732e0f6784ca384b0167ad",
+        "parentId": "688bdf140c10f1000000013b",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "688bdf140c10f10000000140",
+        "_tpl": "65732e215d3a3129fb05f3e1",
+        "parentId": "688bdf140c10f1000000013b",
+        "slotId": "Collar"
+      },
+      {
+        "_id": "688bdf140c10f10000000141",
+        "_tpl": "65732e30dd8739f6440ef383",
+        "parentId": "688bdf140c10f1000000013b",
+        "slotId": "Groin"
+      },
+      {
+        "_id": "688bdf140c10f10000000142",
+        "_tpl": "65573fa5655447403702a816",
+        "parentId": "688bdf140c10f1000000013b",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "688bdf140c10f10000000143",
+        "_tpl": "65573fa5655447403702a816",
+        "parentId": "688bdf140c10f1000000013b",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Body armor Defender 2 Standard",
+    "_parent": "688bdf140c10f1000000013b",
+    "_type": "Preset"
+  },
+  "688bdf140c10f10000000144": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "688bba6a0c10f10000000148",
+    "_id": "688bdf140c10f10000000144",
+    "_items": [
+      {
+        "_id": "688bdf140c10f10000000145",
+        "_tpl": "688bba6a0c10f10000000148"
+      },
+      {
+        "_id": "688bdf140c10f10000000146",
+        "_tpl": "65732de75d3a3129fb05f3dd",
+        "parentId": "688bdf140c10f10000000145",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f10000000147",
+        "_tpl": "65732df4d0acf75aea06c87b",
+        "parentId": "688bdf140c10f10000000145",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f10000000148",
+        "_tpl": "65732e05d0acf75aea06c87f",
+        "parentId": "688bdf140c10f10000000145",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "688bdf140c10f10000000149",
+        "_tpl": "65732e0f6784ca384b0167ad",
+        "parentId": "688bdf140c10f10000000145",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "688bdf140c10f1000000014a",
+        "_tpl": "65732e215d3a3129fb05f3e1",
+        "parentId": "688bdf140c10f10000000145",
+        "slotId": "Collar"
+      },
+      {
+        "_id": "688bdf140c10f1000000014b",
+        "_tpl": "65732e30dd8739f6440ef383",
+        "parentId": "688bdf140c10f10000000145",
+        "slotId": "Groin"
+      },
+      {
+        "_id": "688bdf140c10f1000000014c",
+        "_tpl": "65573fa5655447403702a816",
+        "parentId": "688bdf140c10f10000000145",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "688bdf140c10f1000000014d",
+        "_tpl": "65573fa5655447403702a816",
+        "parentId": "688bdf140c10f10000000145",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Body armor Defender 2 Standard",
+    "_parent": "688bdf140c10f10000000145",
+    "_type": "Preset"
+  },
+  "688bdf140c10f1000000014e": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "688bba6a0c10f10000000153",
+    "_id": "688bdf140c10f1000000014e",
+    "_items": [
+      {
+        "_id": "688bdf140c10f1000000014f",
+        "_tpl": "688bba6a0c10f10000000153"
+      },
+      {
+        "_id": "688bdf140c10f10000000150",
+        "_tpl": "6575e71760703324250610c3",
+        "parentId": "688bdf140c10f1000000014f",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f10000000151",
+        "_tpl": "6575e72660703324250610c7",
+        "parentId": "688bdf140c10f1000000014f",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f10000000152",
+        "_tpl": "656fa76500d62bcd2e024080",
+        "parentId": "688bdf140c10f1000000014f",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "688bdf140c10f10000000153",
+        "_tpl": "656fa76500d62bcd2e024080",
+        "parentId": "688bdf140c10f1000000014f",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Body armor LBT 6094A Slick Plate Carrier Sand Standard",
+    "_parent": "688bdf140c10f1000000014f",
+    "_type": "Preset"
+  },
+  "688bdf140c10f10000000154": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "688bba6a0c10f1000000015a",
+    "_id": "688bdf140c10f10000000154",
+    "_items": [
+      {
+        "_id": "688bdf140c10f10000000155",
+        "_tpl": "688bba6a0c10f1000000015a"
+      },
+      {
+        "_id": "688bdf140c10f10000000156",
+        "_tpl": "6575e71760703324250610c3",
+        "parentId": "688bdf140c10f10000000155",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f10000000157",
+        "_tpl": "6575e72660703324250610c7",
+        "parentId": "688bdf140c10f10000000155",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f10000000158",
+        "_tpl": "656fa76500d62bcd2e024080",
+        "parentId": "688bdf140c10f10000000155",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "688bdf140c10f10000000159",
+        "_tpl": "656fa76500d62bcd2e024080",
+        "parentId": "688bdf140c10f10000000155",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Body armor LBT 6094A Slick Plate Carrier Sand Standard",
+    "_parent": "688bdf140c10f10000000155",
+    "_type": "Preset"
+  },
+  "688bdf140c10f1000000015a": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "688bba6a0c10f10000000161",
+    "_id": "688bdf140c10f1000000015a",
+    "_items": [
+      {
+        "_id": "688bdf140c10f1000000015b",
+        "_tpl": "688bba6a0c10f10000000161"
+      },
+      {
+        "_id": "688bdf140c10f1000000015c",
+        "_tpl": "6575e71760703324250610c3",
+        "parentId": "688bdf140c10f1000000015b",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f1000000015d",
+        "_tpl": "6575e72660703324250610c7",
+        "parentId": "688bdf140c10f1000000015b",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f1000000015e",
+        "_tpl": "656fa76500d62bcd2e024080",
+        "parentId": "688bdf140c10f1000000015b",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "688bdf140c10f1000000015f",
+        "_tpl": "656fa76500d62bcd2e024080",
+        "parentId": "688bdf140c10f1000000015b",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Body armor LBT 6094A Slick Plate Carrier Sand Standard",
+    "_parent": "688bdf140c10f1000000015b",
+    "_type": "Preset"
+  },
+  "688bdf140c10f10000000160": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "688bba6a0c10f10000000168",
+    "_id": "688bdf140c10f10000000160",
+    "_items": [
+      {
+        "_id": "688bdf140c10f10000000161",
+        "_tpl": "688bba6a0c10f10000000168"
+      },
+      {
+        "_id": "688bdf140c10f10000000162",
+        "_tpl": "6575e71760703324250610c3",
+        "parentId": "688bdf140c10f10000000161",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "688bdf140c10f10000000163",
+        "_tpl": "6575e72660703324250610c7",
+        "parentId": "688bdf140c10f10000000161",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "688bdf140c10f10000000164",
+        "_tpl": "656fa76500d62bcd2e024080",
+        "parentId": "688bdf140c10f10000000161",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "688bdf140c10f10000000165",
+        "_tpl": "656fa76500d62bcd2e024080",
+        "parentId": "688bdf140c10f10000000161",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Body armor LBT 6094A Slick Plate Carrier Sand Standard",
+    "_parent": "688bdf140c10f10000000161",
+    "_type": "Preset"
+  },
+  "68a7132d0c10f10000000169": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "68a7132d0c10f10000000168",
+    "_id": "68a7132d0c10f10000000169",
+    "_items": [
+      {
+        "_id": "68a7132d0c10f1000000016a",
+        "_tpl": "68a7132d0c10f10000000168"
+      },
+      {
+        "_id": "68a7132d0c10f1000000016b",
+        "_tpl": "6570495b45d573133d0d6adb",
+        "parentId": "68a7132d0c10f1000000016a",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "68a7132d0c10f1000000016c",
+        "_tpl": "657049d23425b19bbc0502f0",
+        "parentId": "68a7132d0c10f1000000016a",
+        "slotId": "Soft_armor_back"
+      }
+    ],
+    "_name": "Body armor Kora Kulon Black Standard",
+    "_parent": "68a7132d0c10f1000000016a",
+    "_type": "Preset"
+  },
+  "68a7132d0c10f1000000016e": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "68a7132d0c10f1000000016d",
+    "_id": "68a7132d0c10f1000000016e",
+    "_items": [
+      {
+        "_id": "68a7132d0c10f1000000016f",
+        "_tpl": "68a7132d0c10f1000000016d"
+      },
+      {
+        "_id": "68a7132d0c10f10000000170",
+        "_tpl": "6570495b45d573133d0d6adb",
+        "parentId": "68a7132d0c10f1000000016f",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "68a7132d0c10f10000000171",
+        "_tpl": "657049d23425b19bbc0502f0",
+        "parentId": "68a7132d0c10f1000000016f",
+        "slotId": "Soft_armor_back"
+      }
+    ],
+    "_name": "Body armor Kora Kulon Black Standard",
+    "_parent": "68a7132d0c10f1000000016f",
+    "_type": "Preset"
+  },
+  "68a7132d0c10f10000000173": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "68a7132d0c10f10000000172",
+    "_id": "68a7132d0c10f10000000173",
+    "_items": [
+      {
+        "_id": "68a7132d0c10f10000000174",
+        "_tpl": "68a7132d0c10f10000000172"
+      },
+      {
+        "_id": "68a7132d0c10f10000000175",
+        "_tpl": "6570495b45d573133d0d6adb",
+        "parentId": "68a7132d0c10f10000000174",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "68a7132d0c10f10000000176",
+        "_tpl": "657049d23425b19bbc0502f0",
+        "parentId": "68a7132d0c10f10000000174",
+        "slotId": "Soft_armor_back"
+      }
+    ],
+    "_name": "Body armor Kora Kulon Black Standard",
+    "_parent": "68a7132d0c10f10000000174",
+    "_type": "Preset"
+  },
+  "68a7132d0c10f10000000178": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "68a7132d0c10f10000000177",
+    "_id": "68a7132d0c10f10000000178",
+    "_items": [
+      {
+        "_id": "68a7132d0c10f10000000179",
+        "_tpl": "68a7132d0c10f10000000177"
+      },
+      {
+        "_id": "68a7132d0c10f1000000017a",
+        "_tpl": "6570495b45d573133d0d6adb",
+        "parentId": "68a7132d0c10f10000000179",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "68a7132d0c10f1000000017b",
+        "_tpl": "657049d23425b19bbc0502f0",
+        "parentId": "68a7132d0c10f10000000179",
+        "slotId": "Soft_armor_back"
+      }
+    ],
+    "_name": "Body armor Kora Kulon Black Standard",
+    "_parent": "68a7132d0c10f10000000179",
+    "_type": "Preset"
+  },
+  "68b06eee0c10f10000000176": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "68af53260c10f10000000180",
+    "_id": "68b06eee0c10f10000000176",
+    "_items": [
+      {
+        "_id": "68b06eee0c10f10000000177",
+        "_tpl": "68af53260c10f10000000180"
+      },
+      {
+        "_id": "68b06eee0c10f10000000178",
+        "_tpl": "657f925dada5fadd1f07a57a",
+        "parentId": "68b06eee0c10f10000000177",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "68b06eee0c10f10000000179",
+        "_tpl": "657f92acada5fadd1f07a57e",
+        "parentId": "68b06eee0c10f10000000177",
+        "slotId": "Helmet_back"
+      },
+      {
+        "_id": "68b06eee0c10f1000000017a",
+        "_tpl": "657f92e7f4c82973640b2354",
+        "parentId": "68b06eee0c10f10000000177",
+        "slotId": "Helmet_ears"
+      }
+    ],
+    "_name": "Helmet ZSh 1 2M Black Standart",
+    "_parent": "68b06eee0c10f10000000177",
+    "_type": "Preset"
+  },
+  "68b06eee0c10f1000000017b": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "68af53260c10f10000000186",
+    "_id": "68b06eee0c10f1000000017b",
+    "_items": [
+      {
+        "_id": "68b06eee0c10f1000000017c",
+        "_tpl": "68af53260c10f10000000186"
+      },
+      {
+        "_id": "68b06eee0c10f1000000017d",
+        "_tpl": "657f925dada5fadd1f07a57a",
+        "parentId": "68b06eee0c10f1000000017c",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "68b06eee0c10f1000000017e",
+        "_tpl": "657f92acada5fadd1f07a57e",
+        "parentId": "68b06eee0c10f1000000017c",
+        "slotId": "Helmet_back"
+      },
+      {
+        "_id": "68b06eee0c10f1000000017f",
+        "_tpl": "657f92e7f4c82973640b2354",
+        "parentId": "68b06eee0c10f1000000017c",
+        "slotId": "Helmet_ears"
+      }
+    ],
+    "_name": "Helmet ZSh 1 2M Black Standart",
+    "_parent": "68b06eee0c10f1000000017c",
+    "_type": "Preset"
+  },
+  "68b06eee0c10f10000000180": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "68af53260c10f1000000018c",
+    "_id": "68b06eee0c10f10000000180",
+    "_items": [
+      {
+        "_id": "68b06eee0c10f10000000181",
+        "_tpl": "68af53260c10f1000000018c"
+      },
+      {
+        "_id": "68b06eee0c10f10000000182",
+        "_tpl": "657bb92fa1c61ee0c303631f",
+        "parentId": "68b06eee0c10f10000000181",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "68b06eee0c10f10000000183",
+        "_tpl": "657bb99db30eca976305117f",
+        "parentId": "68b06eee0c10f10000000181",
+        "slotId": "Helmet_back"
+      }
+    ],
+    "_name": "Helmet LShZ Standart",
+    "_parent": "68b06eee0c10f10000000181",
+    "_type": "Preset"
+  },
+  "68b06eee0c10f10000000184": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "68af53260c10f10000000191",
+    "_id": "68b06eee0c10f10000000184",
+    "_items": [
+      {
+        "_id": "68b06eee0c10f10000000185",
+        "_tpl": "68af53260c10f10000000191"
+      },
+      {
+        "_id": "68b06eee0c10f10000000186",
+        "_tpl": "657bb92fa1c61ee0c303631f",
+        "parentId": "68b06eee0c10f10000000185",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "68b06eee0c10f10000000187",
+        "_tpl": "657bb99db30eca976305117f",
+        "parentId": "68b06eee0c10f10000000185",
+        "slotId": "Helmet_back"
+      }
+    ],
+    "_name": "Helmet LShZ Standart",
+    "_parent": "68b06eee0c10f10000000185",
+    "_type": "Preset"
+  },
+  "68b06eee0c10f10000000188": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "68af53260c10f1000000019b",
+    "_id": "68b06eee0c10f10000000188",
+    "_items": [
+      {
+        "_id": "68b06eee0c10f10000000189",
+        "_tpl": "68af53260c10f1000000019b"
+      },
+      {
+        "_id": "68b06eee0c10f1000000018a",
+        "_tpl": "657bb92fa1c61ee0c303631f",
+        "parentId": "68b06eee0c10f10000000189",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "68b06eee0c10f1000000018b",
+        "_tpl": "657bb99db30eca976305117f",
+        "parentId": "68b06eee0c10f10000000189",
+        "slotId": "Helmet_back"
+      }
+    ],
+    "_name": "Helmet LShZ Standart",
+    "_parent": "68b06eee0c10f10000000189",
+    "_type": "Preset"
+  },
+  "68b06eee0c10f1000000018c": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "68af53260c10f100000001a0",
+    "_id": "68b06eee0c10f1000000018c",
+    "_items": [
+      {
+        "_id": "68b06eee0c10f1000000018d",
+        "_tpl": "68af53260c10f100000001a0"
+      },
+      {
+        "_id": "68b06eee0c10f1000000018e",
+        "_tpl": "657bb92fa1c61ee0c303631f",
+        "parentId": "68b06eee0c10f1000000018d",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "68b06eee0c10f1000000018f",
+        "_tpl": "657bb99db30eca976305117f",
+        "parentId": "68b06eee0c10f1000000018d",
+        "slotId": "Helmet_back"
+      }
+    ],
+    "_name": "Helmet LShZ Standart",
+    "_parent": "68b06eee0c10f1000000018d",
+    "_type": "Preset"
+  },
+  "68b173260c10f10000000195": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "68b173260c10f10000000194",
+    "_id": "68b173260c10f10000000195",
+    "_items": [
+      {
+        "_id": "68b173260c10f10000000196",
+        "_tpl": "68b173260c10f10000000194"
+      },
+      {
+        "_id": "68b173260c10f10000000197",
+        "_tpl": "6575bc88c6700bd6b40e8a57",
+        "parentId": "68b173260c10f10000000196",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "68b173260c10f10000000198",
+        "_tpl": "6575bca0dc9932aed601c5d7",
+        "parentId": "68b173260c10f10000000196",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "68b173260c10f10000000199",
+        "_tpl": "656fae5f7c2d57afe200c0d7",
+        "parentId": "68b173260c10f10000000196",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "68b173260c10f1000000019a",
+        "_tpl": "656fae5f7c2d57afe200c0d7",
+        "parentId": "68b173260c10f10000000196",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Vest 5.11 Tactical TacTec Standard",
+    "_parent": "68b173260c10f10000000196",
+    "_type": "Preset"
+  },
+  "68b173260c10f1000000019c": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "68b173260c10f1000000019b",
+    "_id": "68b173260c10f1000000019c",
+    "_items": [
+      {
+        "_id": "68b173260c10f1000000019d",
+        "_tpl": "68b173260c10f1000000019b"
+      },
+      {
+        "_id": "68b173260c10f1000000019e",
+        "_tpl": "6575bc88c6700bd6b40e8a57",
+        "parentId": "68b173260c10f1000000019d",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "68b173260c10f1000000019f",
+        "_tpl": "6575bca0dc9932aed601c5d7",
+        "parentId": "68b173260c10f1000000019d",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "68b173260c10f100000001a0",
+        "_tpl": "656fae5f7c2d57afe200c0d7",
+        "parentId": "68b173260c10f1000000019d",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "68b173260c10f100000001a1",
+        "_tpl": "656fae5f7c2d57afe200c0d7",
+        "parentId": "68b173260c10f1000000019d",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Vest 5.11 Tactical TacTec Standard",
+    "_parent": "68b173260c10f1000000019d",
+    "_type": "Preset"
+  },
+  "68b173260c10f100000001a3": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "68b173260c10f100000001a2",
+    "_id": "68b173260c10f100000001a3",
+    "_items": [
+      {
+        "_id": "68b173260c10f100000001a4",
+        "_tpl": "68b173260c10f100000001a2"
+      },
+      {
+        "_id": "68b173260c10f100000001a5",
+        "_tpl": "6575bc88c6700bd6b40e8a57",
+        "parentId": "68b173260c10f100000001a4",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "68b173260c10f100000001a6",
+        "_tpl": "6575bca0dc9932aed601c5d7",
+        "parentId": "68b173260c10f100000001a4",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "68b173260c10f100000001a7",
+        "_tpl": "656fae5f7c2d57afe200c0d7",
+        "parentId": "68b173260c10f100000001a4",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "68b173260c10f100000001a8",
+        "_tpl": "656fae5f7c2d57afe200c0d7",
+        "parentId": "68b173260c10f100000001a4",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Vest 5.11 Tactical TacTec Standard",
+    "_parent": "68b173260c10f100000001a4",
+    "_type": "Preset"
+  },
+  "68b194500c10f100000001a3": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "68b194500c10f100000001a2",
+    "_id": "68b194500c10f100000001a3",
+    "_items": [
+      {
+        "_id": "68b194500c10f100000001a4",
+        "_tpl": "68b194500c10f100000001a2"
+      },
+      {
+        "_id": "68b194500c10f100000001a5",
+        "_tpl": "657f8b94f92cd718b70154ff",
+        "parentId": "68b194500c10f100000001a4",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "68b194500c10f100000001a6",
+        "_tpl": "657f8b43f92cd718b70154fb",
+        "parentId": "68b194500c10f100000001a4",
+        "slotId": "Helmet_back"
+      }
+    ],
+    "_name": "Helmet MSA ACH TC 2002 Standart",
+    "_parent": "68b194500c10f100000001a4",
+    "_type": "Preset"
+  },
+  "68b194500c10f100000001a8": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "68b194500c10f100000001a7",
+    "_id": "68b194500c10f100000001a8",
+    "_items": [
+      {
+        "_id": "68b194500c10f100000001a9",
+        "_tpl": "68b194500c10f100000001a7"
+      },
+      {
+        "_id": "68b194500c10f100000001aa",
+        "_tpl": "657f8b94f92cd718b70154ff",
+        "parentId": "68b194500c10f100000001a9",
+        "slotId": "Helmet_top"
+      },
+      {
+        "_id": "68b194500c10f100000001ab",
+        "_tpl": "657f8b43f92cd718b70154fb",
+        "parentId": "68b194500c10f100000001a9",
+        "slotId": "Helmet_back"
+      }
+    ],
+    "_name": "Helmet MSA ACH TC 2002 Standart",
+    "_parent": "68b194500c10f100000001a9",
+    "_type": "Preset"
+  },
+  "68c3d0dc0c10f100000001b1": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "68c3d0dc0c10f100000001b0",
+    "_id": "68c3d0dc0c10f100000001b1",
+    "_items": [
+      {
+        "_id": "68c3d0dc0c10f100000001b2",
+        "_tpl": "68c3d0dc0c10f100000001b0"
+      },
+      {
+        "_id": "68c3d0dc0c10f100000001b3",
+        "_tpl": "65730c0e292ecadbfa09ad49",
+        "parentId": "68c3d0dc0c10f100000001b2",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "68c3d0dc0c10f100000001b4",
+        "_tpl": "65730c2213a2f660f60bea96",
+        "parentId": "68c3d0dc0c10f100000001b2",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "68c3d0dc0c10f100000001b5",
+        "_tpl": "65730c2b292ecadbfa09ad50",
+        "parentId": "68c3d0dc0c10f100000001b2",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "68c3d0dc0c10f100000001b6",
+        "_tpl": "65730c35292ecadbfa09ad54",
+        "parentId": "68c3d0dc0c10f100000001b2",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "68c3d0dc0c10f100000001b7",
+        "_tpl": "656fa0fb498d1b7e3e071d9c",
+        "parentId": "68c3d0dc0c10f100000001b2",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "68c3d0dc0c10f100000001b8",
+        "_tpl": "656fa0fb498d1b7e3e071d9c",
+        "parentId": "68c3d0dc0c10f100000001b2",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Vest ANA Tactical M1 Standard",
+    "_parent": "68c3d0dc0c10f100000001b2",
+    "_type": "Preset"
+  },
+  "68c3d0dc0c10f100000001c3": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "68c3d0dc0c10f100000001c2",
+    "_id": "68c3d0dc0c10f100000001c3",
+    "_items": [
+      {
+        "_id": "68c3d0dc0c10f100000001c4",
+        "_tpl": "68c3d0dc0c10f100000001c2"
+      },
+      {
+        "_id": "68c3d0dc0c10f100000001c5",
+        "_tpl": "65730c0e292ecadbfa09ad49",
+        "parentId": "68c3d0dc0c10f100000001c4",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "68c3d0dc0c10f100000001c6",
+        "_tpl": "65730c2213a2f660f60bea96",
+        "parentId": "68c3d0dc0c10f100000001c4",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "68c3d0dc0c10f100000001c7",
+        "_tpl": "65730c2b292ecadbfa09ad50",
+        "parentId": "68c3d0dc0c10f100000001c4",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "68c3d0dc0c10f100000001c8",
+        "_tpl": "65730c35292ecadbfa09ad54",
+        "parentId": "68c3d0dc0c10f100000001c4",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "68c3d0dc0c10f100000001c9",
+        "_tpl": "656fa0fb498d1b7e3e071d9c",
+        "parentId": "68c3d0dc0c10f100000001c4",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "68c3d0dc0c10f100000001ca",
+        "_tpl": "656fa0fb498d1b7e3e071d9c",
+        "parentId": "68c3d0dc0c10f100000001c4",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Vest ANA Tactical M1 Standard",
+    "_parent": "68c3d0dc0c10f100000001c4",
+    "_type": "Preset"
+  },
+  "68c3d0dc0c10f100000001cc": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "68c3d0dc0c10f100000001cb",
+    "_id": "68c3d0dc0c10f100000001cc",
+    "_items": [
+      {
+        "_id": "68c3d0dc0c10f100000001cd",
+        "_tpl": "68c3d0dc0c10f100000001cb"
+      },
+      {
+        "_id": "68c3d0dc0c10f100000001ce",
+        "_tpl": "65730c0e292ecadbfa09ad49",
+        "parentId": "68c3d0dc0c10f100000001cd",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "68c3d0dc0c10f100000001cf",
+        "_tpl": "65730c2213a2f660f60bea96",
+        "parentId": "68c3d0dc0c10f100000001cd",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "68c3d0dc0c10f100000001d0",
+        "_tpl": "65730c2b292ecadbfa09ad50",
+        "parentId": "68c3d0dc0c10f100000001cd",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "68c3d0dc0c10f100000001d1",
+        "_tpl": "65730c35292ecadbfa09ad54",
+        "parentId": "68c3d0dc0c10f100000001cd",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "68c3d0dc0c10f100000001d2",
+        "_tpl": "656fa0fb498d1b7e3e071d9c",
+        "parentId": "68c3d0dc0c10f100000001cd",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "68c3d0dc0c10f100000001d3",
+        "_tpl": "656fa0fb498d1b7e3e071d9c",
+        "parentId": "68c3d0dc0c10f100000001cd",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Vest ANA Tactical M1 Standard",
+    "_parent": "68c3d0dc0c10f100000001cd",
+    "_type": "Preset"
+  },
+  "68cd23bf0c10f100000001c9": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "68cd23bf0c10f100000001c8",
+    "_id": "68cd23bf0c10f100000001c9",
+    "_items": [
+      {
+        "_id": "68cd23bf0c10f100000001ca",
+        "_tpl": "68cd23bf0c10f100000001c8"
+      },
+      {
+        "_id": "68cd23bf0c10f100000001cb",
+        "_tpl": "6573101e292ecadbfa09b389",
+        "parentId": "68cd23bf0c10f100000001ca",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "68cd23bf0c10f100000001cc",
+        "_tpl": "6573102b292ecadbfa09b38d",
+        "parentId": "68cd23bf0c10f100000001ca",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "68cd23bf0c10f100000001cd",
+        "_tpl": "65731038292ecadbfa09b391",
+        "parentId": "68cd23bf0c10f100000001ca",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "68cd23bf0c10f100000001ce",
+        "_tpl": "65731045f31d5be00e08a75a",
+        "parentId": "68cd23bf0c10f100000001ca",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "68cd23bf0c10f100000001cf",
+        "_tpl": "656fad8c498d1b7e3e071da0",
+        "parentId": "68cd23bf0c10f100000001ca",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "68cd23bf0c10f100000001d0",
+        "_tpl": "656fad8c498d1b7e3e071da0",
+        "parentId": "68cd23bf0c10f100000001ca",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Vest Shellback Tactical Banshee Standard",
+    "_parent": "68cd23bf0c10f100000001ca",
+    "_type": "Preset"
+  },
+  "68cd23bf0c10f100000001d2": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "68cd23bf0c10f100000001d1",
+    "_id": "68cd23bf0c10f100000001d2",
+    "_items": [
+      {
+        "_id": "68cd23bf0c10f100000001d3",
+        "_tpl": "68cd23bf0c10f100000001d1"
+      },
+      {
+        "_id": "68cd23bf0c10f100000001d4",
+        "_tpl": "6573101e292ecadbfa09b389",
+        "parentId": "68cd23bf0c10f100000001d3",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "68cd23bf0c10f100000001d5",
+        "_tpl": "6573102b292ecadbfa09b38d",
+        "parentId": "68cd23bf0c10f100000001d3",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "68cd23bf0c10f100000001d6",
+        "_tpl": "65731038292ecadbfa09b391",
+        "parentId": "68cd23bf0c10f100000001d3",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "68cd23bf0c10f100000001d7",
+        "_tpl": "65731045f31d5be00e08a75a",
+        "parentId": "68cd23bf0c10f100000001d3",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "68cd23bf0c10f100000001d8",
+        "_tpl": "656fad8c498d1b7e3e071da0",
+        "parentId": "68cd23bf0c10f100000001d3",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "68cd23bf0c10f100000001d9",
+        "_tpl": "656fad8c498d1b7e3e071da0",
+        "parentId": "68cd23bf0c10f100000001d3",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Vest Shellback Tactical Banshee Standard",
+    "_parent": "68cd23bf0c10f100000001d3",
+    "_type": "Preset"
+  },
+  "68f208360c10f100000001d8": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "68f1fb0f0c10f100000001d9",
+    "_id": "68f208360c10f100000001d8",
+    "_items": [
+      {
+        "_id": "68f208360c10f100000001d9",
+        "_tpl": "68f1fb0f0c10f100000001d9"
+      },
+      {
+        "_id": "68f208360c10f100000001da",
+        "_tpl": "6570e5100b57c03ec90b970a",
+        "parentId": "68f208360c10f100000001d9",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "68f208360c10f100000001db",
+        "_tpl": "6570e479a6560e4ee50c2b02",
+        "parentId": "68f208360c10f100000001d9",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "68f208360c10f100000001dc",
+        "_tpl": "6570e5674cc0d2ab1e05edbb",
+        "parentId": "68f208360c10f100000001d9",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "68f208360c10f100000001dd",
+        "_tpl": "6570e59b0b57c03ec90b970e",
+        "parentId": "68f208360c10f100000001d9",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "68f208360c10f100000001de",
+        "_tpl": "656f9fa0498d1b7e3e071d98",
+        "parentId": "68f208360c10f100000001d9",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "68f208360c10f100000001df",
+        "_tpl": "656f9fa0498d1b7e3e071d98",
+        "parentId": "68f208360c10f100000001d9",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Vest Ars Arma A18 Skanda Standard",
+    "_parent": "68f208360c10f100000001d9",
+    "_type": "Preset"
+  },
+  "68f208360c10f100000001e0": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "68f1fb0f0c10f100000001f4",
+    "_id": "68f208360c10f100000001e0",
+    "_items": [
+      {
+        "_id": "68f208360c10f100000001e1",
+        "_tpl": "68f1fb0f0c10f100000001f4"
+      },
+      {
+        "_id": "68f208360c10f100000001e2",
+        "_tpl": "6570e5100b57c03ec90b970a",
+        "parentId": "68f208360c10f100000001e1",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "68f208360c10f100000001e3",
+        "_tpl": "6570e479a6560e4ee50c2b02",
+        "parentId": "68f208360c10f100000001e1",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "68f208360c10f100000001e4",
+        "_tpl": "6570e5674cc0d2ab1e05edbb",
+        "parentId": "68f208360c10f100000001e1",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "68f208360c10f100000001e5",
+        "_tpl": "6570e59b0b57c03ec90b970e",
+        "parentId": "68f208360c10f100000001e1",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "68f208360c10f100000001e6",
+        "_tpl": "656f9fa0498d1b7e3e071d98",
+        "parentId": "68f208360c10f100000001e1",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "68f208360c10f100000001e7",
+        "_tpl": "656f9fa0498d1b7e3e071d98",
+        "parentId": "68f208360c10f100000001e1",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Vest Ars Arma A18 Skanda Standard",
+    "_parent": "68f208360c10f100000001e1",
+    "_type": "Preset"
+  },
+  "68f208360c10f100000001e8": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "68f1fb0f0c10f10000000206",
+    "_id": "68f208360c10f100000001e8",
+    "_items": [
+      {
+        "_id": "68f208360c10f100000001e9",
+        "_tpl": "68f1fb0f0c10f10000000206"
+      },
+      {
+        "_id": "68f208360c10f100000001ea",
+        "_tpl": "6570e5100b57c03ec90b970a",
+        "parentId": "68f208360c10f100000001e9",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "68f208360c10f100000001eb",
+        "_tpl": "6570e479a6560e4ee50c2b02",
+        "parentId": "68f208360c10f100000001e9",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "68f208360c10f100000001ec",
+        "_tpl": "6570e5674cc0d2ab1e05edbb",
+        "parentId": "68f208360c10f100000001e9",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "68f208360c10f100000001ed",
+        "_tpl": "6570e59b0b57c03ec90b970e",
+        "parentId": "68f208360c10f100000001e9",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "68f208360c10f100000001ee",
+        "_tpl": "656f9fa0498d1b7e3e071d98",
+        "parentId": "68f208360c10f100000001e9",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "68f208360c10f100000001ef",
+        "_tpl": "656f9fa0498d1b7e3e071d98",
+        "parentId": "68f208360c10f100000001e9",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Vest Ars Arma A18 Skanda Standard",
+    "_parent": "68f208360c10f100000001e9",
+    "_type": "Preset"
+  },
+
+
+  "6902fb900c10f100000001f2": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "6902fb900c10f100000001f1",
+    "_id": "6902fb900c10f100000001f2",
+    "_items": [
+      {
+        "_id": "6902fb900c10f100000001f3",
+        "_tpl": "6902fb900c10f100000001f1"
+      },
+      {
+        "_id": "6902fb900c10f100000001f4",
+        "_tpl": "6572f1ca4c8d903cc60c874e",
+        "parentId": "6902fb900c10f100000001f3",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "6902fb900c10f100000001f5",
+        "_tpl": "6572f1d60103b4a3270332db",
+        "parentId": "6902fb900c10f100000001f3",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "6902fb900c10f100000001f6",
+        "_tpl": "6572f1e10103b4a3270332df",
+        "parentId": "6902fb900c10f100000001f3",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "6902fb900c10f100000001f7",
+        "_tpl": "6572f1edea457732140ce875",
+        "parentId": "6902fb900c10f100000001f3",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "6902fb900c10f100000001f8",
+        "_tpl": "6572f1f7ea457732140ce879",
+        "parentId": "6902fb900c10f100000001f3",
+        "slotId": "Groin"
+      },
+      {
+        "_id": "6902fb900c10f100000001f9",
+        "_tpl": "656fa25e94b480b8a500c0e0",
+        "parentId": "6902fb900c10f100000001f3",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "6902fb900c10f100000001fa",
+        "_tpl": "656fa25e94b480b8a500c0e0",
+        "parentId": "6902fb900c10f100000001f3",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Vest ECLiPSE RBAV-AF Standard",
+    "_parent": "6902fb900c10f100000001f3",
+    "_type": "Preset"
+  },
+  "6902fb900c10f100000001fc": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "6902fb900c10f100000001fb",
+    "_id": "6902fb900c10f100000001fc",
+    "_items": [
+      {
+        "_id": "6902fb900c10f100000001fd",
+        "_tpl": "6902fb900c10f100000001fb"
+      },
+      {
+        "_id": "6902fb900c10f100000001fe",
+        "_tpl": "6572f1ca4c8d903cc60c874e",
+        "parentId": "6902fb900c10f100000001fd",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "6902fb900c10f100000001ff",
+        "_tpl": "6572f1d60103b4a3270332db",
+        "parentId": "6902fb900c10f100000001fd",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "6902fb900c10f10000000200",
+        "_tpl": "6572f1e10103b4a3270332df",
+        "parentId": "6902fb900c10f100000001fd",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "6902fb900c10f10000000201",
+        "_tpl": "6572f1edea457732140ce875",
+        "parentId": "6902fb900c10f100000001fd",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "6902fb900c10f10000000202",
+        "_tpl": "6572f1f7ea457732140ce879",
+        "parentId": "6902fb900c10f100000001fd",
+        "slotId": "Groin"
+      },
+      {
+        "_id": "6902fb900c10f10000000203",
+        "_tpl": "656fa25e94b480b8a500c0e0",
+        "parentId": "6902fb900c10f100000001fd",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "6902fb900c10f10000000204",
+        "_tpl": "656fa25e94b480b8a500c0e0",
+        "parentId": "6902fb900c10f100000001fd",
+        "slotId": "Back_plate"
+      }
+    ],
+    "_name": "Vest ECLiPSE RBAV-AF Standard",
+    "_parent": "6902fb900c10f100000001fd",
+    "_type": "Preset"
+  }
+}

@@ -1,0 +1,957 @@
+{
+  "item_equipment_backpack_6sh118_pig": {
+    "Name": "Рюкзак рейдовый 6Ш118 (Цифра Сирия / Поросячий)",
+    "ShortName": "6Ш118 Сирия",
+    "Description": "Рюкзак рейдовый 6Ш118 является комплектом боевой экипировки II поколения \"Ратник\". Цифра Сирия / Поросячий."
+  },
+  "item_equipment_backpack_6sh118_atacsa": {
+    "Name": "Рюкзак рейдовый 6Ш118 (A-TACS Arid / Мох Засуха)",
+    "ShortName": "6Ш118 Засуха",
+    "Description": "Рюкзак рейдовый 6Ш118 является комплектом боевой экипировки II поколения \"Ратник\". A-TACS Arid / Мох Autumn."
+  },
+  "item_equipment_backpack_6sh118_atacsg": {
+    "Name": "Рюкзак рейдовый 6Ш118 (Мох / A-TACS FG)",
+    "ShortName": "6Ш118 Мох",
+    "Description": "Рюкзак рейдовый 6Ш118 является комплектом боевой экипировки II поколения \"Ратник\". A-TACS / Мох."
+  },
+  "item_equipment_backpack_6sh118_mc": {
+    "Name": "Рюкзак рейдовый 6Ш118 (Multicam)",
+    "ShortName": "6Ш118 MC",
+    "Description": "Рюкзак рейдовый 6Ш118 является комплектом боевой экипировки II поколения \"Ратник\". Multicam."
+  },
+  "item_equipment_backpack_6sh118_spring": {
+    "Name": "Рюкзак рейдовый 6Ш118 (Цифра Весна)",
+    "ShortName": "6Ш118 Весна",
+    "Description": "Рюкзак рейдовый 6Ш118 является комплектом боевой экипировки II поколения \"Ратник\". Цифра Весна."
+  },
+  "item_equipment_backpack_trooper_35_mc": {
+    "Name": "Рюкзак Tasmanian Tiger \"Trooper 35\" (Multicam)",
+    "ShortName": "Trooper 35 MC",
+    "Description": "Рюкзак Tasmanian Tiger \"Trooper 35\"."
+  },
+  "item_equipment_backpack_trooper_35_mm14": {
+    "Name": "Рюкзак Tasmanian Tiger \"Trooper 35\" (MM14)",
+    "ShortName": "Trooper 35 MM14",
+    "Description": "Рюкзак Tasmanian Tiger \"Trooper 35\"."
+  },
+  "item_equipment_backpack_trooper_35_ucp": {
+    "Name": "Рюкзак Tasmanian Tiger \"Trooper 35\" (UCP)",
+    "ShortName": "Trooper 35 UCP",
+    "Description": "Рюкзак Tasmanian Tiger \"Trooper 35\"."
+  },
+  "item_equipment_backpack_trooper_35_urban": {
+    "Name": "Рюкзак Tasmanian Tiger \"Trooper 35\" (Urban)",
+    "ShortName": "Trooper 35 Urban",
+    "Description": "Рюкзак Tasmanian Tiger \"Trooper 35\"."
+  },
+  "item_equipment_backpack_daypack_aor": {
+    "Name": "Рюкзак LBT-8005A Day Pack (AOR 1)",
+    "ShortName": "Day Pack AOR",
+    "Description": "Рюкзак LBT-8005A Day Pack."
+  },
+  "item_equipment_backpack_daypack_gray": {
+    "Name": "Рюкзак LBT-8005A Day Pack (Multicam Gray)",
+    "ShortName": "Day Pack McGray",
+    "Description": "Рюкзак LBT-8005A Day Pack."
+  },
+  "item_equipment_backpack_daypack_estpat": {
+    "Name": "Рюкзак LBT-8005A Day Pack (ESTPAT)",
+    "ShortName": "Day Pack ESTPAT",
+    "Description": "Рюкзак LBT-8005A Day Pack."
+  },
+  "item_equipment_backpack_daypack_flektarn": {
+    "Name": "Рюкзак LBT-8005A Day Pack (Flektarn)",
+    "ShortName": "Day Pack FTARN",
+    "Description": "Рюкзак LBT-8005A Day Pack."
+  },
+  "item_equipment_backpack_wartech_emr": {
+    "Name": "Рюкзак WARTECH \"Беркут BB-102\" (Флора Цифра)",
+    "ShortName": "Беркут Цифра",
+    "Description": "Рюкзак WARTECH \"Беркут BB-102\"."
+  },
+  "item_equipment_backpack_wartech_emrd": {
+    "Name": "Рюкзак WARTECH \"Беркут BB-102\" (Цифра Пустыня)",
+    "ShortName": "Беркут Пустыня",
+    "Description": "Рюкзак WARTECH \"Беркут BB-102\"."
+  },
+  "item_equipment_backpack_wartech_yagel": {
+    "Name": "Рюкзак WARTECH \"Беркут BB-102\" (Рябь)",
+    "ShortName": "Беркут Рябь",
+    "Description": "Рюкзак WARTECH \"Беркут BB-102\"."
+  },
+  "item_equipment_backpack_sso_emr": {
+    "Name": "Рюкзак рейдовый ССО \"Атака 2\" (Флора Цифра)",
+    "ShortName": "Атака 2 Цифра",
+    "Description": "Рюкзак рейдовый \"Атака 2\" объемом 60 литров предназначен для переноски в полевых условиях личных вещей и снаряжения. Флора Цифра."
+  },
+  "item_equipment_backpack_sso_olive": {
+    "Name": "Рюкзак рейдовый ССО \"Атака 2\" (Олива)",
+    "ShortName": "Атака 2 Олива",
+    "Description": "Рюкзак рейдовый \"Атака 2\" объемом 60 литров предназначен для переноски в полевых условиях личных вещей и снаряжения."
+  },
+  "item_equipment_backpack_sso_izlom": {
+    "Name": "Рюкзак рейдовый ССО \"Атака 2\" (Излом)",
+    "ShortName": "Атака 2 Излом",
+    "Description": "Рюкзак рейдовый \"Атака 2\" объемом 60 литров предназначен для переноски в полевых условиях личных вещей и снаряжения. Излом."
+  },
+  "item_equipment_armor_6b3_berezka": {
+    "Name": "Разгрузочный жилет с бронепластинами 6Б3ТМ-01 (Берёзка)",
+    "ShortName": "6Б3ТМ-01 Берёзка",
+    "Description": "Модифицированный общевойсковой бронежилет 6Б3 под индексом 6Б3ТМ-01, камуфляж Берёзка."
+  },
+  "item_equipment_armor_6b3_bhutan": {
+    "Name": "Разгрузочный жилет с бронепластинами 6Б3ТМ-01 (Гранит)",
+    "ShortName": "6Б3ТМ-01 Гранит",
+    "Description": "Модифицированный общевойсковой бронежилет 6Б3 под индексом 6Б3ТМ-01, камуфляж Гранит."
+  },
+  "item_equipment_armor_6b3_green": {
+    "Name": "Разгрузочный жилет с бронепластинами 6Б3ТМ-01 (Тёмно-оливковый)",
+    "ShortName": "6Б3ТМ-01 ТОлива",
+    "Description": "Модифицированный общевойсковой бронежилет 6Б3 под индексом 6Б3ТМ-01, тёмно-зеленый."
+  },
+  "item_equipment_helmet_6b47covered_atacs": {
+    "Name": "Общевойсковой шлем 6Б47 \"Ратник-БШ\" (A-TACS / Мох)",
+    "ShortName": "6Б47 Мох",
+    "Description": "Единый войсковой броневой арамидный шлем Вооруженных Сил РФ в чехле \"Мох\"."
+  },
+  "item_equipment_helmet_6b47covered_pig": {
+    "Name": "Общевойсковой шлем 6Б47 \"Ратник-БШ\" (Цифра Сирия / Поросячий)",
+    "ShortName": "6Б47 Сирия",
+    "Description": "Единый войсковой броневой арамидный шлем Вооруженных Сил РФ в чехле \"Флора Цифра Сирия\" (поросячий)."
+  },
+  "item_equipment_helmet_6b47covered_spring": {
+    "Name": "Общевойсковой шлем 6Б47 \"Ратник-БШ\" (Цифра Весна)",
+    "ShortName": "6Б47 Весна",
+    "Description": "Единый войсковой броневой арамидный шлем Вооруженных Сил РФ в чехле \"Цифровая Флора Весна\"."
+  },
+  "item_equipment_helmet_6b47covered_ss": {
+    "Name": "Общевойсковой шлем 6Б47 \"Ратник-БШ\" (Партизан)",
+    "ShortName": "6Б47 Партизан",
+    "Description": "Единый войсковой броневой арамидный шлем Вооруженных Сил РФ в чехле \"Партизан\"."
+  },
+  "item_equipment_helmet_6b47covered_surpat": {
+    "Name": "Общевойсковой шлем 6Б47 \"Ратник-БШ\" (SURPAT Засуха)",
+    "ShortName": "6Б47 Засуха",
+    "Description": "Единый войсковой броневой арамидный шлем Вооруженных Сил РФ в чехле \"SURPAT Засуха\"."
+  },
+  "item_equipment_armor_korundvm_kamysh": {
+    "Name": "Бронежилет НПП КлАСС \"Корунд-ВМ\" (Камыш)",
+    "ShortName": "Корунд-ВМ Камыш",
+    "Description": "Бронежилет длительного ношения Корунд-ВМ, принятый на вооружение в ряды сотрудников МВД России. Камыш."
+  },
+  "item_equipment_armor_korundvm_blue": {
+    "Name": "Бронежилет НПП КлАСС \"Корунд-ВМ\" (Мох Синий)",
+    "ShortName": "Корунд-ВМ Синий",
+    "Description": "Бронежилет длительного ношения Корунд-ВМ, принятый на вооружение в ряды сотрудников МВД России. Мох МВД."
+  },
+  "item_equipment_armor_korundvm_emr": {
+    "Name": "Бронежилет НПП КлАСС \"Корунд-ВМ\" (Флора Цифра)",
+    "ShortName": "Корунд-ВМ Цифра",
+    "Description": "Бронежилет длительного ношения Корунд-ВМ, принятый на вооружение в ряды сотрудников МВД России. Флора Цифра."
+  },
+  "item_equipment_armor_korundvm_flora": {
+    "Name": "Бронежилет НПП КлАСС \"Корунд-ВМ\" (Флора)",
+    "ShortName": "Корунд-ВМ Флора",
+    "Description": "Бронежилет длительного ношения Корунд-ВМ, принятый на вооружение в ряды сотрудников МВД России. Флора."
+  },
+  "item_equipment_armor_korundvm_partizan": {
+    "Name": "Бронежилет НПП КлАСС \"Корунд-ВМ\" (Партизан)",
+    "ShortName": "Корунд-ВМ Партизан",
+    "Description": "Бронежилет длительного ношения Корунд-ВМ, принятый на вооружение в ряды сотрудников МВД России. Партизан."
+  },
+  "item_equipment_helmet_mich2002_mm14": {
+    "Name": "Шлем MSA \"ACH TC-2002 MICH Series\" (MM14)",
+    "ShortName": "TC-2002 MM14",
+    "Description": "Усовершенствованный боевой шлем MSA в расцветке MM14."
+  },
+  "item_equipment_helmet_mich2002_vegetato": {
+    "Name": "Шлем MSA \"ACH TC-2002 MICH Series\" (Vegetato)",
+    "ShortName": "TC-2002 Vegetato",
+    "Description": "Усовершенствованный боевой шлем MSA в расцветке Vegetato."
+  },
+  "item_equipment_rig_cryeavs_atacsarid": {
+    "Name": "Разгрузочный жилет с бронепластинами Crye Precision \"AVS\" (A-TACS Arid)",
+    "ShortName": "AVS Arid",
+    "Description": "Разгрузочная система AVS, оснащенная легкими бронеплитами из комбинированных материалов в расцветке A-TACS Arid."
+  },
+  "item_equipment_rig_cryeavs_flektarn": {
+    "Name": "Разгрузочный жилет с бронепластинами Crye Precision \"AVS\" (Flektarn)",
+    "ShortName": "AVS FTARN",
+    "Description": "Разгрузочная система AVS, оснащенная легкими бронеплитами из комбинированных материалов в расцветке Flektarn."
+  },
+  "item_equipment_rig_cryeavs_mcblack": {
+    "Name": "Разгрузочный жилет с бронепластинами Crye Precision \"AVS\" (Multicam Black)",
+    "ShortName": "AVS Black",
+    "Description": "Разгрузочная система AVS, оснащенная легкими бронеплитами из комбинированных материалов в расцветке Multicam Black."
+  },
+  "item_equipment_rig_cryeavs_ucp": {
+    "Name": "Разгрузочный жилет с бронепластинами Crye Precision \"AVS\" (UCP)",
+    "ShortName": "AVS UCP",
+    "Description": "Разгрузочная система AVS, оснащенная легкими бронеплитами из комбинированных материалов в расцветке UCP."
+  },
+  "item_equipment_rig_cryeavs_vegetato": {
+    "Name": "Разгрузочный жилет с бронепластинами Crye Precision \"AVS\" (Vegetato)",
+    "ShortName": "AVS Vegetato",
+    "Description": "Разгрузочная система AVS, оснащенная легкими бронеплитами из комбинированных материалов в расцветке Vegetato."
+  },
+  "item_equipment_rig_cryeavs_mm14": {
+    "Name": "Разгрузочный жилет с бронепластинами Crye Precision \"AVS\" (MM14)",
+    "ShortName": "AVS MM14",
+    "Description": "Разгрузочная система AVS, оснащенная легкими бронеплитами из комбинированных материалов в расцветке MM14."
+  },
+  "item_equipment_rig_triton_berezka": {
+    "Name": "Разгрузочная нагрудная система Динафорс \"Тритон М43-А\" (Берёзка Жёлтая)",
+    "ShortName": "Тритон Берёзка",
+    "Description": "Разгрузочная нагрудная система Динафорс \"Тритон М43-А\"."
+  },
+  "item_equipment_rig_triton_dpm": {
+    "Name": "Разгрузочная нагрудная система Динафорс \"Тритон М43-А\" (DPM)",
+    "ShortName": "Тритон DPM",
+    "Description": "Разгрузочная нагрудная система Динафорс \"Тритон М43-А\"."
+  },
+  "item_equipment_rig_triton_flora": {
+    "Name": "Разгрузочная нагрудная система Динафорс \"Тритон М43-А\" (Флора)",
+    "ShortName": "Тритон Флора",
+    "Description": "Разгрузочная нагрудная система Динафорс \"Тритон М43-А\"."
+  },
+  "item_equipment_rig_triton_omon": {
+    "Name": "Разгрузочная нагрудная система Динафорс \"Тритон М43-А\" (Камыш МВД)",
+    "ShortName": "Тритон МВД",
+    "Description": "Разгрузочная нагрудная система Динафорс \"Тритон М43-А\"."
+  },
+  "item_equipment_rig_triton_ryzh": {
+    "Name": "Разгрузочная нагрудная система Динафорс \"Тритон М43-А\" (Флора Горная / Рыжуха)",
+    "ShortName": "Тритон СПН",
+    "Description": "Разгрузочная нагрудная система Динафорс \"Тритон М43-А\"."
+  },
+  "item_equipment_armor_gjel_fde": {
+    "Name": "Бронежилет БНТИ \"Гжель-К\" (Бежевый)",
+    "ShortName": "Гжель-К FDE",
+    "Description": "Бронежилет БНТИ \"Гжель-К\"."
+  },
+  "item_equipment_armor_gjel_gray": {
+    "Name": "Бронежилет БНТИ \"Гжель-К\" (Тёмно-Серый)",
+    "ShortName": "Гжель-К Серая",
+    "Description": "Бронежилет БНТИ \"Гжель-К\"."
+  },
+  "item_equipment_helmet_hops_mm14": {
+    "Name": "Шлем Ops-Core \"FAST MT Super High Cut\" (MM14)",
+    "ShortName": "FAST MT MM14",
+    "Description": "Шлем Ops-Core \"FAST MT Super High Cut\"."
+  },
+  "item_equipment_helmet_hops_mc": {
+    "Name": "Шлем Ops-Core \"FAST MT Super High Cut\" (Multicam)",
+    "ShortName": "FAST MT MC",
+    "Description": "Шлем Ops-Core \"FAST MT Super High Cut\"."
+  },
+  "item_equipment_helmet_hops_atacs": {
+    "Name": "Шлем Ops-Core \"FAST MT Super High Cut\" (A-TACS)",
+    "ShortName": "FAST MT A-TACS",
+    "Description": "Шлем Ops-Core \"FAST MT Super High Cut\"."
+  },
+  "item_equipment_helmet_hops_ucp": {
+    "Name": "Шлем Ops-Core \"FAST MT Super High Cut\" (UCP)",
+    "ShortName": "FAST MT UCP",
+    "Description": "Шлем Ops-Core \"FAST MT Super High Cut\"."
+  },
+  "item_equipment_helmet_hops_mct": {
+    "Name": "Шлем Ops-Core \"FAST MT Super High Cut\" (Multicam Tropic)",
+    "ShortName": "FAST MT MCT",
+    "Description": "Шлем Ops-Core \"FAST MT Super High Cut\"."
+  },
+  "item_equipment_helmet_mich2002_fca": {
+    "Name": "Шлем MSA \"ACH TC-2002 MICH Series\" (Centre-Europe)",
+    "ShortName": "TC-2002 CCE",
+    "Description": "Шлем MSA \"ACH TC-2002 MICH Series\"."
+  },
+  "item_equipment_helmet_mich2001_flektarn": {
+    "Name": "Шлем MSA \"ACH TC-2001 MICH Series\" (Flektarn)",
+    "ShortName": "TC-2001 FTARN",
+    "Description": "Шлем MSA \"ACH TC-2001 MICH Series\"."
+  },
+  "item_equipment_helmet_mich2001_tropentarn": {
+    "Name": "Шлем MSA \"ACH TC-2001 MICH Series\" (Tropentarn)",
+    "ShortName": "TC-2001 Tropentarn",
+    "Description": "Шлем MSA \"ACH TC-2001 MICH Series\"."
+  },
+  "item_equipment_helmet_mich2001_mtp": {
+    "Name": "Шлем MSA \"ACH TC-2001 MICH Series\" (MTP)",
+    "ShortName": "TC-2001 MTP",
+    "Description": "Шлем MSA \"ACH TC-2001 MICH Series\"."
+  },
+  "item_equipment_helmet_diamond_age_bastion_m81": {
+    "Name": "Шлем Diamond Age \"Bastion\" (M81)",
+    "ShortName": "DA Bastion M81",
+    "Description": "Шлем Diamond Age \"Bastion\"."
+  },
+  "item_equipment_helmet_diamond_age_bastion_mtp": {
+    "Name": "Шлем Diamond Age \"Bastion\" (MTP)",
+    "ShortName": "DA Bastion MTP",
+    "Description": "Шлем Diamond Age \"Bastion\"."
+  },
+  "item_equipment_rig_patrol_green": {
+    "Name": "Разгрузочный жилет Velocity Systems \"MPPV Multi-Purpose Patrol Vest\" (Зеленый)",
+    "ShortName": "MPPV Зелень",
+    "Description": "Разгрузочный жилет Velocity Systems \"MPPV Multi-Purpose Patrol Vest\"."
+  },
+  "item_equipment_rig_patrol_fde": {
+    "Name": "Разгрузочный жилет Velocity Systems \"MPPV Multi-Purpose Patrol Vest\" (Бежевый)",
+    "ShortName": "MPPV FDE",
+    "Description": "Разгрузочный жилет Velocity Systems \"MPPV Multi-Purpose Patrol Vest\"."
+  },
+  "item_equipment_rig_mmac_ucp": {
+    "Name": "Разгрузочный жилет с бронепластинами Eagle Industries \"MMAC\" (UCP)",
+    "ShortName": "MMAC UCP",
+    "Description": "Разгрузочный жилет с бронепластинами Eagle Industries \"MMAC\"."
+  },
+  "item_equipment_rig_mmac_mm14": {
+    "Name": "Разгрузочный жилет с бронепластинами Eagle Industries \"MMAC\" (MM14)",
+    "ShortName": "MMAC MM14",
+    "Description": "Разгрузочный жилет с бронепластинами Eagle Industries \"MMAC\"."
+  },
+  "item_equipment_rig_mmac_aor": {
+    "Name": "Разгрузочный жилет с бронепластинами Eagle Industries \"MMAC\" (AOR-1)",
+    "ShortName": "MMAC AOR",
+    "Description": "Разгрузочный жилет с бронепластинами Eagle Industries \"MMAC\"."
+  },
+  "item_equipment_rig_1961_vegetato": {
+    "Name": "Разгрузочный жилет LBT-1961A Load Bearing Chest Rig (Vegetato)",
+    "ShortName": "LBCR Vegetato",
+    "Description": "Разгрузочный жилет LBT-1961A Load Bearing Chest Rig."
+  },
+  "item_equipment_rig_1961_winter": {
+    "Name": "Разгрузочный жилет LBT-1961A Load Bearing Chest Rig (Зима)",
+    "ShortName": "LBCR Зима",
+    "Description": "Разгрузочный жилет LBT-1961A Load Bearing Chest Rig."
+  },
+  "item_equipment_rig_1961_ucp": {
+    "Name": "Разгрузочный жилет LBT-1961A Load Bearing Chest Rig (UCP)",
+    "ShortName": "LBCR UCP",
+    "Description": "Разгрузочный жилет LBT-1961A Load Bearing Chest Rig."
+  },
+  "item_equipment_rig_1961_mtp": {
+    "Name": "Разгрузочный жилет LBT-1961A Load Bearing Chest Rig (MTP)",
+    "ShortName": "LBCR MTP",
+    "Description": "Разгрузочный жилет LBT-1961A Load Bearing Chest Rig."
+  },
+  "item_equipment_rig_1961_estpatd": {
+    "Name": "Разгрузочный жилет LBT-1961A Load Bearing Chest Rig (ESTDCU Пустыня)",
+    "ShortName": "LBCR EST Пустыня",
+    "Description": "Разгрузочный жилет LBT-1961A Load Bearing Chest Rig."
+  },
+  "item_equipment_rig_azimut_emra": {
+    "Name": "Разгрузочная нагрудная система Азимут СС \"Жук\" (Цифра Флора / Осень)",
+    "ShortName": "Жук Осень",
+    "Description": "Разгрузочная нагрудная система Азимут СС \"Жук\"."
+  },
+  "item_equipment_rig_azimut_emrs": {
+    "Name": "Разгрузочная нагрудная система Азимут СС \"Жук\" (Цифра Весна)",
+    "ShortName": "Жук Весна",
+    "Description": "Разгрузочная нагрудная система Азимут СС \"Жук\"."
+  },
+  "item_equipment_rig_azimut_atacsa": {
+    "Name": "Разгрузочная нагрудная система Азимут СС \"Жук\" (Мох Засуха / A-TACS)",
+    "ShortName": "Жук Мох",
+    "Description": "Разгрузочная нагрудная система Азимут СС \"Жук\"."
+  },
+  "item_equipment_rig_azimut_emrp": {
+    "Name": "Разгрузочная нагрудная система Азимут СС \"Жук\" (Цифра Сирия / Поросячий)",
+    "ShortName": "Жук Сирия",
+    "Description": "Разгрузочная нагрудная система Азимут СС \"Жук\"."
+  },
+  "item_equipment_rig_beltab_berezka": {
+    "Name": "Ременно-плечевая система Пояс-А + Пояс-Б (Берёзка Жёлтая)",
+    "ShortName": "Пояс KLMK",
+    "Description": "Ременно-плечевая система Пояс-А + Пояс-Б."
+  },
+  "item_equipment_rig_beltab_ttsko": {
+    "Name": "Ременно-плечевая система Пояс-А + Пояс-Б (Бутан Горный)",
+    "ShortName": "Пояс Бутан",
+    "Description": "Ременно-плечевая система Пояс-А + Пояс-Б."
+  },
+  "item_equipment_armor_otv_cce": {
+    "Name": "Бронежилет Interceptor OTV (Centre-Europe)",
+    "ShortName": "OTV CCE",
+    "Description": "Бронежилет Interceptor OTV."
+  },
+  "item_equipment_armor_otv_3c": {
+    "Name": "Бронежилет Interceptor OTV (3 Color Desert)",
+    "ShortName": "OTV DCU",
+    "Description": "Бронежилет Interceptor OTV."
+  },
+  "item_equipment_armor_un_3c": {
+    "Name": "Бронежилет MF-UNTAR (3 Color Desert)",
+    "ShortName": "MF-UN DCU",
+    "Description": "Бронежилет MF-UNTAR."
+  },
+  "item_equipment_armor_un_marpat": {
+    "Name": "Бронежилет MF-UNTAR (MARPAT)",
+    "ShortName": "MF-UN MARPAT",
+    "Description": "Бронежилет MF-UNTAR."
+  },
+  "item_equipment_armor_un_wineleaf": {
+    "Name": "Бронежилет MF-UNTAR (Wine Leaf)",
+    "ShortName": "MF-UN WL",
+    "Description": "Бронежилет MF-UNTAR."
+  },
+  "item_equipment_rig_tv110_moh": {
+    "Name": "Разгрузочный жилет с бронепластинами WARTECH \"TV-110\" (Мох / A-TACS FG)",
+    "ShortName": "TV-110 Мох",
+    "Description": "Разгрузочный жилет с бронепластинами WARTECH \"TV-110\"."
+  },
+  "item_equipment_armor_6b23_emrpig": {
+    "Name": "Бронежилет 6Б23-1 (Цифра Сирия / Поросячий)",
+    "ShortName": "6B23-1 ЕМР Сирия",
+    "Description": "Бронежилет 6Б23-1."
+  },
+  "item_equipment_armor_6b23_klmk": {
+    "Name": "Бронежилет 6Б23-1 (Берёзка Жёлтая)",
+    "ShortName": "6B23-1 KLMK",
+    "Description": "Бронежилет 6Б23-1."
+  },
+  "item_equipment_armor_6b23_yagel": {
+    "Name": "Бронежилет 6Б23-1 (Рябь)",
+    "ShortName": "6B23-1 Рябь",
+    "Description": "Бронежилет 6Б23-1."
+  },
+  "item_equipment_armor_def2_moh": {
+    "Name": "Бронежилет ФОРТ \"Дефендер-2\" (Мох / A-TACS)",
+    "ShortName": "Дефендер-2 Мох",
+    "Description": "Бронежилет ФОРТ \"Дефендер-2\"."
+  },
+  "item_equipment_armor_def2_moha": {
+    "Name": "Бронежилет ФОРТ \"Дефендер-2\" (Мох Засуха / A-TACS Arid)",
+    "ShortName": "Дефендер-2 Засуха",
+    "Description": "Бронежилет ФОРТ \"Дефендер-2\"."
+  },
+  "item_equipment_armor_slick_atacs": {
+    "Name": "Бронежилет LBT-6094A Slick Plate Carrier (A-TACS FG)",
+    "ShortName": "Slick FG",
+    "Description": "Бронежилет LBT-6094A Slick Plate Carrier."
+  },
+  "item_equipment_armor_slick_ixarid": {
+    "Name": "Бронежилет LBT-6094A Slick Plate Carrier (A-TACS iX Arid)",
+    "ShortName": "Slick iX Arid",
+    "Description": "Бронежилет LBT-6094A Slick Plate Carrier."
+  },
+  "item_equipment_armor_slick_ucp": {
+    "Name": "Бронежилет LBT-6094A Slick Plate Carrier (UCP)",
+    "ShortName": "Slick UCP",
+    "Description": "Бронежилет LBT-6094A Slick Plate Carrier."
+  },
+  "item_equipment_armor_slick_vegetato": {
+    "Name": "Бронежилет LBT-6094A Slick Plate Carrier (Vegetato)",
+    "ShortName": "Slick Vegetato",
+    "Description": "Бронежилет LBT-6094A Slick Plate Carrier."
+  },
+  "item_equipment_backpack_beta_moha": {
+    "Name": "Боевой ранец ANA Tactical \"Бета 2\" (Мох Засуха / A-TACS Arid)",
+    "ShortName": "Бета 2 Мох-A",
+    "Description": "Боевой ранец ANA Tactical \"Бета 2\"."
+  },
+  "item_equipment_backpack_beta_moh": {
+    "Name": "Боевой ранец ANA Tactical \"Бета 2\" (Мох / A-TACS FG)",
+    "ShortName": "Бета 2 Мох",
+    "Description": "Боевой ранец ANA Tactical \"Бета 2\"."
+  },
+  "item_equipment_backpack_beta_emrd": {
+    "Name": "Боевой ранец ANA Tactical \"Бета 2\" (Пустыня Цифра)",
+    "ShortName": "Бета 2 Пустыня",
+    "Description": "Боевой ранец ANA Tactical \"Бета 2\"."
+  },
+  "item_equipment_backpack_beta_emr": {
+    "Name": "Боевой ранец ANA Tactical \"Бета 2\" (Флора Цифра)",
+    "ShortName": "Бета 2 Цифра",
+    "Description": "Боевой ранец ANA Tactical \"Бета 2\"."
+  },
+  "item_equipment_backpack_gr99t30_moh": {
+    "Name": "Рюкзак Группа 99 \"Т30\" (Мох / A-TACS FG)",
+    "ShortName": "Т30 Мох",
+    "Description": "Рюкзак Группа 99 \"Т30\"."
+  },
+  "item_equipment_backpack_gr99t30_emrd": {
+    "Name": "Рюкзак Группа 99 \"Т30\" (Пустыня Цифра)",
+    "ShortName": "Т30 Пустыня",
+    "Description": "Рюкзак Группа 99 \"Т30\"."
+  },
+  "item_equipment_backpack_gr99t30_klmk": {
+    "Name": "Рюкзак Группа 99 \"Т30\" (KLMK)",
+    "ShortName": "Т30 KLMK",
+    "Description": "Рюкзак Группа 99 \"Т30\"."
+  },
+  "item_equipment_backpack_gr99t30_emr": {
+    "Name": "Рюкзак Группа 99 \"Т30\" (Флора Цифра)",
+    "ShortName": "Т30 Цифра",
+    "Description": "Рюкзак Группа 99 \"Т30\"."
+  },
+  "item_equipment_backpack_lbt1476a_slick_aor1": {
+    "Name": "Рюкзак LBT-1476A 3Day Pack (AOR 1)",
+    "ShortName": "LBT-1476A AOR",
+    "Description": "Рюкзак LBT-1476A 3Day Pack."
+  },
+  "item_equipment_backpack_lbt1476a_slick_gray": {
+    "Name": "Рюкзак LBT-1476A 3Day Pack (Gray)",
+    "ShortName": "LBT-1476A Gray",
+    "Description": "Рюкзак LBT-1476A 3Day Pack."
+  },
+  "item_equipment_backpack_lbt1476a_slick_tropentarn": {
+    "Name": "Рюкзак LBT-1476A 3Day Pack (Tropentarn)",
+    "ShortName": "LBT-1476A Tropentarn",
+    "Description": "Рюкзак LBT-1476A 3Day Pack."
+  },
+  "item_equipment_backpack_lbt1476a_slick_ucp": {
+    "Name": "Рюкзак LBT-1476A 3Day Pack (UCP)",
+    "ShortName": "LBT-1476A UCP",
+    "Description": "Рюкзак LBT-1476A 3Day Pack."
+  },
+  "item_equipment_rig_umka_f1": {
+    "Name": "Охотничий жилет Умка М33-SET1 (Рыбак 1)",
+    "ShortName": "Умка Рыбак 1",
+    "Description": "Охотничий жилет Умка М33-SET1."
+  },
+  "item_equipment_rig_umka_f2": {
+    "Name": "Охотничий жилет Умка М33-SET1 (Рыбак 2)",
+    "ShortName": "Умка Рыбак 2",
+    "Description": "Охотничий жилет Умка М33-SET1."
+  },
+  "item_equipment_rig_umka_leaves": {
+    "Name": "Охотничий жилет Умка М33-SET1 (Сухие листья)",
+    "ShortName": "Умка Листья",
+    "Description": "Охотничий жилет Умка М33-SET1."
+  },
+  "item_equipment_backpack_pilgrim_blueorange": {
+    "Name": "Туристический рюкзак \"Пилигрим\" (Сине-Оранжевый)",
+    "ShortName": "Пилигрим Синий",
+    "Description": "Туристический рюкзак \"Пилигрим\"."
+  },
+  "item_equipment_backpack_pilgrim_green": {
+    "Name": "Туристический рюкзак \"Пилигрим\" (Зелёный)",
+    "ShortName": "Пилигрим Зелёный",
+    "Description": "Туристический рюкзак \"Пилигрим\"."
+  },
+  "item_equipment_backpack_pilgrim_terra2": {
+    "Name": "Туристический рюкзак \"Пилигрим\" (Земные цвета)",
+    "ShortName": "Пилигрим Земля",
+    "Description": "Туристический рюкзак \"Пилигрим\"."
+  },
+  "item_equipment_backpack_pilgrim_v1": {
+    "Name": "Туристический рюкзак \"Пилигрим\" (Горчичный)",
+    "ShortName": "Пилигрим Горчица",
+    "Description": "Туристический рюкзак \"Пилигрим\"."
+  },
+  "item_equipment_backpack_trizip_flektarn": {
+    "Name": "Рюкзак штурмовой Camelbak \"Tri-Zip\" (Flektarn)",
+    "ShortName": "Tri-Zip Flektarn",
+    "Description": "Рюкзак штурмовой Camelbak \"Tri-Zip\"."
+  },
+  "item_equipment_backpack_trizip_vegetato": {
+    "Name": "Рюкзак штурмовой Camelbak \"Tri-Zip\" (Vegetato)",
+    "ShortName": "Tri-Zip Vegetato",
+    "Description": "Рюкзак штурмовой Camelbak \"Tri-Zip\"."
+  },
+  "item_equipment_backpack_trizip_gray": {
+    "Name": "Рюкзак штурмовой Camelbak \"Tri-Zip\" (Серый)",
+    "ShortName": "Tri-Zip Серый",
+    "Description": "Рюкзак штурмовой Camelbak \"Tri-Zip\"."
+  },
+  "item_equipment_backpack_trizip_ucp": {
+    "Name": "Рюкзак штурмовой Camelbak \"Tri-Zip\" (UCP)",
+    "ShortName": "Tri-Zip UCP",
+    "Description": "Рюкзак штурмовой Camelbak \"Tri-Zip\"."
+  },
+  "item_equipment_backpack_trizip_multitarn": {
+    "Name": "Рюкзак штурмовой Camelbak \"Tri-Zip\" (Multitarn)",
+    "ShortName": "Tri-Zip Multitarn",
+    "Description": "Рюкзак штурмовой Camelbak \"Tri-Zip\"."
+  },
+  "item_equipment_backpack_f5_badlands": {
+    "Name": "Рюкзак Eberlestock \"F5 Switchblade\" (Badlands)",
+    "ShortName": "F5 Switchblade BDLNs",
+    "Description": "Рюкзак Eberlestock \"F5 Switchblade\"."
+  },
+  "item_equipment_backpack_f5_french": {
+    "Name": "Рюкзак Eberlestock \"F5 Switchblade\" (Centre-Europe)",
+    "ShortName": "F5 Switchblade CCE",
+    "Description": "Рюкзак Eberlestock \"F5 Switchblade\"."
+  },
+  "item_equipment_backpack_f5_lizard": {
+    "Name": "Рюкзак Eberlestock \"F5 Switchblade\" (Lizard)",
+    "ShortName": "F5 Switchblade Lizard",
+    "Description": "Рюкзак Eberlestock \"F5 Switchblade\"."
+  },
+  "item_equipment_backpack_f5_multitarn": {
+    "Name": "Рюкзак Eberlestock \"F5 Switchblade\" (Multitarn)",
+    "ShortName": "F5 Switchblade Multitarn",
+    "Description": "Рюкзак Eberlestock \"F5 Switchblade\"."
+  },
+  "item_equipment_backpack_dragon_egg_3c": {
+    "Name": "Рюкзак Direct Action \"Dragon Egg Mark II\" (3 Color Desert)",
+    "ShortName": "Dragon Egg MKII DCU",
+    "Description": "Рюкзак Direct Action \"Dragon Egg Mark II\"."
+  },
+  "item_equipment_backpack_dragon_egg_fde": {
+    "Name": "Рюкзак Direct Action \"Dragon Egg Mark II\" (Песочный)",
+    "ShortName": "Dragon Egg MKII Песок",
+    "Description": "Рюкзак Direct Action \"Dragon Egg Mark II\"."
+  },
+  "item_equipment_backpack_dragon_egg_olive": {
+    "Name": "Рюкзак Direct Action \"Dragon Egg Mark II\" (Оливковый)",
+    "ShortName": "Dragon Egg MKII Олива",
+    "Description": "Рюкзак Direct Action \"Dragon Egg Mark II\"."
+  },
+  "item_equipment_backpack_dragon_egg_ix": {
+    "Name": "Рюкзак Direct Action \"Dragon Egg Mark II\" (A-TACS iX Засуха)",
+    "ShortName": "Dragon Egg MKII Засуха",
+    "Description": "Рюкзак Direct Action \"Dragon Egg Mark II\"."
+  },
+  "item_equipment_backpack_dragon_egg_wz93": {
+    "Name": "Рюкзак Direct Action \"Dragon Egg Mark II\" (Wz93 Пантера)",
+    "ShortName": "Dragon Egg MKII Wz93",
+    "Description": "Рюкзак Direct Action \"Dragon Egg Mark II\"."
+  },
+  "item_equipment_armor_kora_kulon_93": {
+    "Name": "Бронежилет НПП КлАСС \"Кора-Кулон\" (ВСР-93 Барвиха)",
+    "ShortName": "Кора-Кулон 93",
+    "Description": "Бронежилет НПП КлАСС \"Кора-Кулон\"."
+  },
+  "item_equipment_armor_kora_kulon_ryzh": {
+    "Name": "Бронежилет НПП КлАСС \"Кора-Кулон\" (ВСР-98 Горная Флора / Рыжуха)",
+    "ShortName": "Кора-Кулон Рыжуха",
+    "Description": "Бронежилет НПП КлАСС \"Кора-Кулон\"."
+  },
+  "item_equipment_armor_kora_kulon_flora": {
+    "Name": "Бронежилет НПП КлАСС \"Кора-Кулон\" (ВСР-98 Флора)",
+    "ShortName": "Кора-Кулон Флора",
+    "Description": "Бронежилет НПП КлАСС \"Кора-Кулон\"."
+  },
+  "item_equipment_armor_kora_kulon_bkamysh": {
+    "Name": "Бронежилет НПП КлАСС \"Кора-Кулон\" (МВД Камыш)",
+    "ShortName": "Кора-Кулон МВД",
+    "Description": "Бронежилет НПП КлАСС \"Кора-Кулон\"."
+  },
+  "item_equipment_helmet_gentex_slaap_green": {
+    "Name": "Дополнительное бронирование Ops-Core \"SLAAP\" (Зелёный)",
+    "ShortName": "SLAAP Зелёный",
+    "Description": "Дополнительное бронирование Ops-Core \"SLAAP\"."
+  },
+  "item_equipment_helmet_gentex_slaap_gray": {
+    "Name": "Дополнительное бронирование Ops-Core \"SLAAP\" (Серый)",
+    "ShortName": "SLAAP Серый",
+    "Description": "Дополнительное бронирование Ops-Core \"SLAAP\"."
+  },
+  "item_equipment_backpack_blackjack_ix": {
+    "Name": "Рюкзак Mystery Ranch \"Blackjack 50\" (A-TACS iX AU)",
+    "ShortName": "Blackjack 50 iX",
+    "Description": "Рюкзак Mystery Ranch \"Blackjack 50\"."
+  },
+  "item_equipment_backpack_blackjack_m05": {
+    "Name": "Рюкзак Mystery Ranch \"Blackjack 50\" (M05)",
+    "ShortName": "Blackjack 50 M05",
+    "Description": "Рюкзак Mystery Ranch \"Blackjack 50\"."
+  },
+  "item_equipment_backpack_blackjack_lizard": {
+    "Name": "Рюкзак Mystery Ranch \"Blackjack 50\" (Lizard)",
+    "ShortName": "Blackjack 50 Lizard",
+    "Description": "Рюкзак Mystery Ranch \"Blackjack 50\"."
+  },
+  "item_equipment_backpack_blackjack_granite": {
+    "Name": "Рюкзак Mystery Ranch \"Blackjack 50\" (Granite-B)",
+    "ShortName": "Blackjack 50 Granite",
+    "Description": "Рюкзак Mystery Ranch \"Blackjack 50\"."
+  },
+  "item_equipment_helmet_zsh_93": {
+    "Name": "Шлем ЗШ-1-2М (ВСР-93 Барвиха)",
+    "ShortName": "ЗШ-1-2М 93",
+    "Description": "Шлем ЗШ-1-2М."
+  },
+  "item_equipment_helmet_zsh_gray": {
+    "Name": "Шлем ЗШ-1-2М (Камыш Серый)",
+    "ShortName": "ЗШ-1-2М Серый",
+    "Description": "Шлем ЗШ-1-2М."
+  },
+  "item_equipment_helmet_lshz_dusk": {
+    "Name": "Шлем ЛШЗ (Рябь)",
+    "ShortName": "ЛШЗ Рябь",
+    "Description": "Шлем ЛШЗ."
+  },
+  "item_equipment_helmet_lshz_emr": {
+    "Name": "Шлем ЛШЗ (Флора Цифра)",
+    "ShortName": "ЛШЗ Цифра",
+    "Description": "Шлем ЛШЗ."
+  },
+  "item_equipment_helmet_lshz_yagel": {
+    "Name": "Шлем ЛШЗ (Ягель)",
+    "ShortName": "ЛШЗ Yagel",
+    "Description": "Шлем ЛШЗ."
+  },
+  "item_equipment_helmet_lshz_surpat": {
+    "Name": "Шлем ЛШЗ (SURPAT)",
+    "ShortName": "ЛШЗ SURPAT",
+    "Description": "Шлем ЛШЗ."
+  },
+  "item_equipment_backpack_mystery_ranch_coyote": {
+    "Name": "Рюкзак штурмовой Mystery Ranch \"SATL Bridger Assault Pack\" (Койот)",
+    "ShortName": "SATL Койот",
+    "Description": "Рюкзак штурмовой Mystery Ranch \"SATL Bridger Assault Pack\"."
+  },
+  "item_equipment_backpack_mystery_ranch_penncott": {
+    "Name": "Рюкзак штурмовой Mystery Ranch \"SATL Bridger Assault Pack\" (Greenzone)",
+    "ShortName": "SATL GZ",
+    "Description": "Рюкзак штурмовой Mystery Ranch \"SATL Bridger Assault Pack\"."
+  },
+  "item_equipment_backpack_mystery_ranch_m05w": {
+    "Name": "Рюкзак штурмовой Mystery Ranch \"SATL Bridger Assault Pack\" (M05 Cold Weather)",
+    "ShortName": "SATL M05 CW",
+    "Description": "Рюкзак штурмовой Mystery Ranch \"SATL Bridger Assault Pack\"."
+  },
+  "item_equipment_backpack_mystery_ranch_est": {
+    "Name": "Рюкзак штурмовой Mystery Ranch \"SATL Bridger Assault Pack\" (ESTDCU)",
+    "ShortName": "SATL ESTDCU",
+    "Description": "Рюкзак штурмовой Mystery Ranch \"SATL Bridger Assault Pack\"."
+  },
+  "item_equipment_rig_carriertactec_greenzone": {
+    "Name": "Разгрузочный жилет с бронепластинами 5.11 Tactical \"TacTec\" (Greenzone)",
+    "ShortName": "TacTec Greenzone",
+    "Description": "Разгрузочный жилет с бронепластинами 5.11 Tactical \"TacTec\"."
+  },
+  "item_equipment_rig_carriertactec_m05": {
+    "Name": "Разгрузочный жилет с бронепластинами 5.11 Tactical \"TacTec\" (M05)",
+    "ShortName": "TacTec M05",
+    "Description": "Разгрузочный жилет с бронепластинами 5.11 Tactical \"TacTec\"."
+  },
+  "item_equipment_rig_carriertactec_au": {
+    "Name": "Разгрузочный жилет с бронепластинами 5.11 Tactical \"TacTec\" (Arid Urban)",
+    "ShortName": "TacTec AU",
+    "Description": "Разгрузочный жилет с бронепластинами 5.11 Tactical \"TacTec\"."
+  },
+  "item_equipment_helmet_mich2002_aor": {
+    "Name": "Шлем MSA \"ACH TC-2002 MICH Series\" (AOR 1)",
+    "ShortName": "TC-2002 AOR1",
+    "Description": "Шлем MSA \"ACH TC-2002 MICH Series\"."
+  },
+  "item_equipment_helmet_mich2002_m05": {
+    "Name": "Шлем MSA \"ACH TC-2002 MICH Series\" (M05)",
+    "ShortName": "TC-2002 M05",
+    "Description": "Шлем MSA \"ACH TC-2002 MICH Series\"."
+  },
+  "item_equipment_facecover_balaclava_emr": {
+    "Name": "Балаклава (Цифра Флора)",
+    "ShortName": "Балаклава Цифра",
+    "Description": "Балаклава."
+  },
+  "item_equipment_facecover_balaclava_fde": {
+    "Name": "Балаклава (Цифра Осень)",
+    "ShortName": "Балаклава Осень",
+    "Description": "Балаклава."
+  },
+  "item_equipment_facecover_balaclava_musor": {
+    "Name": "Балаклава (Мох МВД)",
+    "ShortName": "Балаклава МВД",
+    "Description": "Балаклава."
+  },
+  "item_equipment_facecover_momex_atacs": {
+    "Name": "Балаклава Momex (A-TACS FG)",
+    "ShortName": "Momex FG",
+    "Description": "Балаклава Momex."
+  },
+  "item_equipment_facecover_momex_atacsa": {
+    "Name": "Балаклава Momex (A-TACS AU)",
+    "ShortName": "Momex AU",
+    "Description": "Балаклава Momex."
+  },
+  "item_equipment_facecover_momex_mc": {
+    "Name": "Балаклава Momex (Multicam)",
+    "ShortName": "Momex MC",
+    "Description": "Балаклава Momex."
+  },
+  "item_equipment_rig_tv110_black": {
+    "Name": "Разгрузочный жилет с бронепластинами WARTECH \"TV-110\" (Чёрный)",
+    "ShortName": "TV-110 Чёрный",
+    "Description": "Разгрузочный жилет с бронепластинами WARTECH \"TV-110\"."
+  },
+  "item_equipment_rig_patrol_multicam": {
+    "Name": "Разгрузочный жилет Velocity Systems \"MPPV Multi-Purpose Patrol Vest\" (Multicam)",
+    "ShortName": "MPPV Multicam",
+    "Description": "Разгрузочный жилет Velocity Systems \"MPPV Multi-Purpose Patrol Vest\"."
+  },
+  "item_equipment_rig_patrol_aor2": {
+    "Name": "Разгрузочный жилет Velocity Systems \"MPPV Multi-Purpose Patrol Vest\" (AOR 2)",
+    "ShortName": "MPPV AOR 2",
+    "Description": "Разгрузочный жилет Velocity Systems \"MPPV Multi-Purpose Patrol Vest\"."
+  },
+  "item_equipment_rig_patrol_m05c": {
+    "Name": "Разгрузочный жилет Velocity Systems \"MPPV Multi-Purpose Patrol Vest\" (M05 Cold Weather)",
+    "ShortName": "MPPV M05 CW",
+    "Description": "Разгрузочный жилет Velocity Systems \"MPPV Multi-Purpose Patrol Vest\"."
+  },
+  "item_equipment_rig_m1_gray": {
+    "Name": "Разгрузочный жилет с бронепластинами ANA Tactical \"M1\" (Серый)",
+    "ShortName": "ANA M1 Серый",
+    "Description": "Разгрузочный жилет с бронепластинами ANA Tactical \"M1\"."
+  },
+  "item_equipment_rig_m1_coyote": {
+    "Name": "Разгрузочный жилет с бронепластинами ANA Tactical \"M1\" (Койот)",
+    "ShortName": "ANA M1 Койот",
+    "Description": "Разгрузочный жилет с бронепластинами ANA Tactical \"M1\"."
+  },
+  "item_equipment_rig_m1_rg": {
+    "Name": "Разгрузочный жилет с бронепластинами ANA Tactical \"M1\" (Зелёный RG)",
+    "ShortName": "ANA M1 RG",
+    "Description": "Разгрузочный жилет с бронепластинами ANA Tactical \"M1\"."
+  },
+  "item_equipment_backpack_mech_green": {
+    "Name": "Рюкзак Oakley \"Mechanism\" (Зелёный)",
+    "ShortName": "Mechanism Зелень",
+    "Description": "Рюкзак Oakley \"Mechanism\"."
+  },
+  "item_equipment_backpack_mech_coyote": {
+    "Name": "Рюкзак Oakley \"Mechanism\" (Койот)",
+    "ShortName": "Mechanism Койот",
+    "Description": "Рюкзак Oakley \"Mechanism\"."
+  },
+  "item_equipment_rig_shellback_tactical_banshee_fg": {
+    "Name": "Разгрузочный жилет с бронепластинами Shellback Tactical \"Banshee\" (A-TACS FG)",
+    "ShortName": "Banshee FG",
+    "Description": "Разгрузочный жилет с бронепластинами Shellback Tactical \"Banshee\"."
+  },
+  "item_equipment_rig_shellback_tactical_banshee_ghost": {
+    "Name": "Разгрузочный жилет с бронепластинами Shellback Tactical \"Banshee\" (A-TACS iX Ghost)",
+    "ShortName": "Banshee Ghost",
+    "Description": "Разгрузочный жилет с бронепластинами Shellback Tactical \"Banshee\"."
+  },
+  "item_equipment_rig_umka_winter": {
+    "Name": "Охотничий жилет Умка М33-SET1 (Зима)",
+    "ShortName": "Умка Зима",
+    "Description": "Охотничий жилет Умка М33-SET1."
+  },
+  "chestrig_tarzan_dym": {
+    "Name": "Разгрузочный жилет Сплав \"Тарзан М22\" (Дым / Мох)",
+    "ShortName": "Тарзан Дым",
+    "Description": "Разгрузочный жилет Сплав \"Тарзан М22\"."
+  },
+  "chestrig_tarzan_emra": {
+    "Name": "Разгрузочный жилет Сплав \"Тарзан М22\" (EMR Осень)",
+    "ShortName": "Тарзан Осень",
+    "Description": "Разгрузочный жилет Сплав \"Тарзан М22\"."
+  },
+  "item_equipment_armor_a18_dym": {
+    "Name": "Разгрузочный жилет с бронепластинами Ars Arma \"A18 Сканда\" (Дым / Мох)",
+    "ShortName": "A18 Сканда Дым",
+    "Description": "Разгрузочный жилет с бронепластинами Ars Arma \"A18 Сканда\"."
+  },
+  "item_equipment_armor_a18_emr1": {
+    "Name": "Разгрузочный жилет с бронепластинами Ars Arma \"A18 Сканда\" (Флора Цифра)",
+    "ShortName": "A18 Сканда Цифра",
+    "Description": "Разгрузочный жилет с бронепластинами Ars Arma \"A18 Сканда\"."
+  },
+  "item_equipment_armor_a18_gray": {
+    "Name": "Разгрузочный жилет с бронепластинами Ars Arma \"A18 Сканда\" (Серый)",
+    "ShortName": "A18 Сканда Серый",
+    "Description": "Разгрузочный жилет с бронепластинами Ars Arma \"A18 Сканда\"."
+  },
+  "item_equipment_backpack_paratus_kr": {
+    "Name": "Рюкзак оператора 3V Gear \"Paratus 3-Day\" (Kryptek Mandrake)",
+    "ShortName": "Paratus Mandrake",
+    "Description": "Рюкзак оператора 3V Gear \"Paratus 3-Day\"."
+  },
+  "item_equipment_backpack_paratus_ts": {
+    "Name": "Рюкзак оператора 3V Gear \"Paratus 3-Day\" (USAF Digital Tigerstripe)",
+    "ShortName": "Paratus USAF",
+    "Description": "Рюкзак оператора 3V Gear \"Paratus 3-Day\"."
+  },
+  "item_equipment_backpack_paratus_wasp": {
+    "Name": "Рюкзак оператора 3V Gear \"Paratus 3-Day\" (Phantomleaf WASP II Z 1A)",
+    "ShortName": "Paratus WASP",
+    "Description": "Рюкзак оператора 3V Gear \"Paratus 3-Day\"."
+  },
+  "item_equipment_backpack_takedown_sling_1": {
+    "Name": "Тактический слинг Hazard 4 \"Takedown\" (AOR-2)",
+    "ShortName": "Takedown AOR-2",
+    "Description": "Тактический слинг Hazard 4 \"Takedown\"."
+  },
+  "item_equipment_backpack_takedown_sling_2": {
+    "Name": "Тактический слинг Hazard 4 \"Takedown\" (MARPAT Urban)",
+    "ShortName": "Takedown MP-U",
+    "Description": "Тактический слинг Hazard 4 \"Takedown\"."
+  },
+  "item_equipment_rig_6h112_arctic": {
+    "Name": "Разгрузка УМТБС 6ш112 Разведчик-Стрелок (Арктика Цифра)",
+    "ShortName": "6ш112 Арктика",
+    "Description": "Разгрузка УМТБС 6ш112 Разведчик-Стрелок."
+  },
+  "item_equipment_rig_bae_rbav_aor": {
+    "Name": "Разгрузочный жилет с бронепластинами ECLiPSE \"RBAV-AF\" (AOR-2)",
+    "ShortName": "RBAV-AF AOR-2",
+    "Description": "Разгрузочный жилет с бронепластинами ECLiPSE \"RBAV-AF\"."
+  },
+  "item_equipment_rig_bae_rbav_ucon": {
+    "Name": "Разгрузочный жилет с бронепластинами ECLiPSE \"RBAV-AF\" (A-TACS U|CON)",
+    "ShortName": "RBAV-AF UCON",
+    "Description": "Разгрузочный жилет с бронепластинами ECLiPSE \"RBAV-AF\"."
+  },
+  "item_equipment_rig_d3crx_multicam": {
+    "Name": "Разгрузочная нагрудная система Haley Strategic \"D3CRX\" (Multicam)",
+    "ShortName": "D3CRX MC",
+    "Description": "Разгрузочная нагрудная система Haley Strategic \"D3CRX\"."
+  },
+  "item_equipment_rig_d3crx_multicamblack": {
+    "Name": "Разгрузочная нагрудная система Haley Strategic \"D3CRX\" (Multicam Black)",
+    "ShortName": "D3CRX MCB",
+    "Description": "Разгрузочная нагрудная система Haley Strategic \"D3CRX\"."
+  },
+  "item_equipment_rig_d3crx_multicamtropic": {
+    "Name": "Разгрузочная нагрудная система Haley Strategic \"D3CRX\" (Multicam Tropic)",
+    "ShortName": "D3CRX MCT",
+    "Description": "Разгрузочная нагрудная система Haley Strategic \"D3CRX\"."
+  },
+  "item_equipment_rig_blackrock_ral7013": {
+    "Name": "Разгрузочный жилет \"BlackRock Chest Rig\" (RAL 7013)",
+    "ShortName": "BlackRock 7013",
+    "Description": "Разгрузочный жилет \"BlackRock Chest Rig\"."
+  },
+  "item_equipment_armor_custom_hexgrid_c": {
+    "Name": "Бронежилет 5.11 Tactical \"Hexgrid Plate Carrier\" (Койот)",
+    "ShortName": "Hexgrid Койот",
+    "Description": "Бронежилет 5.11 Tactical \"Hexgrid Plate Carrier\"."
+  },
+  "item_equipment_armor_custom_hexgrid_g": {
+    "Name": "Бронежилет 5.11 Tactical \"Hexgrid Plate Carrier\" (Зелёный)",
+    "ShortName": "Hexgrid Зелёный",
+    "Description": "Бронежилет 5.11 Tactical \"Hexgrid Plate Carrier\"."
+  },
+  "item_equipment_facecover_strikeball_mask_leshiy": {
+    "Name": "Легкая армированная маска \"Тень Смерти\" (Кастомная покраска \"Леший\")",
+    "ShortName": "Тень Смерти Леший",
+    "Description": "Легкая армированная маска \"Тень Смерти\"."
+  },
+  "item_equipment_backpack_g2_gunslinger_gray": {
+    "Name": "Рюкзак Eberlestock \"G2 Gunslinger II\" (Серый)",
+    "ShortName": "G2 Gunslinger II Серый",
+    "Description": "Рюкзак Eberlestock \"G2 Gunslinger II\"."
+  },
+  "item_equipment_backpack_g2_gunslinger_slocam": {
+    "Name": "Рюкзак Eberlestock \"G2 Gunslinger II\" (SLOCAM)",
+    "ShortName": "G2 Gunslinger II SK",
+    "Description": "Рюкзак Eberlestock \"G2 Gunslinger II\"."
+  },
+  "item_equipment_backpack_g2_gunslinger_ucon": {
+    "Name": "Рюкзак Eberlestock \"G2 Gunslinger II\" (A-TACS U|CON)",
+    "ShortName": "G2 Gunslinger II UCON",
+    "Description": "Рюкзак Eberlestock \"G2 Gunslinger II\"."
+  },
+  "item_equipment_backpack_f4terminator_black": {
+    "Name": "Нагрузочный рюкзак Eberlestock \"F4 Terminator\" (Чёрный)",
+    "ShortName": "F4 Terminator Чёрный",
+    "Description": "Нагрузочный рюкзак Eberlestock \"F4 Terminator\"."
+  },
+  "item_equipment_backpack_f4terminator_h": {
+    "Name": "Нагрузочный рюкзак Eberlestock \"F4 Terminator\" (HUNCAM)",
+    "ShortName": "F4 Terminator HU",
+    "Description": "Нагрузочный рюкзак Eberlestock \"F4 Terminator\"."
+  },
+  "item_equipment_backpack_f4terminator_c": {
+    "Name": "Нагрузочный рюкзак Eberlestock \"F4 Terminator\" (Vz 95)",
+    "ShortName": "F4 Terminator 95",
+    "Description": "Нагрузочный рюкзак Eberlestock \"F4 Terminator\"."
+  }
+}

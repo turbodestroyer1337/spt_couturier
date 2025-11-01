@@ -1,0 +1,957 @@
+{
+  "item_equipment_armor_6b3_berezka": {
+    "Name": "Chaleco táctico blindado 6B3TM-01 (KLMK)",
+    "ShortName": "6B3TM-01 KLMK",
+    "Description": "Chaleco táctico blindado 6B3TM-01."
+  },
+  "item_equipment_armor_6b3_bhutan": {
+    "Name": "Chaleco táctico blindado 6B3TM-01 (Granite)",
+    "ShortName": "6B3TM-01 Granite",
+    "Description": "Chaleco táctico blindado 6B3TM-01."
+  },
+  "item_equipment_armor_6b3_green": {
+    "Name": "Chaleco táctico blindado 6B3TM-01 (Dark olive)",
+    "ShortName": "6B3TM-01 DOlive",
+    "Description": "Chaleco táctico blindado 6B3TM-01."
+  },
+  "item_equipment_helmet_6b47covered_atacs": {
+    "Name": "Casco 6B47 Ratnik-BSh (A-TACS / Moh)",
+    "ShortName": "6B47 Moh",
+    "Description": "Casco 6B47 Ratnik-BSh."
+  },
+  "item_equipment_helmet_6b47covered_pig": {
+    "Name": "Casco 6B47 Ratnik-BSh (EMR Syria / Pig)",
+    "ShortName": "6B47 EMR Pig",
+    "Description": "Casco 6B47 Ratnik-BSh."
+  },
+  "item_equipment_helmet_6b47covered_spring": {
+    "Name": "Casco 6B47 Ratnik-BSh (EMR Spring)",
+    "ShortName": "6B47 EMR Spring",
+    "Description": "Casco 6B47 Ratnik-BSh."
+  },
+  "item_equipment_helmet_6b47covered_ss": {
+    "Name": "Casco 6B47 Ratnik-BSh (RUSS Partizan)",
+    "ShortName": "6B47 Partizan",
+    "Description": "Casco 6B47 Ratnik-BSh."
+  },
+  "item_equipment_helmet_6b47covered_surpat": {
+    "Name": "Casco 6B47 Ratnik-BSh (SURPAT Arid)",
+    "ShortName": "6B47 Arid",
+    "Description": "Casco 6B47 Ratnik-BSh."
+  },
+  "item_equipment_backpack_6sh118_pig": {
+    "Name": "Mochila de incursión 6Sh118 (EMR Syria / Pig)",
+    "ShortName": "6Sh118 Pig",
+    "Description": "Mochila de incursión 6Sh118."
+  },
+  "item_equipment_backpack_6sh118_atacsa": {
+    "Name": "Mochila de incursión 6Sh118 (A-TACS Arid / Moh Autumn)",
+    "ShortName": "6Sh118 Autumn",
+    "Description": "Mochila de incursión 6Sh118."
+  },
+  "item_equipment_backpack_6sh118_atacsg": {
+    "Name": "Mochila de incursión 6Sh118 (A-TACS / Moh)",
+    "ShortName": "6Sh118 Moh",
+    "Description": "Mochila de incursión 6Sh118."
+  },
+  "item_equipment_backpack_6sh118_mc": {
+    "Name": "Mochila de incursión 6Sh118 (Multicam)",
+    "ShortName": "6Sh118 MC",
+    "Description": "Mochila de incursión 6Sh118."
+  },
+  "item_equipment_backpack_6sh118_spring": {
+    "Name": "Mochila de incursión 6Sh118 (EMR Spring)",
+    "ShortName": "6Sh118 Spring",
+    "Description": "Mochila de incursión 6Sh118."
+  },
+  "item_equipment_armor_korundvm_kamysh": {
+    "Name": "Chaleco balístico NPP KlASS Korund-VM (Kamysh)",
+    "ShortName": "Korund-VM Kamysh",
+    "Description": "Chaleco balístico NPP KlASS Korund-VM."
+  },
+  "item_equipment_armor_korundvm_blue": {
+    "Name": "Chaleco balístico NPP KlASS Korund-VM (Moh Blue)",
+    "ShortName": "Korund-VM Blue",
+    "Description": "Chaleco balístico NPP KlASS Korund-VM."
+  },
+  "item_equipment_armor_korundvm_emr": {
+    "Name": "Chaleco balístico NPP KlASS Korund-VM (EMR)",
+    "ShortName": "Korund-VM EMR",
+    "Description": "Chaleco balístico NPP KlASS Korund-VM."
+  },
+  "item_equipment_armor_korundvm_flora": {
+    "Name": "Chaleco balístico NPP KlASS Korund-VM (Flora)",
+    "ShortName": "Korund-VM Flora",
+    "Description": "Chaleco balístico NPP KlASS Korund-VM."
+  },
+  "item_equipment_armor_korundvm_partizan": {
+    "Name": "Chaleco balístico NPP KlASS Korund-VM (RUSS Partizan)",
+    "ShortName": "Korund-VM Partizan",
+    "Description": "Chaleco balístico NPP KlASS Korund-VM."
+  },
+  "item_equipment_helmet_mich2002_mm14": {
+    "Name": "Casco MSA ACH TC-2002 MICH Series (MM14)",
+    "ShortName": "TC-2002 MM14",
+    "Description": "Casco MSA ACH TC-2002 MICH Series."
+  },
+  "item_equipment_helmet_mich2002_vegetato": {
+    "Name": "Casco MSA ACH TC-2002 MICH Series (Vegetato)",
+    "ShortName": "TC-2002 Vegetato",
+    "Description": "Casco MSA ACH TC-2002 MICH Series."
+  },
+  "item_equipment_helmet_mich2002_fca": {
+    "Name": "Casco MSA ACH TC-2002 MICH Series (Centre-Europe)",
+    "ShortName": "TC-2002 CCE",
+    "Description": "Casco MSA ACH TC-2002 MICH Series."
+  },
+  "item_equipment_helmet_mich2001_flektarn": {
+    "Name": "Casco MSA ACH TC-2001 MICH Series (Flektarn)",
+    "ShortName": "TC-2001 Flektarn",
+    "Description": "Casco MSA ACH TC-2001 MICH Series."
+  },
+  "item_equipment_helmet_mich2001_tropentarn": {
+    "Name": "Casco MSA ACH TC-2001 MICH Series (Tropentarn)",
+    "ShortName": "TC-2001 Tropentarn",
+    "Description": "Casco MSA ACH TC-2001 MICH Series."
+  },
+  "item_equipment_helmet_mich2001_mtp": {
+    "Name": "Casco MSA ACH TC-2001 MICH Series (British MTP)",
+    "ShortName": "TC-2001 MTP",
+    "Description": "Casco MSA ACH TC-2001 MICH Series."
+  },
+  "item_equipment_backpack_sso_emr": {
+    "Name": "Mochila de incursión SSO Attack 2 (Emr)",
+    "ShortName": "Attack 2 Emr",
+    "Description": "Mochila de incursión SSO Attack 2."
+  },
+  "item_equipment_backpack_sso_olive": {
+    "Name": "Mochila de incursión SSO Attack 2 (Olive)",
+    "ShortName": "Attack 2 Olive",
+    "Description": "Mochila de incursión SSO Attack 2."
+  },
+  "item_equipment_backpack_sso_izlom": {
+    "Name": "Mochila de incursión SSO Attack 2 (Izlom)",
+    "ShortName": "Attack 2 Izlom",
+    "Description": "Mochila de incursión SSO Attack 2."
+  },
+  "item_equipment_rig_cryeavs_atacsarid": {
+    "Name": "Chaleco portaplacas Crye Precision AVS (A-TACS Arid)",
+    "ShortName": "AVS Arid",
+    "Description": "Chaleco portaplacas Crye Precision AVS."
+  },
+  "item_equipment_rig_cryeavs_flektarn": {
+    "Name": "Chaleco portaplacas Crye Precision AVS (Flektarn)",
+    "ShortName": "AVS Flektarn",
+    "Description": "Chaleco portaplacas Crye Precision AVS."
+  },
+  "item_equipment_rig_cryeavs_mcblack": {
+    "Name": "Chaleco portaplacas Crye Precision AVS (Multicam Black)",
+    "ShortName": "AVS Black",
+    "Description": "Chaleco portaplacas Crye Precision AVS."
+  },
+  "item_equipment_rig_cryeavs_ucp": {
+    "Name": "Chaleco portaplacas Crye Precision AVS (UCP)",
+    "ShortName": "AVS UCP",
+    "Description": "Chaleco portaplacas Crye Precision AVS."
+  },
+  "item_equipment_rig_cryeavs_vegetato": {
+    "Name": "Chaleco portaplacas Crye Precision AVS (Vegetato)",
+    "ShortName": "AVS Vegetato",
+    "Description": "Chaleco portaplacas Crye Precision AVS."
+  },
+  "item_equipment_rig_cryeavs_mm14": {
+    "Name": "Chaleco portaplacas Crye Precision AVS (MM14)",
+    "ShortName": "AVS MM14",
+    "Description": "Chaleco portaplacas Crye Precision AVS."
+  },
+  "item_equipment_rig_triton_berezka": {
+    "Name": "Arnés de pecho Dynaforce Triton M43-A (KLMK)",
+    "ShortName": "Triton KLMK",
+    "Description": "Arnés de pecho Dynaforce Triton M43-A."
+  },
+  "item_equipment_rig_triton_dpm": {
+    "Name": "Arnés de pecho Dynaforce Triton M43-A (British DPM)",
+    "ShortName": "Triton DPM",
+    "Description": "Arnés de pecho Dynaforce Triton M43-A."
+  },
+  "item_equipment_rig_triton_flora": {
+    "Name": "Arnés de pecho Dynaforce Triton M43-A (Flora)",
+    "ShortName": "Triton Flora",
+    "Description": "Arnés de pecho Dynaforce Triton M43-A."
+  },
+  "item_equipment_rig_triton_omon": {
+    "Name": "Arnés de pecho Dynaforce Triton M43-A (MVD Kamysh)",
+    "ShortName": "Triton MVD",
+    "Description": "Arnés de pecho Dynaforce Triton M43-A."
+  },
+  "item_equipment_rig_triton_ryzh": {
+    "Name": "Arnés de pecho Dynaforce Triton M43-A (Ryzjuha)",
+    "ShortName": "Triton Ryzjuha",
+    "Description": "Arnés de pecho Dynaforce Triton M43-A."
+  },
+  "item_equipment_armor_gjel_fde": {
+    "Name": "Chaleco balístico BNTI Gzhel-K (FDE)",
+    "ShortName": "Gzhel-K FDE",
+    "Description": "Chaleco balístico BNTI Gzhel-K."
+  },
+  "item_equipment_armor_gjel_gray": {
+    "Name": "Chaleco balístico BNTI Gzhel-K (Dark gray)",
+    "ShortName": "Gzhel-K Gray",
+    "Description": "Chaleco balístico BNTI Gzhel-K."
+  },
+  "item_equipment_backpack_trooper_35_mc": {
+    "Name": "Mochila Tasmanian Tiger Trooper 35 (Multicam)",
+    "ShortName": "Trooper 35 MC",
+    "Description": "Mochila Tasmanian Tiger Trooper 35."
+  },
+  "item_equipment_backpack_trooper_35_mm14": {
+    "Name": "Mochila Tasmanian Tiger Trooper 35 (MM14)",
+    "ShortName": "Trooper 35 MM14",
+    "Description": "Mochila Tasmanian Tiger Trooper 35."
+  },
+  "item_equipment_backpack_trooper_35_ucp": {
+    "Name": "Mochila Tasmanian Tiger Trooper 35 (Ucp)",
+    "ShortName": "Trooper 35 Ucp",
+    "Description": "Mochila Tasmanian Tiger Trooper 35."
+  },
+  "item_equipment_backpack_trooper_35_urban": {
+    "Name": "Mochila Tasmanian Tiger Trooper 35 (Urban)",
+    "ShortName": "Trooper 35 Urban",
+    "Description": "Mochila Tasmanian Tiger Trooper 35."
+  },
+  "item_equipment_backpack_daypack_aor": {
+    "Name": "Mochila LBT-8005A Day Pack (AOR 1)",
+    "ShortName": "Day Pack AOR",
+    "Description": "Mochila LBT-8005A Day Pack."
+  },
+  "item_equipment_backpack_daypack_gray": {
+    "Name": "Mochila LBT-8005A Day Pack (Gray)",
+    "ShortName": "Day Pack Gray",
+    "Description": "Mochila LBT-8005A Day Pack."
+  },
+  "item_equipment_backpack_daypack_estpat": {
+    "Name": "Mochila LBT-8005A Day Pack (ESTDCU)",
+    "ShortName": "Day Pack ESTDCU",
+    "Description": "Mochila LBT-8005A Day Pack."
+  },
+  "item_equipment_backpack_daypack_flektarn": {
+    "Name": "Mochila LBT-8005A Day Pack (Flektarn)",
+    "ShortName": "Day Pack Flektarn",
+    "Description": "Mochila LBT-8005A Day Pack."
+  },
+  "item_equipment_backpack_wartech_emr": {
+    "Name": "Mochila WARTECH Berkut BB-102 (Emr)",
+    "ShortName": "Berkut Emr",
+    "Description": "Mochila WARTECH Berkut BB-102."
+  },
+  "item_equipment_backpack_wartech_emrd": {
+    "Name": "Mochila WARTECH Berkut BB-102 (EMR Desert)",
+    "ShortName": "Berkut EMRD",
+    "Description": "Mochila WARTECH Berkut BB-102."
+  },
+  "item_equipment_backpack_wartech_yagel": {
+    "Name": "Mochila WARTECH Berkut BB-102 (Dusk)",
+    "ShortName": "Berkut Dusk",
+    "Description": "Mochila WARTECH Berkut BB-102."
+  },
+  "item_equipment_helmet_hops_mm14": {
+    "Name": "Casco Ops-Core FAST MT Super High Cut (MM14)",
+    "ShortName": "FAST MT MM14",
+    "Description": "Casco Ops-Core FAST MT Super High Cut."
+  },
+  "item_equipment_helmet_hops_mc": {
+    "Name": "Casco Ops-Core FAST MT Super High Cut (Multicam)",
+    "ShortName": "FAST MT MC",
+    "Description": "Casco Ops-Core FAST MT Super High Cut."
+  },
+  "item_equipment_helmet_hops_mct": {
+    "Name": "Casco Ops-Core FAST MT Super High Cut (Multicam Tropic)",
+    "ShortName": "FAST MT MCT",
+    "Description": "Casco Ops-Core FAST MT Super High Cut."
+  },
+  "item_equipment_helmet_hops_atacs": {
+    "Name": "Casco Ops-Core FAST MT Super High Cut (A-TACS FG)",
+    "ShortName": "FAST MT FG",
+    "Description": "Casco Ops-Core FAST MT Super High Cut."
+  },
+  "item_equipment_helmet_hops_ucp": {
+    "Name": "Casco Ops-Core FAST MT Super High Cut (UCP)",
+    "ShortName": "FAST MT UCP",
+    "Description": "Casco Ops-Core FAST MT Super High Cut."
+  },
+  "item_equipment_helmet_diamond_age_bastion_m81": {
+    "Name": "Casco Diamond Age Bastion (M81)",
+    "ShortName": "DA Bastion M81",
+    "Description": "Casco Diamond Age Bastion."
+  },
+  "item_equipment_helmet_diamond_age_bastion_mtp": {
+    "Name": "Casco Diamond Age Bastion (British MTP)",
+    "ShortName": "DA Bastion MTP",
+    "Description": "Casco Diamond Age Bastion."
+  },
+  "item_equipment_rig_patrol_green": {
+    "Name": "Chaleco táctico Velocity Systems MPPV Multi-Purpose Patrol Vest (Green)",
+    "ShortName": "MPPV Green",
+    "Description": "Chaleco táctico Velocity Systems MPPV Multi-Purpose Patrol Vest."
+  },
+  "item_equipment_rig_patrol_fde": {
+    "Name": "Chaleco táctico Velocity Systems MPPV Multi-Purpose Patrol Vest (FDE)",
+    "ShortName": "MPPV FDE",
+    "Description": "Chaleco táctico Velocity Systems MPPV Multi-Purpose Patrol Vest."
+  },
+  "item_equipment_rig_mmac_ucp": {
+    "Name": "Chaleco portaplacas Eagle Industries MMAC (UCP)",
+    "ShortName": "MMAC UCP",
+    "Description": "Chaleco portaplacas Eagle Industries MMAC."
+  },
+  "item_equipment_rig_mmac_mm14": {
+    "Name": "Chaleco portaplacas Eagle Industries MMAC (MM14)",
+    "ShortName": "MMAC MM14",
+    "Description": "Chaleco portaplacas Eagle Industries MMAC."
+  },
+  "item_equipment_rig_mmac_aor": {
+    "Name": "Chaleco portaplacas Eagle Industries MMAC (AOR-1)",
+    "ShortName": "MMAC AOR",
+    "Description": "Chaleco portaplacas Eagle Industries MMAC."
+  },
+  "item_equipment_rig_1961_vegetato": {
+    "Name": "Chaleco táctico LBT-1961A Load Bearing Chest Rig (Vegetato)",
+    "ShortName": "LBCR Vegetato",
+    "Description": "Chaleco táctico LBT-1961A Load Bearing Chest Rig."
+  },
+  "item_equipment_rig_1961_winter": {
+    "Name": "Chaleco táctico LBT-1961A Load Bearing Chest Rig (Winter)",
+    "ShortName": "LBCR Winter",
+    "Description": "Chaleco táctico LBT-1961A Load Bearing Chest Rig."
+  },
+  "item_equipment_rig_1961_ucp": {
+    "Name": "Chaleco táctico LBT-1961A Load Bearing Chest Rig (UCP)",
+    "ShortName": "LBCR UCP",
+    "Description": "Chaleco táctico LBT-1961A Load Bearing Chest Rig."
+  },
+  "item_equipment_rig_1961_mtp": {
+    "Name": "Chaleco táctico LBT-1961A Load Bearing Chest Rig (British MTP)",
+    "ShortName": "LBCR MTP",
+    "Description": "Chaleco táctico LBT-1961A Load Bearing Chest Rig."
+  },
+  "item_equipment_rig_1961_estpatd": {
+    "Name": "Chaleco táctico LBT-1961A Load Bearing Chest Rig (ESTDCU Desert)",
+    "ShortName": "LBCR ESTDCU-D",
+    "Description": "Chaleco táctico LBT-1961A Load Bearing Chest Rig."
+  },
+  "item_equipment_rig_azimut_emra": {
+    "Name": "Arnés de pecho Azimut SS Zhuk (EMR Arid)",
+    "ShortName": "Zhuk EMR",
+    "Description": "Arnés de pecho Azimut SS Zhuk."
+  },
+  "item_equipment_rig_azimut_emrs": {
+    "Name": "Arnés de pecho Azimut SS Zhuk (EMR Spring)",
+    "ShortName": "Zhuk Spring",
+    "Description": "Arnés de pecho Azimut SS Zhuk."
+  },
+  "item_equipment_rig_azimut_atacsa": {
+    "Name": "Arnés de pecho Azimut SS Zhuk (Moh / A-TACS Arid)",
+    "ShortName": "Zhuk Moh-A",
+    "Description": "Arnés de pecho Azimut SS Zhuk."
+  },
+  "item_equipment_rig_azimut_emrp": {
+    "Name": "Arnés de pecho Azimut SS Zhuk (EMR Syria / Pig)",
+    "ShortName": "Zhuk Pig",
+    "Description": "Arnés de pecho Azimut SS Zhuk."
+  },
+  "item_equipment_rig_beltab_berezka": {
+    "Name": "Chaleco combinado Poyas-A + Poyas-B (KLMK Yellow)",
+    "ShortName": "Poyas combo KLMK",
+    "Description": "Chaleco combinado Poyas-A + Poyas-B."
+  },
+  "item_equipment_rig_beltab_ttsko": {
+    "Name": "Chaleco combinado Poyas-A + Poyas-B (TTsKO)",
+    "ShortName": "Poyas combo TTsKO",
+    "Description": "Chaleco combinado Poyas-A + Poyas-B."
+  },
+  "item_equipment_rig_tv110_moh": {
+    "Name": "Chaleco portaplacas WARTECH TV-110 (Moh / A-TACS)",
+    "ShortName": "TV-110 Moh",
+    "Description": "Chaleco portaplacas WARTECH TV-110."
+  },
+  "item_equipment_armor_otv_cce": {
+    "Name": "Chaleco balístico Interceptor OTV (Centre-Europe)",
+    "ShortName": "OTV CCE",
+    "Description": "Chaleco balístico Interceptor OTV."
+  },
+  "item_equipment_armor_otv_3c": {
+    "Name": "Chaleco balístico Interceptor OTV (3 Color Desert)",
+    "ShortName": "OTV DCU",
+    "Description": "Chaleco balístico Interceptor OTV."
+  },
+  "item_equipment_armor_un_3c": {
+    "Name": "Chaleco balístico MF-UNTAR (3 Color Desert)",
+    "ShortName": "MF-UN DCU",
+    "Description": "Chaleco balístico MF-UNTAR."
+  },
+  "item_equipment_armor_un_marpat": {
+    "Name": "Chaleco balístico MF-UNTAR (MARPAT)",
+    "ShortName": "MF-UN MARPAT",
+    "Description": "Chaleco balístico MF-UNTAR."
+  },
+  "item_equipment_armor_un_wineleaf": {
+    "Name": "Chaleco balístico MF-UNTAR (Wine Leaf)",
+    "ShortName": "MF-UN WL",
+    "Description": "Chaleco balístico MF-UNTAR."
+  },
+  "item_equipment_armor_6b23_emrpig": {
+    "Name": "Chaleco balístico 6B23-1 (EMR Syria / Pig)",
+    "ShortName": "6B23-1 EMR Pig",
+    "Description": "Chaleco balístico 6B23-1."
+  },
+  "item_equipment_armor_6b23_klmk": {
+    "Name": "Chaleco balístico 6B23-1 (KLMK)",
+    "ShortName": "6B23-1 ",
+    "Description": "Chaleco balístico 6B23-1."
+  },
+  "item_equipment_armor_6b23_yagel": {
+    "Name": "Chaleco balístico 6B23-1 (Dusk)",
+    "ShortName": "6B23-1 Dusk",
+    "Description": "Chaleco balístico 6B23-1."
+  },
+  "item_equipment_armor_def2_moh": {
+    "Name": "Chaleco balístico FORT Defender-2 (A-TACS / Moh)",
+    "ShortName": "Defender-2 Moh",
+    "Description": "Chaleco balístico FORT Defender-2."
+  },
+  "item_equipment_armor_def2_moha": {
+    "Name": "Chaleco balístico FORT Defender-2 (A-TACS Arid / Moh Autumn)",
+    "ShortName": "Defender-2 Autumn",
+    "Description": "Chaleco balístico FORT Defender-2."
+  },
+  "item_equipment_armor_slick_atacs": {
+    "Name": "Chaleco portaplacas LBT-6094A Slick (A-TACS FG)",
+    "ShortName": "Slick FG",
+    "Description": "Chaleco portaplacas LBT-6094A Slick."
+  },
+  "item_equipment_armor_slick_ixarid": {
+    "Name": "Chaleco portaplacas LBT-6094A Slick (A-TACS iX Arid)",
+    "ShortName": "Slick iX Arid",
+    "Description": "Chaleco portaplacas LBT-6094A Slick."
+  },
+  "item_equipment_armor_slick_ucp": {
+    "Name": "Chaleco portaplacas LBT-6094A Slick (UCP)",
+    "ShortName": "Slick UCP",
+    "Description": "Chaleco portaplacas LBT-6094A Slick."
+  },
+  "item_equipment_armor_slick_vegetato": {
+    "Name": "Chaleco portaplacas LBT-6094A Slick (Vegetato)",
+    "ShortName": "Slick Vegetato",
+    "Description": "Chaleco portaplacas LBT-6094A Slick."
+  },
+  "item_equipment_backpack_beta_moha": {
+    "Name": "Mochila de combate ANA Tactical Beta 2 (A-TACS Arid / Moh Autumn)",
+    "ShortName": "Beta 2 Moh-A",
+    "Description": "Mochila de combate ANA Tactical Beta 2."
+  },
+  "item_equipment_backpack_beta_moh": {
+    "Name": "Mochila de combate ANA Tactical Beta 2 (Moh / A-TACS FG)",
+    "ShortName": "Beta 2 Moh",
+    "Description": "Mochila de combate ANA Tactical Beta 2."
+  },
+  "item_equipment_backpack_beta_emrd": {
+    "Name": "Mochila de combate ANA Tactical Beta 2 (EMR Desert)",
+    "ShortName": "Beta 2 EMRD",
+    "Description": "Mochila de combate ANA Tactical Beta 2."
+  },
+  "item_equipment_backpack_beta_emr": {
+    "Name": "Mochila de combate ANA Tactical Beta 2 (EMR Flora)",
+    "ShortName": "Beta 2 EMR",
+    "Description": "Mochila de combate ANA Tactical Beta 2."
+  },
+  "item_equipment_backpack_gr99t30_moh": {
+    "Name": "Mochila Gruppa 99 T30 (Moh / A-TACS FG)",
+    "ShortName": "T30 Moh",
+    "Description": "Mochila Gruppa 99 T30."
+  },
+  "item_equipment_backpack_gr99t30_emrd": {
+    "Name": "Mochila Gruppa 99 T30 (EMR Desert)",
+    "ShortName": "T30 EMRD",
+    "Description": "Mochila Gruppa 99 T30."
+  },
+  "item_equipment_backpack_gr99t30_klmk": {
+    "Name": "Mochila Gruppa 99 T30 (KLMK)",
+    "ShortName": "T30 KLMK",
+    "Description": "Mochila Gruppa 99 T30."
+  },
+  "item_equipment_backpack_gr99t30_emr": {
+    "Name": "Mochila Gruppa 99 T30 (EMR)",
+    "ShortName": "T30 EMR",
+    "Description": "Mochila Gruppa 99 T30."
+  },
+  "item_equipment_backpack_lbt1476a_slick_aor1": {
+    "Name": "Mochila LBT-1476A 3Day Pack (AOR 1)",
+    "ShortName": "LBT-1476A AOR",
+    "Description": "Mochila LBT-1476A 3Day Pack."
+  },
+  "item_equipment_backpack_lbt1476a_slick_gray": {
+    "Name": "Mochila LBT-1476A 3Day Pack (Gray)",
+    "ShortName": "LBT-1476A Gray",
+    "Description": "Mochila LBT-1476A 3Day Pack."
+  },
+  "item_equipment_backpack_lbt1476a_slick_ucp": {
+    "Name": "Mochila LBT-1476A 3Day Pack (UCP)",
+    "ShortName": "LBT-1476A UCP",
+    "Description": "Mochila LBT-1476A 3Day Pack."
+  },
+  "item_equipment_backpack_lbt1476a_slick_tropentarn": {
+    "Name": "Mochila LBT-1476A 3Day Pack (Tropentarn)",
+    "ShortName": "LBT-1476A Tropentarn",
+    "Description": "Mochila LBT-1476A 3Day Pack."
+  },
+  "item_equipment_rig_umka_f1": {
+    "Name": "Chaleco de cazador Umka M33-SET1 (Fisherman Camo 1)",
+    "ShortName": "Umka Fisher 1",
+    "Description": "Chaleco de cazador Umka M33-SET1."
+  },
+  "item_equipment_rig_umka_f2": {
+    "Name": "Chaleco de cazador Umka M33-SET1 (Fisherman Camo 2)",
+    "ShortName": "Umka Fisher 2",
+    "Description": "Chaleco de cazador Umka M33-SET1."
+  },
+  "item_equipment_rig_umka_leaves": {
+    "Name": "Chaleco de cazador Umka M33-SET1 (Fallen leaves)",
+    "ShortName": "Umka Leaves",
+    "Description": "Chaleco de cazador Umka M33-SET1."
+  },
+  "item_equipment_backpack_pilgrim_blueorange": {
+    "Name": "Mochila de turista Pilgrim (Blue Orange)",
+    "ShortName": "Pilgrim Blue",
+    "Description": "Mochila de turista Pilgrim."
+  },
+  "item_equipment_backpack_pilgrim_green": {
+    "Name": "Mochila de turista Pilgrim (Green)",
+    "ShortName": "Pilgrim Green",
+    "Description": "Mochila de turista Pilgrim."
+  },
+  "item_equipment_backpack_pilgrim_terra2": {
+    "Name": "Mochila de turista Pilgrim (Terra colors)",
+    "ShortName": "Pilgrim Terra",
+    "Description": "Mochila de turista Pilgrim."
+  },
+  "item_equipment_backpack_pilgrim_v1": {
+    "Name": "Mochila de turista Pilgrim (Mustard)",
+    "ShortName": "Pilgrim Mustard",
+    "Description": "Mochila de turista Pilgrim."
+  },
+  "item_equipment_backpack_trizip_flektarn": {
+    "Name": "Mochila de asalto Camelbak Tri-Zip (Flektarn)",
+    "ShortName": "Tri-Zip Flektarn",
+    "Description": "Mochila de asalto Camelbak Tri-Zip."
+  },
+  "item_equipment_backpack_trizip_vegetato": {
+    "Name": "Mochila de asalto Camelbak Tri-Zip (Vegetato)",
+    "ShortName": "Tri-Zip Vegetato",
+    "Description": "Mochila de asalto Camelbak Tri-Zip."
+  },
+  "item_equipment_backpack_trizip_gray": {
+    "Name": "Mochila de asalto Camelbak Tri-Zip (Gray)",
+    "ShortName": "Tri-Zip Gray",
+    "Description": "Mochila de asalto Camelbak Tri-Zip."
+  },
+  "item_equipment_backpack_trizip_ucp": {
+    "Name": "Mochila de asalto Camelbak Tri-Zip (UCP)",
+    "ShortName": "Tri-Zip UCP",
+    "Description": "Mochila de asalto Camelbak Tri-Zip."
+  },
+  "item_equipment_facecover_momex_atacs": {
+    "Name": "Pasamontañas Momex (A-TACS FG)",
+    "ShortName": "Momex FG",
+    "Description": "Pasamontañas Momex."
+  },
+  "item_equipment_facecover_momex_atacsa": {
+    "Name": "Pasamontañas Momex (A-TACS Arid)",
+    "ShortName": "Momex Arid",
+    "Description": "Pasamontañas Momex."
+  },
+  "item_equipment_facecover_momex_mc": {
+    "Name": "Pasamontañas Momex (Multicam)",
+    "ShortName": "Momex MC",
+    "Description": "Pasamontañas Momex."
+  },
+  "item_equipment_facecover_balaclava_emr": {
+    "Name": "Pasamontañas (EMR)",
+    "ShortName": "Pasamontañas EMR",
+    "Description": "Pasamontañas."
+  },
+  "item_equipment_facecover_balaclava_fde": {
+    "Name": "Pasamontañas (FDE)",
+    "ShortName": "Pasamontañas FDE",
+    "Description": "Pasamontañas."
+  },
+  "item_equipment_facecover_balaclava_musor": {
+    "Name": "Pasamontañas (Moh MVD / A-TACS)",
+    "ShortName": "Pasamontañas MVD",
+    "Description": "Pasamontañas."
+  },
+  "item_equipment_backpack_trizip_multitarn": {
+    "Name": "Mochila de asalto Camelbak Tri-Zip (Multitarn)",
+    "ShortName": "Tri-Zip Multitarn",
+    "Description": "Mochila de asalto Camelbak Tri-Zip."
+  },
+  "item_equipment_backpack_f5_badlands": {
+    "Name": "Mochila Eberlestock F5 Switchblade (Badlands)",
+    "ShortName": "F5 Switchblade Badlands",
+    "Description": "Mochila Eberlestock F5 Switchblade."
+  },
+  "item_equipment_backpack_f5_french": {
+    "Name": "Mochila Eberlestock F5 Switchblade (Centre-Europe)",
+    "ShortName": "F5 Switchblade CCE",
+    "Description": "Mochila Eberlestock F5 Switchblade."
+  },
+  "item_equipment_backpack_f5_lizard": {
+    "Name": "Mochila Eberlestock F5 Switchblade (Lizard)",
+    "ShortName": "F5 Switchblade Lizard",
+    "Description": "Mochila Eberlestock F5 Switchblade."
+  },
+  "item_equipment_backpack_f5_multitarn": {
+    "Name": "Mochila Eberlestock F5 Switchblade (Multitarn)",
+    "ShortName": "F5 Switchblade Multitarn",
+    "Description": "Mochila Eberlestock F5 Switchblade."
+  },
+  "item_equipment_backpack_dragon_egg_3c": {
+    "Name": "Mochila Direct Action Dragon Egg Mark II (3 Color Desert)",
+    "ShortName": "Dragon Egg MKII DCU",
+    "Description": "Mochila Direct Action Dragon Egg Mark II."
+  },
+  "item_equipment_backpack_dragon_egg_fde": {
+    "Name": "Mochila Direct Action Dragon Egg Mark II (FDE)",
+    "ShortName": "Dragon Egg MKII FDE",
+    "Description": "Mochila Direct Action Dragon Egg Mark II."
+  },
+  "item_equipment_backpack_dragon_egg_olive": {
+    "Name": "Mochila Direct Action Dragon Egg Mark II (Olive)",
+    "ShortName": "Dragon Egg MKII Olive",
+    "Description": "Mochila Direct Action Dragon Egg Mark II."
+  },
+  "item_equipment_backpack_dragon_egg_ix": {
+    "Name": "Mochila Direct Action Dragon Egg Mark II (A-TACS iX Arid)",
+    "ShortName": "Dragon Egg MKII iX Arid",
+    "Description": "Mochila Direct Action Dragon Egg Mark II."
+  },
+  "item_equipment_backpack_dragon_egg_wz93": {
+    "Name": "Mochila Direct Action Dragon Egg Mark II (Wz93 Pantera)",
+    "ShortName": "Dragon Egg MKII Wz93",
+    "Description": "Mochila Direct Action Dragon Egg Mark II."
+  },
+  "item_equipment_armor_kora_kulon_93": {
+    "Name": "Chaleco balístico NPP KlASS Kora-Kulon (VSR-93 Barvikha)",
+    "ShortName": "Kora-Kulon 93",
+    "Description": "Chaleco balístico NPP KlASS Kora-Kulon."
+  },
+  "item_equipment_armor_kora_kulon_ryzh": {
+    "Name": "Chaleco balístico NPP KlASS Kora-Kulon (VSR-98 Mountain Flora)",
+    "ShortName": "Kora-Kulon 98MF",
+    "Description": "Chaleco balístico NPP KlASS Kora-Kulon."
+  },
+  "item_equipment_armor_kora_kulon_flora": {
+    "Name": "Chaleco balístico NPP KlASS Kora-Kulon (VSR-98 Flora)",
+    "ShortName": "Kora-Kulon 98F",
+    "Description": "Chaleco balístico NPP KlASS Kora-Kulon."
+  },
+  "item_equipment_armor_kora_kulon_bkamysh": {
+    "Name": "Chaleco balístico NPP KlASS Kora-Kulon (MVD Kamysh)",
+    "ShortName": "Kora-Kulon MVD",
+    "Description": "Chaleco balístico NPP KlASS Kora-Kulon."
+  },
+  "item_equipment_helmet_gentex_slaap_green": {
+    "Name": "Placa balística Ops-Core SLAAP para casco (Green)",
+    "ShortName": "SLAAP Green",
+    "Description": "Placa balística Ops-Core SLAAP para casco."
+  },
+  "item_equipment_helmet_gentex_slaap_gray": {
+    "Name": "Placa balística Ops-Core SLAAP para casco (Gray)",
+    "ShortName": "SLAAP Gray",
+    "Description": "Placa balística Ops-Core SLAAP para casco."
+  },
+  "item_equipment_backpack_blackjack_ix": {
+    "Name": "Mochila Mystery Ranch Blackjack 50 (A-TACS iX AU)",
+    "ShortName": "Blackjack 50 iX",
+    "Description": "Mochila Mystery Ranch Blackjack 50."
+  },
+  "item_equipment_backpack_blackjack_m05": {
+    "Name": "Mochila Mystery Ranch Blackjack 50 (M05)",
+    "ShortName": "Blackjack 50 M05",
+    "Description": "Mochila Mystery Ranch Blackjack 50."
+  },
+  "item_equipment_backpack_blackjack_lizard": {
+    "Name": "Mochila Mystery Ranch Blackjack 50 (Lizard)",
+    "ShortName": "Blackjack 50 Lizard",
+    "Description": "Mochila Mystery Ranch Blackjack 50."
+  },
+  "item_equipment_backpack_blackjack_granite": {
+    "Name": "Mochila Mystery Ranch Blackjack 50 (Granite-B)",
+    "ShortName": "Blackjack 50 Granite",
+    "Description": "Mochila Mystery Ranch Blackjack 50."
+  },
+  "item_equipment_helmet_zsh_93": {
+    "Name": "Casco ZSh-1-2M (VSR-93 Barvikha)",
+    "ShortName": "ZSh-1-2M 93",
+    "Description": "Casco ZSh-1-2M."
+  },
+  "item_equipment_helmet_zsh_gray": {
+    "Name": "Casco ZSh-1-2M (Kamysh Gray)",
+    "ShortName": "ZSh-1-2M Gray",
+    "Description": "Casco ZSh-1-2M."
+  },
+  "item_equipment_helmet_lshz_dusk": {
+    "Name": "Casco ligero LShZ (Dusk)",
+    "ShortName": "LShZ Dusk",
+    "Description": "Casco ligero LShZ."
+  },
+  "item_equipment_helmet_lshz_emr": {
+    "Name": "Casco ligero LShZ (EMR Summer)",
+    "ShortName": "LShZ EMR",
+    "Description": "Casco ligero LShZ."
+  },
+  "item_equipment_helmet_lshz_yagel": {
+    "Name": "Casco ligero LShZ (Yagel)",
+    "ShortName": "LShZ Yagel",
+    "Description": "Casco ligero LShZ."
+  },
+  "item_equipment_helmet_lshz_surpat": {
+    "Name": "Casco ligero LShZ (SURPAT)",
+    "ShortName": "LShZ SURPAT",
+    "Description": "Casco ligero LShZ."
+  },
+  "item_equipment_backpack_mystery_ranch_coyote": {
+    "Name": "Mochila de Asalto Mystery Ranch SATL Bridger (Coyote)",
+    "ShortName": "SATL Coyote",
+    "Description": "Mochila de Asalto Mystery Ranch SATL Bridger."
+  },
+  "item_equipment_backpack_mystery_ranch_penncott": {
+    "Name": "Mochila de Asalto Mystery Ranch SATL Bridger (Greenzone)",
+    "ShortName": "SATL GZ",
+    "Description": "Mochila de Asalto Mystery Ranch SATL Bridger."
+  },
+  "item_equipment_backpack_mystery_ranch_m05w": {
+    "Name": "Mochila de Asalto Mystery Ranch SATL Bridger (M05 Cold Weather)",
+    "ShortName": "SATL M05 CW",
+    "Description": "Mochila de Asalto Mystery Ranch SATL Bridger."
+  },
+  "item_equipment_backpack_mystery_ranch_est": {
+    "Name": "Mochila de Asalto Mystery Ranch SATL Bridger (ESTDCU)",
+    "ShortName": "SATL ESTDCU",
+    "Description": "Mochila de Asalto Mystery Ranch SATL Bridger."
+  },
+  "item_equipment_rig_carriertactec_greenzone": {
+    "Name": "Chaleco portaplacas 5.11 Tactical TacTec (Greenzone)",
+    "ShortName": "TacTec Greenzone",
+    "Description": "Chaleco portaplacas 5.11 Tactical TacTec."
+  },
+  "item_equipment_rig_carriertactec_m05": {
+    "Name": "Chaleco portaplacas 5.11 Tactical TacTec (M05)",
+    "ShortName": "TacTec M05",
+    "Description": "Chaleco portaplacas 5.11 Tactical TacTec."
+  },
+  "item_equipment_rig_carriertactec_au": {
+    "Name": "Chaleco portaplacas 5.11 Tactical TacTec (Arid Urban)",
+    "ShortName": "TacTec AU",
+    "Description": "Chaleco portaplacas 5.11 Tactical TacTec."
+  },
+  "item_equipment_helmet_mich2002_aor": {
+    "Name": "Casco MSA ACH TC-2002 MICH Series (AOR 1)",
+    "ShortName": "TC-2002 AOR1",
+    "Description": "Casco MSA ACH TC-2002 MICH Series."
+  },
+  "item_equipment_helmet_mich2002_m05": {
+    "Name": "Casco MSA ACH TC-2002 MICH Series (M05)",
+    "ShortName": "TC-2002 M05",
+    "Description": "Casco MSA ACH TC-2002 MICH Series."
+  },
+  "item_equipment_rig_tv110_black": {
+    "Name": "Chaleco portaplacas WARTECH TV-110 (Black)",
+    "ShortName": "TV-110 Black",
+    "Description": "Chaleco portaplacas WARTECH TV-110."
+  },
+  "item_equipment_rig_patrol_multicam": {
+    "Name": "Chaleco táctico Velocity Systems MPPV Multi-Purpose Patrol Vest (Multicam)",
+    "ShortName": "MPPV Multicam",
+    "Description": "Chaleco táctico Velocity Systems MPPV Multi-Purpose Patrol Vest."
+  },
+  "item_equipment_rig_patrol_aor2": {
+    "Name": "Chaleco táctico Velocity Systems MPPV Multi-Purpose Patrol Vest (AOR 2)",
+    "ShortName": "MPPV AOR 2",
+    "Description": "Chaleco táctico Velocity Systems MPPV Multi-Purpose Patrol Vest."
+  },
+  "item_equipment_rig_patrol_m05c": {
+    "Name": "Chaleco táctico Velocity Systems MPPV Multi-Purpose Patrol Vest (M05 Cold Weather)",
+    "ShortName": "MPPV M05 CW",
+    "Description": "Chaleco táctico Velocity Systems MPPV Multi-Purpose Patrol Vest."
+  },
+  "item_equipment_rig_m1_gray": {
+    "Name": "Chaleco portaplacas ANA Tactical M1 (Gray)",
+    "ShortName": "ANA M1 Gray",
+    "Description": "Chaleco portaplacas ANA Tactical M1."
+  },
+  "item_equipment_rig_m1_coyote": {
+    "Name": "Chaleco portaplacas ANA Tactical M1 (Coyote)",
+    "ShortName": "ANA M1 Coyote",
+    "Description": "Chaleco portaplacas ANA Tactical M1."
+  },
+  "item_equipment_rig_m1_rg": {
+    "Name": "Chaleco portaplacas ANA Tactical M1 (Ranger Green)",
+    "ShortName": "ANA M1 RG",
+    "Description": "Chaleco portaplacas ANA Tactical M1."
+  },
+  "item_equipment_backpack_mech_green": {
+    "Name": "Mochila Oakley Mechanism Heavy Duty (Green)",
+    "ShortName": "Mechanism Green",
+    "Description": "Mochila Oakley Mechanism Heavy Duty."
+  },
+  "item_equipment_backpack_mech_coyote": {
+    "Name": "Mochila Oakley Mechanism Heavy Duty (Coyote)",
+    "ShortName": "Mechanism Coyote",
+    "Description": "Mochila Oakley Mechanism Heavy Duty."
+  },
+  "item_equipment_rig_shellback_tactical_banshee_fg": {
+    "Name": "Chaleco portaplacas Shellback Tactical Banshee (A-TACS FG)",
+    "ShortName": "Banshee FG",
+    "Description": "Chaleco portaplacas Shellback Tactical Banshee."
+  },
+  "item_equipment_rig_shellback_tactical_banshee_ghost": {
+    "Name": "Chaleco portaplacas Shellback Tactical Banshee (A-TACS iX Ghost)",
+    "ShortName": "Banshee Ghost",
+    "Description": "Chaleco portaplacas Shellback Tactical Banshee."
+  },
+  "item_equipment_rig_umka_winter": {
+    "Name": "Chaleco de cazador Umka M33-SET1 (Winter)",
+    "ShortName": "Umka Winter",
+    "Description": "Chaleco de cazador Umka M33-SET1."
+  },
+  "chestrig_tarzan_dym": {
+    "Name": "Chaleco táctico Splav Tarzan M22 (Dym / A-TACS copy)",
+    "ShortName": "Tarzan Dym",
+    "Description": "Chaleco táctico Splav Tarzan M22."
+  },
+  "chestrig_tarzan_emra": {
+    "Name": "Chaleco táctico Splav Tarzan M22 (EMR Autumn)",
+    "ShortName": "Tarzan EMR-A",
+    "Description": "Chaleco táctico Splav Tarzan M22."
+  },
+  "item_equipment_armor_a18_dym": {
+    "Name": "Chaleco portaplacas Ars Arma A18 Skanda (Dym / A-TACS copy)",
+    "ShortName": "A18 Skanda Dym",
+    "Description": "Chaleco portaplacas Ars Arma A18 Skanda."
+  },
+  "item_equipment_armor_a18_emr1": {
+    "Name": "Chaleco portaplacas Ars Arma A18 Skanda (EMR)",
+    "ShortName": "A18 Skanda EMR",
+    "Description": "Chaleco portaplacas Ars Arma A18 Skanda."
+  },
+  "item_equipment_armor_a18_gray": {
+    "Name": "Chaleco portaplacas Ars Arma A18 Skanda (Gray)",
+    "ShortName": "A18 Skanda Gray",
+    "Description": "Chaleco portaplacas Ars Arma A18 Skanda."
+  },
+  "item_equipment_backpack_paratus_kr": {
+    "Name": "Mochila táctica 3V Gear Paratus 3-Day Operator's (Kryptek Mandrake)",
+    "ShortName": "Paratus Mandrake",
+    "Description": "Mochila táctica 3V Gear Paratus 3-Day Operator's."
+  },
+  "item_equipment_backpack_paratus_ts": {
+    "Name": "Mochila táctica 3V Gear Paratus 3-Day Operator's (USAF Digital Tigerstripe)",
+    "ShortName": "Paratus USAF",
+    "Description": "Mochila táctica 3V Gear Paratus 3-Day Operator's."
+  },
+  "item_equipment_backpack_paratus_wasp": {
+    "Name": "Mochila táctica 3V Gear Paratus 3-Day Operator's (Phantomleaf WASP II Z 1A)",
+    "ShortName": "Paratus WASP",
+    "Description": "Mochila táctica 3V Gear Paratus 3-Day Operator's."
+  },
+  "item_equipment_backpack_takedown_sling_1": {
+    "Name": "Mochila Hazard 4 Takedown tipo hombrera (AOR-2)",
+    "ShortName": "Takedown AOR-2",
+    "Description": "Mochila Hazard 4 Takedown tipo hombrera."
+  },
+  "item_equipment_backpack_takedown_sling_2": {
+    "Name": "Mochila Hazard 4 Takedown tipo hombrera (MARPAT Urban)",
+    "ShortName": "Takedown MP-U",
+    "Description": "Mochila Hazard 4 Takedown tipo hombrera."
+  },
+  "item_equipment_rig_6h112_arctic": {
+    "Name": "Chaleco táctico UMTBS 6Sh112 Reconocimiento-Francotirador (EMR Arctic)",
+    "ShortName": "6Sh112 R-F EMR-Ar",
+    "Description": "Chaleco táctico UMTBS 6Sh112 Reconocimiento-Francotirador."
+  },
+  "item_equipment_rig_bae_rbav_aor": {
+    "Name": "Chaleco portaplacas ECLiPSE RBAV-AF (AOR-2)",
+    "ShortName": "RBAV-AF AOR-2",
+    "Description": "Chaleco portaplacas ECLiPSE RBAV-AF."
+  },
+  "item_equipment_rig_bae_rbav_ucon": {
+    "Name": "Chaleco portaplacas ECLiPSE RBAV-AF (A-TACS U|CON)",
+    "ShortName": "RBAV-AF UCON",
+    "Description": "Chaleco portaplacas ECLiPSE RBAV-AF."
+  },
+  "item_equipment_rig_d3crx_multicam": {
+    "Name": "Arnés de pecho Haley Strategic D3CRX (Multicam)",
+    "ShortName": "D3CRX MC",
+    "Description": "Arnés de pecho Haley Strategic D3CRX."
+  },
+  "item_equipment_rig_d3crx_multicamblack": {
+    "Name": "Arnés de pecho Haley Strategic D3CRX (Multicam Black)",
+    "ShortName": "D3CRX MCB",
+    "Description": "Arnés de pecho Haley Strategic D3CRX."
+  },
+  "item_equipment_rig_d3crx_multicamtropic": {
+    "Name": "Arnés de pecho Haley Strategic D3CRX (Multicam Tropic)",
+    "ShortName": "D3CRX MCT",
+    "Description": "Arnés de pecho Haley Strategic D3CRX."
+  },
+  "item_equipment_rig_blackrock_ral7013": {
+    "Name": "Chaleco táctico BlackRock (RAL 7013)",
+    "ShortName": "BlackRock 7013",
+    "Description": "Chaleco táctico BlackRock."
+  },
+  "item_equipment_armor_custom_hexgrid_c": {
+    "Name": "Chaleco portaplacas 5.11 Tactical Hexgrid (Coyote)",
+    "ShortName": "Hexgrid Coyote",
+    "Description": "Chaleco portaplacas 5.11 Tactical Hexgrid."
+  },
+  "item_equipment_armor_custom_hexgrid_g": {
+    "Name": "Chaleco portaplacas 5.11 Tactical Hexgrid (Green)",
+    "ShortName": "Hexgrid Green",
+    "Description": "Chaleco portaplacas 5.11 Tactical Hexgrid."
+  },
+  "item_equipment_facecover_strikeball_mask_leshiy": {
+    "Name": "Máscara Death Shadow con protección ligera (Lešij custom paint)",
+    "ShortName": "Death Shadow Lešij",
+    "Description": "Máscara Death Shadow con protección ligera."
+  },
+  "item_equipment_backpack_g2_gunslinger_gray": {
+    "Name": "Mochila Eberlestock G2 Gunslinger II (Gray)",
+    "ShortName": "G2 Gunslinger II Gray",
+    "Description": "Mochila Eberlestock G2 Gunslinger II."
+  },
+  "item_equipment_backpack_g2_gunslinger_slocam": {
+    "Name": "Mochila Eberlestock G2 Gunslinger II (SLOCAM)",
+    "ShortName": "G2 Gunslinger II SK",
+    "Description": "Mochila Eberlestock G2 Gunslinger II."
+  },
+  "item_equipment_backpack_g2_gunslinger_ucon": {
+    "Name": "Mochila Eberlestock G2 Gunslinger II (A-TACS U|CON)",
+    "ShortName": "G2 Gunslinger II UCON",
+    "Description": "Mochila Eberlestock G2 Gunslinger II."
+  },
+  "item_equipment_backpack_f4terminator_black": {
+    "Name": "Mochila Eberlestock F4 Terminator para cargas pesadas (Black)",
+    "ShortName": "F4 Terminator Black",
+    "Description": "Mochila Eberlestock F4 Terminator para cargas pesadas."
+  },
+  "item_equipment_backpack_f4terminator_h": {
+    "Name": "Mochila Eberlestock F4 Terminator para cargas pesadas (HUNCAM)",
+    "ShortName": "F4 Terminator HU",
+    "Description": "Mochila Eberlestock F4 Terminator para cargas pesadas."
+  },
+  "item_equipment_backpack_f4terminator_c": {
+    "Name": "Mochila Eberlestock F4 Terminator para cargas pesadas (Vz 95)",
+    "ShortName": "F4 Terminator 95",
+    "Description": "Mochila Eberlestock F4 Terminator para cargas pesadas."
+  }
+}
