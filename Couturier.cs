@@ -1,6 +1,4 @@
-﻿using SPTarkov.Common.Extensions;
-using SPTarkov.DI.Annotations;
-using SPTarkov.Server.Core.Constants;
+﻿using SPTarkov.DI.Annotations;
 using SPTarkov.Server.Core.DI;
 using SPTarkov.Server.Core.Helpers;
 using SPTarkov.Server.Core.Models.Common;
@@ -9,20 +7,13 @@ using SPTarkov.Server.Core.Models.Eft.Common.Tables;
 using SPTarkov.Server.Core.Models.Enums;
 using SPTarkov.Server.Core.Models.Spt.Config;
 using SPTarkov.Server.Core.Models.Spt.Mod;
-using SPTarkov.Server.Core.Models.Spt.Services;
 using SPTarkov.Server.Core.Models.Utils;
 using SPTarkov.Server.Core.Routers;
 using SPTarkov.Server.Core.Servers;
 using SPTarkov.Server.Core.Services;
 using SPTarkov.Server.Core.Utils;
 using SPTarkov.Server.Core.Utils.Cloners;
-using System.ComponentModel;
-using System.Drawing;
 using System.Reflection;
-using System.Text.Json;
-using System.Text.Json.Serialization;
-using System.Threading.Channels;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 using Path = System.IO.Path;
 
 namespace Couturier;
@@ -32,7 +23,7 @@ public record ModMetadata : AbstractModMetadata {
     public override string Name { get; init; } = "Couturier";
     public override string Author { get; init; } = "turbodestroyer";
     public override List<string>? Contributors { get; init; }
-    public override SemanticVersioning.Version Version { get; init; } = new("2.0.0");
+    public override SemanticVersioning.Version Version { get; init; } = new("2.0.1");
     public override SemanticVersioning.Range SptVersion { get; init; } = new("~4.0.2");
     public override List<string>? Incompatibilities { get; init; }
     public override Dictionary<string, SemanticVersioning.Range>? ModDependencies { get; init; }
@@ -60,6 +51,7 @@ public class Couturier(ModHelper modHelper, ISptLogger<Couturier> logger, ImageR
         config = modHelper.GetJsonDataFromFile<ModConfig>(pathToMod, "config.json");
         db = databaseService.GetTables();
         var fleaPresets = modHelper.GetJsonDataFromFile<Dictionary<MongoId, Preset>>(pathToMod, "db/items/fleaPresets.json");
+        var fleaPrices = modHelper.GetJsonDataFromFile<Dictionary<MongoId, double>>(pathToMod, "db/items/prices.json");
 
         // scan folder with locales, add each one to 'locales' variable
         var localesPath = Path.Combine(pathToMod, "db/locales");
@@ -148,6 +140,13 @@ public class Couturier(ModHelper modHelper, ISptLogger<Couturier> logger, ImageR
                                 }
                             }
                         }
+                    }
+                }
+                // set flea prices
+                if (config.sellGearOnFlea) {
+                    // check if gearItem.id is in fleaPrices
+                    if (fleaPrices.TryGetValue(gearItem.id, out var price)) {
+                        db.Templates.Prices[gearItem.id] = price;
                     }
                 }
             }
