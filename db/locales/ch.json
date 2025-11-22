@@ -953,5 +953,50 @@
     "Name": "Eberlestock F4 Terminator承重背包（虎纹迷彩） (Vz 95)",
     "ShortName": "F4 95",
     "Description": "Eberlestock F4 Terminator承重背包（虎纹迷彩）."
+  },
+  "item_equipment_armor_un_cc": {
+    "Name": "MF-UNTAR防弹背心 (DBDU Chocolate Chip)",
+    "ShortName": "MF-UN DBDU",
+    "Description": "MF-UNTAR防弹背心."
+  },
+  "item_equipment_rig_beltab_fde": {
+    "Name": "Belt-A + Belt-B胸挂 (FDE)",
+    "ShortName": "Belt FDE",
+    "Description": "Belt-A + Belt-B胸挂."
+  },
+  "item_equipment_rig_thunderbolt_flektarn": {
+    "Name": "Direct Action Thunderbolt小型胸挂 (Flektarn)",
+    "ShortName": "Thunderbolt FTARN",
+    "Description": "Direct Action Thunderbolt小型胸挂."
+  },
+  "item_equipment_rig_thunderbolt_slocam": {
+    "Name": "Direct Action Thunderbolt小型胸挂 (SLOCAM)",
+    "ShortName": "Thunderbolt SLOCAM",
+    "Description": "Direct Action Thunderbolt小型胸挂."
+  },
+  "item_equipment_rig_boss_blackknight_abu": {
+    "Name": "S&S Precision PlateFrame插板胸挂 (USAF Digital Tigerstripe)",
+    "ShortName": "CPC GE USAF",
+    "Description": "S&S Precision PlateFrame插板胸挂."
+  },
+  "item_equipment_rig_thunderbolt_au": {
+    "Name": "Direct Action Thunderbolt小型胸挂 (A-TACS AU)",
+    "ShortName": "Thunderbolt AU",
+    "Description": "Direct Action Thunderbolt小型胸挂."
+  },
+  "item_equipment_rig_thunderbolt_winter": {
+    "Name": "Direct Action Thunderbolt小型胸挂 (Schneetarn)",
+    "ShortName": "Thunderbolt STARN",
+    "Description": "Direct Action Thunderbolt小型胸挂."
+  },
+  "item_equipment_rig_boss_blackknight_black": {
+    "Name": "S&S Precision PlateFrame插板胸挂 (Black)",
+    "ShortName": "CPC GE Black",
+    "Description": "S&S Precision PlateFrame插板胸挂."
+  },
+  "item_equipment_rig_boss_blackknight_bush": {
+    "Name": "S&S Precision PlateFrame插板胸挂 (Bushstroke)",
+    "ShortName": "CPC GE Bush",
+    "Description": "S&S Precision PlateFrame插板胸挂."
   }
 }

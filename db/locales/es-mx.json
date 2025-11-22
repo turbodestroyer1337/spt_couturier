@@ -953,5 +953,50 @@
     "Name": "Mochila Eberlestock F4 Terminator para cargas pesadas (Vz 95)",
     "ShortName": "F4 Terminator 95",
     "Description": "Mochila Eberlestock F4 Terminator para cargas pesadas."
+  },
+  "item_equipment_armor_un_cc": {
+    "Name": "Chaleco balístico MF-UNTAR (DBDU Chocolate Chip)",
+    "ShortName": "MF-UN DBDU",
+    "Description": "Chaleco balístico MF-UNTAR."
+  },
+  "item_equipment_rig_beltab_fde": {
+    "Name": "Chaleco combinado Poyas-A + Poyas-B (FDE)",
+    "ShortName": "Poyas combo FDE",
+    "Description": "Chaleco combinado Poyas-A + Poyas-B."
+  },
+  "item_equipment_rig_thunderbolt_flektarn": {
+    "Name": "Chaleco táctico compacto Direct Action Thunderbolt (Flektarn)",
+    "ShortName": "Thunderbolt FTARN",
+    "Description": "Chaleco táctico compacto Direct Action Thunderbolt."
+  },
+  "item_equipment_rig_thunderbolt_slocam": {
+    "Name": "Chaleco táctico compacto Direct Action Thunderbolt (SLOCAM)",
+    "ShortName": "Thunderbolt SLOCAM",
+    "Description": "Chaleco táctico compacto Direct Action Thunderbolt."
+  },
+  "item_equipment_rig_boss_blackknight_abu": {
+    "Name": "Chaleco portaplacas Crye Precision CPC (USAF Digital Tigerstripe)",
+    "ShortName": "CPC E.G. USAF",
+    "Description": "Chaleco portaplacas Crye Precision CPC."
+  },
+  "item_equipment_rig_thunderbolt_au": {
+    "Name": "Chaleco táctico compacto Direct Action Thunderbolt (A-TACS AU)",
+    "ShortName": "Thunderbolt AU",
+    "Description": "Chaleco táctico compacto Direct Action Thunderbolt."
+  },
+  "item_equipment_rig_thunderbolt_winter": {
+    "Name": "Chaleco táctico compacto Direct Action Thunderbolt (Schneetarn)",
+    "ShortName": "Thunderbolt STARN",
+    "Description": "Chaleco táctico compacto Direct Action Thunderbolt."
+  },
+  "item_equipment_rig_boss_blackknight_black": {
+    "Name": "Chaleco portaplacas Crye Precision CPC (Black)",
+    "ShortName": "CPC E.G. Black",
+    "Description": "Chaleco portaplacas Crye Precision CPC."
+  },
+  "item_equipment_rig_boss_blackknight_bush": {
+    "Name": "Chaleco portaplacas Crye Precision CPC (Bushstroke)",
+    "ShortName": "CPC E.G. Bush",
+    "Description": "Chaleco portaplacas Crye Precision CPC."
   }
 }

@@ -1,5 +1,5 @@
 {
-  "items": {
+  "Gear": {
     "item_equipment_facecover_balaclava_emr": {
       "BaseItemID": "5ab8f39486f7745cd93a1cca",
       "BundlePath": "facecover/item_equipment_facecover_balaclava_emr.bundle",
@@ -59,15 +59,6 @@
       "BundlePath": "chestrigs/item_equipment_armor_6b3_berezka.bundle",
       "id": "687cfc390c10f10000000000",
       "name": "item_equipment_armor_6b3_berezka",
-      "enabled": true,
-      "weight": 0.333,
-      "side": "bear"
-    },
-    "item_equipment_armor_6b3_bhutan": {
-      "BaseItemID": "5d5d646386f7742797261fd9",
-      "BundlePath": "chestrigs/item_equipment_armor_6b3_bhutan.bundle",
-      "id": "687cfc390c10f10000000007",
-      "name": "item_equipment_armor_6b3_bhutan",
       "enabled": true,
       "weight": 0.333,
       "side": "bear"
@@ -377,15 +368,6 @@
       "weight": 0.2,
       "side": "bear"
     },
-    "item_equipment_armor_gjel_fde": {
-      "BaseItemID": "5ab8e79e86f7742d8b372e78",
-      "BundlePath": "armor/item_equipment_armor_gjel_fde.bundle",
-      "id": "687d3d800c10f1000000009e",
-      "name": "item_equipment_armor_gjel_fde",
-      "enabled": true,
-      "weight": 0.5,
-      "side": "bear"
-    },
     "item_equipment_armor_gjel_gray": {
       "BaseItemID": "5ab8e79e86f7742d8b372e78",
       "BundlePath": "armor/item_equipment_armor_gjel_gray.bundle",
@@ -654,7 +636,10 @@
       "name": "item_equipment_rig_1961_winter",
       "enabled": true,
       "weight": 0.2,
-      "season": [2, 5]
+      "season": [
+        2,
+        5
+      ]
     },
     "item_equipment_rig_1961_ucp": {
       "BaseItemID": "5e9db13186f7742f845ee9d3",
@@ -728,11 +713,11 @@
       "weight": 0.5,
       "side": "bear"
     },
-    "item_equipment_rig_beltab_ttsko": {
+    "item_equipment_rig_beltab_fde": {
       "BaseItemID": "5c0e6a1586f77404597b4965",
-      "BundlePath": "chestrigs/item_equipment_rig_beltab_ttsko.bundle",
+      "BundlePath": "chestrigs/item_equipment_rig_beltab_fde.bundle",
       "id": "68875bf20c10f100000000ff",
-      "name": "item_equipment_rig_beltab_ttsko",
+      "name": "item_equipment_rig_beltab_fde",
       "enabled": true,
       "weight": 0.5,
       "side": "bear"
@@ -773,11 +758,11 @@
       "weight": 0.5,
       "side": "usec"
     },
-    "item_equipment_armor_un_3c": {
+    "item_equipment_armor_un_cc": {
       "BaseItemID": "5ab8e4ed86f7742d8e50c7fa",
-      "BundlePath": "armor/item_equipment_armor_un_3c.bundle",
+      "BundlePath": "armor/item_equipment_armor_un_cc.bundle",
       "id": "688a35880c10f10000000122",
-      "name": "item_equipment_armor_un_3c",
+      "name": "item_equipment_armor_un_cc",
       "enabled": true,
       "weight": 0.333,
       "side": "usec"
@@ -989,14 +974,6 @@
       "weight": 0.25,
       "side": "usec"
     },
-    "item_equipment_rig_umka_f1": {
-      "BaseItemID": "6034cf5fffd42c541047f72e",
-      "BundlePath": "chestrigs/item_equipment_rig_umka_f1.bundle",
-      "id": "688df05b0c10f10000000166",
-      "name": "item_equipment_rig_umka_f1",
-      "enabled": true,
-      "weight": 0.333
-    },
     "item_equipment_rig_umka_f2": {
       "BaseItemID": "6034cf5fffd42c541047f72e",
       "BundlePath": "chestrigs/item_equipment_rig_umka_f2.bundle",
@@ -1019,7 +996,11 @@
       "id": "68f09bb70c10f10000000166",
       "name": "item_equipment_rig_umka_winter",
       "enabled": true,
-      "weight": 0.2
+      "weight": 0.4,
+      "season": [
+        2,
+        5
+      ]
     },
     "item_equipment_backpack_pilgrim_blueorange": {
       "BaseItemID": "59e763f286f7742ee57895da",
@@ -1384,34 +1365,11 @@
       "enabled": true,
       "weight": 0.2,
       "side": "usec",
-      "season": [2, 5, 6]
-    },
-    "item_equipment_rig_m1_gray": {
-      "BaseItemID": "5c0e722886f7740458316a57",
-      "BundlePath": "chestrigs/item_equipment_rig_m1_gray.bundle",
-      "id": "68c3d0dc0c10f100000001b0",
-      "name": "item_equipment_rig_m1_gray",
-      "enabled": true,
-      "weight": 0.35,
-      "side": "bear"
-    },
-    "item_equipment_rig_m1_coyote": {
-      "BaseItemID": "5c0e722886f7740458316a57",
-      "BundlePath": "chestrigs/item_equipment_rig_m1_coyote.bundle",
-      "id": "68c3d0dc0c10f100000001c2",
-      "name": "item_equipment_rig_m1_coyote",
-      "enabled": true,
-      "weight": 0.4,
-      "side": "bear"
-    },
-    "item_equipment_rig_m1_rg": {
-      "BaseItemID": "5c0e722886f7740458316a57",
-      "BundlePath": "chestrigs/item_equipment_rig_m1_rg.bundle",
-      "id": "68c3d0dc0c10f100000001cb",
-      "name": "item_equipment_rig_m1_rg",
-      "enabled": true,
-      "weight": 0.2,
-      "side": "bear"
+      "season": [
+        2,
+        5,
+        6
+      ]
     },
     "item_equipment_backpack_mech_green": {
       "BaseItemID": "5d5d940f86f7742797262046",
@@ -1449,6 +1407,33 @@
       "weight": 0.5,
       "side": "usec"
     },
+    "item_equipment_rig_m1_coyote": {
+      "BaseItemID": "5c0e722886f7740458316a57",
+      "BundlePath": "chestrigs/item_equipment_rig_m1_coyote.bundle",
+      "id": "68c3d0dc0c10f100000001c2",
+      "name": "item_equipment_rig_m1_coyote",
+      "enabled": true,
+      "weight": 0.4,
+      "side": "bear"
+    },
+    "item_equipment_rig_m1_gray": {
+      "BaseItemID": "5c0e722886f7740458316a57",
+      "BundlePath": "chestrigs/item_equipment_rig_m1_gray.bundle",
+      "id": "68c3d0dc0c10f100000001b0",
+      "name": "item_equipment_rig_m1_gray",
+      "enabled": true,
+      "weight": 0.35,
+      "side": "bear"
+    },
+    "item_equipment_rig_m1_rg": {
+      "BaseItemID": "5c0e722886f7740458316a57",
+      "BundlePath": "chestrigs/item_equipment_rig_m1_rg.bundle",
+      "id": "68c3d0dc0c10f100000001cb",
+      "name": "item_equipment_rig_m1_rg",
+      "enabled": true,
+      "weight": 0.2,
+      "side": "bear"
+    },
     "chestrig_tarzan_dym": {
       "BaseItemID": "5e4abfed86f77406a2713cf7",
       "BundlePath": "chestrigs/chestrig_tarzan_dym.bundle",
@@ -1456,7 +1441,11 @@
       "name": "chestrig_tarzan_dym",
       "enabled": true,
       "weight": 0.5,
-      "season": [1, 4, 5],
+      "season": [
+        1,
+        4,
+        5
+      ],
       "side": "bear"
     },
     "chestrig_tarzan_emra": {
@@ -1466,7 +1455,11 @@
       "name": "chestrig_tarzan_emra",
       "enabled": true,
       "weight": 0.8,
-      "season": [4, 2, 5],
+      "season": [
+        4,
+        2,
+        5
+      ],
       "side": "bear"
     },
     "item_equipment_armor_a18_dym": {
@@ -1485,7 +1478,11 @@
       "name": "item_equipment_armor_a18_emr1",
       "enabled": true,
       "weight": 0.5,
-      "season": [0, 1, 3],
+      "season": [
+        0,
+        1,
+        3
+      ],
       "side": "bear"
     },
     "item_equipment_armor_a18_gray": {
@@ -1521,7 +1518,10 @@
       "name": "item_equipment_backpack_paratus_wasp",
       "enabled": true,
       "side": "usec",
-      "season": [2, 5],
+      "season": [
+        2,
+        5
+      ],
       "weight": 0.5
     },
     "item_equipment_backpack_paratus_kr": {
@@ -1549,7 +1549,10 @@
       "name": "item_equipment_rig_6h112_arctic",
       "enabled": true,
       "side": "bear",
-      "season": [2, 5],
+      "season": [
+        2,
+        5
+      ],
       "weight": 0.5
     },
     "item_equipment_rig_bae_rbav_aor": {
@@ -1629,7 +1632,7 @@
       "id": "69050a440c10f1000000020a",
       "name": "item_equipment_facecover_strikeball_mask_leshiy",
       "enabled": true,
-      "weight": 1.0
+      "weight": 0.75
     },
     "item_equipment_backpack_g2_gunslinger_gray": {
       "BaseItemID": "6034d2d697633951dc245ea6",
@@ -1684,9 +1687,63 @@
       "enabled": true,
       "weight": 0.333,
       "side": "usec"
+    },
+     "item_equipment_rig_thunderbolt_flektarn": {
+      "BaseItemID": "5f5f41f56760b4138443b352",
+      "BundlePath": "chestrigs/item_equipment_rig_thunderbolt_flektarn.bundle",
+      "id": "6920a9600c10f1000000020a",
+      "name": "item_equipment_rig_thunderbolt_flektarn",
+      "enabled": true,
+      "weight": 0.33,
+      "side": "usec"
+    },
+    "item_equipment_rig_thunderbolt_slocam": {
+      "BaseItemID": "5f5f41f56760b4138443b352",
+      "BundlePath": "chestrigs/item_equipment_rig_thunderbolt_slocam.bundle",
+      "id": "6920a9600c10f1000000020b",
+      "name": "item_equipment_rig_thunderbolt_slocam",
+      "enabled": true,
+      "weight": 0.33,
+      "side": "usec"
+    },
+    "item_equipment_rig_boss_blackknight_abu": {
+      "BaseItemID": "628b9c7d45122232a872358f",
+      "BundlePath": "chestrigs/item_equipment_rig_boss_blackknight_abu.bundle",
+      "id": "6920a9600c10f1000000020c",
+      "name": "item_equipment_rig_boss_blackknight_abu",
+      "enabled": true,
+      "weight": 0.2,
+      "side": "usec"
+    },
+    "item_equipment_rig_thunderbolt_au": {
+      "BaseItemID": "5f5f41f56760b4138443b352",
+      "BundlePath": "chestrigs/item_equipment_rig_thunderbolt_au.bundle",
+      "id": "692152900c10f1000000020a",
+      "name": "item_equipment_rig_thunderbolt_au",
+      "enabled": true,
+      "weight": 0.33,
+      "side": "usec"
+    },
+    "item_equipment_rig_boss_blackknight_black": {
+      "BaseItemID": "628b9c7d45122232a872358f",
+      "BundlePath": "chestrigs/item_equipment_rig_boss_blackknight_black.bundle",
+      "id": "692152900c10f10000000216",
+      "name": "item_equipment_rig_boss_blackknight_black",
+      "enabled": true,
+      "weight": 0.2,
+      "side": "usec"
+    },
+    "item_equipment_rig_boss_blackknight_bush": {
+      "BaseItemID": "628b9c7d45122232a872358f",
+      "BundlePath": "chestrigs/item_equipment_rig_boss_blackknight_bush.bundle",
+      "id": "692152900c10f10000000221",
+      "name": "item_equipment_rig_boss_blackknight_bush",
+      "enabled": true,
+      "weight": 0.6,
+      "side": "usec"
     }
   },
-  "bottoms": {
+  "Bottoms": {
     "pants_bear_spna_butan": {
       "name": "pants_bear_spna_butan",
       "displayName": "SPN Butan",
@@ -1694,11 +1751,13 @@
       "SuiteId": "688e0c5b0c10f10000000001",
       "BundlePath": "bottoms/pants_bear_spna_butan.bundle",
       "LoyaltyLevel": 0,
-      "ProfileLevel": 38,
+      "ProfileLevel": 3,
       "Standing": 0,
-      "Price": 1300000,
+      "Price": 100000,
       "enabled": true,
-      "Side": ["Bear"]
+      "Side": [
+        "Bear"
+      ]
     },
     "pants_bear_spna_klmk": {
       "name": "pants_bear_spna_klmk",
@@ -1711,7 +1770,9 @@
       "Standing": 0,
       "Price": 500000,
       "enabled": true,
-      "Side": ["Bear"]
+      "Side": [
+        "Bear"
+      ]
     },
     "pants_bear_spna_vsk": {
       "name": "pants_bear_spna_vsk",
@@ -1724,7 +1785,9 @@
       "Standing": 0,
       "Price": 150000,
       "enabled": true,
-      "Side": ["Bear"]
+      "Side": [
+        "Bear"
+      ]
     },
     "pants_bear_spna_granite": {
       "name": "pants_bear_spna_granite",
@@ -1733,11 +1796,13 @@
       "SuiteId": "688e0c5b0c10f10000000007",
       "BundlePath": "bottoms/pants_bear_spna_granite.bundle",
       "LoyaltyLevel": 0,
-      "ProfileLevel": 19,
+      "ProfileLevel": 5,
       "Standing": 0,
-      "Price": 300000,
+      "Price": 100000,
       "enabled": true,
-      "Side": ["Bear"]
+      "Side": [
+        "Bear"
+      ]
     },
     "pants_usec_deeprecon_korea": {
       "name": "pants_usec_deeprecon_korea",
@@ -1750,7 +1815,9 @@
       "Standing": 0,
       "Price": 150000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     },
     "pants_usec_deeprecon_overgrown": {
       "name": "pants_usec_deeprecon_overgrown",
@@ -1763,8 +1830,13 @@
       "Standing": 0,
       "Price": 800000,
       "enabled": true,
-      "Side": ["Usec"],
-      "season": [0, 3]
+      "Side": [
+        "Usec"
+      ],
+      "season": [
+        0,
+        3
+      ]
     },
     "pants_usec_gen2_atacs": {
       "name": "pants_usec_gen2_atacs",
@@ -1777,7 +1849,9 @@
       "Standing": 0,
       "Price": 300000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     },
     "pants_usec_deeprecon_urban": {
       "name": "pants_usec_deeprecon_urban",
@@ -1790,7 +1864,9 @@
       "Standing": 0,
       "Price": 800000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     },
     "pants_usec_crayfish": {
       "name": "pants_usec_crayfish",
@@ -1799,11 +1875,14 @@
       "SuiteId": "688eaca30c10f10000000011",
       "BundlePath": "bottoms/pants_usec_crayfish.bundle",
       "LoyaltyLevel": 0,
-      "ProfileLevel": 15,
+      "ProfileLevel": 0,
       "Standing": 0,
       "Price": 300,
       "enabled": true,
-      "season": [0, 3]
+      "season": [
+        0,
+        3
+      ]
     },
     "pants_bear_zaslon_musor": {
       "name": "pants_bear_zaslon_musor",
@@ -1816,7 +1895,9 @@
       "Standing": 0,
       "Price": 30000,
       "enabled": true,
-      "Side": ["Bear"]
+      "Side": [
+        "Bear"
+      ]
     },
     "pants_bear_zaslon_emr": {
       "name": "pants_bear_zaslon_emr",
@@ -1829,7 +1910,9 @@
       "Standing": 0,
       "Price": 150000,
       "enabled": true,
-      "Side": ["Bear"]
+      "Side": [
+        "Bear"
+      ]
     },
     "pants_bear_zaslon_mc": {
       "name": "pants_bear_zaslon_mc",
@@ -1878,7 +1961,9 @@
       "Standing": 0,
       "Price": 250000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     },
     "pants_usec_cryeac_alpha_french": {
       "name": "pants_usec_cryeac_alpha_french",
@@ -1891,7 +1976,9 @@
       "Standing": 0,
       "Price": 550000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     },
     "pants_usec_cryeac_alpha_mm14": {
       "name": "pants_usec_cryeac_alpha_mm14",
@@ -1904,7 +1991,9 @@
       "Standing": 0,
       "Price": 150000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     },
     "pants_usec_gen2_estdcu": {
       "name": "pants_usec_gen2_estdcu",
@@ -1917,7 +2006,9 @@
       "Standing": 0,
       "Price": 150000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     },
     "pants_usec_gen2_green": {
       "name": "pants_usec_gen2_green",
@@ -1954,7 +2045,9 @@
       "Standing": 0,
       "Price": 15000,
       "enabled": true,
-      "Side": ["Bear"]
+      "Side": [
+        "Bear"
+      ]
     },
     "pants_security_gorka4_emr": {
       "name": "pants_security_gorka4_emr",
@@ -1967,7 +2060,9 @@
       "Standing": 0,
       "Price": 150000,
       "enabled": true,
-      "Side": ["Bear"]
+      "Side": [
+        "Bear"
+      ]
     },
     "pants_security_gorka4_tibet": {
       "name": "pants_security_gorka4_tibet",
@@ -1980,7 +2075,9 @@
       "Standing": 0,
       "Price": 400000,
       "enabled": true,
-      "Side": ["Bear"]
+      "Side": [
+        "Bear"
+      ]
     },
     "pants_security_gorka4_izlom": {
       "name": "pants_security_gorka4_izlom",
@@ -1993,7 +2090,9 @@
       "Standing": 0,
       "Price": 400000,
       "enabled": true,
-      "Side": ["Bear"]
+      "Side": [
+        "Bear"
+      ]
     },
     "pants_rt_gray": {
       "name": "pants_rt_gray",
@@ -2018,7 +2117,9 @@
       "Standing": 0,
       "Price": 240000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     },
     "pants_usec_special_ops_flektarn": {
       "name": "pants_usec_special_ops_flektarn",
@@ -2031,7 +2132,9 @@
       "Standing": 0,
       "Price": 220000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     },
     "pants_usec_special_ops_lizard": {
       "name": "pants_usec_special_ops_lizard",
@@ -2044,7 +2147,9 @@
       "Standing": 0,
       "Price": 750000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     },
     "pants_usec_special_ops_m81": {
       "name": "pants_usec_special_ops_m81",
@@ -2057,7 +2162,9 @@
       "Standing": 0,
       "Price": 390000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     },
     "pants_usec_special_ops_multicam": {
       "name": "pants_usec_special_ops_multicam",
@@ -2094,7 +2201,9 @@
       "Standing": 0,
       "Price": 200000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     },
     "pants_usec_tier3_m05": {
       "name": "pants_usec_tier3_m05",
@@ -2107,8 +2216,15 @@
       "Standing": 0,
       "Price": 700000,
       "enabled": true,
-      "Side": ["Usec"],
-      "season": [0, 1, 3, 4]
+      "Side": [
+        "Usec"
+      ],
+      "season": [
+        0,
+        1,
+        3,
+        4
+      ]
     },
     "pants_usec_tier3_m05w": {
       "name": "pants_usec_tier3_m05w",
@@ -2121,8 +2237,14 @@
       "Standing": 0,
       "Price": 700000,
       "enabled": true,
-      "Side": ["Usec"],
-      "season": [5, 6, 2]
+      "Side": [
+        "Usec"
+      ],
+      "season": [
+        5,
+        6,
+        2
+      ]
     },
     "pants_usec_tier3_mc": {
       "name": "pants_usec_tier3_mc",
@@ -2147,7 +2269,10 @@
       "Standing": 0,
       "Price": 500000,
       "enabled": true,
-      "season": [0, 3]
+      "season": [
+        0,
+        3
+      ]
     },
     "pants_shorts_green": {
       "name": "pants_shorts_green",
@@ -2160,7 +2285,10 @@
       "Standing": 0,
       "Price": 500000,
       "enabled": true,
-      "season": [0, 3]
+      "season": [
+        0,
+        3
+      ]
     },
     "pants_usec_blackhawk_mct": {
       "name": "pants_usec_blackhawk_mct",
@@ -2173,7 +2301,10 @@
       "Standing": 0,
       "Price": 800000,
       "enabled": true,
-      "season": [0, 3]
+      "season": [
+        0,
+        3
+      ]
     },
     "pants_usec_blackhawk_turk": {
       "name": "pants_usec_blackhawk_turk",
@@ -2186,7 +2317,9 @@
       "Standing": 0,
       "Price": 750000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     },
     "pants_usec_blackhawk_mtarn": {
       "name": "pants_usec_blackhawk_mtarn",
@@ -2199,7 +2332,9 @@
       "Standing": 0,
       "Price": 250000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     },
     "pants_usec_blackhawk_black": {
       "name": "pants_usec_blackhawk_black",
@@ -2236,7 +2371,9 @@
       "Standing": 0,
       "Price": 60000,
       "enabled": true,
-      "Side": ["Bear"]
+      "Side": [
+        "Bear"
+      ]
     },
     "pants_bear_srvv_coyote": {
       "name": "pants_bear_srvv_coyote",
@@ -2249,7 +2386,9 @@
       "Standing": 0,
       "Price": 800000,
       "enabled": true,
-      "Side": ["Bear"]
+      "Side": [
+        "Bear"
+      ]
     },
     "pants_usec_tier3_ucon": {
       "name": "pants_usec_tier3_ucon",
@@ -2262,7 +2401,9 @@
       "Standing": 0,
       "Price": 800000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     },
     "pants_bear_srvv_emr": {
       "name": "pants_bear_srvv_emr",
@@ -2275,7 +2416,9 @@
       "Standing": 0,
       "Price": 300000,
       "enabled": true,
-      "Side": ["Bear"]
+      "Side": [
+        "Bear"
+      ]
     },
     "pants_bear_winterhunter": {
       "name": "pants_bear_winterhunter",
@@ -2288,10 +2431,10 @@
       "Standing": 0,
       "Price": 600000,
       "enabled": true,
-      "Side": ["Bear"]
+      "Side": [
+        "Bear"
+      ]
     },
-
-
     "pants_usec_commando_slocam": {
       "name": "pants_usec_commando_slocam",
       "displayName": "Commando SLOCAM",
@@ -2303,7 +2446,9 @@
       "Standing": 0,
       "Price": 1000000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     },
     "pants_usec_commando_wasp": {
       "name": "pants_usec_commando_wasp",
@@ -2316,7 +2461,9 @@
       "Standing": 0,
       "Price": 250000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     },
     "pants_usec_commando_bush": {
       "name": "pants_usec_commando_bush",
@@ -2329,10 +2476,12 @@
       "Standing": 0,
       "Price": 1500000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     }
   },
-  "tops": {
+  "Tops": {
     "top_bear_polevoi_butan": {
       "name": "top_bear_polevoi_butan",
       "displayName": "Butan field shirt",
@@ -2343,11 +2492,13 @@
       "HandsId": "688e0c5e0c10f10000000002",
       "HandsBaseID": "5d1f5aca86f7744bce0ee9f1",
       "LoyaltyLevel": 0,
-      "ProfileLevel": 38,
+      "ProfileLevel": 3,
       "Standing": 0,
-      "Price": 1500000,
+      "Price": 100000,
       "enabled": true,
-      "Side": ["Bear"]
+      "Side": [
+        "Bear"
+      ]
     },
     "top_bear_polevoi_vsk": {
       "name": "top_bear_polevoi_vsk",
@@ -2363,7 +2514,9 @@
       "Standing": 0,
       "Price": 350000,
       "enabled": true,
-      "Side": ["Bear"]
+      "Side": [
+        "Bear"
+      ]
     },
     "top_bear_polevoi_klmk": {
       "name": "top_bear_polevoi_klmk",
@@ -2379,7 +2532,9 @@
       "Standing": 0,
       "Price": 600000,
       "enabled": true,
-      "Side": ["Bear"]
+      "Side": [
+        "Bear"
+      ]
     },
     "top_bear_polevoi_granite": {
       "name": "top_bear_polevoi_granite",
@@ -2391,11 +2546,13 @@
       "HandsId": "688e0c5e0c10f1000000000b",
       "HandsBaseID": "5d1f5aca86f7744bce0ee9f1",
       "LoyaltyLevel": 0,
-      "ProfileLevel": 19,
+      "ProfileLevel": 5,
       "Standing": 0,
-      "Price": 500000,
+      "Price": 100000,
       "enabled": true,
-      "Side": ["Bear"]
+      "Side": [
+        "Bear"
+      ]
     },
     "top_usec_nightpatrol_atacs": {
       "name": "top_usec_nightpatrol_atacs",
@@ -2411,8 +2568,15 @@
       "Standing": 0,
       "Price": 500000,
       "enabled": true,
-      "Side": ["Usec"],
-      "season": [0, 1, 3, 4]
+      "Side": [
+        "Usec"
+      ],
+      "season": [
+        0,
+        1,
+        3,
+        4
+      ]
     },
     "top_usec_nightpatrol_korea": {
       "name": "top_usec_nightpatrol_korea",
@@ -2428,7 +2592,9 @@
       "Standing": 0,
       "Price": 350000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     },
     "top_usec_nightpatrol_overgrown": {
       "name": "top_usec_nightpatrol_overgrown",
@@ -2444,8 +2610,13 @@
       "Standing": 0,
       "Price": 1000000,
       "enabled": true,
-      "Side": ["Usec"],
-      "season": [0, 3]
+      "Side": [
+        "Usec"
+      ],
+      "season": [
+        0,
+        3
+      ]
     },
     "top_usec_nightpatrol_urban": {
       "name": "top_usec_nightpatrol_urban",
@@ -2461,7 +2632,9 @@
       "Standing": 0,
       "Price": 1000000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     },
     "tshirt_bear_beer": {
       "name": "tshirt_bear_beer",
@@ -2473,12 +2646,17 @@
       "HandsId": "5d1f5aa286f7744bca3f0b9c",
       "HandsBaseID": "5d1f5aa286f7744bca3f0b9c",
       "LoyaltyLevel": 0,
-      "ProfileLevel": 15,
+      "ProfileLevel": 0,
       "Standing": 0,
       "Price": 700,
       "enabled": true,
-      "Side": ["Bear"],
-      "season": [0, 3]
+      "Side": [
+        "Bear"
+      ],
+      "season": [
+        0,
+        3
+      ]
     },
     "tshirt_bear_vsr": {
       "name": "tshirt_bear_vsr",
@@ -2494,8 +2672,13 @@
       "Standing": 0,
       "Price": 150000,
       "enabled": true,
-      "Side": ["Bear"],
-      "season": [0, 3]
+      "Side": [
+        "Bear"
+      ],
+      "season": [
+        0,
+        3
+      ]
     },
     "tshirt_bear_emrd": {
       "name": "tshirt_bear_emrd",
@@ -2511,8 +2694,13 @@
       "Standing": 0,
       "Price": 150000,
       "enabled": true,
-      "Side": ["Bear"],
-      "season": [0, 3]
+      "Side": [
+        "Bear"
+      ],
+      "season": [
+        0,
+        3
+      ]
     },
     "tshirt_bear_emrs": {
       "name": "tshirt_bear_emrs",
@@ -2528,8 +2716,13 @@
       "Standing": 0,
       "Price": 450000,
       "enabled": true,
-      "Side": ["Bear"],
-      "season": [0, 3]
+      "Side": [
+        "Bear"
+      ],
+      "season": [
+        0,
+        3
+      ]
     },
     "tshirt_bear_klmk": {
       "name": "tshirt_bear_klmk",
@@ -2545,8 +2738,13 @@
       "Standing": 0,
       "Price": 150000,
       "enabled": true,
-      "Side": ["Bear"],
-      "season": [0, 3]
+      "Side": [
+        "Bear"
+      ],
+      "season": [
+        0,
+        3
+      ]
     },
     "tshirt_bear_moha": {
       "name": "tshirt_bear_moha",
@@ -2562,8 +2760,13 @@
       "Standing": 0,
       "Price": 200000,
       "enabled": true,
-      "Side": ["Bear"],
-      "season": [0, 3]
+      "Side": [
+        "Bear"
+      ],
+      "season": [
+        0,
+        3
+      ]
     },
     "top_tshirt_u_estd": {
       "name": "top_tshirt_u_estd",
@@ -2579,8 +2782,13 @@
       "Standing": 0,
       "Price": 400000,
       "enabled": true,
-      "Side": ["Usec"],
-      "season": [0, 3]
+      "Side": [
+        "Usec"
+      ],
+      "season": [
+        0,
+        3
+      ]
     },
     "top_tshirt_u_flektarn": {
       "name": "top_tshirt_u_flektarn",
@@ -2596,8 +2804,13 @@
       "Standing": 0,
       "Price": 450000,
       "enabled": true,
-      "Side": ["Usec"],
-      "season": [0, 3]
+      "Side": [
+        "Usec"
+      ],
+      "season": [
+        0,
+        3
+      ]
     },
     "top_tshirt_u_lizard": {
       "name": "top_tshirt_u_lizard",
@@ -2613,8 +2826,13 @@
       "Standing": 0,
       "Price": 850000,
       "enabled": true,
-      "Side": ["Usec"],
-      "season": [0, 3]
+      "Side": [
+        "Usec"
+      ],
+      "season": [
+        0,
+        3
+      ]
     },
     "top_tshirt_u_mm14": {
       "name": "top_tshirt_u_mm14",
@@ -2630,8 +2848,13 @@
       "Standing": 0,
       "Price": 100000,
       "enabled": true,
-      "Side": ["Usec"],
-      "season": [0, 3]
+      "Side": [
+        "Usec"
+      ],
+      "season": [
+        0,
+        3
+      ]
     },
     "top_tshirt_u_mtp": {
       "name": "top_tshirt_u_mtp",
@@ -2647,8 +2870,13 @@
       "Standing": 0,
       "Price": 650000,
       "enabled": true,
-      "Side": ["Usec"],
-      "season": [0, 3]
+      "Side": [
+        "Usec"
+      ],
+      "season": [
+        0,
+        3
+      ]
     },
     "top_tshirt_u_multitarn": {
       "name": "top_tshirt_u_multitarn",
@@ -2664,8 +2892,13 @@
       "Standing": 0,
       "Price": 150000,
       "enabled": true,
-      "Side": ["Usec"],
-      "season": [0, 3]
+      "Side": [
+        "Usec"
+      ],
+      "season": [
+        0,
+        3
+      ]
     },
     "top_tshirt_u_ucp": {
       "name": "top_tshirt_u_ucp",
@@ -2681,8 +2914,13 @@
       "Standing": 0,
       "Price": 250000,
       "enabled": true,
-      "Side": ["Usec"],
-      "season": [0, 3]
+      "Side": [
+        "Usec"
+      ],
+      "season": [
+        0,
+        3
+      ]
     },
     "top_tshirt_u_urban": {
       "name": "top_tshirt_u_urban",
@@ -2698,8 +2936,13 @@
       "Standing": 0,
       "Price": 450000,
       "enabled": true,
-      "Side": ["Usec"],
-      "season": [0, 3]
+      "Side": [
+        "Usec"
+      ],
+      "season": [
+        0,
+        3
+      ]
     },
     "top_usec_u2_badlands": {
       "name": "top_usec_u2_badlands",
@@ -2715,8 +2958,16 @@
       "Standing": 0,
       "Price": 700000,
       "enabled": true,
-      "Side": ["Usec"],
-      "season": [1, 3, 4, 5, 6]
+      "Side": [
+        "Usec"
+      ],
+      "season": [
+        1,
+        3,
+        4,
+        5,
+        6
+      ]
     },
     "top_usec_u2_french": {
       "name": "top_usec_u2_french",
@@ -2732,8 +2983,17 @@
       "Standing": 0,
       "Price": 750000,
       "enabled": true,
-      "Side": ["Usec"],
-      "season": [0, 1, 3, 4, 5, 6]
+      "Side": [
+        "Usec"
+      ],
+      "season": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        6
+      ]
     },
     "top_usec_u2_mm14": {
       "name": "top_usec_u2_mm14",
@@ -2749,8 +3009,17 @@
       "Standing": 0,
       "Price": 150000,
       "enabled": true,
-      "Side": ["Usec"],
-      "season": [0, 1, 3, 4, 5, 6]
+      "Side": [
+        "Usec"
+      ],
+      "season": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        6
+      ]
     },
     "top_usec_u2_vegetato": {
       "name": "top_usec_u2_vegetato",
@@ -2766,8 +3035,15 @@
       "Standing": 0,
       "Price": 750000,
       "enabled": true,
-      "Side": ["Usec"],
-      "season": [0, 1, 3, 4]
+      "Side": [
+        "Usec"
+      ],
+      "season": [
+        0,
+        1,
+        3,
+        4
+      ]
     },
     "top_usec_u2_est": {
       "name": "top_usec_u2_est",
@@ -2783,7 +3059,9 @@
       "Standing": 0,
       "Price": 150000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     },
     "top_usec_u2_marpat": {
       "name": "top_usec_u2_marpat",
@@ -2799,7 +3077,9 @@
       "Standing": 0,
       "Price": 250000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     },
     "top_usec_u2_flektarn": {
       "name": "top_usec_u2_flektarn",
@@ -2815,7 +3095,9 @@
       "Standing": 0,
       "Price": 250000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     },
     "top_usec_u2_multitarn": {
       "name": "top_usec_u2_multitarn",
@@ -2831,7 +3113,9 @@
       "Standing": 0,
       "Price": 250000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     },
     "top_bear_lynx_mc": {
       "name": "top_bear_lynx_mc",
@@ -2862,7 +3146,9 @@
       "Standing": 0,
       "Price": 1500000,
       "enabled": true,
-      "Side": ["Bear"]
+      "Side": [
+        "Bear"
+      ]
     },
     "top_bear_zaslon_spring": {
       "name": "top_bear_zaslon_spring",
@@ -2878,7 +3164,9 @@
       "Standing": 0,
       "Price": 350000,
       "enabled": true,
-      "Side": ["Bear"]
+      "Side": [
+        "Bear"
+      ]
     },
     "top_bear_zaslon_musor": {
       "name": "top_bear_zaslon_musor",
@@ -2894,7 +3182,9 @@
       "Standing": 0,
       "Price": 30000,
       "enabled": true,
-      "Side": ["Bear"]
+      "Side": [
+        "Bear"
+      ]
     },
     "top_bear_zaslon_emr": {
       "name": "top_bear_zaslon_emr",
@@ -2910,7 +3200,9 @@
       "Standing": 0,
       "Price": 150000,
       "enabled": true,
-      "Side": ["Bear"]
+      "Side": [
+        "Bear"
+      ]
     },
     "top_bear_lynx_tibet": {
       "name": "top_bear_lynx_tibet",
@@ -2926,7 +3218,9 @@
       "Standing": 0,
       "Price": 750000,
       "enabled": true,
-      "Side": ["Bear"]
+      "Side": [
+        "Bear"
+      ]
     },
     "top_bear_lynx_vsru": {
       "name": "top_bear_lynx_vsru",
@@ -2942,7 +3236,9 @@
       "Standing": 0,
       "Price": 2000000,
       "enabled": true,
-      "Side": ["Bear"]
+      "Side": [
+        "Bear"
+      ]
     },
     "top_usec_softshell_blue": {
       "name": "top_usec_softshell_blue",
@@ -2958,7 +3254,9 @@
       "Standing": 0,
       "Price": 400000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     },
     "top_usec_softshell_mcgreen": {
       "name": "top_usec_softshell_mcgreen",
@@ -2975,13 +3273,13 @@
       "Price": 450000,
       "enabled": true
     },
-    "top_usec_softshell_green": {
-      "name": "top_usec_softshell_green",
-      "displayName": "Softshell Green",
+    "top_usec_softshell_orange": {
+      "name": "top_usec_softshell_orange",
+      "displayName": "Softshell Orange",
       "id": "68b063860c10f10000000066",
       "SuiteId": "68b063860c10f10000000067",
-      "BundlePath": "tops/top_usec_softshell_green.bundle",
-      "HandsBundlePath": "hands/hands_usec_softshell_green.skin.bundle",
+      "BundlePath": "tops/top_usec_softshell_orange.bundle",
+      "HandsBundlePath": "hands/hands_usec_softshell_orange.skin.bundle",
       "HandsId": "68b063860c10f10000000068",
       "HandsBaseID": "5d1f5b1986f7744bcd1345a1",
       "LoyaltyLevel": 0,
@@ -2989,8 +3287,9 @@
       "Standing": 0,
       "Price": 400000,
       "enabled": true,
-      "Side": ["Usec"],
-      "season": [0, 3, 1]
+      "Side": [
+        "Usec"
+      ]
     },
     "top_usec_softshell_hunter": {
       "name": "top_usec_softshell_hunter",
@@ -3006,7 +3305,12 @@
       "Standing": 0,
       "Price": 800000,
       "enabled": true,
-      "season": [5, 6, 1, 4]
+      "season": [
+        5,
+        6,
+        1,
+        4
+      ]
     },
     "top_bear_hawaii_tiger": {
       "name": "top_bear_hawaii_tiger",
@@ -3014,16 +3318,22 @@
       "id": "68bd4b050c10f1000000006c",
       "SuiteId": "68bd4b050c10f1000000006d",
       "BundlePath": "tops/top_bear_hawaii_tiger.bundle",
-      "HandsBundlePath": "hands/hands_bear_hawaii_cr.skin.bundle",
-      "HandsId": "68bd4b050c10f10000000071",
-      "HandsBaseID": "5d1f5b1986f7744bcd1345a1",
+      "HandsBundlePath": "",
+      "HandsId": "685d08a741b02568210760ca",
+      "HandsBaseID": "685d08a741b02568210760ca",
       "LoyaltyLevel": 0,
       "ProfileLevel": 18,
       "Standing": 0,
       "Price": 400000,
       "enabled": true,
-      "Side": ["Usec"],
-      "season": [0, 1, 3]
+      "Side": [
+        "Usec"
+      ],
+      "season": [
+        0,
+        1,
+        3
+      ]
     },
     "top_bear_hawaii_light": {
       "name": "top_bear_hawaii_light",
@@ -3031,16 +3341,22 @@
       "id": "68bd4b050c10f1000000006f",
       "SuiteId": "68bd4b050c10f10000000070",
       "BundlePath": "tops/top_bear_hawaii_light.bundle",
-      "HandsBundlePath": "hands/hands_bear_hawaii_cr.skin.bundle",
-      "HandsId": "68bd4b050c10f10000000071",
-      "HandsBaseID": "5d1f5b1986f7744bcd1345a1",
+      "HandsBundlePath": "",
+      "HandsId": "685d08a741b02568210760ca",
+      "HandsBaseID": "685d08a741b02568210760ca",
       "LoyaltyLevel": 0,
       "ProfileLevel": 42,
       "Standing": 0,
       "Price": 3000000,
       "enabled": true,
-      "season": [0, 1, 3],
-      "Side": ["Usec"]
+      "season": [
+        0,
+        1,
+        3
+      ],
+      "Side": [
+        "Usec"
+      ]
     },
     "top_bear_hawaii_green": {
       "name": "top_bear_hawaii_green",
@@ -3048,16 +3364,21 @@
       "id": "68bd4b050c10f10000000072",
       "SuiteId": "68bd4b050c10f10000000073",
       "BundlePath": "tops/top_bear_hawaii_green.bundle",
-      "HandsBundlePath": "hands/hands_bear_hawaii_cr.skin.bundle",
-      "HandsId": "68bd4b050c10f10000000071",
-      "HandsBaseID": "5d1f5b1986f7744bcd1345a1",
+      "HandsBundlePath": "",
+      "HandsId": "685d08a741b02568210760ca",
+      "HandsBaseID": "685d08a741b02568210760ca",
       "LoyaltyLevel": 0,
       "ProfileLevel": 31,
       "Standing": 0,
       "Price": 820000,
       "enabled": true,
-      "season": [0, 3],
-      "Side": ["Usec"]
+      "season": [
+        0,
+        3
+      ],
+      "Side": [
+        "Usec"
+      ]
     },
     "top_bear_sumrak_moh": {
       "name": "top_bear_sumrak_moh",
@@ -3073,8 +3394,14 @@
       "Standing": 0,
       "Price": 1300000,
       "enabled": true,
-      "season": [0, 1, 3],
-      "Side": ["Bear"]
+      "season": [
+        0,
+        1,
+        3
+      ],
+      "Side": [
+        "Bear"
+      ]
     },
     "top_bear_sumrak_partizanm": {
       "name": "top_bear_sumrak_partizanm",
@@ -3090,8 +3417,15 @@
       "Standing": 0,
       "Price": 1300000,
       "enabled": true,
-      "season": [1, 4, 5, 6],
-      "Side": ["Usec"]
+      "season": [
+        1,
+        4,
+        5,
+        6
+      ],
+      "Side": [
+        "Usec"
+      ]
     },
     "tshirt_bear_telnik_border": {
       "name": "tshirt_bear_telnik_border",
@@ -3107,8 +3441,13 @@
       "Standing": 0,
       "Price": 250000,
       "enabled": true,
-      "season": [0, 3],
-      "Side": ["Bear"]
+      "season": [
+        0,
+        3
+      ],
+      "Side": [
+        "Bear"
+      ]
     },
     "tshirt_bear_telnik_emercom": {
       "name": "tshirt_bear_telnik_emercom",
@@ -3124,8 +3463,13 @@
       "Standing": 0,
       "Price": 250000,
       "enabled": true,
-      "season": [0, 3],
-      "Side": ["Bear"]
+      "season": [
+        0,
+        3
+      ],
+      "Side": [
+        "Bear"
+      ]
     },
     "tshirt_usec_cryeac_alpha_erdl": {
       "name": "tshirt_usec_cryeac_alpha_erdl",
@@ -3141,8 +3485,15 @@
       "Standing": 0,
       "Price": 350000,
       "enabled": true,
-      "season": [0, 1, 3, 4],
-      "Side": ["Usec"]
+      "season": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "Side": [
+        "Usec"
+      ]
     },
     "tshirt_usec_cryeac_alpha_mad": {
       "name": "tshirt_usec_cryeac_alpha_mad",
@@ -3158,8 +3509,15 @@
       "Standing": 0,
       "Price": 600000,
       "enabled": true,
-      "season": [0, 1, 3, 4],
-      "Side": ["Usec"]
+      "season": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "Side": [
+        "Usec"
+      ]
     },
     "tshirt_usec_cryeac_alpha_greek": {
       "name": "tshirt_usec_cryeac_alpha_greek",
@@ -3175,8 +3533,15 @@
       "Standing": 0,
       "Price": 400000,
       "enabled": true,
-      "season": [0, 1, 3, 4],
-      "Side": ["Usec"]
+      "season": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "Side": [
+        "Usec"
+      ]
     },
     "tshirt_usec_cryeac_alpha_turk": {
       "name": "tshirt_usec_cryeac_alpha_turk",
@@ -3192,8 +3557,15 @@
       "Standing": 0,
       "Price": 500000,
       "enabled": true,
-      "season": [0, 1, 3, 4],
-      "Side": ["Usec"]
+      "season": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "Side": [
+        "Usec"
+      ]
     },
     "top_usec_aggressor_parka_ix": {
       "name": "top_usec_aggressor_parka_ix",
@@ -3209,8 +3581,15 @@
       "Standing": 0,
       "Price": 800000,
       "enabled": true,
-      "Side": ["Usec"],
-      "season": [1, 2, 4, 5]
+      "Side": [
+        "Usec"
+      ],
+      "season": [
+        1,
+        2,
+        4,
+        5
+      ]
     },
     "top_usec_softshell_swedenyes": {
       "name": "top_usec_softshell_swedenyes",
@@ -3226,7 +3605,9 @@
       "Standing": 0,
       "Price": 750000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     },
     "top_usec_carinthia_softshell_au": {
       "name": "top_usec_carinthia_softshell_au",
@@ -3242,7 +3623,9 @@
       "Standing": 0,
       "Price": 800000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     },
     "top_usec_carinthia_softshell_est": {
       "name": "top_usec_carinthia_softshell_est",
@@ -3258,7 +3641,9 @@
       "Standing": 0,
       "Price": 650000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     },
     "top_usec_carinthia_softshell_ucon": {
       "name": "top_usec_carinthia_softshell_ucon",
@@ -3274,7 +3659,9 @@
       "Standing": 0,
       "Price": 1100000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     },
     "top_usec_carinthia_softshell_m84": {
       "name": "top_usec_carinthia_softshell_m84",
@@ -3290,8 +3677,14 @@
       "Standing": 0,
       "Price": 700000,
       "enabled": true,
-      "Side": ["Usec"],
-      "season": [0, 1, 3]
+      "Side": [
+        "Usec"
+      ],
+      "season": [
+        0,
+        1,
+        3
+      ]
     },
     "top_usec_carinthia_softshell_m05": {
       "name": "top_usec_carinthia_softshell_m05",
@@ -3307,8 +3700,14 @@
       "Standing": 0,
       "Price": 820000,
       "enabled": true,
-      "Side": ["Usec"],
-      "season": [4, 5, 2]
+      "Side": [
+        "Usec"
+      ],
+      "season": [
+        4,
+        5,
+        2
+      ]
     },
     "top_usec_carinthia_softshell_rg": {
       "name": "top_usec_carinthia_softshell_rg",
@@ -3324,7 +3723,9 @@
       "Standing": 0,
       "Price": 400000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     },
     "top_usec_aggressor_parka_m81": {
       "name": "top_usec_aggressor_parka_m81",
@@ -3340,7 +3741,9 @@
       "Standing": 0,
       "Price": 450000,
       "enabled": true,
-      "Side": ["Usec"]
+      "Side": [
+        "Usec"
+      ]
     },
     "top_usec_orc_pcu_snowdrift": {
       "name": "top_usec_orc_pcu_snowdrift",
@@ -3352,12 +3755,17 @@
       "HandsId": "5d1f5b5386f7744bcc048757",
       "HandsBaseID": "5d1f5b5386f7744bcc048757",
       "LoyaltyLevel": 0,
-      "ProfileLevel": 39,
+      "ProfileLevel": 7,
       "Standing": 0,
-      "Price": 1000000,
+      "Price": 150000,
       "enabled": true,
-      "season": [5, 2],
-      "Side": ["Usec"]
+      "season": [
+        5,
+        2
+      ],
+      "Side": [
+        "Usec"
+      ]
     },
     "top_bear_ghostmarksman_winter": {
       "name": "top_bear_ghostmarksman_winter",
@@ -3373,8 +3781,13 @@
       "Standing": 0,
       "Price": 850000,
       "enabled": true,
-      "season": [5, 2],
-      "Side": ["Bear"]
+      "season": [
+        5,
+        2
+      ],
+      "Side": [
+        "Bear"
+      ]
     },
     "top_usec_cereum_white": {
       "name": "top_usec_cereum_white",
@@ -3386,14 +3799,18 @@
       "HandsId": "68f08494e5f7bbf969aee558",
       "HandsBaseID": "5d1f5b5386f7744bcc048757",
       "LoyaltyLevel": 0,
-      "ProfileLevel": 15,
+      "ProfileLevel": 37,
       "Standing": 0,
-      "Price": 300000,
+      "Price": 1300000,
       "enabled": true,
-      "season": [5, 2],
-      "Side": ["Usec"]
+      "season": [
+        5,
+        2
+      ],
+      "Side": [
+        "Usec"
+      ]
     },
-
     "top_bear_ops_windshirt_spektre": {
       "name": "top_bear_ops_windshirt_spektre",
       "displayName": "Spektre OPS",
@@ -3408,8 +3825,13 @@
       "Standing": 0,
       "Price": 500000,
       "enabled": true,
-      "season": [5, 2],
-      "Side": ["Bear"]
+      "season": [
+        5,
+        2
+      ],
+      "Side": [
+        "Bear"
+      ]
     },
     "top_bear_ops_windshirt_emrm": {
       "name": "top_bear_ops_windshirt_emrm",
@@ -3425,8 +3847,15 @@
       "Standing": 0,
       "Price": 420000,
       "enabled": true,
-      "season": [1, 4, 2, 5],
-      "Side": ["Bear"]
+      "season": [
+        1,
+        4,
+        2,
+        5
+      ],
+      "Side": [
+        "Bear"
+      ]
     },
     "top_bear_ops_windshirt_china": {
       "name": "top_bear_ops_windshirt_china",
@@ -3442,8 +3871,15 @@
       "Standing": 0,
       "Price": 400000,
       "enabled": true,
-      "season": [1, 4, 2, 5],
-      "Side": ["Bear"]
+      "season": [
+        1,
+        4,
+        2,
+        5
+      ],
+      "Side": [
+        "Bear"
+      ]
     }
   }
 }

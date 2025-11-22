@@ -953,5 +953,50 @@
     "Name": "Eberlestock F4 Terminator rucsac portant (Vz 95)",
     "ShortName": "F4 Terminator 95",
     "Description": "Eberlestock F4 Terminator rucsac portant."
+  },
+  "item_equipment_armor_un_cc": {
+    "Name": "MF-UNTAR armură (DBDU Chocolate Chip)",
+    "ShortName": "MF-ONU DBDU",
+    "Description": "MF-UNTAR armură."
+  },
+  "item_equipment_rig_beltab_fde": {
+    "Name": "Poyas-A + Poyas-B ham tactic (FDE)",
+    "ShortName": "Poyas combo FDE",
+    "Description": "Poyas-A + Poyas-B ham tactic."
+  },
+  "item_equipment_rig_thunderbolt_flektarn": {
+    "Name": "Direct Action Thunderbolt ham compact (Flektarn)",
+    "ShortName": "Thunderbolt FTARN",
+    "Description": "Direct Action Thunderbolt ham compact."
+  },
+  "item_equipment_rig_thunderbolt_slocam": {
+    "Name": "Direct Action Thunderbolt ham compact (SLOCAM)",
+    "ShortName": "Thunderbolt SLOCAM",
+    "Description": "Direct Action Thunderbolt ham compact."
+  },
+  "item_equipment_rig_boss_blackknight_abu": {
+    "Name": "Crye Precision CPC vestă cu blindaj (USAF Digital Tigerstripe)",
+    "ShortName": "CPC GE USAF",
+    "Description": "Crye Precision CPC vestă cu blindaj."
+  },
+  "item_equipment_rig_thunderbolt_au": {
+    "Name": "Direct Action Thunderbolt ham compact (A-TACS AU)",
+    "ShortName": "Thunderbolt AU",
+    "Description": "Direct Action Thunderbolt ham compact."
+  },
+  "item_equipment_rig_thunderbolt_winter": {
+    "Name": "Direct Action Thunderbolt ham compact (Schneetarn)",
+    "ShortName": "Thunderbolt STARN",
+    "Description": "Direct Action Thunderbolt ham compact."
+  },
+  "item_equipment_rig_boss_blackknight_black": {
+    "Name": "Crye Precision CPC vestă cu blindaj (Black)",
+    "ShortName": "CPC GE Black",
+    "Description": "Crye Precision CPC vestă cu blindaj."
+  },
+  "item_equipment_rig_boss_blackknight_bush": {
+    "Name": "Crye Precision CPC vestă cu blindaj (Bushstroke)",
+    "ShortName": "CPC GE Bush",
+    "Description": "Crye Precision CPC vestă cu blindaj."
   }
 }

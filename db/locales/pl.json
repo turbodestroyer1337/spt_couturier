@@ -953,5 +953,50 @@
     "Name": "Plecak przenoszenia oporządzenia Eberlestock F4 Terminator (Vz 95)",
     "ShortName": "F4 Terminator 95",
     "Description": "Plecak przenoszenia oporządzenia Eberlestock F4 Terminator."
+  },
+  "item_equipment_armor_un_cc": {
+    "Name": "Kamizelka kuloodporna MF-UNTAR (DBDU Chocolate Chip)",
+    "ShortName": "MF-UN DBDU",
+    "Description": "Kamizelka kuloodporna MF-UNTAR."
+  },
+  "item_equipment_rig_beltab_fde": {
+    "Name": "Kamizelka taktyczna Pas-A + Pas-B (FDE)",
+    "ShortName": "Kombinacja Pas FDE",
+    "Description": "Kamizelka taktyczna Pas-A + Pas-B."
+  },
+  "item_equipment_rig_thunderbolt_flektarn": {
+    "Name": "Kompaktowa kamizelka taktyczna Direct Action Thunderbolt (Flektarn)",
+    "ShortName": "Thunderbolt FTARN",
+    "Description": "Kompaktowa kamizelka taktyczna Direct Action Thunderbolt."
+  },
+  "item_equipment_rig_thunderbolt_slocam": {
+    "Name": "Kompaktowa kamizelka taktyczna Direct Action Thunderbolt (SLOCAM)",
+    "ShortName": "Thunderbolt SLOCAM",
+    "Description": "Kompaktowa kamizelka taktyczna Direct Action Thunderbolt."
+  },
+  "item_equipment_rig_boss_blackknight_abu": {
+    "Name": "Plate carrier Crye Precision CPC (USAF Digital Tigerstripe)",
+    "ShortName": "CPC EG USAF",
+    "Description": "Plate carrier Crye Precision CPC."
+  },
+  "item_equipment_rig_thunderbolt_au": {
+    "Name": "Kompaktowa kamizelka taktyczna Direct Action Thunderbolt (A-TACS AU)",
+    "ShortName": "Thunderbolt AU",
+    "Description": "Kompaktowa kamizelka taktyczna Direct Action Thunderbolt."
+  },
+  "item_equipment_rig_thunderbolt_winter": {
+    "Name": "Kompaktowa kamizelka taktyczna Direct Action Thunderbolt (Schneetarn)",
+    "ShortName": "Thunderbolt STARN",
+    "Description": "Kompaktowa kamizelka taktyczna Direct Action Thunderbolt."
+  },
+  "item_equipment_rig_boss_blackknight_black": {
+    "Name": "Plate carrier Crye Precision CPC (Black)",
+    "ShortName": "CPC EG Black",
+    "Description": "Plate carrier Crye Precision CPC."
+  },
+  "item_equipment_rig_boss_blackknight_bush": {
+    "Name": "Plate carrier Crye Precision CPC (Bushstroke)",
+    "ShortName": "CPC EG Bush",
+    "Description": "Plate carrier Crye Precision CPC."
   }
 }

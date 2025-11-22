@@ -953,5 +953,50 @@
     "Name": "Eberlestock F4 Terminator boy taşıma çantası (Vz 95)",
     "ShortName": "F4 95",
     "Description": "Eberlestock F4 Terminator boy taşıma çantası."
+  },
+  "item_equipment_armor_un_cc": {
+    "Name": "MF-UNTAR zırh yelek (DBDU Chocolate Chip)",
+    "ShortName": "MF-UN DBDU",
+    "Description": "MF-UNTAR zırh yelek."
+  },
+  "item_equipment_rig_beltab_fde": {
+    "Name": "Belt-A + Belt-B hücum yeleği (FDE)",
+    "ShortName": "Belt FDE",
+    "Description": "Belt-A + Belt-B hücum yeleği."
+  },
+  "item_equipment_rig_thunderbolt_flektarn": {
+    "Name": "Doğrudan eylem Thunderbolt kompakt göğüs teçhizatı (Flektarn)",
+    "ShortName": "Thunderbolt FTARN",
+    "Description": "Doğrudan eylem Thunderbolt kompakt göğüs teçhizatı."
+  },
+  "item_equipment_rig_thunderbolt_slocam": {
+    "Name": "Doğrudan eylem Thunderbolt kompakt göğüs teçhizatı (SLOCAM)",
+    "ShortName": "Thunderbolt SLOCAM",
+    "Description": "Doğrudan eylem Thunderbolt kompakt göğüs teçhizatı."
+  },
+  "item_equipment_rig_boss_blackknight_abu": {
+    "Name": "Crye Precision CPC plaka taşıyıcı (USAF Digital Tigerstripe)",
+    "ShortName": "CPC GE USAF",
+    "Description": "Crye Precision CPC plaka taşıyıcı."
+  },
+  "item_equipment_rig_thunderbolt_au": {
+    "Name": "Doğrudan eylem Thunderbolt kompakt göğüs teçhizatı (A-TACS AU)",
+    "ShortName": "Thunderbolt AU",
+    "Description": "Doğrudan eylem Thunderbolt kompakt göğüs teçhizatı."
+  },
+  "item_equipment_rig_thunderbolt_winter": {
+    "Name": "Doğrudan eylem Thunderbolt kompakt göğüs teçhizatı (Schneetarn)",
+    "ShortName": "Thunderbolt STARN",
+    "Description": "Doğrudan eylem Thunderbolt kompakt göğüs teçhizatı."
+  },
+  "item_equipment_rig_boss_blackknight_black": {
+    "Name": "Crye Precision CPC plaka taşıyıcı (Black)",
+    "ShortName": "CPC GE Black",
+    "Description": "Crye Precision CPC plaka taşıyıcı."
+  },
+  "item_equipment_rig_boss_blackknight_bush": {
+    "Name": "Crye Precision CPC plaka taşıyıcı (Bushstroke)",
+    "ShortName": "CPC GE Bush",
+    "Description": "Crye Precision CPC plaka taşıyıcı."
   }
 }

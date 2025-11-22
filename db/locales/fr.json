@@ -953,5 +953,50 @@
     "Name": "Sac à dos Eberlestock F4 Terminator (Vz 95)",
     "ShortName": "F4 Terminator 95",
     "Description": "Sac à dos Eberlestock F4 Terminator."
+  },
+  "item_equipment_armor_un_cc": {
+    "Name": "Gilet pare-balles MF-UNTAR (DBDU Chocolate Chip)",
+    "ShortName": "MF-UN DBDU",
+    "Description": "Gilet pare-balles MF-UNTAR."
+  },
+  "item_equipment_rig_beltab_fde": {
+    "Name": "Gilet tactique Poyas-A + Poyas-B (FDE)",
+    "ShortName": "Poyas combo FDE",
+    "Description": "Gilet tactique Poyas-A + Poyas-B."
+  },
+  "item_equipment_rig_thunderbolt_flektarn": {
+    "Name": "Gilet tactique compact Direct Action Thunderbolt (Flektarn)",
+    "ShortName": "Thunderbolt FTARN",
+    "Description": "Gilet tactique compact Direct Action Thunderbolt."
+  },
+  "item_equipment_rig_thunderbolt_slocam": {
+    "Name": "Gilet tactique compact Direct Action Thunderbolt (SLOCAM)",
+    "ShortName": "Thunderbolt SLOCAM",
+    "Description": "Gilet tactique compact Direct Action Thunderbolt."
+  },
+  "item_equipment_rig_boss_blackknight_abu": {
+    "Name": "Gilet tactique porte-plaque Crye Precision CPC (USAF Digital Tigerstripe)",
+    "ShortName": "CPC ES USAF",
+    "Description": "Gilet tactique porte-plaque Crye Precision CPC."
+  },
+  "item_equipment_rig_thunderbolt_au": {
+    "Name": "Gilet tactique compact Direct Action Thunderbolt (A-TACS AU)",
+    "ShortName": "Thunderbolt AU",
+    "Description": "Gilet tactique compact Direct Action Thunderbolt."
+  },
+  "item_equipment_rig_thunderbolt_winter": {
+    "Name": "Gilet tactique compact Direct Action Thunderbolt (Schneetarn)",
+    "ShortName": "Thunderbolt STARN",
+    "Description": "Gilet tactique compact Direct Action Thunderbolt."
+  },
+  "item_equipment_rig_boss_blackknight_black": {
+    "Name": "Gilet tactique porte-plaque Crye Precision CPC (Black)",
+    "ShortName": "CPC ES Black",
+    "Description": "Gilet tactique porte-plaque Crye Precision CPC."
+  },
+  "item_equipment_rig_boss_blackknight_bush": {
+    "Name": "Gilet tactique porte-plaque Crye Precision CPC (Bushstroke)",
+    "ShortName": "CPC ES Bush",
+    "Description": "Gilet tactique porte-plaque Crye Precision CPC."
   }
 }

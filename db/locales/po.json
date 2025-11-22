@@ -953,5 +953,50 @@
     "Name": "Mochila Eberlestock F4 Terminator (Vz 95)",
     "ShortName": "F4 95",
     "Description": "Mochila Eberlestock F4 Terminator."
+  },
+  "item_equipment_armor_un_cc": {
+    "Name": "Colete Balístico MF-UNTAR (DBDU Chocolate Chip)",
+    "ShortName": "MF-ONU DBDU",
+    "Description": "Colete Balístico MF-UNTAR."
+  },
+  "item_equipment_rig_beltab_fde": {
+    "Name": "Colete tático Poyas-A + Poyas-B (FDE)",
+    "ShortName": "Poyas combo FDE",
+    "Description": "Colete tático Poyas-A + Poyas-B."
+  },
+  "item_equipment_rig_thunderbolt_flektarn": {
+    "Name": "Colete tático compacto Direct Action Thunderbolt (Flektarn)",
+    "ShortName": "Thunderbolt FTARN",
+    "Description": "Colete tático compacto Direct Action Thunderbolt."
+  },
+  "item_equipment_rig_thunderbolt_slocam": {
+    "Name": "Colete tático compacto Direct Action Thunderbolt (SLOCAM)",
+    "ShortName": "Thunderbolt SLOCAM",
+    "Description": "Colete tático compacto Direct Action Thunderbolt."
+  },
+  "item_equipment_rig_boss_blackknight_abu": {
+    "Name": "Plate Carrier Crye Precision CPC (USAF Digital Tigerstripe)",
+    "ShortName": "CPC GE USAF",
+    "Description": "Plate Carrier Crye Precision CPC."
+  },
+  "item_equipment_rig_thunderbolt_au": {
+    "Name": "Colete tático compacto Direct Action Thunderbolt (A-TACS AU)",
+    "ShortName": "Thunderbolt AU",
+    "Description": "Colete tático compacto Direct Action Thunderbolt."
+  },
+  "item_equipment_rig_thunderbolt_winter": {
+    "Name": "Colete tático compacto Direct Action Thunderbolt (Schneetarn)",
+    "ShortName": "Thunderbolt STARN",
+    "Description": "Colete tático compacto Direct Action Thunderbolt."
+  },
+  "item_equipment_rig_boss_blackknight_black": {
+    "Name": "Plate Carrier Crye Precision CPC (Black)",
+    "ShortName": "CPC GE Black",
+    "Description": "Plate Carrier Crye Precision CPC."
+  },
+  "item_equipment_rig_boss_blackknight_bush": {
+    "Name": "Plate Carrier Crye Precision CPC (Bushstroke)",
+    "ShortName": "CPC GE Bush",
+    "Description": "Plate Carrier Crye Precision CPC."
   }
 }

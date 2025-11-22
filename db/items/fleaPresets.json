@@ -37,44 +37,6 @@
     "_parent": "688bdf140c10f10000000001",
     "_type": "Preset"
   },
-  "688bdf140c10f10000000006": {
-    "_changeWeaponName": false,
-    "_encyclopedia": "687cfc390c10f10000000007",
-    "_id": "688bdf140c10f10000000006",
-    "_items": [
-      {
-        "_id": "688bdf140c10f10000000007",
-        "_tpl": "687cfc390c10f10000000007"
-      },
-      {
-        "_id": "688bdf140c10f10000000008",
-        "_tpl": "65764e1e2bc38ef78e076489",
-        "parentId": "688bdf140c10f10000000007",
-        "slotId": "Soft_armor_front"
-      },
-      {
-        "_id": "688bdf140c10f10000000009",
-        "_tpl": "65764fae2bc38ef78e07648d",
-        "parentId": "688bdf140c10f10000000007",
-        "slotId": "Soft_armor_back"
-      },
-      {
-        "_id": "688bdf140c10f1000000000a",
-        "_tpl": "6576504b526e320fbe035783",
-        "parentId": "688bdf140c10f10000000007",
-        "slotId": "Groin"
-      },
-      {
-        "_id": "688bdf140c10f1000000000b",
-        "_tpl": "6576500f526e320fbe03577f",
-        "parentId": "688bdf140c10f10000000007",
-        "slotId": "Groin_back"
-      }
-    ],
-    "_name": "Vest 6B3TM 01 Standard",
-    "_parent": "688bdf140c10f10000000007",
-    "_type": "Preset"
-  },
   "688bdf140c10f1000000000c": {
     "_changeWeaponName": false,
     "_encyclopedia": "687cfc390c10f1000000000e",
@@ -1091,62 +1053,6 @@
     ],
     "_name": "Vest Crye Precision AVS Standard",
     "_parent": "688bdf140c10f100000000a8",
-    "_type": "Preset"
-  },
-  "688bdf140c10f100000000ae": {
-    "_changeWeaponName": false,
-    "_encyclopedia": "687d3d800c10f1000000009e",
-    "_id": "688bdf140c10f100000000ae",
-    "_items": [
-      {
-        "_id": "688bdf140c10f100000000af",
-        "_tpl": "687d3d800c10f1000000009e"
-      },
-      {
-        "_id": "688bdf140c10f100000000b0",
-        "_tpl": "65732688d9d89ff7ac0d9c4c",
-        "parentId": "688bdf140c10f100000000af",
-        "slotId": "Soft_armor_front"
-      },
-      {
-        "_id": "688bdf140c10f100000000b1",
-        "_tpl": "657326978c1cc6dcd9098b56",
-        "parentId": "688bdf140c10f100000000af",
-        "slotId": "Soft_armor_back"
-      },
-      {
-        "_id": "688bdf140c10f100000000b2",
-        "_tpl": "657326a28c1cc6dcd9098b5a",
-        "parentId": "688bdf140c10f100000000af",
-        "slotId": "Soft_armor_left"
-      },
-      {
-        "_id": "688bdf140c10f100000000b3",
-        "_tpl": "657326b08c1cc6dcd9098b5e",
-        "parentId": "688bdf140c10f100000000af",
-        "slotId": "soft_armor_right"
-      },
-      {
-        "_id": "688bdf140c10f100000000b4",
-        "_tpl": "657326bc5d3a3129fb05f36b",
-        "parentId": "688bdf140c10f100000000af",
-        "slotId": "Collar"
-      },
-      {
-        "_id": "688bdf140c10f100000000b5",
-        "_tpl": "656f611f94b480b8a500c0db",
-        "parentId": "688bdf140c10f100000000af",
-        "slotId": "Front_plate"
-      },
-      {
-        "_id": "688bdf140c10f100000000b6",
-        "_tpl": "65573fa5655447403702a816",
-        "parentId": "688bdf140c10f100000000af",
-        "slotId": "Back_plate"
-      }
-    ],
-    "_name": "Body armor Gzhel K Standard",
-    "_parent": "688bdf140c10f100000000af",
     "_type": "Preset"
   },
   "688bdf140c10f100000000b7": {
@@ -3239,6 +3145,192 @@
     ],
     "_name": "Vest ECLiPSE RBAV-AF Standard",
     "_parent": "6902fb900c10f100000001fd",
+    "_type": "Preset"
+  },
+  "6920a9600c10f1000000020d": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "6920a9600c10f1000000020c",
+    "_id": "6920a9600c10f1000000020d",
+    "_items": [
+      {
+        "_id": "6920a9600c10f1000000020e",
+        "_tpl": "6920a9600c10f1000000020c"
+      },
+      {
+        "_id": "6920a9600c10f1000000020f",
+        "_tpl": "6575f24ff6a13a7b7100b09e",
+        "parentId": "6920a9600c10f1000000020e",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "6920a9600c10f10000000210",
+        "_tpl": "6575f25ada698a4e98067836",
+        "parentId": "6920a9600c10f1000000020e",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "6920a9600c10f10000000211",
+        "_tpl": "6575f2649cfdfe416f0399b8",
+        "parentId": "6920a9600c10f1000000020e",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "6920a9600c10f10000000212",
+        "_tpl": "6575f26d9c7cad336508e480",
+        "parentId": "6920a9600c10f1000000020e",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "6920a9600c10f10000000213",
+        "_tpl": "656fa53d94b480b8a500c0e4",
+        "parentId": "6920a9600c10f1000000020e",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "6920a9600c10f10000000214",
+        "_tpl": "656fa53d94b480b8a500c0e4",
+        "parentId": "6920a9600c10f1000000020e",
+        "slotId": "Back_plate"
+      },
+      {
+        "_id": "6920a9600c10f10000000215",
+        "_tpl": "6557458f83942d705f0c4962",
+        "parentId": "6920a9600c10f1000000020e",
+        "slotId": "Left_side_plate"
+      },
+      {
+        "_id": "6920a9600c10f10000000216",
+        "_tpl": "6557458f83942d705f0c4962",
+        "parentId": "6920a9600c10f1000000020e",
+        "slotId": "Right_side_plate"
+      }
+    ],
+    "_name": "Vest Crye Precision CPC ABU",
+    "_parent": "6920a9600c10f1000000020e",
+    "_type": "Preset"
+  },
+  "692152900c10f10000000217": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "692152900c10f10000000216",
+    "_id": "692152900c10f10000000217",
+    "_items": [
+      {
+        "_id": "692152900c10f10000000218",
+        "_tpl": "692152900c10f10000000216"
+      },
+      {
+        "_id": "692152900c10f10000000219",
+        "_tpl": "6575f24ff6a13a7b7100b09e",
+        "parentId": "692152900c10f10000000218",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "692152900c10f1000000021a",
+        "_tpl": "6575f25ada698a4e98067836",
+        "parentId": "692152900c10f10000000218",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "692152900c10f1000000021b",
+        "_tpl": "6575f2649cfdfe416f0399b8",
+        "parentId": "692152900c10f10000000218",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "692152900c10f1000000021c",
+        "_tpl": "6575f26d9c7cad336508e480",
+        "parentId": "692152900c10f10000000218",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "692152900c10f1000000021d",
+        "_tpl": "656fa53d94b480b8a500c0e4",
+        "parentId": "692152900c10f10000000218",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "692152900c10f1000000021e",
+        "_tpl": "656fa53d94b480b8a500c0e4",
+        "parentId": "692152900c10f10000000218",
+        "slotId": "Back_plate"
+      },
+      {
+        "_id": "692152900c10f1000000021f",
+        "_tpl": "6557458f83942d705f0c4962",
+        "parentId": "692152900c10f10000000218",
+        "slotId": "Left_side_plate"
+      },
+      {
+        "_id": "692152900c10f10000000220",
+        "_tpl": "6557458f83942d705f0c4962",
+        "parentId": "692152900c10f10000000218",
+        "slotId": "Right_side_plate"
+      }
+    ],
+    "_name": "Vest Crye Precision CPC Standard",
+    "_parent": "692152900c10f10000000218",
+    "_type": "Preset"
+  },
+  "692152900c10f10000000222": {
+    "_changeWeaponName": false,
+    "_encyclopedia": "692152900c10f10000000221",
+    "_id": "692152900c10f10000000222",
+    "_items": [
+      {
+        "_id": "692152900c10f10000000223",
+        "_tpl": "692152900c10f10000000221"
+      },
+      {
+        "_id": "692152900c10f10000000224",
+        "_tpl": "6575f24ff6a13a7b7100b09e",
+        "parentId": "692152900c10f10000000223",
+        "slotId": "Soft_armor_front"
+      },
+      {
+        "_id": "692152900c10f10000000225",
+        "_tpl": "6575f25ada698a4e98067836",
+        "parentId": "692152900c10f10000000223",
+        "slotId": "Soft_armor_back"
+      },
+      {
+        "_id": "692152900c10f10000000226",
+        "_tpl": "6575f2649cfdfe416f0399b8",
+        "parentId": "692152900c10f10000000223",
+        "slotId": "Soft_armor_left"
+      },
+      {
+        "_id": "692152900c10f10000000227",
+        "_tpl": "6575f26d9c7cad336508e480",
+        "parentId": "692152900c10f10000000223",
+        "slotId": "soft_armor_right"
+      },
+      {
+        "_id": "692152900c10f10000000228",
+        "_tpl": "656fa53d94b480b8a500c0e4",
+        "parentId": "692152900c10f10000000223",
+        "slotId": "Front_plate"
+      },
+      {
+        "_id": "692152900c10f10000000229",
+        "_tpl": "656fa53d94b480b8a500c0e4",
+        "parentId": "692152900c10f10000000223",
+        "slotId": "Back_plate"
+      },
+      {
+        "_id": "692152900c10f1000000022a",
+        "_tpl": "6557458f83942d705f0c4962",
+        "parentId": "692152900c10f10000000223",
+        "slotId": "Left_side_plate"
+      },
+      {
+        "_id": "692152900c10f1000000022b",
+        "_tpl": "6557458f83942d705f0c4962",
+        "parentId": "692152900c10f10000000223",
+        "slotId": "Right_side_plate"
+      }
+    ],
+    "_name": "Vest Crye Precision CPC Standard",
+    "_parent": "692152900c10f10000000223",
     "_type": "Preset"
   }
 }

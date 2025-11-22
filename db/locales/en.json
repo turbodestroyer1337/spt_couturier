@@ -953,5 +953,50 @@
     "Name": "Eberlestock F4 Terminator load bearing backpack (Vz 95)",
     "ShortName": "F4 Terminator 95",
     "Description": "Eberlestock F4 Terminator load bearing backpack."
+  },
+  "item_equipment_armor_un_cc": {
+    "Name": "MF-UNTAR body armor (DBDU Chocolate Chip)",
+    "ShortName": "MF-UN DBDU",
+    "Description": "MF-UNTAR body armor."
+  },
+  "item_equipment_rig_beltab_fde": {
+    "Name": "Poyas-A + Poyas-B gear rig (FDE)",
+    "ShortName": "Poyas combo FDE",
+    "Description": "Poyas-A + Poyas-B gear rig."
+  },
+  "item_equipment_rig_thunderbolt_flektarn": {
+    "Name": "Direct Action Thunderbolt compact chest rig (Flektarn)",
+    "ShortName": "Thunderbolt FTARN",
+    "Description": "Direct Action Thunderbolt compact chest rig."
+  },
+  "item_equipment_rig_thunderbolt_slocam": {
+    "Name": "Direct Action Thunderbolt compact chest rig (SLOCAM)",
+    "ShortName": "Thunderbolt SLOCAM",
+    "Description": "Direct Action Thunderbolt compact chest rig."
+  },
+  "item_equipment_rig_boss_blackknight_abu": {
+    "Name": "Crye Precision CPC plate carrier (USAF Digital Tigerstripe)",
+    "ShortName": "CPC GE USAF",
+    "Description": "Crye Precision CPC plate carrier."
+  },
+  "item_equipment_rig_thunderbolt_au": {
+    "Name": "Direct Action Thunderbolt compact chest rig (A-TACS AU)",
+    "ShortName": "Thunderbolt AU",
+    "Description": "Direct Action Thunderbolt compact chest rig."
+  },
+  "item_equipment_rig_thunderbolt_winter": {
+    "Name": "Direct Action Thunderbolt compact chest rig (Schneetarn)",
+    "ShortName": "Thunderbolt STARN",
+    "Description": "Direct Action Thunderbolt compact chest rig."
+  },
+  "item_equipment_rig_boss_blackknight_black": {
+    "Name": "Crye Precision CPC plate carrier (Black)",
+    "ShortName": "CPC GE Black",
+    "Description": "Crye Precision CPC plate carrier."
+  },
+  "item_equipment_rig_boss_blackknight_bush": {
+    "Name": "Crye Precision CPC plate carrier (Bushstroke)",
+    "ShortName": "CPC GE Bush",
+    "Description": "Crye Precision CPC plate carrier."
   }
 }
